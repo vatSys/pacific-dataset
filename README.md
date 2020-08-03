@@ -1,4 +1,4 @@
-# vatsys-australia-dataset
+# vatsys-dataset
 Default profile dataset for vatSys
 
 **`Profile.xml` must be updated for each release**
