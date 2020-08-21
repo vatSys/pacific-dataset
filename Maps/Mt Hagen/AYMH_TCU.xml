@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="AYMH_TCU" Priority="1" Centre="-05.827806+144.299528">
+    <!--AYMH-->
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-05.826333+144.292861" />
+      <Threshold Name="26" Position="-05.825472+144.302733" />
+    </Runway>
+    <Runway Name="12/30">
+      <Threshold Name="12" Position="-05.822972+144.290944" />
+      <Threshold Name="30" Position="-05.833333+144.307750" />
+    </Runway>
+  </Map>
+  <Map Type="System" Name="AYMH_ALLRWYS" Priority="2" Centre="-05.827806+144.299528">
+    <!--AYMH-->
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-05.826333+144.292861" ExtendedCentrelineTrack="264.6" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="26" Position="-05.825472+144.302733" ExtendedCentrelineTrack="84.6" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <!--AYMH-->
+    <Runway Name="12/30">
+      <Threshold Name="12" Position="-05.822972+144.290944" ExtendedCentrelineTrack="300.6" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="30" Position="-05.833333+144.307750" ExtendedCentrelineTrack="120.6" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+  </Map>
+</Maps>

@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="NFFN_RWY20" Priority="1" Centre="-17.756389+177.443611">
+    <!--NFFN-->
+    <Runway Name="02/20">
+      <Threshold Name="02" Position="-17.772811+177.429108" />
+      <Threshold Name="20" Position="-17.749881+177.447578" ExtendedCentrelineTrack="37.5" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy20 ALFA-->
+      -17.772811+177.429108/
+      -17.772811+177.429108/
+      -17.841876+177.375615/
+      -17.843568+177.370510/
+      -17.842617+177.365198/
+      -17.839276+177.361086/
+      -17.834431+177.359266/
+      NN VOR
+    </Line>
+    <Line>
+      <!--Rwy20 ALFA.KABAR-->
+      NN VOR/
+      KABAR
+    </Line>
+    <Line>
+      <!--Rwy20 ALFA.TUTRI-->
+      NN VOR/
+      TUTRI
+    </Line>
+    <Line>
+      <!--Rwy20 CHARLI-->
+      
+    </Line>
+    <Line>
+      <!--Rwy20 CHARLI.BIDAN-->
+      NN VOR/
+      BIDAN
+    </Line>
+    <Line>
+      <!--Rwy20 CHARLI.EXORA-->
+      NN VOR/
+      EXORA
+    </Line>
+    <Line>
+      <!--Rwy20 CHARLI.GODAP-->
+      NN VOR/
+      GODAP
+    </Line>
+    <Line>
+      <!--Rwy20 CHARLI.LUPLO-->
+      NN VOR/
+      LUPLO
+    </Line>
+    <Line>
+      <!--Rwy20 CHARLI.NA-->
+      NN VOR/
+      NA VOR
+    </Line>
+    <Line>
+      <!--Rwy20 CHARLI.NAVUA-->
+      NN VOR/
+      NAVUA
+    </Line>
+    <Line>
+      <!--Rwy20 CHARLI.PACKO-->
+      NN VOR/
+      PACKO
+    </Line>
+    <Line>
+      <!--Rwy20 DELTA-->
+      -17.772811+177.429108/
+      -17.841774+177.375771/
+      -17.843524+177.370982/
+      -17.839914+177.350431/
+      -17.837618+177.345652/
+      -17.833379+177.342684/
+      -17.828297+177.342296/
+      -17.823694+177.344591/
+      VK NDB
+    </Line>
+    <Line>
+      <!--Rwy20 DELTA.EXORA-->
+      VK NDB/
+      EXORA
+    </Line>
+    <Line>
+      <!--Rwy20 DELTA.GODAP-->
+      VK NDB/
+      GODAP
+    </Line>
+    <Line>
+      <!--Rwy20 DELTA.LUPLO-->
+      VK NDB/
+      LUPLO
+    </Line>
+    <Line>
+      <!--Rwy20 DELTA.NA-->
+      VK NDB/
+      NA VOR
+    </Line>
+    <Line>
+      <!--Rwy20 DELTA.NAVUA-->
+      VK NDB/
+      NAVUA
+    </Line>
+    <Line>
+      <!--Rwy20 ECHO-->
+      -17.772811+177.429108/
+      -17.787201+177.418127/
+      MI NDB
+    </Line>
+    <Line>
+      <!--Rwy20 ECHO.NA-->
+      MI NDB/
+      -17.919767+177.353516/
+      -17.921484+177.357303/
+      NA VOR
+    </Line>
+    <Line>
+      <!--Rwy20 ECHO.NAVUA-->
+      -17.919767+177.353516/
+      -17.920466+177.354633/
+      -17.921025+177.355834/
+      NAVUA
+    </Line>
+    <Line>
+      <!--Rwy20 FOXTRO-->
+      MI NDB/
+      AGTOS
+    </Line>
+    <Line>
+      <!--Rwy20 GOLF-->
+      -17.772811+177.429108/
+      -17.822556+177.390581
+    </Line>
+    <Line>
+      <!--Rwy20 GOLF.ALBAB-->
+      -17.822556+177.390581/
+      ALBAB
+    </Line>
+    <Line>
+      <!--Rwy20 GOLF.BEACH-->
+      -17.822556+177.390581/
+      BEACH
+    </Line>
+    <Line>
+      <!--Rwy20 GOLF.TEPEK-->
+      -17.822556+177.390581/
+      TEPEK
+    </Line>
+    <Line>
+      <!--Rwy20 GOLF.VIPOB-->
+      -17.822556+177.390581/
+      VIPOB
+    </Line>
+    <Line>
+      <!--Rwy20 HOTEL-->
+      -17.772811+177.429108/
+      -17.837496+177.380184/
+      -17.845660+177.379698/
+      -17.853061+177.383352/
+      -17.857914+177.390266/
+      -17.859049+177.398774/
+      -17.856193+177.406825/
+      -17.852375+177.410959
+    </Line>
+    <Line>
+      <!--Rwy20 HOTEL.NAB598-->
+      -17.852375+177.410959/
+      -17.822211+177.434318/
+      -17.699454+177.529301/
+      NA
+    </Line>
+    <Line>
+      <!--Rwy20 HOTEL.NAQ271-->
+      -17.822211+177.434318/
+      -17.793732+177.456369/
+      NA
+    </Line>
+    <Line>
+      <!--Rwy20 HOTEL.NAVUA-->
+      -17.852375+177.410959/
+      -17.812155+177.442103/
+      -17.807018+177.448626/
+      -17.805398+177.456917/
+      NAVUA
+    </Line>
+    <!--STARs-->
+    <Line>
+      <!--Rwy20 AGTA1B-->
+      AGTAG/
+      MOTKI
+    </Line>
+    <Line>
+      <!--Rwy20 KALT1B.BEGIT-->
+      BEGIT/
+      KALTA
+    </Line>
+    <Line>
+      <!--Rwy20 KALT1B.GUSOS-->
+      GUSOS/
+      KALTA
+    </Line>
+    <Line>
+      <!--Rwy20 KALT1B.ISMOP-->
+      ISMOP/
+      KALTA
+    </Line>
+    <Line>
+      <!--Rwy20 KALT1B.PAGBO-->
+      PAGBO/
+      KALTA
+    </Line>
+    <Line>
+      <!--Rwy20 KALT1B-->
+      KALTA/
+      LAREB/
+      MOTKI
+    </Line>
+    <Line>
+      <!--Rwy20 MIKA1B.AGUTA-->
+      AGUTA/
+      MIKAX
+    </Line>
+    <Line>
+      <!--Rwy20 MIKA1B.TUTMU-->
+      TUTMU/
+      MIKAX
+    </Line>
+    <Line>
+      <!--Rwy20 MIKA1B.VIBEX-->
+      VIBEX/
+      MIKAX
+    </Line>
+    <Line>
+      <!--Rwy20 MIKA1B-->
+      MIKAX/
+      MOTKI
+    </Line>
+    <Line>
+      <!--Rwy20 TEDU1B.BEDOK-->
+      BEDOK/
+      TEDUM
+    </Line>
+    <Line>
+      <!--Rwy20 TEDU1B.KALPO-->
+      KALPO/
+      TEDUM
+    </Line>
+    <Line>
+      <!--Rwy20 TEDU1B.TARON-->
+      TARON/
+      TEDUM
+    </Line>
+    <Line>
+      <!--Rwy20 TEDU1B-->
+      TEDUM/
+      KALTA
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>MOTKI</Point>
+    </Symbol>
+    <Symbol Type="SolidStar" />
+    <Symbol Type="Circle">
+      <Point>NN VOR</Point>
+      <Point>NA VOR</Point>
+      <Point>VK NDB</Point>
+      <Point>MI NDB</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>KABAR</Point>
+      <Point>TUTRI</Point>
+      <Point>BIDAN</Point>
+      <Point>EXORA</Point>
+      <Point>GODAP</Point>
+      <Point>LUPLO</Point>
+      <Point>NAVUA</Point>
+      <Point>PACKO</Point>
+      <Point>AGTOS</Point>
+      <Point>ALBAB</Point>
+      <Point>BEACH</Point>
+      <Point>TEPEK</Point>
+      <Point>VIPOB</Point>
+      <Point>NA</Point>
+      <Point>AGTAG</Point>
+      <Point>BEGIT</Point>
+      <Point>KALTA</Point>
+      <Point>GUSOS</Point>
+      <Point>ISMOP</Point>
+      <Point>PAGBO</Point>
+      <Point>LAREB</Point>
+      <Point>AGUTA</Point>
+      <Point>MIKAX</Point>
+      <Point>TUTMU</Point>
+      <Point>VIBEX</Point>
+      <Point>BEDOK</Point>
+      <Point>TEDUM</Point>
+      <Point>KALPO</Point>
+      <Point>TARON</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="NFFN_RWY20_NAMES" Priority="2" Centre="-17.756389+177.443611">
+    <Label>
+      <Point>NN VOR</Point>
+      <Point>KABAR</Point>
+      <Point>TUTRI</Point>
+      <Point>BIDAN</Point>
+      <Point>EXORA</Point>
+      <Point>GODAP</Point>
+      <Point>LUPLO</Point>
+      <Point>NA VOR</Point>
+      <Point>NAVUA</Point>
+      <Point>PACKO</Point>
+      <Point>VK NDB</Point>
+      <Point>MI NDB</Point>
+      <Point>AGTOS</Point>
+      <Point>ALBAB</Point>
+      <Point>BEACH</Point>
+      <Point>TEPEK</Point>
+      <Point>VIPOB</Point>
+      <Point>NA</Point>
+      <Point>AGTAG</Point>
+      <Point>MOTKI</Point>
+      <Point>BEGIT</Point>
+      <Point>KALTA</Point>
+      <Point>GUSOS</Point>
+      <Point>ISMOP</Point>
+      <Point>PAGBO</Point>
+      <Point>LAREB</Point>
+      <Point>AGUTA</Point>
+      <Point>MIKAX</Point>
+      <Point>TUTMU</Point>
+      <Point>VIBEX</Point>
+      <Point>BEDOK</Point>
+      <Point>TEDUM</Point>
+      <Point>KALPO</Point>
+      <Point>TARON</Point>
+      <Point>AGTEM</Point>
+      <Point>TOLUS</Point>
+      <Point>TANIL</Point>
+      <Point>KAMAP</Point>
+      <Point>IBUKO</Point>
+      <Point>ISTOS</Point>
+      <Point>IGAPI</Point>
+      <Point>ATOLL</Point>
+      <Point>ANBAT</Point>
+      <Point>INTID</Point>
+      <Point>ISPAL</Point>
+      <Point>PAGTI</Point>
+      <Point>BONLO</Point>
+      <Point>SAPIR</Point>
+      <Point>SAMIB</Point>
+      <Point>BUTVI</Point>
+      <Point>ANSIT</Point>
+      <Point>EMSIX</Point>
+      <Point>ELDOG</Point>
+      <Point>GUKIV</Point>
+      <Point>GUSMA</Point>
+      <Point>PIKIN</Point>
+      <Point>POPAS</Point>
+      <Point>PAGRA</Point>
+      <Point>VENAN</Point>
+      <Point>LEBUT</Point>
+      <Point>ATOPO</Point>
+      <Point>ABVAT</Point>
+      <Point>AGSEK</Point>
+      <Point>ANRIK</Point>
+      <Point>ELARA</Point>
+      <Point>IDUBO</Point>
+      <Point>MATUA</Point>
+      <Point>LENUM</Point>
+      <Point>DENTO</Point>
+      <Point>SAVUS</Point>
+      <Point>NFNS</Point>
+      <Point>NEMAL</Point>
+      <Point>DALOT</Point>
+      <Point>LB VOR</Point>
+      <Point>MALAK</Point>
+      <Point>LATKA</Point>
+      <Point>ROTAN</Point>
+      <Point>TOMBA</Point>
+      <Point>PUNIX</Point>
+      <Point>ALENO</Point>
+      <Point>MABEL</Point>
+      <Point>LEKUB</Point>
+      <Point>KOROI</Point>
+      <Point>LAVEN</Point>
+      <Point>NABAT</Point>
+      <Point>RUDAL</Point>
+      <Point>SUSUI</Point>
+      <Point>NFVB</Point>
+      <Point>PAKDA</Point>
+      <Point>GILUM</Point>
+    </Label>
+  </Map>
+</Maps>

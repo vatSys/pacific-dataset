@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="NFFN_TCU" Priority="1" Centre="-17.756389+177.443611">
+    <!--NFNA-->
+    <Runway Name="10/28">
+      <Threshold Name="10" Position="-18.040892+178.551967" />
+      <Threshold Name="28" Position="-18.046089+178.567572" />
+    </Runway>
+    <!--NFFN-->
+    <Runway Name="02/20">
+      <Threshold Name="02" Position="-17.772811+177.429108" />
+      <Threshold Name="20" Position="-17.749881+177.447578" />
+    </Runway>
+    <Runway Name="09/27">
+      <Threshold Name="09" Position="-17.753069+177.436086" />
+      <Threshold Name="27" Position="-17.757767+177.455597" />
+    </Runway>
+    <!--Airway Routes-->
+    <Line>
+      <!--A578-->
+      AGTEM/
+      AGTOS/
+      AGTAG
+    </Line>
+    <Line>
+      <!--A578-->
+      TARON/
+      TUTRI/
+      TOLUS
+    </Line>
+    <Line>
+      <!--A579-->
+      TANIL/
+      TEPEK/
+      TUTMU
+    </Line>
+    <Line>
+      <!--A579-->
+      KALPO/
+      KABAR/
+      KAMAP
+    </Line>
+    <Line>
+      <!--A580-->
+      IBUKO/
+      ISTOS/
+      IGAPI
+    </Line>
+    <Line>
+      <!--A580-->
+      ATOLL/
+      ANBAT
+    </Line>
+    <Line>
+      <!--B452-->
+      ISMOP/
+      INTID/
+      ISPAL
+    </Line>
+    <Line>
+      <!--B577-->
+      PAGTI/
+      PACKO
+    </Line>
+    <Line>
+      <!--B581-->
+      BEDOK/
+      BIDAN/
+      BONLO
+    </Line>
+    <Line>
+      <!--B598-->
+      SAPIR/
+      SAMIB/
+      NA VOR
+    </Line>
+    <Line>
+      <!--B598-->
+      BEGIT/
+      BEACH/
+      BUTVI
+    </Line>
+    <Line>
+      <!--B599-->
+      ANSIT/
+      ALBAB/
+      AGUTA
+    </Line>
+    <Line>
+      <!--B599-->
+      EMSIX/
+      EXORA/
+      ELDOG
+    </Line>
+    <Line>
+      <!--G223-->
+      GUKIV/
+      GUSMA/
+      GUSOS
+    </Line>
+    <Line>
+      <!--G223-->
+      NA VOR/
+      PIKIN/
+      POPAS/
+      PAGRA
+    </Line>
+    <Line>
+      <!--G224-->
+      VENAN/
+      VIPOB/
+      VIBEX
+    </Line>
+    <Line>
+      <!--G224-->
+      LEBUT/
+      LUPLO
+    </Line>
+    <Line>
+      <!--G593-->
+      ATOPO/
+      ABVAT/
+      AGSEK/
+      ANRIK
+    </Line>
+    <Line>
+      <!--G593-->
+      POPAS/
+      PAGRA
+    </Line>
+    <Line>
+      <!--H154-->
+      ELARA/
+      IDUBO
+    </Line>
+    <Line>
+      <!--Q154-->
+      MATUA/
+      LENUM/
+      ELARA/
+      IDUBO
+    </Line>
+    <Line>
+      <!--Q170-->
+      DENTO/
+      SAVUS/
+      NFNS
+    </Line>
+    <Line>
+      <!--Q192-->
+      NEMAL/
+      DALOT/
+      LB VOR
+    </Line>
+    <Line>
+      <!--Q31-->
+      MALAK/
+      LATKA/
+      GUSMA
+    </Line>
+    <Line>
+      <!--Q310-->
+      ROTAN/
+      TOMBA
+    </Line>
+    <Line>
+      <!--Q343-->
+      PAGBO/
+      PUNIX/
+      ALENO
+    </Line>
+    <Line>
+      <!--Q35-->
+      MABEL/
+      LEKUB/
+      AGSEK
+    </Line>
+    <Line>
+      <!--Q420-->
+      KOROI/
+      LAVEN
+    </Line>
+    <Line>
+      <!--Q430-->
+      LATKA/
+      LENUM/
+      LEKUB/
+      NABAT/
+      LB VOR
+    </Line>
+    <Line>
+      <!--Q550-->
+      MALAK/
+      MATUA/
+      MABEL/
+      NEMAL/
+      RUDAL/
+      SAVUS/
+      TOMBA
+    </Line>
+    <Line>
+      <!--Q580-->
+      SUSUI/
+      NFVB
+    </Line>
+    <Line>
+      <!--R332-->
+      PAGBO/
+      PUNIX/
+      PAKDA
+    </Line>
+    <Line>
+      <!--R453-->
+      GILUM/
+      GODAP
+    </Line>
+  </Map>
+  <Map Type="System" Name="NFFN_ALLRWYS" Priority="2" Centre="-17.756389+177.443611">
+    <!--NFFN-->
+    <Runway Name="02/20">
+      <Threshold Name="02" Position="-17.772811+177.429108" ExtendedCentrelineTrack="217.5" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
+      <Threshold Name="20" Position="-17.749881+177.447578" ExtendedCentrelineTrack="37.5" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <!--NFFN-->
+    <Runway Name="09/27">
+      <Threshold Name="09" Position="-17.753069+177.436086" ExtendedCentrelineTrack="284.5" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="27" Position="-17.757767+177.455597" ExtendedCentrelineTrack="104.5" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <!--NFNA-->
+    <Runway Name="10/28">
+      <Threshold Name="10" Position="-18.040892+178.551967" ExtendedCentrelineTrack="289.6" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="28" Position="-18.046089+178.567572" ExtendedCentrelineTrack="109.6" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+  </Map>
+</Maps>

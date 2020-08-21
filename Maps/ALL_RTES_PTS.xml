@@ -1,0 +1,1599 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ALL_ROUTES_HIGH" Priority="1" Center="-23.700+133.870">
+    <Line Name="A215_0">PY VOR.A215.MKE VOR</Line>
+    <Line Name="A216_0">APUKA.A216.HOOVR</Line>
+    <Line Name="A222_0">KRONK.A222.NDJ NDB</Line>
+    <Line Name="A346_0">TEKEP.A346.SALAG</Line>
+    <Line Name="A464_0">RIGMI.A464.UPLAR</Line>
+    <Line Name="A577_0">MI NDB.A577.AGTOS</Line>
+    <Line Name="A578_0">KALAG.A578.PNI VOR</Line>
+    <Line Name="A579_0">UBLIN.A579.CUFFY</Line>
+    <Line Name="A580_0">AGREX.A580.BUVAR</Line>
+    <Line Name="A584_0">KETOT.A584.NI VOR</Line>
+    <Line Name="A597_0">DUGAN.A597.GALSS</Line>
+    <Line Name="A598_0">MAJ VOR.A598.RIPNA</Line>
+    <Line Name="B220_0">VIPAM.B220.PY VOR</Line>
+    <Line Name="B326_0">HN VOR.B326.NAMIE</Line>
+    <Line Name="B333_0">SALAG.B333.RUMIX</Line>
+    <Line Name="B333A_0">DUKUB.B333A.PY VOR</Line>
+    <Line Name="B450_0">TEKEP.B450.KILAN</Line>
+    <Line Name="B451_0">DOLSI.B451.GURDI</Line>
+    <Line Name="B452_0">INTID.B452.KRONK</Line>
+    <Line Name="B456_0">JPA VOR.B456.DOTUB</Line>
+    <Line Name="B462_0">APISO.B462.KADAB</Line>
+    <Line Name="B474_0">MEPAB.B474.ADISN</Line>
+    <Line Name="B575_0">SELKA.B575.REPOL</Line>
+    <Line Name="B577_0">NN VOR.B577.OVLAD</Line>
+    <Line Name="B578_0">TEBUR.B578.IBAKA</Line>
+    <Line Name="B580_0">VESUN.B580.BAYUS</Line>
+    <Line Name="B581_0">NN VOR.B581.GOBIN</Line>
+    <Line Name="B586_0">HUTEL.B586.TEKAN</Line>
+    <Line Name="B586A_0">BODEG.B586A.LTO VOR</Line>
+    <Line Name="B589_0">PY VOR.B589.MAJ VOR</Line>
+    <Line Name="B589A_0">PY VOR.B589A.TEDED</Line>
+    <Line Name="B590_0">LTO VOR.B590.NI VOR</Line>
+    <Line Name="B598_0">HOBAT.B598.POSOX</Line>
+    <Line Name="B599_0">LTO VOR.B599.LASEN</Line>
+    <Line Name="B601_0">ATPEN.B601.VESUN</Line>
+    <Line Name="B602_0">ATPEN.B602.TEBUR</Line>
+    <Line Name="G205_0">WEENA.G205.GOOFI</Line>
+    <Line Name="G223_0">OLGIS.G223.PALMI</Line>
+    <Line Name="G224_0">NF VOR.G224.BODER</Line>
+    <Line Name="G329_0">DOVOM.G329.NF VOR</Line>
+    <Line Name="G342_0">NODOK.G342.HN VOR</Line>
+    <Line Name="G347_0">TARIB.G347.UBRAX</Line>
+    <Line Name="G459_0">BEGMI.G459.UBLAT</Line>
+    <Line Name="G591_0">MUGEN.G591.MEPAB</Line>
+    <Line Name="G593_0">FU VOR.G593.PALMI</Line>
+    <Line Name="G595_0">SARAP.G595.MALNI</Line>
+    <Line Name="J917_0">TICAL.J917.AYMS</Line>
+    <Line Name="L326_0">NF VOR.L326.UPLAR</Line>
+    <Line Name="L503_0">RUNOD.L503.KABKA</Line>
+    <Line Name="L508_0">KABIN.L508.OMKIN</Line>
+    <Line Name="L513_0">MIDAT.L513.VELMO</Line>
+    <Line Name="L521_0">LEGAN.L521.LUNBI</Line>
+    <Line Name="M625_0">TOMAR.M625.GOPLU</Line>
+    <Line Name="M636_0">SASRO.M636.TANEN</Line>
+    <Line Name="M639_0">VEPAS.M639.GULUT</Line>
+    <Line Name="M643_0">ELGUN.M643.KABIN</Line>
+    <Line Name="N750_0">SULON.N750.VANDA</Line>
+    <Line Name="N759_0">SASRO.N759.PEBLU</Line>
+    <Line Name="N774_0">MADEP.N774.OLREL</Line>
+    <Line Name="P753_0">ADKOS.P753.BUGBA</Line>
+    <Line Name="P766_0">ADKOS.P766.OMKIN</Line>
+    <Line Name="P880_0">LIBLA.P880.NUMSA</Line>
+    <Line Name="R204_0">LIDIT.R204.KEONE</Line>
+    <Line Name="R210_0">KAPSO.R210.PY VOR</Line>
+    <Line Name="R213_0">NIPOK.R213.HOBBO</Line>
+    <Line Name="R332_0">PUNIX.R332.MAJ VOR</Line>
+    <Line Name="R346_0">TOSAS.R346.PY VOR</Line>
+    <Line Name="R450_0">DUGOM.R450.SON VOR</Line>
+    <Line Name="R453_0">NN VOR.R453.DAKAM</Line>
+    <Line Name="R582_0">NF VOR.R582.KADEN</Line>
+    <Line Name="R584_0">GUNSS.R584.MAJ VOR</Line>
+    <Line Name="R587_0">MEPAB.R587.VLI VOR</Line>
+    <Line Name="R599_0">ENDAL.R599.DUGAN</Line>
+    <Line Name="W66_0">JPA VOR.W66.MKE VOR</Line>
+    <Line Name="W67_0">JPA VOR.W67.MALIO</Line>
+    <Line Name="W677_0">GODIP.W677.ASIXA</Line>
+    <Line Name="W68_0">JPA VOR.W68.TISTO</Line>
+    <Symbol Type="SolidSquare" />
+    <Symbol Type="SolidTriangle">
+      <Point>NOGOT</Point>
+      <Point>ASIXA</Point>
+      <Point>OSERO</Point>
+      <Point>APUKA</Point>
+      <Point>KIBAV</Point>
+      <Point>FACED</Point>
+      <Point>GALEE</Point>
+      <Point>HOOVR</Point>
+      <Point>KRONK</Point>
+      <Point>ADUFO</Point>
+      <Point>AXTEN</Point>
+      <Point>STEFF</Point>
+      <Point>TEKEP</Point>
+      <Point>IGLET</Point>
+      <Point>SALAG</Point>
+      <Point>RIGMI</Point>
+      <Point>UPLAR</Point>
+      <Point>AGTOS</Point>
+      <Point>KALAG</Point>
+      <Point>NISET</Point>
+      <Point>SAKLO</Point>
+      <Point>POREN</Point>
+      <Point>AGTEM</Point>
+      <Point>AGTAG</Point>
+      <Point>TARON</Point>
+      <Point>TUTRI</Point>
+      <Point>TOLUS</Point>
+      <Point>TESAR</Point>
+      <Point>BODKI</Point>
+      <Point>KASKU</Point>
+      <Point>BIGRA</Point>
+      <Point>FENSE</Point>
+      <Point>AFOYU</Point>
+      <Point>UBLIN</Point>
+      <Point>VIRAR</Point>
+      <Point>PUPEX</Point>
+      <Point>TANIL</Point>
+      <Point>KABAR</Point>
+      <Point>KAMAP</Point>
+      <Point>IDEMU</Point>
+      <Point>CUFFY</Point>
+      <Point>AGREX</Point>
+      <Point>ATLUR</Point>
+      <Point>EGATO</Point>
+      <Point>IBUKO</Point>
+      <Point>ATOLL</Point>
+      <Point>ANBAT</Point>
+      <Point>DOMAX</Point>
+      <Point>BUVAR</Point>
+      <Point>KETOT</Point>
+      <Point>AKUMO</Point>
+      <Point>UPDIX</Point>
+      <Point>DUGAN</Point>
+      <Point>MINET</Point>
+      <Point>LEKAX</Point>
+      <Point>GOPRA</Point>
+      <Point>ENOUS</Point>
+      <Point>DUMUL</Point>
+      <Point>LEDIM</Point>
+      <Point>KAKOP</Point>
+      <Point>ADBON</Point>
+      <Point>OKOLE</Point>
+      <Point>GALSS</Point>
+      <Point>MARTI</Point>
+      <Point>MORNA</Point>
+      <Point>MANOT</Point>
+      <Point>ABVUB</Point>
+      <Point>DASSA</Point>
+      <Point>GURVA</Point>
+      <Point>RIPNA</Point>
+      <Point>VIPAM</Point>
+      <Point>DAGDA</Point>
+      <Point>KAGLI</Point>
+      <Point>ATIBA</Point>
+      <Point>LEPKA</Point>
+      <Point>NIXAM</Point>
+      <Point>NAMIE</Point>
+      <Point>LEBOL</Point>
+      <Point>RUMIX</Point>
+      <Point>DUKUB</Point>
+      <Point>DOLSI</Point>
+      <Point>DUNAK</Point>
+      <Point>SOVRA</Point>
+      <Point>KILAN</Point>
+      <Point>GURDI</Point>
+      <Point>INTID</Point>
+      <Point>ISPAL</Point>
+      <Point>TAVER</Point>
+      <Point>LEGOT</Point>
+      <Point>VAKRO</Point>
+      <Point>KALEG</Point>
+      <Point>PONOK</Point>
+      <Point>DOHRT</Point>
+      <Point>KRASY</Point>
+      <Point>VANKA</Point>
+      <Point>APISO</Point>
+      <Point>EMPRA</Point>
+      <Point>KAPPU</Point>
+      <Point>KADAB</Point>
+      <Point>MEPAB</Point>
+      <Point>ATRAS</Point>
+      <Point>ARTOP</Point>
+      <Point>ADISN</Point>
+      <Point>SELKA</Point>
+      <Point>MOMTA</Point>
+      <Point>REPOL</Point>
+      <Point>PAGTI</Point>
+      <Point>PACKO</Point>
+      <Point>PUKET</Point>
+      <Point>PARZO</Point>
+      <Point>OVLAD</Point>
+      <Point>TEBUR</Point>
+      <Point>NISAS</Point>
+      <Point>ADKAD</Point>
+      <Point>BAVAP</Point>
+      <Point>NILAX</Point>
+      <Point>IBAKA</Point>
+      <Point>VESUN</Point>
+      <Point>POXAK</Point>
+      <Point>PULON</Point>
+      <Point>ELSAX</Point>
+      <Point>GITON</Point>
+      <Point>BOILS</Point>
+      <Point>BAYUS</Point>
+      <Point>BEDOK</Point>
+      <Point>BIDAN</Point>
+      <Point>BONLO</Point>
+      <Point>BAXIL</Point>
+      <Point>GOBIN</Point>
+      <Point>HUTEL</Point>
+      <Point>NUTTI</Point>
+      <Point>PIKOK</Point>
+      <Point>KAPKI</Point>
+      <Point>TEKAN</Point>
+      <Point>BODEG</Point>
+      <Point>ONIBA</Point>
+      <Point>TEDED</Point>
+      <Point>MOKIN</Point>
+      <Point>LUNTO</Point>
+      <Point>TASAK</Point>
+      <Point>ELNUR</Point>
+      <Point>LEDIT</Point>
+      <Point>60VLI</Point>
+      <Point>KAPNO</Point>
+      <Point>HOBAT</Point>
+      <Point>TAXIS</Point>
+      <Point>SUGNI</Point>
+      <Point>SAPIR</Point>
+      <Point>SAMIB</Point>
+      <Point>BEGIT</Point>
+      <Point>BEACH</Point>
+      <Point>BUTVI</Point>
+      <Point>BISUN</Point>
+      <Point>NIPER</Point>
+      <Point>SAKPI</Point>
+      <Point>TAMOR</Point>
+      <Point>NIPOK</Point>
+      <Point>KALKO</Point>
+      <Point>POSOX</Point>
+      <Point>MESUS</Point>
+      <Point>ATPEN</Point>
+      <Point>ANSIT</Point>
+      <Point>ALBAB</Point>
+      <Point>AGUTA</Point>
+      <Point>EMSIX</Point>
+      <Point>EXORA</Point>
+      <Point>ELDOG</Point>
+      <Point>VIMEK</Point>
+      <Point>LASEN</Point>
+      <Point>LAMOK</Point>
+      <Point>WEENA</Point>
+      <Point>VEVEK</Point>
+      <Point>RUTUS</Point>
+      <Point>KISME</Point>
+      <Point>GOOFI</Point>
+      <Point>OLGIS</Point>
+      <Point>MUBIT</Point>
+      <Point>BULRO</Point>
+      <Point>GUKIV</Point>
+      <Point>GUSMA</Point>
+      <Point>GUSOS</Point>
+      <Point>PIKIN</Point>
+      <Point>POPAS</Point>
+      <Point>PAGRA</Point>
+      <Point>ESDOX</Point>
+      <Point>PALMI</Point>
+      <Point>TERUX</Point>
+      <Point>VENAN</Point>
+      <Point>LUPLO</Point>
+      <Point>LAPUM</Point>
+      <Point>BODER</Point>
+      <Point>DOVOM</Point>
+      <Point>UBDAK</Point>
+      <Point>DALOS</Point>
+      <Point>NODOK</Point>
+      <Point>REDAM</Point>
+      <Point>TARIB</Point>
+      <Point>MALNI</Point>
+      <Point>KADEN</Point>
+      <Point>POPIR</Point>
+      <Point>UBRAX</Point>
+      <Point>BEGMI</Point>
+      <Point>UBLAT</Point>
+      <Point>MUGEN</Point>
+      <Point>ABVOM</Point>
+      <Point>OSVAR</Point>
+      <Point>SCUBA</Point>
+      <Point>TEPAM</Point>
+      <Point>LATOL</Point>
+      <Point>DUBOP</Point>
+      <Point>ATOPO</Point>
+      <Point>ABVAT</Point>
+      <Point>SARAP</Point>
+      <Point>TICAL</Point>
+      <Point>AYMS</Point>
+      <Point>RUNOD</Point>
+      <Point>KABKA</Point>
+      <Point>KABIN</Point>
+      <Point>EKODA</Point>
+      <Point>OMKIN</Point>
+      <Point>MIDAT</Point>
+      <Point>VELMO</Point>
+      <Point>LEGAN</Point>
+      <Point>LUNBI</Point>
+      <Point>TOMAR</Point>
+      <Point>GOPLU</Point>
+      <Point>SASRO</Point>
+      <Point>TANEN</Point>
+      <Point>VEPAS</Point>
+      <Point>GULUT</Point>
+      <Point>ELGUN</Point>
+      <Point>MADOK</Point>
+      <Point>SULON</Point>
+      <Point>VANDA</Point>
+      <Point>PEBLU</Point>
+      <Point>MADEP</Point>
+      <Point>OLREL</Point>
+      <Point>ADKOS</Point>
+      <Point>BEBOB</Point>
+      <Point>BUGBA</Point>
+      <Point>DADLU</Point>
+      <Point>LIBLA</Point>
+      <Point>NUMSA</Point>
+      <Point>LIDIT</Point>
+      <Point>KALIN</Point>
+      <Point>KEONE</Point>
+      <Point>KAPSO</Point>
+      <Point>HOBBO</Point>
+      <Point>PUNIX</Point>
+      <Point>PAKDA</Point>
+      <Point>VAVEE</Point>
+      <Point>TOSAS</Point>
+      <Point>DUGOM</Point>
+      <Point>REGIT</Point>
+      <Point>TASAX</Point>
+      <Point>AKNAK</Point>
+      <Point>GILUM</Point>
+      <Point>GODAP</Point>
+      <Point>GOKIT</Point>
+      <Point>IDNIP</Point>
+      <Point>DAKAM</Point>
+      <Point>GUNSS</Point>
+      <Point>LOOIS</Point>
+      <Point>CURCH</Point>
+      <Point>ENDAL</Point>
+      <Point>GIZO</Point>
+      <Point>SALIT</Point>
+      <Point>ERVOS</Point>
+      <Point>SCRUZ</Point>
+      <Point>NONON</Point>
+      <Point>SADIM</Point>
+      <Point>RUMUS</Point>
+      <Point>MELAM</Point>
+      <Point>MALIO</Point>
+      <Point>GODIP</Point>
+      <Point>TISTO</Point>
+    </Symbol>
+    <Symbol Type="HollowTriangle">
+      <Point>PY VOR</Point>
+      <Point>MKE VOR</Point>
+      <Point>PNI VOR</Point>
+      <Point>UKS VOR</Point>
+      <Point>NDJ NDB</Point>
+      <Point>MI NDB</Point>
+      <Point>NN VOR</Point>
+      <Point>FU VOR</Point>
+      <Point>BO NDB</Point>
+      <Point>NI VOR</Point>
+      <Point>LTO VOR</Point>
+      <Point>ADNUG</Point>
+      <Point>HN VOR</Point>
+      <Point>NINOD</Point>
+      <Point>MAJ VOR</Point>
+      <Point>BIKSU</Point>
+      <Point>EGITI</Point>
+      <Point>NF VOR</Point>
+      <Point>KAKSI</Point>
+      <Point>MAGPO</Point>
+      <Point>JPA VOR</Point>
+      <Point>DOTUB</Point>
+      <Point>SON VOR</Point>
+      <Point>HOI VOR</Point>
+      <Point>NZ VOR</Point>
+      <Point>UPSET</Point>
+      <Point>GUMOT</Point>
+      <Point>NIPOG</Point>
+      <Point>VLI VOR</Point>
+      <Point>NA VOR</Point>
+      <Point>IGBED</Point>
+      <Point>PAKMI</Point>
+      <Point>REDOX</Point>
+      <Point>GUVOG</Point>
+      <Point>ESKIM</Point>
+      <Point>AGOXI</Point>
+      <Point>UNTET</Point>
+      <Point>LENAK</Point>
+      <Point>RM NDB</Point>
+      <Point>MABRO</Point>
+      <Point>TEMAT</Point>
+      <Point>IPMOP</Point>
+      <Point>WUMVE</Point>
+      <Point>DAMAY</Point>
+      <Point>TKK VOR</Point>
+      <Point>MICNO</Point>
+      <Point>BIRUQ</Point>
+      <Point>TRADD</Point>
+      <Point>HAVNU</Point>
+      <Point>AVBAP</Point>
+      <Point>GUREB</Point>
+      <Point>IDVUM</Point>
+      <Point>ZX NDB</Point>
+      <Point>ZH NDB</Point>
+      <Point>SARAK</Point>
+    </Symbol>
+    <Symbol Type="SolidTriangleWithBorder" />
+    <Symbol Type="HollowTriangleWithBorder" />
+  </Map>
+  <Map Type="System" Name="ALL_ROUTES_LOW" Priority="1" Center="-23.700+133.870">
+    <Line Name="A216_0">KIBAV.A216.HOOVR</Line>
+    <Line Name="A346_0">TEKEP.A346.SALAG</Line>
+    <Line Name="A464_0">RIGMI.A464.UPLAR</Line>
+    <Line Name="A578_0">KALAG.A578.PNI VOR</Line>
+    <Line Name="A579_0">UBLIN.A579.CUFFY</Line>
+    <Line Name="A580_0">AGREX.A580.BUVAR</Line>
+    <Line Name="A584_0">KETOT.A584.NI VOR</Line>
+    <Line Name="A597_0">DUGAN.A597.GALSS</Line>
+    <Line Name="A598_0">MAJ VOR.A598.GURVA</Line>
+    <Line Name="B220_0">VIPAM.B220.PY VOR</Line>
+    <Line Name="B326_0">HN VOR.B326.NAMIE</Line>
+    <Line Name="B333_0">SALAG.B333.LEBOL</Line>
+    <Line Name="B333A_0">DUKUB.B333A.PY VOR</Line>
+    <Line Name="B450_0">TEKEP.B450.KILAN</Line>
+    <Line Name="B451_0">DOLSI.B451.GURDI</Line>
+    <Line Name="B452_0">NN VOR.B452.KRONK</Line>
+    <Line Name="B456_0">JPA VOR.B456.DOTUB</Line>
+    <Line Name="B462_0">APISO.B462.KAPPU</Line>
+    <Line Name="B474_0">MEPAB.B474.ADISN</Line>
+    <Line Name="B575_0">SELKA.B575.REPOL</Line>
+    <Line Name="B577_0">NN VOR.B577.OVLAD</Line>
+    <Line Name="B578_0">TEBUR.B578.IBAKA</Line>
+    <Line Name="B580_0">VESUN.B580.BAYUS</Line>
+    <Line Name="B581_0">NN VOR.B581.GOBIN</Line>
+    <Line Name="B586_0">HUTEL.B586.KAPKI</Line>
+    <Line Name="B586A_0">BODEG.B586A.LTO VOR</Line>
+    <Line Name="B589_0">PY VOR.B589.MAJ VOR</Line>
+    <Line Name="B589A_0">PY VOR.B589A.TEDED</Line>
+    <Line Name="B590_0">LTO VOR.B590.NI VOR</Line>
+    <Line Name="B598_0">HOBAT.B598.ESKIM</Line>
+    <Line Name="B599_0">LTO VOR.B599.LASEN</Line>
+    <Line Name="B601_0">ATPEN.B601.VESUN</Line>
+    <Line Name="B602_0">ATPEN.B602.TEBUR</Line>
+    <Line Name="G205_0">WEENA.G205.GOOFI</Line>
+    <Line Name="G223_0">OLGIS.G223.PALMI</Line>
+    <Line Name="G224_0">NF VOR.G224.BODER</Line>
+    <Line Name="G329_0">DALOS.G329.NF VOR</Line>
+    <Line Name="G342_0">NODOK.G342.HN VOR</Line>
+    <Line Name="G347_0">TARIB.G347.UBRAX</Line>
+    <Line Name="G591_0">NF VOR.G591.TEPAM</Line>
+    <Line Name="G593_0">FU VOR.G593.PALMI</Line>
+    <Line Name="G595_0">SARAP.G595.MALNI</Line>
+    <Line Name="H154_0">NA VOR.H154.RM NDB</Line>
+    <Line Name="H192_0">NA VOR.H192.LB VOR</Line>
+    <Line Name="H271_0">VK NDB.H271.NA VOR</Line>
+    <Line Name="H296_0">NN VOR.H296.NAVUA</Line>
+    <Line Name="H430_0">NN VOR.H430.LB VOR</Line>
+    <Line Name="H490_0">NAVUA.H490.NA VOR</Line>
+    <Line Name="H95_0">LB VOR.H95.MT NDB</Line>
+    <Line Name="J917_0">TICAL.J917.AYMS</Line>
+    <Line Name="L326_0">NF VOR.L326.UPLAR</Line>
+    <Line Name="L503_0">RUNOD.L503.KABKA</Line>
+    <Line Name="M625_0">TOMAR.M625.GOPLU</Line>
+    <Line Name="Q102_0">MALEE.Q102.TOMBA</Line>
+    <Line Name="Q109_0">YADUA.Q109.NFVL</Line>
+    <Line Name="Q154_0">NA VOR.Q154.RM NDB</Line>
+    <Line Name="Q170_0">NA VOR.Q170.NFNS</Line>
+    <Line Name="Q173_0">NEMAL.Q173.BATIA</Line>
+    <Line Name="Q187_0">NA VOR.Q187.NAMLA</Line>
+    <Line Name="Q192_0">NA VOR.Q192.LB VOR</Line>
+    <Line Name="Q271_0">VK NDB.Q271.NA VOR</Line>
+    <Line Name="Q281_0">MI NDB.Q281.NAVUA</Line>
+    <Line Name="Q289_0">VK NDB.Q289.NAVUA</Line>
+    <Line Name="Q296_0">NN VOR.Q296.NAVUA</Line>
+    <Line Name="Q302_0">NA VOR.Q302.ONOLU</Line>
+    <Line Name="Q31_0">NA VOR.Q31.GUSMA</Line>
+    <Line Name="Q310_0">NA VOR.Q310.TOMBA</Line>
+    <Line Name="Q311_0">MI NDB.Q311.NAMLA</Line>
+    <Line Name="Q343_0">NN VOR.Q343.RM NDB</Line>
+    <Line Name="Q35_0">NA VOR.Q35.AGSEK</Line>
+    <Line Name="Q355_0">NN VOR.Q355.NFSW</Line>
+    <Line Name="Q390_0">LATKA.Q390.BATIA</Line>
+    <Line Name="Q420_0">NA VOR.Q420.LAVEN</Line>
+    <Line Name="Q430_0">NN VOR.Q430.LB VOR</Line>
+    <Line Name="Q450_0">VK NDB.Q450.MALAK</Line>
+    <Line Name="Q490_0">NAVUA.Q490.NA VOR</Line>
+    <Line Name="Q540_0">NA VOR.Q540.KAIBU</Line>
+    <Line Name="Q550_0">NN VOR.Q550.TOMBA</Line>
+    <Line Name="Q580_0">NA VOR.Q580.NFVB</Line>
+    <Line Name="Q680_0">NA VOR.Q680.CICIA</Line>
+    <Line Name="Q740_0">NN VOR.Q740.NUKUM</Line>
+    <Line Name="Q77_0">NEMAL.Q77.NFNH</Line>
+    <Line Name="Q810_0">NA VOR.Q810.NFNK</Line>
+    <Line Name="Q820_0">NA VOR.Q820.NFNG</Line>
+    <Line Name="Q920_0">MI NDB.Q920.DAMOK</Line>
+    <Line Name="Q95_0">LB VOR.Q95.MT NDB</Line>
+    <Line Name="Q980_0">NA VOR.Q980.MOALA</Line>
+    <Line Name="R204_0">LIDIT.R204.KEONE</Line>
+    <Line Name="R210_0">KAPSO.R210.PY VOR</Line>
+    <Line Name="R332_0">NN VOR.R332.MAJ VOR</Line>
+    <Line Name="R346_0">TOSAS.R346.PY VOR</Line>
+    <Line Name="R450_0">DUGOM.R450.AKNAK</Line>
+    <Line Name="R453_0">NN VOR.R453.DAKAM</Line>
+    <Line Name="R582_0">NF VOR.R582.KADEN</Line>
+    <Line Name="R584_0">GUNSS.R584.MAJ VOR</Line>
+    <Line Name="R587_0">MEPAB.R587.VLI VOR</Line>
+    <Line Name="R599_0">ENDAL.R599.DUGAN</Line>
+    <Line Name="T271_0">MT NDB.T271.LB VOR</Line>
+    <Line Name="T272_0">MI NDB.T272.NAVUA</Line>
+    <Line Name="T273_0">VK NDB.T273.NAVUA</Line>
+    <Line Name="T275_0">VK NDB.T275.NAMLA</Line>
+    <Line Name="T276_0">NFNS.T276.NA VOR</Line>
+    <Line Name="T278_0">NA VOR.T278.NAMLA</Line>
+    <Line Name="T279_0">VK NDB.T279.NFNS</Line>
+    <Line Name="T282_0">VK NDB.T282.MT NDB</Line>
+    <Line Name="T286_0">NA VOR.T286.NFNK</Line>
+    <Line Name="T287_0">MI NDB.T287.NA VOR</Line>
+    <Line Name="T288_0">VK NDB.T288.NA VOR</Line>
+    <Line Name="T360_0">MT NDB.T360.NA VOR</Line>
+    <Line Name="T490_0">NAVUA.T490.NA VOR</Line>
+    <Line Name="W66_0">JPA VOR.W66.MKE VOR</Line>
+    <Line Name="W67_0">JPA VOR.W67.MALIO</Line>
+    <Line Name="W677_0">GODIP.W677.ASIXA</Line>
+    <Line Name="W68_0">JPA VOR.W68.TISTO</Line>
+    <Line Name="Z668_0">PASMA.Z668.ANGRU</Line>
+    <Line Name="Z679_0">SIBIL.Z679.JPA VOR</Line>
+    <Line Name="Z681_0">MKE VOR.Z681.JPA VOR</Line>
+    <Line Name="Z682_0">TISTO.Z682.JPA VOR</Line>
+    <Line Name="Z686_0">OKABA.Z686.MKE VOR</Line>
+    <Line Name="Z687_0">MKE VOR.Z687.SENGO</Line>
+    <Line Name="Z688_0">KEPIT.Z688.MINDI</Line>
+    <Symbol Type="SolidSquare" />
+    <Symbol Type="SolidTriangle">
+      <Point>KIBAV</Point>
+      <Point>FACED</Point>
+      <Point>GALEE</Point>
+      <Point>HOOVR</Point>
+      <Point>TEKEP</Point>
+      <Point>IGLET</Point>
+      <Point>SALAG</Point>
+      <Point>RIGMI</Point>
+      <Point>UPLAR</Point>
+      <Point>KALAG</Point>
+      <Point>NISET</Point>
+      <Point>SAKLO</Point>
+      <Point>POREN</Point>
+      <Point>AGTEM</Point>
+      <Point>AGTOS</Point>
+      <Point>AGTAG</Point>
+      <Point>TARON</Point>
+      <Point>TUTRI</Point>
+      <Point>TOLUS</Point>
+      <Point>TESAR</Point>
+      <Point>BODKI</Point>
+      <Point>KASKU</Point>
+      <Point>BIGRA</Point>
+      <Point>FENSE</Point>
+      <Point>AFOYU</Point>
+      <Point>UBLIN</Point>
+      <Point>VIRAR</Point>
+      <Point>PUPEX</Point>
+      <Point>TANIL</Point>
+      <Point>TEPEK</Point>
+      <Point>TUTMU</Point>
+      <Point>KALPO</Point>
+      <Point>KABAR</Point>
+      <Point>KAMAP</Point>
+      <Point>IDEMU</Point>
+      <Point>CUFFY</Point>
+      <Point>AGREX</Point>
+      <Point>ATLUR</Point>
+      <Point>EGATO</Point>
+      <Point>IBUKO</Point>
+      <Point>ISTOS</Point>
+      <Point>IGAPI</Point>
+      <Point>ATOLL</Point>
+      <Point>ANBAT</Point>
+      <Point>DOMAX</Point>
+      <Point>BUVAR</Point>
+      <Point>KETOT</Point>
+      <Point>AKUMO</Point>
+      <Point>UPDIX</Point>
+      <Point>DUGAN</Point>
+      <Point>MINET</Point>
+      <Point>LEKAX</Point>
+      <Point>GOPRA</Point>
+      <Point>ENOUS</Point>
+      <Point>DUMUL</Point>
+      <Point>LEDIM</Point>
+      <Point>KAKOP</Point>
+      <Point>ADBON</Point>
+      <Point>OKOLE</Point>
+      <Point>GALSS</Point>
+      <Point>MARTI</Point>
+      <Point>MORNA</Point>
+      <Point>MANOT</Point>
+      <Point>ABVUB</Point>
+      <Point>DASSA</Point>
+      <Point>GURVA</Point>
+      <Point>VIPAM</Point>
+      <Point>DAGDA</Point>
+      <Point>KAGLI</Point>
+      <Point>ATIBA</Point>
+      <Point>LEPKA</Point>
+      <Point>NIXAM</Point>
+      <Point>NAMIE</Point>
+      <Point>LEBOL</Point>
+      <Point>DUKUB</Point>
+      <Point>DOLSI</Point>
+      <Point>DUNAK</Point>
+      <Point>SOVRA</Point>
+      <Point>KILAN</Point>
+      <Point>GURDI</Point>
+      <Point>ISMOP</Point>
+      <Point>INTID</Point>
+      <Point>ISPAL</Point>
+      <Point>TAVER</Point>
+      <Point>LEGOT</Point>
+      <Point>VAKRO</Point>
+      <Point>KALEG</Point>
+      <Point>PONOK</Point>
+      <Point>DOHRT</Point>
+      <Point>KRASY</Point>
+      <Point>KRONK</Point>
+      <Point>VANKA</Point>
+      <Point>APISO</Point>
+      <Point>EMPRA</Point>
+      <Point>KAPPU</Point>
+      <Point>MEPAB</Point>
+      <Point>ATRAS</Point>
+      <Point>ARTOP</Point>
+      <Point>ADISN</Point>
+      <Point>SELKA</Point>
+      <Point>MOMTA</Point>
+      <Point>REPOL</Point>
+      <Point>PAGTI</Point>
+      <Point>PACKO</Point>
+      <Point>PUKET</Point>
+      <Point>PARZO</Point>
+      <Point>OVLAD</Point>
+      <Point>TEBUR</Point>
+      <Point>NISAS</Point>
+      <Point>ADKAD</Point>
+      <Point>BAVAP</Point>
+      <Point>NILAX</Point>
+      <Point>IBAKA</Point>
+      <Point>VESUN</Point>
+      <Point>POXAK</Point>
+      <Point>PULON</Point>
+      <Point>ELSAX</Point>
+      <Point>GITON</Point>
+      <Point>BOILS</Point>
+      <Point>BAYUS</Point>
+      <Point>BEDOK</Point>
+      <Point>BIDAN</Point>
+      <Point>BONLO</Point>
+      <Point>BAXIL</Point>
+      <Point>GOBIN</Point>
+      <Point>HUTEL</Point>
+      <Point>NUTTI</Point>
+      <Point>PIKOK</Point>
+      <Point>KAPKI</Point>
+      <Point>BODEG</Point>
+      <Point>ONIBA</Point>
+      <Point>TEDED</Point>
+      <Point>MOKIN</Point>
+      <Point>LUNTO</Point>
+      <Point>TASAK</Point>
+      <Point>ELNUR</Point>
+      <Point>LEDIT</Point>
+      <Point>60VLI</Point>
+      <Point>KAPNO</Point>
+      <Point>HOBAT</Point>
+      <Point>TAXIS</Point>
+      <Point>SUGNI</Point>
+      <Point>SAPIR</Point>
+      <Point>SAMIB</Point>
+      <Point>BEGIT</Point>
+      <Point>BEACH</Point>
+      <Point>BUTVI</Point>
+      <Point>BISUN</Point>
+      <Point>NIPER</Point>
+      <Point>SAKPI</Point>
+      <Point>TAMOR</Point>
+      <Point>NIPOK</Point>
+      <Point>KALKO</Point>
+      <Point>MESUS</Point>
+      <Point>ATPEN</Point>
+      <Point>ANSIT</Point>
+      <Point>ALBAB</Point>
+      <Point>AGUTA</Point>
+      <Point>EMSIX</Point>
+      <Point>EXORA</Point>
+      <Point>ELDOG</Point>
+      <Point>VIMEK</Point>
+      <Point>LASEN</Point>
+      <Point>LAMOK</Point>
+      <Point>WEENA</Point>
+      <Point>VEVEK</Point>
+      <Point>RUTUS</Point>
+      <Point>KISME</Point>
+      <Point>GOOFI</Point>
+      <Point>OLGIS</Point>
+      <Point>MUBIT</Point>
+      <Point>BULRO</Point>
+      <Point>GUKIV</Point>
+      <Point>GUSMA</Point>
+      <Point>GUSOS</Point>
+      <Point>PIKIN</Point>
+      <Point>POPAS</Point>
+      <Point>PAGRA</Point>
+      <Point>ESDOX</Point>
+      <Point>PALMI</Point>
+      <Point>TERUX</Point>
+      <Point>VENAN</Point>
+      <Point>VIPOB</Point>
+      <Point>VIBEX</Point>
+      <Point>LEBUT</Point>
+      <Point>LUPLO</Point>
+      <Point>LAPUM</Point>
+      <Point>BODER</Point>
+      <Point>DALOS</Point>
+      <Point>NODOK</Point>
+      <Point>REDAM</Point>
+      <Point>TARIB</Point>
+      <Point>MALNI</Point>
+      <Point>KADEN</Point>
+      <Point>POPIR</Point>
+      <Point>UBRAX</Point>
+      <Point>OSVAR</Point>
+      <Point>SCUBA</Point>
+      <Point>TEPAM</Point>
+      <Point>LATOL</Point>
+      <Point>DUBOP</Point>
+      <Point>ATOPO</Point>
+      <Point>ABVAT</Point>
+      <Point>ANRIK</Point>
+      <Point>SARAP</Point>
+      <Point>MUGEN</Point>
+      <Point>ELARA</Point>
+      <Point>IDUBO</Point>
+      <Point>NAVUA</Point>
+      <Point>TICAL</Point>
+      <Point>AYMS</Point>
+      <Point>RUNOD</Point>
+      <Point>KABKA</Point>
+      <Point>TOMAR</Point>
+      <Point>GOPLU</Point>
+      <Point>MALEE</Point>
+      <Point>TOMBA</Point>
+      <Point>NFVL</Point>
+      <Point>MATUA</Point>
+      <Point>LENUM</Point>
+      <Point>SAVUS</Point>
+      <Point>NFNS</Point>
+      <Point>NEMAL</Point>
+      <Point>BATIA</Point>
+      <Point>NAMLA</Point>
+      <Point>NOVAT</Point>
+      <Point>ONOLU</Point>
+      <Point>MALAK</Point>
+      <Point>LATKA</Point>
+      <Point>PAGBO</Point>
+      <Point>PUNIX</Point>
+      <Point>ALENO</Point>
+      <Point>MABEL</Point>
+      <Point>LEKUB</Point>
+      <Point>AGSEK</Point>
+      <Point>NFSW</Point>
+      <Point>NABAT</Point>
+      <Point>KAIBU</Point>
+      <Point>SUSUI</Point>
+      <Point>NFVB</Point>
+      <Point>CICIA</Point>
+      <Point>NUKUM</Point>
+      <Point>NFNH</Point>
+      <Point>NFNK</Point>
+      <Point>NFNG</Point>
+      <Point>DAMOK</Point>
+      <Point>MOALA</Point>
+      <Point>LIDIT</Point>
+      <Point>KALIN</Point>
+      <Point>KEONE</Point>
+      <Point>KAPSO</Point>
+      <Point>PAKDA</Point>
+      <Point>VAVEE</Point>
+      <Point>TOSAS</Point>
+      <Point>DUGOM</Point>
+      <Point>REGIT</Point>
+      <Point>TASAX</Point>
+      <Point>AKNAK</Point>
+      <Point>GILUM</Point>
+      <Point>GODAP</Point>
+      <Point>GOKIT</Point>
+      <Point>IDNIP</Point>
+      <Point>DAKAM</Point>
+      <Point>GUNSS</Point>
+      <Point>LOOIS</Point>
+      <Point>CURCH</Point>
+      <Point>ENDAL</Point>
+      <Point>GIZO</Point>
+      <Point>SALIT</Point>
+      <Point>ERVOS</Point>
+      <Point>SCRUZ</Point>
+      <Point>NONON</Point>
+      <Point>SADIM</Point>
+      <Point>RUMUS</Point>
+      <Point>MELAM</Point>
+      <Point>MALIO</Point>
+      <Point>GODIP</Point>
+      <Point>ASIXA</Point>
+      <Point>TISTO</Point>
+      <Point>PASMA</Point>
+      <Point>NINIA</Point>
+      <Point>SOBAH</Point>
+      <Point>ANGRU</Point>
+      <Point>SIBIL</Point>
+      <Point>BATOM</Point>
+      <Point>MINDI</Point>
+      <Point>BORME</Point>
+      <Point>OKABA</Point>
+      <Point>ABADE</Point>
+      <Point>KEPIT</Point>
+      <Point>SENGO</Point>
+      <Point>TANAH</Point>
+    </Symbol>
+    <Symbol Type="HollowTriangle">
+      <Point>NN VOR</Point>
+      <Point>FU VOR</Point>
+      <Point>BO NDB</Point>
+      <Point>NI VOR</Point>
+      <Point>PNI VOR</Point>
+      <Point>NA VOR</Point>
+      <Point>LTO VOR</Point>
+      <Point>ADNUG</Point>
+      <Point>HN VOR</Point>
+      <Point>NINOD</Point>
+      <Point>MAJ VOR</Point>
+      <Point>BIKSU</Point>
+      <Point>PY VOR</Point>
+      <Point>EGITI</Point>
+      <Point>NF VOR</Point>
+      <Point>KAKSI</Point>
+      <Point>MAGPO</Point>
+      <Point>JPA VOR</Point>
+      <Point>DOTUB</Point>
+      <Point>SON VOR</Point>
+      <Point>HOI VOR</Point>
+      <Point>NZ VOR</Point>
+      <Point>UPSET</Point>
+      <Point>GUMOT</Point>
+      <Point>NIPOG</Point>
+      <Point>VLI VOR</Point>
+      <Point>IGBED</Point>
+      <Point>PAKMI</Point>
+      <Point>REDOX</Point>
+      <Point>GUVOG</Point>
+      <Point>ESKIM</Point>
+      <Point>AGOXI</Point>
+      <Point>RM NDB</Point>
+      <Point>LB VOR</Point>
+      <Point>VK NDB</Point>
+      <Point>MT NDB</Point>
+      <Point>YADUA</Point>
+      <Point>DENTO</Point>
+      <Point>DALOT</Point>
+      <Point>MI NDB</Point>
+      <Point>ROTAN</Point>
+      <Point>KOROI</Point>
+      <Point>LAVEN</Point>
+      <Point>RUDAL</Point>
+      <Point>LENAK</Point>
+      <Point>MABRO</Point>
+      <Point>TEMAT</Point>
+      <Point>IPMOP</Point>
+      <Point>WUMVE</Point>
+      <Point>DAMAY</Point>
+      <Point>TKK VOR</Point>
+      <Point>MICNO</Point>
+      <Point>BIRUQ</Point>
+      <Point>TRADD</Point>
+      <Point>HAVNU</Point>
+      <Point>NDJ NDB</Point>
+      <Point>AVBAP</Point>
+      <Point>GUREB</Point>
+      <Point>IDVUM</Point>
+      <Point>ZX NDB</Point>
+      <Point>ZH NDB</Point>
+      <Point>MKE VOR</Point>
+      <Point>SARAK</Point>
+    </Symbol>
+    <Symbol Type="SolidTriangleWithBorder" />
+    <Symbol Type="HollowTriangleWithBorder" />
+  </Map>
+  <Map Type="System" Name="ALL_POINTS_LOW" Priority="1" Center="-23.700+133.870">
+    <Label>
+      <Point>KIBAV</Point>
+      <Point>FACED</Point>
+      <Point>GALEE</Point>
+      <Point>HOOVR</Point>
+      <Point>TEKEP</Point>
+      <Point>IGLET</Point>
+      <Point>SALAG</Point>
+      <Point>RIGMI</Point>
+      <Point>UPLAR</Point>
+      <Point>KALAG</Point>
+      <Point>NISET</Point>
+      <Point>SAKLO</Point>
+      <Point>POREN</Point>
+      <Point>AGTEM</Point>
+      <Point>AGTOS</Point>
+      <Point>AGTAG</Point>
+      <Point>TARON</Point>
+      <Point>TUTRI</Point>
+      <Point>TOLUS</Point>
+      <Point>TESAR</Point>
+      <Point>BODKI</Point>
+      <Point>KASKU</Point>
+      <Point>BIGRA</Point>
+      <Point>FENSE</Point>
+      <Point>AFOYU</Point>
+      <Point>UBLIN</Point>
+      <Point>VIRAR</Point>
+      <Point>PUPEX</Point>
+      <Point>TANIL</Point>
+      <Point>TEPEK</Point>
+      <Point>TUTMU</Point>
+      <Point>KALPO</Point>
+      <Point>KABAR</Point>
+      <Point>KAMAP</Point>
+      <Point>IDEMU</Point>
+      <Point>CUFFY</Point>
+      <Point>AGREX</Point>
+      <Point>ATLUR</Point>
+      <Point>EGATO</Point>
+      <Point>IBUKO</Point>
+      <Point>ISTOS</Point>
+      <Point>IGAPI</Point>
+      <Point>ATOLL</Point>
+      <Point>ANBAT</Point>
+      <Point>DOMAX</Point>
+      <Point>BUVAR</Point>
+      <Point>KETOT</Point>
+      <Point>AKUMO</Point>
+      <Point>UPDIX</Point>
+      <Point>DUGAN</Point>
+      <Point>MINET</Point>
+      <Point>LEKAX</Point>
+      <Point>GOPRA</Point>
+      <Point>ENOUS</Point>
+      <Point>DUMUL</Point>
+      <Point>LEDIM</Point>
+      <Point>KAKOP</Point>
+      <Point>ADBON</Point>
+      <Point>OKOLE</Point>
+      <Point>GALSS</Point>
+      <Point>MARTI</Point>
+      <Point>MORNA</Point>
+      <Point>MANOT</Point>
+      <Point>ABVUB</Point>
+      <Point>DASSA</Point>
+      <Point>GURVA</Point>
+      <Point>VIPAM</Point>
+      <Point>DAGDA</Point>
+      <Point>KAGLI</Point>
+      <Point>ATIBA</Point>
+      <Point>LEPKA</Point>
+      <Point>NIXAM</Point>
+      <Point>NAMIE</Point>
+      <Point>LEBOL</Point>
+      <Point>DUKUB</Point>
+      <Point>DOLSI</Point>
+      <Point>DUNAK</Point>
+      <Point>SOVRA</Point>
+      <Point>KILAN</Point>
+      <Point>GURDI</Point>
+      <Point>ISMOP</Point>
+      <Point>INTID</Point>
+      <Point>ISPAL</Point>
+      <Point>TAVER</Point>
+      <Point>LEGOT</Point>
+      <Point>VAKRO</Point>
+      <Point>KALEG</Point>
+      <Point>PONOK</Point>
+      <Point>DOHRT</Point>
+      <Point>KRASY</Point>
+      <Point>KRONK</Point>
+      <Point>VANKA</Point>
+      <Point>APISO</Point>
+      <Point>EMPRA</Point>
+      <Point>KAPPU</Point>
+      <Point>MEPAB</Point>
+      <Point>ATRAS</Point>
+      <Point>ARTOP</Point>
+      <Point>ADISN</Point>
+      <Point>SELKA</Point>
+      <Point>MOMTA</Point>
+      <Point>REPOL</Point>
+      <Point>PAGTI</Point>
+      <Point>PACKO</Point>
+      <Point>PUKET</Point>
+      <Point>PARZO</Point>
+      <Point>OVLAD</Point>
+      <Point>TEBUR</Point>
+      <Point>NISAS</Point>
+      <Point>ADKAD</Point>
+      <Point>BAVAP</Point>
+      <Point>NILAX</Point>
+      <Point>IBAKA</Point>
+      <Point>VESUN</Point>
+      <Point>POXAK</Point>
+      <Point>PULON</Point>
+      <Point>ELSAX</Point>
+      <Point>GITON</Point>
+      <Point>BOILS</Point>
+      <Point>BAYUS</Point>
+      <Point>BEDOK</Point>
+      <Point>BIDAN</Point>
+      <Point>BONLO</Point>
+      <Point>BAXIL</Point>
+      <Point>GOBIN</Point>
+      <Point>HUTEL</Point>
+      <Point>NUTTI</Point>
+      <Point>PIKOK</Point>
+      <Point>KAPKI</Point>
+      <Point>BODEG</Point>
+      <Point>ONIBA</Point>
+      <Point>TEDED</Point>
+      <Point>MOKIN</Point>
+      <Point>LUNTO</Point>
+      <Point>TASAK</Point>
+      <Point>ELNUR</Point>
+      <Point>LEDIT</Point>
+      <Point>60VLI</Point>
+      <Point>KAPNO</Point>
+      <Point>HOBAT</Point>
+      <Point>TAXIS</Point>
+      <Point>SUGNI</Point>
+      <Point>SAPIR</Point>
+      <Point>SAMIB</Point>
+      <Point>BEGIT</Point>
+      <Point>BEACH</Point>
+      <Point>BUTVI</Point>
+      <Point>BISUN</Point>
+      <Point>NIPER</Point>
+      <Point>SAKPI</Point>
+      <Point>TAMOR</Point>
+      <Point>NIPOK</Point>
+      <Point>KALKO</Point>
+      <Point>MESUS</Point>
+      <Point>ATPEN</Point>
+      <Point>ANSIT</Point>
+      <Point>ALBAB</Point>
+      <Point>AGUTA</Point>
+      <Point>EMSIX</Point>
+      <Point>EXORA</Point>
+      <Point>ELDOG</Point>
+      <Point>VIMEK</Point>
+      <Point>LASEN</Point>
+      <Point>LAMOK</Point>
+      <Point>WEENA</Point>
+      <Point>VEVEK</Point>
+      <Point>RUTUS</Point>
+      <Point>KISME</Point>
+      <Point>GOOFI</Point>
+      <Point>OLGIS</Point>
+      <Point>MUBIT</Point>
+      <Point>BULRO</Point>
+      <Point>GUKIV</Point>
+      <Point>GUSMA</Point>
+      <Point>GUSOS</Point>
+      <Point>PIKIN</Point>
+      <Point>POPAS</Point>
+      <Point>PAGRA</Point>
+      <Point>ESDOX</Point>
+      <Point>PALMI</Point>
+      <Point>TERUX</Point>
+      <Point>VENAN</Point>
+      <Point>VIPOB</Point>
+      <Point>VIBEX</Point>
+      <Point>LEBUT</Point>
+      <Point>LUPLO</Point>
+      <Point>LAPUM</Point>
+      <Point>BODER</Point>
+      <Point>DALOS</Point>
+      <Point>NODOK</Point>
+      <Point>REDAM</Point>
+      <Point>TARIB</Point>
+      <Point>MALNI</Point>
+      <Point>KADEN</Point>
+      <Point>POPIR</Point>
+      <Point>UBRAX</Point>
+      <Point>OSVAR</Point>
+      <Point>SCUBA</Point>
+      <Point>TEPAM</Point>
+      <Point>LATOL</Point>
+      <Point>DUBOP</Point>
+      <Point>ATOPO</Point>
+      <Point>ABVAT</Point>
+      <Point>ANRIK</Point>
+      <Point>SARAP</Point>
+      <Point>MUGEN</Point>
+      <Point>ELARA</Point>
+      <Point>IDUBO</Point>
+      <Point>NAVUA</Point>
+      <Point>TICAL</Point>
+      <Point>AYMS</Point>
+      <Point>RUNOD</Point>
+      <Point>KABKA</Point>
+      <Point>TOMAR</Point>
+      <Point>GOPLU</Point>
+      <Point>MALEE</Point>
+      <Point>TOMBA</Point>
+      <Point>NFVL</Point>
+      <Point>MATUA</Point>
+      <Point>LENUM</Point>
+      <Point>SAVUS</Point>
+      <Point>NFNS</Point>
+      <Point>NEMAL</Point>
+      <Point>BATIA</Point>
+      <Point>NAMLA</Point>
+      <Point>NOVAT</Point>
+      <Point>ONOLU</Point>
+      <Point>MALAK</Point>
+      <Point>LATKA</Point>
+      <Point>PAGBO</Point>
+      <Point>PUNIX</Point>
+      <Point>ALENO</Point>
+      <Point>MABEL</Point>
+      <Point>LEKUB</Point>
+      <Point>AGSEK</Point>
+      <Point>NFSW</Point>
+      <Point>NABAT</Point>
+      <Point>KAIBU</Point>
+      <Point>SUSUI</Point>
+      <Point>NFVB</Point>
+      <Point>CICIA</Point>
+      <Point>NUKUM</Point>
+      <Point>NFNH</Point>
+      <Point>NFNK</Point>
+      <Point>NFNG</Point>
+      <Point>DAMOK</Point>
+      <Point>MOALA</Point>
+      <Point>LIDIT</Point>
+      <Point>KALIN</Point>
+      <Point>KEONE</Point>
+      <Point>KAPSO</Point>
+      <Point>PAKDA</Point>
+      <Point>VAVEE</Point>
+      <Point>TOSAS</Point>
+      <Point>DUGOM</Point>
+      <Point>REGIT</Point>
+      <Point>TASAX</Point>
+      <Point>AKNAK</Point>
+      <Point>GILUM</Point>
+      <Point>GODAP</Point>
+      <Point>GOKIT</Point>
+      <Point>IDNIP</Point>
+      <Point>DAKAM</Point>
+      <Point>GUNSS</Point>
+      <Point>LOOIS</Point>
+      <Point>CURCH</Point>
+      <Point>ENDAL</Point>
+      <Point>GIZO</Point>
+      <Point>SALIT</Point>
+      <Point>ERVOS</Point>
+      <Point>SCRUZ</Point>
+      <Point>NONON</Point>
+      <Point>SADIM</Point>
+      <Point>RUMUS</Point>
+      <Point>MELAM</Point>
+      <Point>MALIO</Point>
+      <Point>GODIP</Point>
+      <Point>ASIXA</Point>
+      <Point>TISTO</Point>
+      <Point>PASMA</Point>
+      <Point>NINIA</Point>
+      <Point>SOBAH</Point>
+      <Point>ANGRU</Point>
+      <Point>SIBIL</Point>
+      <Point>BATOM</Point>
+      <Point>MINDI</Point>
+      <Point>BORME</Point>
+      <Point>OKABA</Point>
+      <Point>ABADE</Point>
+      <Point>KEPIT</Point>
+      <Point>SENGO</Point>
+      <Point>TANAH</Point>
+      <Point>NN VOR</Point>
+      <Point>FU VOR</Point>
+      <Point>BO NDB</Point>
+      <Point>NI VOR</Point>
+      <Point>PNI VOR</Point>
+      <Point>NA VOR</Point>
+      <Point>LTO VOR</Point>
+      <Point>ADNUG</Point>
+      <Point>HN VOR</Point>
+      <Point>NINOD</Point>
+      <Point>MAJ VOR</Point>
+      <Point>BIKSU</Point>
+      <Point>PY VOR</Point>
+      <Point>EGITI</Point>
+      <Point>NF VOR</Point>
+      <Point>KAKSI</Point>
+      <Point>MAGPO</Point>
+      <Point>JPA VOR</Point>
+      <Point>DOTUB</Point>
+      <Point>SON VOR</Point>
+      <Point>HOI VOR</Point>
+      <Point>NZ VOR</Point>
+      <Point>UPSET</Point>
+      <Point>GUMOT</Point>
+      <Point>NIPOG</Point>
+      <Point>VLI VOR</Point>
+      <Point>IGBED</Point>
+      <Point>PAKMI</Point>
+      <Point>REDOX</Point>
+      <Point>GUVOG</Point>
+      <Point>ESKIM</Point>
+      <Point>AGOXI</Point>
+      <Point>RM NDB</Point>
+      <Point>LB VOR</Point>
+      <Point>VK NDB</Point>
+      <Point>MT NDB</Point>
+      <Point>YADUA</Point>
+      <Point>DENTO</Point>
+      <Point>DALOT</Point>
+      <Point>MI NDB</Point>
+      <Point>ROTAN</Point>
+      <Point>KOROI</Point>
+      <Point>LAVEN</Point>
+      <Point>RUDAL</Point>
+      <Point>LENAK</Point>
+      <Point>MABRO</Point>
+      <Point>TEMAT</Point>
+      <Point>IPMOP</Point>
+      <Point>WUMVE</Point>
+      <Point>DAMAY</Point>
+      <Point>TKK VOR</Point>
+      <Point>MICNO</Point>
+      <Point>BIRUQ</Point>
+      <Point>TRADD</Point>
+      <Point>HAVNU</Point>
+      <Point>NDJ NDB</Point>
+      <Point>AVBAP</Point>
+      <Point>GUREB</Point>
+      <Point>IDVUM</Point>
+      <Point>ZX NDB</Point>
+      <Point>ZH NDB</Point>
+      <Point>MKE VOR</Point>
+      <Point>SARAK</Point>
+    </Label>
+  </Map>
+  <Map Type="System" Name="ALL_POINTS_HIGH" Priority="1" Center="-23.700+133.870">
+    <Label>
+      <Point>NOGOT</Point>
+      <Point>ASIXA</Point>
+      <Point>OSERO</Point>
+      <Point>APUKA</Point>
+      <Point>KIBAV</Point>
+      <Point>FACED</Point>
+      <Point>GALEE</Point>
+      <Point>HOOVR</Point>
+      <Point>KRONK</Point>
+      <Point>ADUFO</Point>
+      <Point>AXTEN</Point>
+      <Point>STEFF</Point>
+      <Point>TEKEP</Point>
+      <Point>IGLET</Point>
+      <Point>SALAG</Point>
+      <Point>RIGMI</Point>
+      <Point>UPLAR</Point>
+      <Point>AGTOS</Point>
+      <Point>KALAG</Point>
+      <Point>NISET</Point>
+      <Point>SAKLO</Point>
+      <Point>POREN</Point>
+      <Point>AGTEM</Point>
+      <Point>AGTAG</Point>
+      <Point>TARON</Point>
+      <Point>TUTRI</Point>
+      <Point>TOLUS</Point>
+      <Point>TESAR</Point>
+      <Point>BODKI</Point>
+      <Point>KASKU</Point>
+      <Point>BIGRA</Point>
+      <Point>FENSE</Point>
+      <Point>AFOYU</Point>
+      <Point>UBLIN</Point>
+      <Point>VIRAR</Point>
+      <Point>PUPEX</Point>
+      <Point>TANIL</Point>
+      <Point>KABAR</Point>
+      <Point>KAMAP</Point>
+      <Point>IDEMU</Point>
+      <Point>CUFFY</Point>
+      <Point>AGREX</Point>
+      <Point>ATLUR</Point>
+      <Point>EGATO</Point>
+      <Point>IBUKO</Point>
+      <Point>ATOLL</Point>
+      <Point>ANBAT</Point>
+      <Point>DOMAX</Point>
+      <Point>BUVAR</Point>
+      <Point>KETOT</Point>
+      <Point>AKUMO</Point>
+      <Point>UPDIX</Point>
+      <Point>DUGAN</Point>
+      <Point>MINET</Point>
+      <Point>LEKAX</Point>
+      <Point>GOPRA</Point>
+      <Point>ENOUS</Point>
+      <Point>DUMUL</Point>
+      <Point>LEDIM</Point>
+      <Point>KAKOP</Point>
+      <Point>ADBON</Point>
+      <Point>OKOLE</Point>
+      <Point>GALSS</Point>
+      <Point>MARTI</Point>
+      <Point>MORNA</Point>
+      <Point>MANOT</Point>
+      <Point>ABVUB</Point>
+      <Point>DASSA</Point>
+      <Point>GURVA</Point>
+      <Point>RIPNA</Point>
+      <Point>VIPAM</Point>
+      <Point>DAGDA</Point>
+      <Point>KAGLI</Point>
+      <Point>ATIBA</Point>
+      <Point>LEPKA</Point>
+      <Point>NIXAM</Point>
+      <Point>NAMIE</Point>
+      <Point>LEBOL</Point>
+      <Point>RUMIX</Point>
+      <Point>DUKUB</Point>
+      <Point>DOLSI</Point>
+      <Point>DUNAK</Point>
+      <Point>SOVRA</Point>
+      <Point>KILAN</Point>
+      <Point>GURDI</Point>
+      <Point>INTID</Point>
+      <Point>ISPAL</Point>
+      <Point>TAVER</Point>
+      <Point>LEGOT</Point>
+      <Point>VAKRO</Point>
+      <Point>KALEG</Point>
+      <Point>PONOK</Point>
+      <Point>DOHRT</Point>
+      <Point>KRASY</Point>
+      <Point>VANKA</Point>
+      <Point>APISO</Point>
+      <Point>EMPRA</Point>
+      <Point>KAPPU</Point>
+      <Point>KADAB</Point>
+      <Point>MEPAB</Point>
+      <Point>ATRAS</Point>
+      <Point>ARTOP</Point>
+      <Point>ADISN</Point>
+      <Point>SELKA</Point>
+      <Point>MOMTA</Point>
+      <Point>REPOL</Point>
+      <Point>PAGTI</Point>
+      <Point>PACKO</Point>
+      <Point>PUKET</Point>
+      <Point>PARZO</Point>
+      <Point>OVLAD</Point>
+      <Point>TEBUR</Point>
+      <Point>NISAS</Point>
+      <Point>ADKAD</Point>
+      <Point>BAVAP</Point>
+      <Point>NILAX</Point>
+      <Point>IBAKA</Point>
+      <Point>VESUN</Point>
+      <Point>POXAK</Point>
+      <Point>PULON</Point>
+      <Point>ELSAX</Point>
+      <Point>GITON</Point>
+      <Point>BOILS</Point>
+      <Point>BAYUS</Point>
+      <Point>BEDOK</Point>
+      <Point>BIDAN</Point>
+      <Point>BONLO</Point>
+      <Point>BAXIL</Point>
+      <Point>GOBIN</Point>
+      <Point>HUTEL</Point>
+      <Point>NUTTI</Point>
+      <Point>PIKOK</Point>
+      <Point>KAPKI</Point>
+      <Point>TEKAN</Point>
+      <Point>BODEG</Point>
+      <Point>ONIBA</Point>
+      <Point>TEDED</Point>
+      <Point>MOKIN</Point>
+      <Point>LUNTO</Point>
+      <Point>TASAK</Point>
+      <Point>ELNUR</Point>
+      <Point>LEDIT</Point>
+      <Point>60VLI</Point>
+      <Point>KAPNO</Point>
+      <Point>HOBAT</Point>
+      <Point>TAXIS</Point>
+      <Point>SUGNI</Point>
+      <Point>SAPIR</Point>
+      <Point>SAMIB</Point>
+      <Point>BEGIT</Point>
+      <Point>BEACH</Point>
+      <Point>BUTVI</Point>
+      <Point>BISUN</Point>
+      <Point>NIPER</Point>
+      <Point>SAKPI</Point>
+      <Point>TAMOR</Point>
+      <Point>NIPOK</Point>
+      <Point>KALKO</Point>
+      <Point>POSOX</Point>
+      <Point>MESUS</Point>
+      <Point>ATPEN</Point>
+      <Point>ANSIT</Point>
+      <Point>ALBAB</Point>
+      <Point>AGUTA</Point>
+      <Point>EMSIX</Point>
+      <Point>EXORA</Point>
+      <Point>ELDOG</Point>
+      <Point>VIMEK</Point>
+      <Point>LASEN</Point>
+      <Point>LAMOK</Point>
+      <Point>WEENA</Point>
+      <Point>VEVEK</Point>
+      <Point>RUTUS</Point>
+      <Point>KISME</Point>
+      <Point>GOOFI</Point>
+      <Point>OLGIS</Point>
+      <Point>MUBIT</Point>
+      <Point>BULRO</Point>
+      <Point>GUKIV</Point>
+      <Point>GUSMA</Point>
+      <Point>GUSOS</Point>
+      <Point>PIKIN</Point>
+      <Point>POPAS</Point>
+      <Point>PAGRA</Point>
+      <Point>ESDOX</Point>
+      <Point>PALMI</Point>
+      <Point>TERUX</Point>
+      <Point>VENAN</Point>
+      <Point>LUPLO</Point>
+      <Point>LAPUM</Point>
+      <Point>BODER</Point>
+      <Point>DOVOM</Point>
+      <Point>UBDAK</Point>
+      <Point>DALOS</Point>
+      <Point>NODOK</Point>
+      <Point>REDAM</Point>
+      <Point>TARIB</Point>
+      <Point>MALNI</Point>
+      <Point>KADEN</Point>
+      <Point>POPIR</Point>
+      <Point>UBRAX</Point>
+      <Point>BEGMI</Point>
+      <Point>UBLAT</Point>
+      <Point>MUGEN</Point>
+      <Point>ABVOM</Point>
+      <Point>OSVAR</Point>
+      <Point>SCUBA</Point>
+      <Point>TEPAM</Point>
+      <Point>LATOL</Point>
+      <Point>DUBOP</Point>
+      <Point>ATOPO</Point>
+      <Point>ABVAT</Point>
+      <Point>SARAP</Point>
+      <Point>TICAL</Point>
+      <Point>AYMS</Point>
+      <Point>RUNOD</Point>
+      <Point>KABKA</Point>
+      <Point>KABIN</Point>
+      <Point>EKODA</Point>
+      <Point>OMKIN</Point>
+      <Point>MIDAT</Point>
+      <Point>VELMO</Point>
+      <Point>LEGAN</Point>
+      <Point>LUNBI</Point>
+      <Point>TOMAR</Point>
+      <Point>GOPLU</Point>
+      <Point>SASRO</Point>
+      <Point>TANEN</Point>
+      <Point>VEPAS</Point>
+      <Point>GULUT</Point>
+      <Point>ELGUN</Point>
+      <Point>MADOK</Point>
+      <Point>SULON</Point>
+      <Point>VANDA</Point>
+      <Point>PEBLU</Point>
+      <Point>MADEP</Point>
+      <Point>OLREL</Point>
+      <Point>ADKOS</Point>
+      <Point>BEBOB</Point>
+      <Point>BUGBA</Point>
+      <Point>DADLU</Point>
+      <Point>LIBLA</Point>
+      <Point>NUMSA</Point>
+      <Point>LIDIT</Point>
+      <Point>KALIN</Point>
+      <Point>KEONE</Point>
+      <Point>KAPSO</Point>
+      <Point>HOBBO</Point>
+      <Point>PUNIX</Point>
+      <Point>PAKDA</Point>
+      <Point>VAVEE</Point>
+      <Point>TOSAS</Point>
+      <Point>DUGOM</Point>
+      <Point>REGIT</Point>
+      <Point>TASAX</Point>
+      <Point>AKNAK</Point>
+      <Point>GILUM</Point>
+      <Point>GODAP</Point>
+      <Point>GOKIT</Point>
+      <Point>IDNIP</Point>
+      <Point>DAKAM</Point>
+      <Point>GUNSS</Point>
+      <Point>LOOIS</Point>
+      <Point>CURCH</Point>
+      <Point>ENDAL</Point>
+      <Point>GIZO</Point>
+      <Point>SALIT</Point>
+      <Point>ERVOS</Point>
+      <Point>SCRUZ</Point>
+      <Point>NONON</Point>
+      <Point>SADIM</Point>
+      <Point>RUMUS</Point>
+      <Point>MELAM</Point>
+      <Point>MALIO</Point>
+      <Point>GODIP</Point>
+      <Point>TISTO</Point>
+      <Point>PY VOR</Point>
+      <Point>MKE VOR</Point>
+      <Point>PNI VOR</Point>
+      <Point>UKS VOR</Point>
+      <Point>NDJ NDB</Point>
+      <Point>MI NDB</Point>
+      <Point>NN VOR</Point>
+      <Point>FU VOR</Point>
+      <Point>BO NDB</Point>
+      <Point>NI VOR</Point>
+      <Point>LTO VOR</Point>
+      <Point>ADNUG</Point>
+      <Point>HN VOR</Point>
+      <Point>NINOD</Point>
+      <Point>MAJ VOR</Point>
+      <Point>BIKSU</Point>
+      <Point>EGITI</Point>
+      <Point>NF VOR</Point>
+      <Point>KAKSI</Point>
+      <Point>MAGPO</Point>
+      <Point>JPA VOR</Point>
+      <Point>DOTUB</Point>
+      <Point>SON VOR</Point>
+      <Point>HOI VOR</Point>
+      <Point>NZ VOR</Point>
+      <Point>UPSET</Point>
+      <Point>GUMOT</Point>
+      <Point>NIPOG</Point>
+      <Point>VLI VOR</Point>
+      <Point>NA VOR</Point>
+      <Point>IGBED</Point>
+      <Point>PAKMI</Point>
+      <Point>REDOX</Point>
+      <Point>GUVOG</Point>
+      <Point>ESKIM</Point>
+      <Point>AGOXI</Point>
+      <Point>UNTET</Point>
+      <Point>LENAK</Point>
+      <Point>RM NDB</Point>
+      <Point>MABRO</Point>
+      <Point>TEMAT</Point>
+      <Point>IPMOP</Point>
+      <Point>WUMVE</Point>
+      <Point>DAMAY</Point>
+      <Point>TKK VOR</Point>
+      <Point>MICNO</Point>
+      <Point>BIRUQ</Point>
+      <Point>TRADD</Point>
+      <Point>HAVNU</Point>
+      <Point>AVBAP</Point>
+      <Point>GUREB</Point>
+      <Point>IDVUM</Point>
+      <Point>ZX NDB</Point>
+      <Point>ZH NDB</Point>
+      <Point>SARAK</Point>
+    </Label>
+  </Map>
+</Maps>

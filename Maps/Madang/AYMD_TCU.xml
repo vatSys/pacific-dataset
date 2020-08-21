@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="AYMD_TCU" Priority="1" Centre="-05.208300+145.787667">
+    <!--AYMD-->
+    <Runway Name="07/25">
+      <Threshold Name="07" Position="-05.210389+145.781500" />
+      <Threshold Name="25" Position="-05.207028+145.794111" />
+    </Runway>
+  </Map>
+  <Map Type="System" Name="AYMD_ALLRWYS" Priority="2" Centre="-05.208300+145.787667">
+    <!--AYMD-->
+    <Runway Name="07/25">
+      <Threshold Name="07" Position="-05.210389+145.781500" ExtendedCentrelineTrack="254.8" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="25" Position="-05.207028+145.794111" ExtendedCentrelineTrack="74.8" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+  </Map>
+</Maps>

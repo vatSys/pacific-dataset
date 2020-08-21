@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Misc>
+  <RVSMBand Lower="28000" Upper="41000" />
+  <!-- Global Transition Altitude. Defined separately in Positions.xml where different-->
+  <Transition Altitude="11000" />
+  <RVSMStatus FAAEquipment="L, W, Z" ICAOEquipment="W" />
+  <ADSBStatus FAAEquipment="I, L, G, Z" ICAOEquipment="L, E, B1, B2" Remark="ADSB" />
+  <LATCValues>15, 22, 29, 38, 45, 61, 72, 89, 115, 165</LATCValues>
+  <FilterGroundTracks>NFFN,NFNA,PKWA,NWWM,NWWW,AYGA,AYMG,AYMH,AYNZ,AYPY,AYTK,AYWK,NVVV</FilterGroundTracks>
+  <PDCAirports>NFFN,NFNA,PKWA,NWWM,NWWW,AYGA,AYMG,AYMH,AYNZ,AYPY,AYTK,AYWK,NVVV</PDCAirports>
+</Misc>

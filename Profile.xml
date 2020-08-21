@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Profile Name="Pacific" FullName="Eurocat Pacific">
+	<Version AIRAC="2009" Revision="a" PublishDate="20200819" UpdateURL="https://operations.vatpac.org/ais/vatsys/Pacific" />
+	<Servers>
+		<VATSIMStatus url="http://status.vatsim.net/" />
+		<GRIB url="http://sawbe.com/GRIB/" />
+		<G2G url="antifaff.vatsys.sawbe.com" port="64738" />
+	</Servers>	
+</Profile>

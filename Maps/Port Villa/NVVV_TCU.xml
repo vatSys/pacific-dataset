@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="NVVV_TCU" Priority="1" Centre="-17.699325+168.319794">
+    <!--NVVV-->
+    <Runway Name="11/29">
+      <Threshold Name="11" Position="-17.692692+168.306706" />
+      <Threshold Name="29" Position="-17.703672+168.328372" />
+    </Runway>
+    <!--Airway Routes-->
+    <Line>
+      <!--B590-->
+      NIPOG/
+      LEDIT
+    </Line>
+  </Map>
+  <Map Type="System" Name="NVVV_ALLRWYS" Priority="2" Centre="-17.699325+168.319794">
+    <!--NVVV-->
+    <Runway Name="11/29">
+      <Threshold Name="11" Position="-17.692692+168.306706" ExtendedCentrelineTrack="297.6" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="29" Position="-17.703672+168.328372" ExtendedCentrelineTrack="117.6" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+  </Map>
+</Maps>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="NVVV_RWY29" Priority="1" Centre="-17.699325+168.319794">
+    <!--NVVV-->
+    <Runway Name="11/29">
+      <Threshold Name="11" Position="-17.692692+168.306706" />
+      <Threshold Name="29" Position="-17.703672+168.328372" ExtendedCentrelineTrack="117.6" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy29 EAST-->
+      -17.692692+168.306706/
+      -17.692692+168.306706/
+      -17.683843+168.287175/
+      -17.684438+168.281959/
+      -17.687368+168.277702/
+      -17.691897+168.275467/
+      SOUTH/
+      -17.778368+168.249044/
+      -17.783105+168.248351/
+      -17.787607+168.250050/
+      -17.790841+168.253751/
+      -17.792066+168.258606/
+      -17.810000+168.325000/
+      ZULU
+    </Line>
+    <Line>
+      <!--Rwy29 NORTH-->
+      SOUTH/
+      -17.778204+168.248838/
+      -17.780980+168.244899/
+      -17.781750+168.240067/
+      -17.780346+168.235394/
+      -17.747741+168.178432
+    </Line>
+    <Line>
+      <!--Rwy29 SOUTH-->
+      
+    </Line>
+    <!--STARs-->
+    <Symbol Type="HollowTriangle" />
+    <Symbol Type="SolidStar" />
+    <Symbol Type="Circle" />
+    <Symbol Type="HollowStar">
+      <Point>SOUTH</Point>
+      <Point>ZULU</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="NVVV_RWY29_NAMES" Priority="2" Centre="-17.699325+168.319794">
+    <Label>
+      <Point>SOUTH</Point>
+      <Point>ZULU</Point>
+      <Point>NIPOG</Point>
+      <Point>LEDIT</Point>
+    </Label>
+  </Map>
+</Maps>

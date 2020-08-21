@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="NWWW_RWY29" Priority="1" Centre="-22.014444+166.213056">
+    <!--NWWW-->
+    <Runway Name="11/29">
+      <Threshold Name="11" Position="-22.006958+166.199533" />
+      <Threshold Name="29" Position="-22.022125+166.226492" ExtendedCentrelineTrack="121.4" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy29 GOPR3W-->
+      -22.006958+166.199533/
+      -22.006961+166.199525/
+      NW NDB/
+      TOSAM/
+      GOPRA
+    </Line>
+    <Line>
+      <!--Rwy29 LTO3W-->
+      -22.006961+166.199525/
+      -21.984607+166.156507/
+      -21.985018+166.151007/
+      -21.987900+166.146447/
+      -22.056613+166.102233/
+      -22.071452+166.100174/
+      -22.085410+166.105984/
+      -22.095122+166.118265/
+      -22.098246+166.134056/
+      -22.094029+166.149547/
+      -22.083488+166.161004/
+      LTO VOR
+    </Line>
+    <Line>
+      <!--Rwy29 NISA3W-->
+      -21.987900+166.146447/
+      BEDON/
+      NISAS
+    </Line>
+    <Line>
+      <!--Rwy29 ONIB3W-->
+      TOSAM/
+      ONIBA
+    </Line>
+    <Line>
+      <!--Rwy29 POGO-->
+      -22.006961+166.199525/
+      -21.984604+166.156488/
+      -21.985033+166.150960/
+      -21.987955+166.146396/
+      -21.992595+166.144003/
+      -21.997724+166.144415/
+      -22.001983+166.147523/
+      GIRAD/
+      -22.266806+166.270753/
+      MAMIT
+    </Line>
+    <Line>
+      <!--Rwy29 POXA3W-->
+      -22.006961+166.199525/
+      -21.984605+166.156497/
+      -21.985026+166.150982/
+      -21.987929+166.146420/
+      -21.992549+166.144012/
+      SUDOV/
+      POXAK
+    </Line>
+    <Line>
+      <!--Rwy29 SCUB3W-->
+      -22.001983+166.147523/
+      BASSA/
+      SCUBA
+    </Line>
+    <Line>
+      <!--Rwy29 TEPA3W-->
+      -22.006961+166.199525/
+      -21.984625+166.156614/
+      -21.984938+166.151264/
+      SAMID/
+      TEPAM
+    </Line>
+    <Line>
+      <!--Rwy29 VIRA3W-->
+      BASSA/
+      VIRAR
+    </Line>
+    <!--STARs-->
+    <Symbol Type="HollowTriangle" />
+    <Symbol Type="SolidStar" />
+    <Symbol Type="Circle">
+      <Point>NW NDB</Point>
+      <Point>LTO VOR</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>TOSAM</Point>
+      <Point>GOPRA</Point>
+      <Point>BEDON</Point>
+      <Point>NISAS</Point>
+      <Point>ONIBA</Point>
+      <Point>GIRAD</Point>
+      <Point>MAMIT</Point>
+      <Point>SUDOV</Point>
+      <Point>POXAK</Point>
+      <Point>BASSA</Point>
+      <Point>SCUBA</Point>
+      <Point>SAMID</Point>
+      <Point>TEPAM</Point>
+      <Point>VIRAR</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="NWWW_RWY29_NAMES" Priority="2" Centre="-22.014444+166.213056">
+    <Label>
+      <Point>NW NDB</Point>
+      <Point>TOSAM</Point>
+      <Point>GOPRA</Point>
+      <Point>LTO VOR</Point>
+      <Point>BEDON</Point>
+      <Point>NISAS</Point>
+      <Point>ONIBA</Point>
+      <Point>GIRAD</Point>
+      <Point>MAMIT</Point>
+      <Point>SUDOV</Point>
+      <Point>POXAK</Point>
+      <Point>BASSA</Point>
+      <Point>SCUBA</Point>
+      <Point>SAMID</Point>
+      <Point>TEPAM</Point>
+      <Point>VIRAR</Point>
+      <Point>TEBUR</Point>
+      <Point>ADKAD</Point>
+      <Point>BAVAP</Point>
+      <Point>PULON</Point>
+      <Point>ELSAX</Point>
+      <Point>BODEG</Point>
+      <Point>NIPOG</Point>
+      <Point>LEDIT</Point>
+      <Point>MEPAB</Point>
+    </Label>
+  </Map>
+</Maps>

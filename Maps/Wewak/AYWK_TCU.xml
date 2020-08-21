@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="AYWK_TCU" Priority="1" Centre="-03.584139+143.668783">
+    <!--AYWK-->
+    <Runway Name="10/28">
+      <Threshold Name="10" Position="-03.581972+143.661944" />
+      <Threshold Name="28" Position="-03.585450+143.675889" />
+    </Runway>
+    <!--Airway Routes-->
+    <Line>
+      <!--B456-->
+      JPA VOR/
+      VANKA
+    </Line>
+  </Map>
+  <Map Type="System" Name="AYWK_TCU_NAMES" Priority="2" Centre="-03.584139+143.668783">
+    <Label>
+      <Point>JPA VOR</Point>
+      <Point>VANKA</Point>
+    </Label>
+  </Map>
+  <Map Type="System" Name="AYWK_ALLRWYS" Priority="2" Centre="-03.584139+143.668783">
+    <!--AYWK-->
+    <Runway Name="10/28">
+      <Threshold Name="10" Position="-03.581972+143.661944" ExtendedCentrelineTrack="283.1" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="28" Position="-03.585450+143.675889" ExtendedCentrelineTrack="103.1" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+  </Map>
+</Maps>
