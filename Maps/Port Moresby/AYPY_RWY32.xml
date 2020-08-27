@@ -12,11 +12,16 @@
     </Runway>
     <!--SIDs-->
     <Line>
-      <!--Rwy32L ASTROL-->
+      <!--Rwy32L ASTRO1-->
       -09.434750+147.213056/
       PY VOR/
       DOMRA/
       KALKO
+    </Line>
+    <Line>
+      <!--Rwy32L ASTRO2-->
+      PY VOR/
+      KAPKI
     </Line>
     <Line>
       <!--Rwy32L GALLEY-->
@@ -29,9 +34,13 @@
       RUPNO
     </Line>
     <Line>
-      <!--Rwy32R ASTROL-->
+      <!--Rwy32R ASTRO1-->
       -09.430889+147.213917/
       PY VOR
+    </Line>
+    <Line>
+      <!--Rwy32R ASTRO2-->
+      
     </Line>
     <Line>
       <!--Rwy32R GALLEY-->
@@ -124,6 +133,7 @@
       <Point>PY VOR</Point>
       <Point>DOMRA</Point>
       <Point>KALKO</Point>
+      <Point>KAPKI</Point>
       <Point>SAKTO</Point>
       <Point>RUPNO</Point>
       <Point>NIXUT</Point>
@@ -139,6 +149,7 @@
       <Point>PY VOR</Point>
       <Point>DOMRA</Point>
       <Point>KALKO</Point>
+      <Point>KAPKI</Point>
       <Point>SAKTO</Point>
       <Point>RUPNO</Point>
       <Point>NIXUT</Point>
@@ -154,7 +165,6 @@
       <Point>KIBAV</Point>
       <Point>UPSET</Point>
       <Point>TEDED</Point>
-      <Point>KAPKI</Point>
       <Point>GUMOT</Point>
       <Point>ESKIM</Point>
       <Point>POSOX</Point>

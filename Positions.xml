@@ -7,6 +7,7 @@
     <Maps>
       <Map Name="ALL_CTA" />
       <Map Name="ALL_SECTORS" />
+      <Map Name="ALL_NAVAIDS" />
       <Map Name="COAST_ALL" />
       <Map Name="ALL_ROUTES_HIGH" />
       <Map Name="ALL_POINTS_HIGH" />
@@ -286,6 +287,7 @@
     <Maps>
       <Map Name="ALL_CTA" />
       <Map Name="ALL_SECTORS" />
+      <Map Name="ALL_NAVAIDS" />
       <Map Name="COAST_ALL" />
       <Map Name="ALL_ROUTES_HIGH" />
       <Map Name="ALL_POINTS_HIGH" />
@@ -393,26 +395,26 @@
   </Position>
     <Position Name="AYPY" Type="ASMGCS" ASMGCSAirport="AYPY" DefaultCenter="-09.440278+147.218611" DefaultRange="2" MagneticVariation="-5.8" Rotation="127">
     <Maps>
-      <Map Name="ASMGCS_AYPY_RWY" />
-      <Map Name="ASMGCS_AYPY_APR" />
-      <Map Name="ASMGCS_AYPY_TWY" />
-      <Map Name="ASMGCS_AYPY_BLD" />
+      <Map Name="Port Morseby/ASMGCS_AYPY_RWY" />
+      <Map Name="Port Morseby/ASMGCS_AYPY_APR" />
+      <Map Name="Port Morseby/ASMGCS_AYPY_TWY" />
+      <Map Name="Port Morseby/ASMGCS_AYPY_BLD" />
     </Maps>
   </Position>
  <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.756389+177.443611" DefaultRange="2" MagneticVariation="-12.5" Rotation="60">
     <Maps>
-      <Map Name="ASMGCS_NFFN_RWY" />
-      <Map Name="ASMGCS_NFFN_APR" />
-      <Map Name="ASMGCS_NFFN_TWY" />
-      <Map Name="ASMGCS_NFFN_BLD" />
+      <Map Name="Nadi/ASMGCS_NFFN_RWY" />
+      <Map Name="Nadi/ASMGCS_NFFN_APR" />
+      <Map Name="Nadi/ASMGCS_NFFN_TWY" />
+      <Map Name="Nadi/ASMGCS_NFFN_BLD" />
     </Maps>
   </Position>
   <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.720122+167.731661" DefaultRange="2" MagneticVariation="-7.6" Rotation="140">
     <Maps>
-      <Map Name="ASMGCS_PKWA_RWY" />
-      <Map Name="ASMGCS_PKWA_APR" />
-      <Map Name="ASMGCS_PKWA_TWY" />
-      <Map Name="ASMGCS_PKWA_BLD" />
+      <Map Name="Bucholz/ASMGCS_PKWA_RWY" />
+      <Map Name="Bucholz/ASMGCS_PKWA_APR" />
+      <Map Name="Bucholz/ASMGCS_PKWA_TWY" />
+      <Map Name="Bucholz/ASMGCS_PKWA_BLD" />
     </Maps>
   </Position>
 </Positions>
