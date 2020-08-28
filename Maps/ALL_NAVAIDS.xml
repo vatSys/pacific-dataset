@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="ALL_NAVAIDS" Priority="0" Center="-07.0+166.0">
+  <Map Type="System" Name="ALL_NAVAIDS_NAMES" Priority="0" Center="-07.0+166.0">
     <Label HasLeader="true">
       <Point Name="AA">+003000.000+1735060.000</Point>
       <Point Name="AI">-084205.000+1604050.999</Point>
@@ -99,6 +99,8 @@
       <Point Name="WP">-124024.800+1415520.900</Point>
       <Point Name="YXM">-060319.789+1425222.051</Point>
     </Label>
+  </Map>
+  <Map Type="System" Name="ALL_NAVAIDS" Priority="0" Center="-07.0+166.0">
     <Symbol Type="DotFillCircle">
       <Point>+003000.000+1735060.000</Point>
       <Point>-084205.000+1604050.999</Point>
