@@ -16,17 +16,17 @@
       <Point Name="C120">-0842.2516+14714.7122</Point>
       <Point Name="C120">-0912.7714+14744.7557</Point>
       <Point Name="C140">-0852.8341+14728.0501</Point>
-      <Point Name="D025">-1821.7811+17825.1313</Point>
       <Point Name="D025">-1737.8731+17703.5946</Point>
+      <Point Name="D025">-1821.7811+17825.1313</Point>
       <Point Name="D055">-1725.4966+17616.2486</Point>
       <Point Name="D095">-1634.7863+17822.9677</Point>
       <Point Name="D095">-1835.3166+17837.6265</Point>
       <Point Name="DSFC">-1752.9338+17722.7317</Point>
       <Point Name="D015">-2240.0+16707.0</Point>
       <Point Name="D035">-1727.0+16850.0</Point>
-      <Point Name="D065">-2037.0+16550.0</Point>
-      <Point Name="D065">-2310.0+16715.0</Point>
       <Point Name="D065">-2217.0+16450.0</Point>
+      <Point Name="D065">-2310.0+16715.0</Point>
+      <Point Name="D065">-2037.0+16550.0</Point>
       <Point Name="D095">-1725.0+16707.0</Point>
       <Point Name="D095">-1720.0+16950.0</Point>
       <Point Name="DO35">-1740.0+16740.0</Point>
@@ -46,8 +46,8 @@
       <Point Name="E007">+0843.6789+16734.8759</Point>
       <Point Name="E012">+0841.7237+16654.1656</Point>
       <Point Name="E012">+0829.0036+16832.2683</Point>
-      <Point Name="ESFC">+0843.4525+16738.9867</Point>
       <Point Name="ESFC">+0843.974+16750.6507</Point>
+      <Point Name="ESFC">+0843.4525+16738.9867</Point>
     </Label>
   </Map>
 </Maps>

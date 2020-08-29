@@ -393,15 +393,15 @@
     </ControllerInfo>
     <Transition Altitude="18000" />
   </Position>
-    <Position Name="AYPY" Type="ASMGCS" ASMGCSAirport="AYPY" DefaultCenter="-09.440278+147.218611" DefaultRange="2" MagneticVariation="-5.8" Rotation="127">
+<Position Name="AYPY" Type="ASMGCS" ASMGCSAirport="AYPY" DefaultCenter="-09.440278+147.218611" DefaultRange="2" MagneticVariation="-5.8" Rotation="127">
     <Maps>
-      <Map Name="Port Morseby/ASMGCS_AYPY_RWY" />
-      <Map Name="Port Morseby/ASMGCS_AYPY_APR" />
-      <Map Name="Port Morseby/ASMGCS_AYPY_TWY" />
-      <Map Name="Port Morseby/ASMGCS_AYPY_BLD" />
+      <Map Name="Port Moresby/ASMGCS_AYPY_RWY" />
+      <Map Name="Port Moresby/ASMGCS_AYPY_APR" />
+      <Map Name="Port Moresby/ASMGCS_AYPY_TWY" />
+      <Map Name="Port Moresby/ASMGCS_AYPY_BLD" />
     </Maps>
   </Position>
- <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.756389+177.443611" DefaultRange="2" MagneticVariation="-12.5" Rotation="60">
+ <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.756389+177.443611" DefaultRange="2" MagneticVariation="-12.5" Rotation="-2">
     <Maps>
       <Map Name="Nadi/ASMGCS_NFFN_RWY" />
       <Map Name="Nadi/ASMGCS_NFFN_APR" />
@@ -409,7 +409,7 @@
       <Map Name="Nadi/ASMGCS_NFFN_BLD" />
     </Maps>
   </Position>
-  <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.720122+167.731661" DefaultRange="2" MagneticVariation="-7.6" Rotation="140">
+  <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.720122+167.731661" DefaultRange="2" MagneticVariation="-7.6" Rotation="206">
     <Maps>
       <Map Name="Bucholz/ASMGCS_PKWA_RWY" />
       <Map Name="Bucholz/ASMGCS_PKWA_APR" />
