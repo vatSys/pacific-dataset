@@ -307,15 +307,15 @@
       <Line>ATC feedback - feedback.vatpac.org</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="Port Villa Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="80" MagneticVariation="-11.6">
+  <Position Name="Port Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="80" MagneticVariation="-11.6">
     <Sectors>
       <Sector Name="NVVV ADC" />
     </Sectors>
     <Maps>
       <Map Name="ALL_CTA" />
-      <Map Name="Port Villa/NVVV_COAST" />
-      <Map Name="Port Villa/NVVV_TCU" />
-      <Map Name="Port Villa/NVVV_RWY11" />
+      <Map Name="Port Vila/NVVV_COAST" />
+      <Map Name="Port Vila/NVVV_TCU" />
+      <Map Name="Port Vila/NVVV_RWY11" />
     </Maps>
     <ATIS>
       <Editor Airport="NVVV" Frequency="126.4" />
@@ -329,7 +329,7 @@
       <Airport Name="NVVV" />
     </ArrivalLists>
     <ControllerInfo>
-      <Line>Port Villa Tower</Line>
+      <Line>Port Vila Tower</Line>
       <Line>ATIS available on 126.4</Line>
       <Line>ATC feedback - feedback.vatpac.org</Line>
     </ControllerInfo>
