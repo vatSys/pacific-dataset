@@ -304,7 +304,7 @@
         <Activation H24="true" Start="0000" End="0000" />
       </Activations>
     </RestrictedArea>
-    <RestrictedArea Type="Restricted" Name="(NFFN)R1" AltitudeFloor="0" AltitudeCeiling="1500" DAIWEnabled="true" LinePattern="Broken">
+    <RestrictedArea Type="Restricted" Name="(NFFN)R1" AltitudeFloor="0" AltitudeCeiling="1500" DAIWEnabled="true" LinePattern="Dashed">
       <Area>-181157.000+1774557.000/
 -181157.911+1774607.968/
 -181200.618+1774618.602/
@@ -746,7 +746,7 @@
 -215700.000+1672660.000</Area>
       <Activations />
     </RestrictedArea>
-    <RestrictedArea Type="Restricted" Name="(NWWW)R1" AltitudeFloor="0" AltitudeCeiling="4300" DAIWEnabled="true" LinePattern="Broken">
+    <RestrictedArea Type="Restricted" Name="(NWWW)R1" AltitudeFloor="0" AltitudeCeiling="4300" DAIWEnabled="true" LinePattern="Dashed">
       <Area>-220602.000+1663360.000/
 -220603.823+1663422.490/
 -220609.235+1663444.298/
@@ -788,7 +788,7 @@
         <Activation H24="true" Start="0000" End="0000" />
       </Activations>
     </RestrictedArea>
-    <RestrictedArea Type="Restricted" Name="(NWWW)R2" AltitudeFloor="0" AltitudeCeiling="2100" DAIWEnabled="true" LinePattern="Broken">
+    <RestrictedArea Type="Restricted" Name="(NWWW)R2" AltitudeFloor="0" AltitudeCeiling="2100" DAIWEnabled="true" LinePattern="Dashed">
       <Area>-221511.000+1663818.000/
 -221511.456+1663823.629/
 -221512.809+1663829.086/
@@ -840,7 +840,7 @@
 -221315.000+1663955.000</Area>
       <Activations />
     </RestrictedArea>
-    <RestrictedArea Type="Restricted" Name="(NWWW)R3B" AltitudeFloor="0" AltitudeCeiling="2100" DAIWEnabled="true" LinePattern="Broken">
+    <RestrictedArea Type="Restricted" Name="(NWWW)R3B" AltitudeFloor="0" AltitudeCeiling="2100" DAIWEnabled="true" LinePattern="Dashed">
       <Area>-221315.000+1663955.000/
 -221603.000+1664026.000/
 -221603.000+1664026.000/
@@ -853,7 +853,7 @@
         <Activation H24="true" Start="0000" End="0000" />
       </Activations>
     </RestrictedArea>
-    <RestrictedArea Type="Restricted" Name="(NWWW)R4" AltitudeFloor="0" AltitudeCeiling="1500" DAIWEnabled="true" LinePattern="Broken">
+    <RestrictedArea Type="Restricted" Name="(NWWW)R4" AltitudeFloor="0" AltitudeCeiling="1500" DAIWEnabled="true" LinePattern="Dashed">
       <Area>-221621.000+1665245.000/
 -222006.000+1665529.000/
 -221905.000+1670013.000/
