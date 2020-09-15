@@ -53,14 +53,6 @@
       MABRO
     </Line>
   </Map>
-  <Map Type="System2" Name="AYPY_VFR" Priority="1" Centre="-09.440278+147.218611">
-    <Symbol Type="HollowSquare">
-      <Point>STARF</Point>
-    </Symbol>
-    <Label HasLeader="True">
-      <Point>STARF</Point>
-    </Label>
-  </Map>
   <Map Type="System" Name="AYPY_ALLRWYS" Priority="2" Centre="-09.440278+147.218611">
     <!--AYPY-->
     <Runway Name="14L/32R">

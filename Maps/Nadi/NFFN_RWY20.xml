@@ -170,13 +170,13 @@
       -17.852375+177.410959/
       -17.822211+177.434318/
       -17.699454+177.529301/
-      NA
+      NA VOR
     </Line>
     <Line>
       <!--Rwy20 HOTEL.NAQ271-->
       -17.822211+177.434318/
       -17.793732+177.456369/
-      NA
+      NA VOR
     </Line>
     <Line>
       <!--Rwy20 HOTEL.NAVUA-->
@@ -282,7 +282,6 @@
       <Point>BEACH</Point>
       <Point>TEPEK</Point>
       <Point>VIPOB</Point>
-      <Point>NA</Point>
       <Point>AGTAG</Point>
       <Point>BEGIT</Point>
       <Point>KALTA</Point>
@@ -319,7 +318,6 @@
       <Point>BEACH</Point>
       <Point>TEPEK</Point>
       <Point>VIPOB</Point>
-      <Point>NA</Point>
       <Point>AGTAG</Point>
       <Point>MOTKI</Point>
       <Point>BEGIT</Point>

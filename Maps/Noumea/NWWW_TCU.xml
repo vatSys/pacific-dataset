@@ -43,6 +43,50 @@
       MEPAB
     </Line>
   </Map>
+  <Map Type="System2" Name="NWWW_VFR" Priority="1" Centre="-22.014444+166.213056">
+    <Symbol Type="HollowSquare">
+      <Point>Y</Point>
+      <Point>S</Point>
+      <Point>PD</Point>
+      <Point>M</Point>
+      <Point>SH</Point>
+      <Point>EA</Point>
+      <Point>NB</Point>
+      <Point>NA</Point>
+      <Point>WB</Point>
+      <Point>WA</Point>
+      <Point>K</Point>
+      <Point>I</Point>
+      <Point>P</Point>
+      <Point>B</Point>
+      <Point>C</Point>
+      <Point>L</Point>
+      <Point>R</Point>
+      <Point>V</Point>
+      <Point>NO</Point>
+    </Symbol>
+    <Label HasLeader="True">
+      <Point>Y</Point>
+      <Point>S</Point>
+      <Point>PD</Point>
+      <Point>M</Point>
+      <Point>SH</Point>
+      <Point>EA</Point>
+      <Point>NB</Point>
+      <Point>NA</Point>
+      <Point>WB</Point>
+      <Point>WA</Point>
+      <Point>K</Point>
+      <Point>I</Point>
+      <Point>P</Point>
+      <Point>B</Point>
+      <Point>C</Point>
+      <Point>L</Point>
+      <Point>R</Point>
+      <Point>V</Point>
+      <Point>NO</Point>
+    </Label>
+  </Map>
   <Map Type="System" Name="NWWW_ALLRWYS" Priority="2" Centre="-22.014444+166.213056">
     <!--NWWW-->
     <Runway Name="11/29">

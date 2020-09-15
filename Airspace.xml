@@ -1269,6 +1269,12 @@ MINDI
     <Point Name="ADNUG" Type="Fix">-105721.398+1604441.219</Point>
     <Point Name="ADORA" Type="Fix">-215624.000+1662404.000</Point>
     <Point Name="ADUFO" Type="Fix">+071437.939+1574621.580</Point>
+    <Point Name="AF11N" Type="Fix">-173655.289+1680516.091</Point>
+    <Point Name="AF11S" Type="Fix">-174621.000+1680537.331</Point>
+    <Point Name="AF11W" Type="Fix">-174145.251+1680200.082</Point>
+    <Point Name="AF29E" Type="Fix">-174943.169+1683431.750</Point>
+    <Point Name="AF29N" Type="Fix">-174400.380+1683346.508</Point>
+    <Point Name="AF29S" Type="Fix">-175221.079+1682910.849</Point>
     <Point Name="AFOYU" Type="Fix">+063925.859+1583506.191</Point>
     <Point Name="AGAT" Type="Fix">-085223.678+1610041.198</Point>
     <Point Name="AGEDU" Type="Fix">-342844.101+1772930.480</Point>
@@ -1574,10 +1580,12 @@ MINDI
     <Point Name="FF025" Type="Fix">-174532.299+1681258.522</Point>
     <Point Name="FF051" Type="Fix">-203520.681+1640944.471</Point>
     <Point Name="FF082" Type="Fix">-062215.578+1430555.381</Point>
+    <Point Name="FF11" Type="Fix">-174123.489+1681228.141</Point>
     <Point Name="FF130" Type="Fix">-025859.801+1523402.309</Point>
     <Point Name="FF144" Type="Fix">-204001.621+1651150.471</Point>
     <Point Name="FF150" Type="Fix">-015930.329+1472339.361</Point>
     <Point Name="FF204" Type="Fix">-173739.518+1772458.849</Point>
+    <Point Name="FF29" Type="Fix">-174502.092+1682515.600</Point>
     <Point Name="FF303" Type="Fix">-153624.300-1753328.800</Point>
     <Point Name="FF308" Type="Fix">-065857.119+1434634.900</Point>
     <Point Name="FF321" Type="Fix">-052842.571+1412159.861</Point>
@@ -1643,6 +1651,8 @@ MINDI
     <Point Name="FQ320" Type="Fix">-290708.929+1675848.990</Point>
     <Point Name="FU373" Type="Fix">-083524.961+1790804.510</Point>
     <Point Name="FU377" Type="Fix">-082728.001+1791532.299</Point>
+    <Point Name="FWW11" Type="Fix">-215538.600+1660329.999</Point>
+    <Point Name="FWW29" Type="Fix">-220512.600+1661759.100</Point>
     <Point Name="GA458" Type="Fix">-084324.218+1604043.381</Point>
     <Point Name="GA488" Type="Fix">-084722.841+1604008.569</Point>
     <Point Name="GALEE" Type="Fix">+050000.000+1433700.001</Point>
@@ -1824,6 +1834,8 @@ MINDI
     <Point Name="IDSUT" Type="Fix">-060409.869+1423937.001</Point>
     <Point Name="IDUBO" Type="Fix">-150016.999+1774246.001</Point>
     <Point Name="IDVUM" Type="Fix">-101957.439+1640000.000</Point>
+    <Point Name="IF11" Type="Fix">-174131.110+1680714.110</Point>
+    <Point Name="IF29" Type="Fix">-174722.690+1682953.621</Point>
     <Point Name="IFFEY" Type="Fix">-315733.600+1542130.700</Point>
     <Point Name="IGAPA" Type="Fix">-123523.971+1765330.682</Point>
     <Point Name="IGAPI" Type="Fix">-182740.000+1782930.998</Point>
@@ -1856,6 +1868,8 @@ MINDI
     <Point Name="ISPID" Type="Fix">-141051.400+1511040.300</Point>
     <Point Name="ISTEM" Type="Fix">-243551.200+1602300.100</Point>
     <Point Name="ISTOS" Type="Fix">-190141.999+1782348.001</Point>
+    <Point Name="IWW11" Type="Fix">-215302.800+1655854.001</Point>
+    <Point Name="IWW29" Type="Fix">-220904.500+1662016.600</Point>
     <Point Name="IZOSO" Type="Fix">+065624.731+1575900.420</Point>
     <Point Name="JABEE" Type="Fix">+075214.002+1525525.000</Point>
     <Point Name="JAMAR" Type="Fix">+074516.999+1542611.000</Point>
@@ -2036,7 +2050,9 @@ MINDI
     <Point Name="LURDU" Type="Fix">-161641.801+1791839.589</Point>
     <Point Name="LYNIS" Type="Fix">+062131.000+1633211.000</Point>
     <Point Name="MA025" Type="Fix">-174240.810+1681513.421</Point>
+    <Point Name="MA11" Type="Fix">-174112.401+1681742.151</Point>
     <Point Name="MA204" Type="Fix">-174320.651+1772040.261</Point>
+    <Point Name="MA29" Type="Fix">-174241.378+1682037.709</Point>
     <Point Name="MA303" Type="Fix">-153414.272-1753538.350</Point>
     <Point Name="MABEL" Type="Fix">-171054.001+1783830.001</Point>
     <Point Name="MABRO" Type="Fix">-104654.001+1470918.000</Point>
@@ -2111,6 +2127,8 @@ MINDI
     <Point Name="MUNDU" Type="Fix">-172452.999+1792626.999</Point>
     <Point Name="MUNEL" Type="Fix">-142818.000+1445512.000</Point>
     <Point Name="MUNOS" Type="Fix">-082546.081+1570232.730</Point>
+    <Point Name="MWW11" Type="Fix">-215941.500+1661040.901</Point>
+    <Point Name="MWW29" Type="Fix">-220150.750+1661430.670</Point>
     <Point Name="MXHEA" Type="Fix">-062904.380+1432951.270</Point>
     <Point Name="MXHEB" Type="Fix">-063101.679+1432423.400</Point>
     <Point Name="MXHEF" Type="Fix">-062308.138+1432138.819</Point>
@@ -2941,6 +2959,25 @@ MINDI
     <Point Name="ZH" Type="Navaid" NavaidType="NDB" Frequency="295.000">-060642.001+1401600.001</Point>
     <Point Name="ZP" Type="Navaid" NavaidType="NDB" Frequency="253.000">-083038.491+1402436.130</Point>
     <Point Name="ZX" Type="Navaid" NavaidType="NDB" Frequency="342.000">-045042.000+1403441.999</Point>
+    <Point Name="B" Type="Fix">-221810.000+1663444.000</Point>
+    <Point Name="C" Type="Fix">-221408.000+1663455.000</Point>
+    <Point Name="EA" Type="Fix">-220554.000+1661820.000</Point>
+    <Point Name="I" Type="Fix">-222001.000+1662435.000</Point>
+    <Point Name="K" Type="Fix">-221531.000+1662308.000</Point>
+    <Point Name="L" Type="Fix">-221158.000+1663205.000</Point>
+    <Point Name="M" Type="Fix">-221345.000+1662025.000</Point>
+    <Point Name="NA" Type="Fix">-214644.000+1660350.000</Point>
+    <Point Name="NB" Type="Fix">-215845.000+1661150.000</Point>
+    <Point Name="NO" Type="Fix">-222526.000+1670047.000</Point>
+    <Point Name="P" Type="Fix">-221935.000+1663410.000</Point>
+    <Point Name="PD" Type="Fix">-222124.000+1661459.000</Point>
+    <Point Name="R" Type="Fix">-221203.000+1662660.000</Point>
+    <Point Name="S" Type="Fix">-220559.000+1660740.000</Point>
+    <Point Name="SH" Type="Fix">-220959.000+1662259.000</Point>
+    <Point Name="V" Type="Fix">-221251.000+1662412.000</Point>
+    <Point Name="WA" Type="Fix">-215130.000+1655759.000</Point>
+    <Point Name="WB" Type="Fix">-215230.000+1660255.000</Point>
+    <Point Name="Y" Type="Fix">-215757.000+1655748.000</Point>
     <Point Name="BN" Type="Navaid" NavaidType="VOR" Frequency="000.000">-272157.900+1530821.200</Point>
     <Point Name="CS" Type="Navaid" NavaidType="VOR" Frequency="000.000">-165100.100+1454438.000</Point>
     <Point Name="DN" Type="Navaid" NavaidType="VOR" Frequency="000.000">-122523.800+1305423.300</Point>
