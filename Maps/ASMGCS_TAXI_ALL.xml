@@ -23,6 +23,11 @@
       <Point Name="M">-0926.7822+14713.1702</Point>
       <Point Name="M">-0926.815+14713.1152</Point>
       <Point Name="P">-0926.0563+14712.6599</Point>
+      <Point Name="DOM">-0926.1488+14712.6378</Point>
+      <Point Name="GA">-0926.745+14712.9975</Point>
+      <Point Name="GA SOUTH">-0926.9872+14713.1827</Point>
+      <Point Name="INTL">-0926.2835+14712.7182</Point>
+      <Point Name="PNGDF">-0926.0199+14713.1312</Point>
       <Point Name="A">-1745.0179+17726.8981</Point>
       <Point Name="A">-1745.0742+17727.114</Point>
       <Point Name="B">-1745.1542+17726.956</Point>
@@ -42,6 +47,7 @@
       <Point Name="E">+0843.3742+16744.214</Point>
       <Point Name="F">+0843.4641+16744.4278</Point>
       <Point Name="F">+0843.5128+16744.481</Point>
+      <Point Name="Terminal">+0843.6394+16744.4991</Point>
     </Label>
   </Map>
 </Maps>
