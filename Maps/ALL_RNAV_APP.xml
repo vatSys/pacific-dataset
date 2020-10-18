@@ -128,11 +128,7 @@
       <Point>YDUSC</Point>
       <Point>YDUSF</Point>
       <Point>YDUSI</Point>
-      <Point>YGNWD</Point>
-      <Point>YGNWF</Point>
       <Point>YGNWI</Point>
-      <Point>YGNWX</Point>
-      <Point>YGNWY</Point>
       <Point>YGRNA</Point>
       <Point>YGRNC</Point>
       <Point>YGRNE</Point>
@@ -289,6 +285,8 @@
       <Point>OBSOE</Point>
       <Point>TONBE</Point>
       <Point>WADRU</Point>
+      <Point>YGNWD</Point>
+      <Point>YGNWF</Point>
     </Label>
     <Symbol Type="MalteseCross">
       <Point>DGOWF</Point>
@@ -493,9 +491,6 @@
       <Point>YDUSA</Point>
       <Point>YDUSB</Point>
       <Point>YDUSC</Point>
-      <Point>YGNWD</Point>
-      <Point>YGNWX</Point>
-      <Point>YGNWY</Point>
       <Point>YGRNA</Point>
       <Point>YGRNC</Point>
       <Point>YGRNE</Point>
@@ -582,6 +577,7 @@
       <Point>FASRU</Point>
       <Point>PAYPO</Point>
       <Point>OBSOE</Point>
+      <Point>YGNWD</Point>
     </Symbol>
     <Line>DGOWA/DGOWI</Line>
     <Line>DGOWB/DGOWI</Line>
@@ -710,8 +706,6 @@
     <Line>YDUSI/YDUSF</Line>
     <Line>YDUSM/YDUSF</Line>
     <Line>YGNWD/YGNWI</Line>
-    <Line>YGNWX/YGNWI</Line>
-    <Line>YGNWY/YGNWI</Line>
     <Line>YGNWI/YGNWF</Line>
     <Line>YGNWM/YGNWF</Line>
     <Line>YGRNA/YGRNI</Line>
