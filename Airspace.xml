@@ -231,9 +231,9 @@ HOOVR
     <Airway Name="A222">
 KRONK/
 ADUFO/
-PNI VOR/
+PNI NDB/
 AXTEN/
-UKS VOR/
+UKS NDB/
 STEFF/
 NDJ NDB
 </Airway>
@@ -282,15 +282,15 @@ TARON/
 TUTRI/
 TOLUS/
 TESAR/
-FU VOR/
+FU NDB/
 BODKI/
 BO NDB/
 KASKU/
-NI VOR/
+NI NDB/
 BIGRA/
 FENSE/
 AFOYU/
-PNI VOR
+PNI NDB
 </Airway>
     <Airway Name="A579">
 CUFFY/
@@ -325,10 +325,10 @@ BUVAR
 </Airway>
     <Airway Name="A584">
 KETOT/
-FU VOR/
+FU NDB/
 AKUMO/
 UPDIX/
-NI VOR
+NI NDB
 </Airway>
     <Airway Name="A597">
 DUGAN/
@@ -361,9 +361,9 @@ ABVUB/
 BIKSU/
 MANOT/
 MORNA/
-NI VOR/
+NI NDB/
 MARTI/
-MAJ VOR
+MAJ NDB
 </Airway>
     <Airway Name="B220">
 KELPI/
@@ -392,7 +392,18 @@ ISPID/
 DUKUB/
 PY VOR
 </Airway>
-    <Airway Name="B450" />
+    <Airway Name="B450">
+TESAT/
+NOBAR/
+ABARB/
+LHI NDB/
+TEKEP/
+NF VOR/
+DOLSI/
+DUNAK/
+SOVRA/
+KILAN
+</Airway>
     <Airway Name="B451">
 DOLSI/
 GURDI
@@ -436,7 +447,7 @@ BEADS/
 PADDY/
 ISTEM/
 MEPAB/
-SON VOR/
+SON NDB/
 ATRAS/
 AKUMO/
 ARTOP/
@@ -509,7 +520,6 @@ HUTEL
 </Airway>
     <Airway Name="B589">
 TEDED/
-GUMOT/
 KAPKI/
 PY VOR/
 UPSET/
@@ -519,7 +529,7 @@ LUNTO/
 TASAK/
 BIGRA/
 ELNUR/
-MAJ VOR
+MAJ NDB
 </Airway>
     <Airway Name="B590">
 LTO VOR/
@@ -529,7 +539,7 @@ VLI VOR/
 60VLI/
 KAPNO/
 ATIBA/
-NI VOR
+NI NDB
 </Airway>
     <Airway Name="B598">
 DN VOR/
@@ -602,7 +612,7 @@ GOOFI
     <Airway Name="G223">
 OLGIS/
 MUBIT/
-NI VOR/
+NI NDB/
 BULRO/
 ATRAS/
 GUKIV/
@@ -679,7 +689,7 @@ PESKY/
 CS VOR
 </Airway>
     <Airway Name="G593">
-FU VOR/
+FU NDB/
 LATOL/
 DUBOP/
 ATOPO/
@@ -731,7 +741,7 @@ LB VOR
 </Airway>
     <Airway Name="H490">
 NAVUA/
-NA VOR
+NA NDB
 </Airway>
     <Airway Name="H95">
 LB VOR/
@@ -972,7 +982,7 @@ MALAK
 </Airway>
     <Airway Name="Q490">
 NAVUA/
-NA VOR
+NA NDB
 </Airway>
     <Airway Name="Q540">
 NA VOR/
@@ -1064,7 +1074,7 @@ RM NDB/
 AKUMO/
 BO NDB/
 VAVEE/
-MAJ VOR
+MAJ NDB
 </Airway>
     <Airway Name="R346">
 PY VOR/
@@ -1084,7 +1094,7 @@ HN VOR/
 TASAX/
 IPMOP/
 AKNAK/
-SON VOR
+SON NDB
 </Airway>
     <Airway Name="R453">
 NN VOR/
@@ -1103,16 +1113,16 @@ KADEN
 GUNSS/
 WUMVE/
 DAMAY/
-TKK VOR/
+TKK NDB/
 MICNO/
 BIRUQ/
-PNI VOR/
+PNI NDB/
 TRADD/
 HAVNU/
 LOOIS/
 NDJ NDB/
 CURCH/
-MAJ VOR
+MAJ NDB
 </Airway>
     <Airway Name="R587">
 BN VOR/
@@ -1133,7 +1143,7 @@ GUREB/
 IDVUM/
 SCRUZ/
 LEGOT/
-SON VOR/
+SON NDB/
 VLI VOR/
 ELSAX/
 NONON/
@@ -1158,11 +1168,11 @@ VK NDB/
 NAMLA
 </Airway>
     <Airway Name="T276">
-NFNS/
-NA VOR
+NA NDB/
+NFNS
 </Airway>
     <Airway Name="T278">
-NA VOR/
+NA NDB/
 NAMLA
 </Airway>
     <Airway Name="T279">
@@ -1174,24 +1184,24 @@ VK NDB/
 MT NDB
 </Airway>
     <Airway Name="T286">
-NA VOR/
+NA NDB/
 NFNK
 </Airway>
     <Airway Name="T287">
 MI NDB/
-NA VOR
+NA NDB
 </Airway>
     <Airway Name="T288">
 VK NDB/
-NA VOR
+NA NDB
 </Airway>
     <Airway Name="T360">
 MT NDB/
-NA VOR
+NA NDB
 </Airway>
     <Airway Name="T490">
 NAVUA/
-NA VOR
+NA NDB
 </Airway>
     <Airway Name="W66">
 JPA VOR/
@@ -1252,10 +1262,16 @@ KEPIT/
 TANAH/
 MINDI
 </Airway>
+    <Airway Name="Z689">
+TANAH/
+DEKAI/
+NINIA
+</Airway>
   </Airways>
   <Intersections>
-    <Point Name="60VLI" Type="Fix">-150000.000+1680160.000</Point>
+    <Point Name="60VLI" Type="Fix">-150000.000+1680159.999</Point>
     <Point Name="ABADE" Type="Fix">-071031.001+1393503.001</Point>
+    <Point Name="ABARB" Type="Fix">-325106.400+1545604.900</Point>
     <Point Name="ABASI" Type="Fix">-085210.520+1603536.391</Point>
     <Point Name="ABLOK" Type="Fix">-124304.400+1432624.400</Point>
     <Point Name="ABTOX" Type="Fix">-184712.900+1471014.800</Point>
@@ -1439,7 +1455,6 @@ MINDI
     <Point Name="CAWLY" Type="Fix">-341934.400+1515728.400</Point>
     <Point Name="CETMO" Type="Fix">+084434.051+1673115.881</Point>
     <Point Name="CEYJE" Type="Fix">+073924.109+1515317.380</Point>
-    <Point Name="CF204" Type="Fix">-173109.541+1772954.049</Point>
     <Point Name="CFCLH" Type="Fix">+070309.749+1580414.059</Point>
     <Point Name="CFCMK" Type="Fix">+070306.458+1581622.411</Point>
     <Point Name="CHAMB" Type="Fix">-041118.038+1430632.101</Point>
@@ -1451,7 +1466,6 @@ MINDI
     <Point Name="COSLO" Type="Fix">+072602.940+1513715.899</Point>
     <Point Name="COWBY" Type="Fix">-165652.321+1675404.180</Point>
     <Point Name="COWRY" Type="Fix">-073917.078+1483954.529</Point>
-    <Point Name="CQ320" Type="Fix">-290952.981+1680016.261</Point>
     <Point Name="CUFFY" Type="Fix">-050000.000-1743904.601</Point>
     <Point Name="CUNWI" Type="Fix">+051929.489+1625222.789</Point>
     <Point Name="CURCH" Type="Fix">+081735.002+1683907.999</Point>
@@ -1478,6 +1492,7 @@ MINDI
     <Point Name="DELAI" Type="Fix">-162136.000+1791551.998</Point>
     <Point Name="DELTA" Type="Fix">-174049.001+1680704.001</Point>
     <Point Name="DENTO" Type="Fix">-170100.001+1791312.000</Point>
+    <Point Name="DER31" Type="Fix">-162749.550+1792012.430</Point>
     <Point Name="DETIS" Type="Fix">-215156.002+1661644.000</Point>
     <Point Name="DEZZI" Type="Fix">-290315.880+1675743.819</Point>
     <Point Name="DGOWA" Type="Fix">-092805.329+1465318.640</Point>
@@ -1577,27 +1592,16 @@ MINDI
     <Point Name="FELLY" Type="Fix">+075046.000+1682934.001</Point>
     <Point Name="FENSE" Type="Fix">+033000.000+1621542.001</Point>
     <Point Name="FEPLY" Type="Fix">+084004.170+1673343.549</Point>
-    <Point Name="FF025" Type="Fix">-174532.299+1681258.522</Point>
-    <Point Name="FF051" Type="Fix">-203520.681+1640944.471</Point>
-    <Point Name="FF082" Type="Fix">-062215.578+1430555.381</Point>
+    <Point Name="FF09" Type="Fix">+012335.801+1730320.030</Point>
     <Point Name="FF11" Type="Fix">-174123.489+1681228.141</Point>
-    <Point Name="FF130" Type="Fix">-025859.801+1523402.309</Point>
-    <Point Name="FF144" Type="Fix">-204001.621+1651150.471</Point>
-    <Point Name="FF150" Type="Fix">-015930.329+1472339.361</Point>
-    <Point Name="FF204" Type="Fix">-173739.518+1772458.849</Point>
+    <Point Name="FF27" Type="Fix">+012212.151+1731416.210</Point>
     <Point Name="FF29" Type="Fix">-174502.092+1682515.600</Point>
     <Point Name="FF303" Type="Fix">-153624.300-1753328.800</Point>
-    <Point Name="FF308" Type="Fix">-065857.119+1434634.900</Point>
-    <Point Name="FF321" Type="Fix">-052842.571+1412159.861</Point>
-    <Point Name="FF335" Type="Fix">-211351.218+1645411.819</Point>
     <Point Name="FIBTO" Type="Fix">+052305.701+1625906.331</Point>
     <Point Name="FIGBI" Type="Fix">+072016.159+1514251.660</Point>
     <Point Name="FN010" Type="Fix">-174553.719+1772924.450</Point>
     <Point Name="FN020" Type="Fix">-174553.899+1772944.819</Point>
-    <Point Name="FN025" Type="Fix">-174447.281+1681333.938</Point>
     <Point Name="FN030" Type="Fix">-174453.689+1772945.398</Point>
-    <Point Name="FN287" Type="Fix">-024314.009+1412443.481</Point>
-    <Point Name="FN308" Type="Fix">-065815.600+1434551.120</Point>
     <Point Name="FN424" Type="Fix">-174555.620+1773301.778</Point>
     <Point Name="FN601" Type="Fix">-174800.850+1773216.598</Point>
     <Point Name="FN818" Type="Fix">-174335.191+1772759.220</Point>
@@ -1647,12 +1651,23 @@ MINDI
     <Point Name="FOLOB" Type="Fix">+070501.000+1700650.000</Point>
     <Point Name="FOMAK" Type="Fix">+051909.278+1625241.840</Point>
     <Point Name="FONLO" Type="Fix">-432852.100+1574628.300</Point>
-    <Point Name="FQ287" Type="Fix">-024418.820+1412731.421</Point>
-    <Point Name="FQ320" Type="Fix">-290708.929+1675848.990</Point>
+    <Point Name="FRF07" Type="Fix">-122949.499+1765755.591</Point>
+    <Point Name="FRM07" Type="Fix">-122907.800+1770259.730</Point>
     <Point Name="FU373" Type="Fix">-083524.961+1790804.510</Point>
     <Point Name="FU377" Type="Fix">-082728.001+1791532.299</Point>
+    <Point Name="FWD27" Type="Fix">-210418.800+1645842.200</Point>
+    <Point Name="FWE10" Type="Fix">-223304.799+1672157.600</Point>
+    <Point Name="FWE28" Type="Fix">-223723.002+1673217.200</Point>
+    <Point Name="FWF07" Type="Fix">-141932.002-1781034.500</Point>
+    <Point Name="FWF25" Type="Fix">-141758.700-1775822.001</Point>
+    <Point Name="FWL12" Type="Fix">-204304.102+1671043.702</Point>
+    <Point Name="FWL30" Type="Fix">-204930.799+1671735.902</Point>
+    <Point Name="FWU13" Type="Fix">-204248.398+1651213.799</Point>
+    <Point Name="FWU31" Type="Fix">-205158.799+1651854.202</Point>
+    <Point Name="FWW08" Type="Fix">-131418.398-1761837.598</Point>
     <Point Name="FWW11" Type="Fix">-215538.600+1660329.999</Point>
-    <Point Name="FWW29" Type="Fix">-220512.600+1661759.100</Point>
+    <Point Name="FWW26" Type="Fix">-131417.300-1760522.301</Point>
+    <Point Name="FWW29" Type="Fix">-220512.599+1661759.100</Point>
     <Point Name="GA458" Type="Fix">-084324.218+1604043.381</Point>
     <Point Name="GA488" Type="Fix">-084722.841+1604008.569</Point>
     <Point Name="GALEE" Type="Fix">+050000.000+1433700.001</Point>
@@ -1689,6 +1704,9 @@ MINDI
     <Point Name="GGCSH" Type="Fix">-064043.799+1562307.030</Point>
     <Point Name="GGCSI" Type="Fix">-065055.820+1562722.500</Point>
     <Point Name="GGCSM" Type="Fix">-064330.720+1562416.679</Point>
+    <Point Name="GGES1" Type="Fix">-064717.041+1561506.660</Point>
+    <Point Name="GGES2" Type="Fix">-071746.072+1560948.820</Point>
+    <Point Name="GGES3" Type="Fix">-071936.880+1553811.141</Point>
     <Point Name="GGESA" Type="Fix">-070509.082+1560312.290</Point>
     <Point Name="GGESB" Type="Fix">-070937.850+1560206.889</Point>
     <Point Name="GGESC" Type="Fix">-071008.371+1555731.568</Point>
@@ -1696,6 +1714,9 @@ MINDI
     <Point Name="GGESH" Type="Fix">-065819.132+1555727.961</Point>
     <Point Name="GGESI" Type="Fix">-070636.799+1555927.409</Point>
     <Point Name="GGESM" Type="Fix">-070034.661+1555408.550</Point>
+    <Point Name="GGFE1" Type="Fix">-083018.799+1592609.499</Point>
+    <Point Name="GGFE2" Type="Fix">-083018.788+1594309.548</Point>
+    <Point Name="GGFE3" Type="Fix">-081830.791+1595651.590</Point>
     <Point Name="GGFED" Type="Fix">-080811.378+1594729.440</Point>
     <Point Name="GGFEE" Type="Fix">-081354.862+1594810.282</Point>
     <Point Name="GGFEF" Type="Fix">-080909.400+1593917.122</Point>
@@ -1703,6 +1724,7 @@ MINDI
     <Point Name="GGFEH" Type="Fix">-080549.610+1593303.989</Point>
     <Point Name="GGFEI" Type="Fix">-081132.161+1594343.669</Point>
     <Point Name="GGFEM" Type="Fix">-080646.580+1593450.610</Point>
+    <Point Name="GGFN1" Type="Fix">-080906.800+1590933.451</Point>
     <Point Name="GGFNA" Type="Fix">-075856.489+1593226.851</Point>
     <Point Name="GGFNC" Type="Fix">-075937.799+1593827.460</Point>
     <Point Name="GGFNF" Type="Fix">-080216.890+1593506.428</Point>
@@ -1718,6 +1740,8 @@ MINDI
     <Point Name="GGJEH" Type="Fix">-100220.692+1603411.302</Point>
     <Point Name="GGJEI" Type="Fix">-095936.470+1603341.209</Point>
     <Point Name="GGJEM" Type="Fix">-095338.119+1602532.261</Point>
+    <Point Name="GGKN1" Type="Fix">-102837.441+1621910.718</Point>
+    <Point Name="GGKN2" Type="Fix">-101458.492+1613136.829</Point>
     <Point Name="GGKNA" Type="Fix">-102022.150+1613724.960</Point>
     <Point Name="GGKNC" Type="Fix">-101735.902+1614400.989</Point>
     <Point Name="GGKNF" Type="Fix">-102345.359+1614552.448</Point>
@@ -1772,6 +1796,7 @@ MINDI
     <Point Name="GUARI" Type="Fix">-080730.000+1465848.000</Point>
     <Point Name="GUGPU" Type="Fix">-070005.332+1450640.810</Point>
     <Point Name="GUKIV" Type="Fix">-153705.002+1760439.000</Point>
+    <Point Name="GULID" Type="Fix">-060928.001+1400625.402</Point>
     <Point Name="GULUT" Type="Fix">-392835.231+1711140.859</Point>
     <Point Name="GUMIX" Type="Fix">-083035.791+1574211.099</Point>
     <Point Name="GUMKI" Type="Fix">-271113.000+1535133.000</Point>
@@ -1868,8 +1893,19 @@ MINDI
     <Point Name="ISPID" Type="Fix">-141051.400+1511040.300</Point>
     <Point Name="ISTEM" Type="Fix">-243551.200+1602300.100</Point>
     <Point Name="ISTOS" Type="Fix">-190141.999+1782348.001</Point>
+    <Point Name="IWD27" Type="Fix">-210453.000+1650341.602</Point>
+    <Point Name="IWE10" Type="Fix">-223113.699+1671731.600</Point>
+    <Point Name="IWE28" Type="Fix">-223913.799+1673643.499</Point>
+    <Point Name="IWF07" Type="Fix">-142004.700-1781451.900</Point>
+    <Point Name="IWF25" Type="Fix">-141731.301-1775447.599</Point>
+    <Point Name="IWL12" Type="Fix">-204035.198+1670805.201</Point>
+    <Point Name="IWL30" Type="Fix">-205159.501+1672014.701</Point>
+    <Point Name="IWU13" Type="Fix">-203904.601+1650931.298</Point>
+    <Point Name="IWU31" Type="Fix">-205436.500+1652248.698</Point>
+    <Point Name="IWW08" Type="Fix">-131418.600-1762345.200</Point>
     <Point Name="IWW11" Type="Fix">-215302.800+1655854.001</Point>
-    <Point Name="IWW29" Type="Fix">-220904.500+1662016.600</Point>
+    <Point Name="IWW26" Type="Fix">-131416.800-1760014.699</Point>
+    <Point Name="IWW29" Type="Fix">-220904.500+1662016.598</Point>
     <Point Name="IZOSO" Type="Fix">+065624.731+1575900.420</Point>
     <Point Name="JABEE" Type="Fix">+075214.002+1525525.000</Point>
     <Point Name="JAMAR" Type="Fix">+074516.999+1542611.000</Point>
@@ -1895,6 +1931,7 @@ MINDI
     <Point Name="KABAR" Type="Fix">-161430.001+1782006.000</Point>
     <Point Name="KABIN" Type="Fix">-430903.661+1683308.078</Point>
     <Point Name="KABKA" Type="Fix">-414249.432+1700527.301</Point>
+    <Point Name="KABNA" Type="Fix">-060209.301+1402959.600</Point>
     <Point Name="KADAB" Type="Fix">-045800.001+1410000.000</Point>
     <Point Name="KADEN" Type="Fix">-265021.019-1790326.561</Point>
     <Point Name="KADKA" Type="Fix">-044723.730+1441506.368</Point>
@@ -1973,14 +2010,12 @@ MINDI
     <Point Name="KRARI" Type="Fix">-045730.330+1432803.929</Point>
     <Point Name="KRASY" Type="Fix">+050000.000+1552700.000</Point>
     <Point Name="KRONK" Type="Fix">+092400.000+1541059.999</Point>
-    <Point Name="KT401" Type="Fix">-060209.330+1402959.572</Point>
-    <Point Name="KT402" Type="Fix">-060303.010+1402706.959</Point>
-    <Point Name="KT403" Type="Fix">-060414.441+1402316.778</Point>
-    <Point Name="KT405" Type="Fix">-060636.050+1401536.680</Point>
-    <Point Name="KT501" Type="Fix">-060927.950+1400625.402</Point>
-    <Point Name="KT502" Type="Fix">-060832.989+1400918.029</Point>
-    <Point Name="KT503" Type="Fix">-060722.688+1401308.371</Point>
-    <Point Name="KT504" Type="Fix">-060500.211+1402048.829</Point>
+    <Point Name="KT402" Type="Fix">-060833.000+1400918.000</Point>
+    <Point Name="KT403" Type="Fix">-060724.802+1401302.500</Point>
+    <Point Name="KT404" Type="Fix">-060500.200+1402048.800</Point>
+    <Point Name="KT602" Type="Fix">-060302.999+1402706.998</Point>
+    <Point Name="KT603" Type="Fix">-060411.798+1402321.599</Point>
+    <Point Name="KT604" Type="Fix">-060636.698+1401536.900</Point>
     <Point Name="KUCEF" Type="Fix">+072555.189+1514919.031</Point>
     <Point Name="KUHEK" Type="Fix">+070611.351+1710434.370</Point>
     <Point Name="KUILA" Type="Fix">-174419.000+1772236.001</Point>
@@ -2039,7 +2074,6 @@ MINDI
     <Point Name="LOLLY" Type="Fix">-400842.800+1503506.200</Point>
     <Point Name="LOOIS" Type="Fix">+081206.001+1644453.999</Point>
     <Point Name="LOWEY" Type="Fix">+072548.000+1650333.001</Point>
-    <Point Name="LT014" Type="Fix">-215307.289+1655922.690</Point>
     <Point Name="LUDGA" Type="Fix">-065706.289+1472602.389</Point>
     <Point Name="LUGLI" Type="Fix">-073458.778+1454710.021</Point>
     <Point Name="LUKTI" Type="Fix">-080004.388+1494325.410</Point>
@@ -2049,9 +2083,11 @@ MINDI
     <Point Name="LUPLO" Type="Fix">-172042.000+1790654.000</Point>
     <Point Name="LURDU" Type="Fix">-161641.801+1791839.589</Point>
     <Point Name="LYNIS" Type="Fix">+062131.000+1633211.000</Point>
-    <Point Name="MA025" Type="Fix">-174240.810+1681513.421</Point>
+    <Point Name="MA03" Type="Fix">-083144.771+1791131.290</Point>
+    <Point Name="MA07" Type="Fix">-081958.991+1571352.190</Point>
     <Point Name="MA11" Type="Fix">-174112.401+1681742.151</Point>
-    <Point Name="MA204" Type="Fix">-174320.651+1772040.261</Point>
+    <Point Name="MA21" Type="Fix">-083108.242+1791205.591</Point>
+    <Point Name="MA25" Type="Fix">-081913.220+1571752.141</Point>
     <Point Name="MA29" Type="Fix">-174241.378+1682037.709</Point>
     <Point Name="MA303" Type="Fix">-153414.272-1753538.350</Point>
     <Point Name="MABEL" Type="Fix">-171054.001+1783830.001</Point>
@@ -2060,6 +2096,8 @@ MINDI
     <Point Name="MADOK" Type="Fix">-431558.658+1665605.399</Point>
     <Point Name="MAFRU" Type="Fix">+065935.081+1581017.789</Point>
     <Point Name="MAGPO" Type="Fix">-075345.730+1592222.598</Point>
+    <Point Name="MAH11" Type="Fix">-175101.620+1681531.370</Point>
+    <Point Name="MAH29" Type="Fix">-175230.601+1681826.910</Point>
     <Point Name="MAIPA" Type="Fix">-081710.072+1463136.458</Point>
     <Point Name="MALAK" Type="Fix">-172330.001+1780530.001</Point>
     <Point Name="MALEE" Type="Fix">-161907.000+1791822.000</Point>
@@ -2104,7 +2142,6 @@ MINDI
     <Point Name="MISGA" Type="Fix">-222751.001+1670000.000</Point>
     <Point Name="MISLY" Type="Fix">-304941.400+1555331.500</Point>
     <Point Name="MISSU" Type="Fix">-180521.210+1680247.360</Point>
-    <Point Name="MN219" Type="Fix">-290433.420+1674847.250</Point>
     <Point Name="MOALA" Type="Fix">-183401.999+1795704.000</Point>
     <Point Name="MOFHU" Type="Fix">+092423.602+1672854.638</Point>
     <Point Name="MOKIN" Type="Fix">-062411.999+1533311.999</Point>
@@ -2114,8 +2151,6 @@ MINDI
     <Point Name="MORNA" Type="Fix">-030000.000+1651000.001</Point>
     <Point Name="MOSVI" Type="Fix">-084847.048+1603623.749</Point>
     <Point Name="MOTKI" Type="Fix">-175138.311+1772921.570</Point>
-    <Point Name="MQ287" Type="Fix">-024125.991+1412003.592</Point>
-    <Point Name="MQ320" Type="Fix">-290423.221+1675720.920</Point>
     <Point Name="MST" Type="Fix">-080723.999+1465924.000</Point>
     <Point Name="MUANI" Type="Fix">-184429.000+1781648.000</Point>
     <Point Name="MUBEK" Type="Fix">-032616.141+1491117.722</Point>
@@ -2127,8 +2162,10 @@ MINDI
     <Point Name="MUNDU" Type="Fix">-172452.999+1792626.999</Point>
     <Point Name="MUNEL" Type="Fix">-142818.000+1445512.000</Point>
     <Point Name="MUNOS" Type="Fix">-082546.081+1570232.730</Point>
+    <Point Name="MWD27" Type="Fix">-210340.421+1645308.588</Point>
+    <Point Name="MWF25" Type="Fix">-141824.599-1780144.501</Point>
     <Point Name="MWW11" Type="Fix">-215941.500+1661040.901</Point>
-    <Point Name="MWW29" Type="Fix">-220150.750+1661430.670</Point>
+    <Point Name="MWW29" Type="Fix">-220150.750+1661430.671</Point>
     <Point Name="MXHEA" Type="Fix">-062904.380+1432951.270</Point>
     <Point Name="MXHEB" Type="Fix">-063101.679+1432423.400</Point>
     <Point Name="MXHEF" Type="Fix">-062308.138+1432138.819</Point>
@@ -2137,14 +2174,6 @@ MINDI
     <Point Name="MXHEM" Type="Fix">-062154.518+1431602.212</Point>
     <Point Name="MXHET" Type="Fix">-062159.681+1430656.621</Point>
     <Point Name="MXHEZ" Type="Fix">-062233.161+1431858.831</Point>
-    <Point Name="NA015" Type="Fix">-180937.649+1782946.140</Point>
-    <Point Name="NA085" Type="Fix">-180145.700+1782521.608</Point>
-    <Point Name="NA179" Type="Fix">-175439.629+1783521.170</Point>
-    <Point Name="NA200" Type="Fix">-175549.001+1783818.690</Point>
-    <Point Name="NA255" Type="Fix">-180234.411+1784206.750</Point>
-    <Point Name="NA283" Type="Fix">-180623.108+1784105.291</Point>
-    <Point Name="NA350" Type="Fix">-181032.941+1783306.610</Point>
-    <Point Name="NA359" Type="Fix">-181022.300+1783151.719</Point>
     <Point Name="NABAT" Type="Fix">-163331.000+1790525.001</Point>
     <Point Name="NADAN" Type="Fix">+012912.700+1725900.550</Point>
     <Point Name="NAIRA" Type="Fix">+065908.599+1580413.012</Point>
@@ -2160,7 +2189,6 @@ MINDI
     <Point Name="NF156" Type="Fix">-290844.632+1675857.472</Point>
     <Point Name="NF257" Type="Fix">-290247.080+1674812.550</Point>
     <Point Name="NF261" Type="Fix">-290031.921+1674421.840</Point>
-    <Point Name="NF265" Type="Fix">-290217.369+1680716.748</Point>
     <Point Name="NF271" Type="Fix">-285954.020+1674432.240</Point>
     <Point Name="NFNG" Type="Fix">-180656.002+1792022.999</Point>
     <Point Name="NFNH" Type="Fix">-164448.001-1794000.001</Point>
@@ -2339,6 +2367,27 @@ MINDI
     <Point Name="RIPIE" Type="Fix">+065906.040+1581345.008</Point>
     <Point Name="RIPNA" Type="Fix">-140000.000+1582500.001</Point>
     <Point Name="RIWAT" Type="Fix">-173811.000+1785823.002</Point>
+    <Point Name="RNV04" Type="Fix">-174823.861+1683745.480</Point>
+    <Point Name="RNV05" Type="Fix">-174646.060+1682035.689</Point>
+    <Point Name="RNV06" Type="Fix">-175517.371+1682216.039</Point>
+    <Point Name="RNV07" Type="Fix">-181514.861+1682611.411</Point>
+    <Point Name="RNV08" Type="Fix">-173839.952+1682525.759</Point>
+    <Point Name="RNV09" Type="Fix">-174715.652+1682041.489</Point>
+    <Point Name="RNV10" Type="Fix">-172957.829+1680054.349</Point>
+    <Point Name="RNV11" Type="Fix">-173844.120+1681203.848</Point>
+    <Point Name="RNV12" Type="Fix">-174251.998+1681629.888</Point>
+    <Point Name="RNV13" Type="Fix">-174356.201+1681716.552</Point>
+    <Point Name="RNV14" Type="Fix">-174754.431+1682010.050</Point>
+    <Point Name="RNV15" Type="Fix">-174317.501+1681820.279</Point>
+    <Point Name="RNV17" Type="Fix">-175027.301+1683741.621</Point>
+    <Point Name="RNV18" Type="Fix">-174440.312+1682538.500</Point>
+    <Point Name="RNV19" Type="Fix">-174400.830+1681912.652</Point>
+    <Point Name="RNV20" Type="Fix">-174434.980+1681806.142</Point>
+    <Point Name="RNV21" Type="Fix">-174410.561+1681747.760</Point>
+    <Point Name="RNV22" Type="Fix">-174310.538+1681743.120</Point>
+    <Point Name="RNV23" Type="Fix">-175200.001+1682342.248</Point>
+    <Point Name="RNV24" Type="Fix">-175356.260+1681457.120</Point>
+    <Point Name="RNV26" Type="Fix">-175656.321+1675547.212</Point>
     <Point Name="ROTAN" Type="Fix">-170100.001+1793448.000</Point>
     <Point Name="ROWIN" Type="Fix">-170900.000-1793302.002</Point>
     <Point Name="ROYOD" Type="Fix">+084509.259+1675012.998</Point>
@@ -2524,7 +2573,7 @@ MINDI
     <Point Name="UBDAK" Type="Fix">-285434.070+1654827.158</Point>
     <Point Name="UBLAT" Type="Fix">-081001.009+1392949.898</Point>
     <Point Name="UBLIN" Type="Fix">-274941.002+1630000.000</Point>
-    <Point Name="UBRAX" Type="Fix">-200000.000-1753560.000</Point>
+    <Point Name="UBRAX" Type="Fix">-200000.000-1753600.000</Point>
     <Point Name="UBTAM" Type="Fix">-365726.820+1665201.700</Point>
     <Point Name="UCOLE" Type="Fix">+073442.161+1515750.130</Point>
     <Point Name="UDEXE" Type="Fix">+073112.821+1515412.791</Point>
@@ -2593,9 +2642,6 @@ MINDI
     <Point Name="VW525" Type="Fix">-192804.321+1691345.469</Point>
     <Point Name="VW729" Type="Fix">-192525.331+1691236.788</Point>
     <Point Name="VW837" Type="Fix">-192026.621+1691156.569</Point>
-    <Point Name="W1" Type="Fix">-041439.700+1390402.078</Point>
-    <Point Name="W2" Type="Fix">-041821.110+1390301.541</Point>
-    <Point Name="W3" Type="Fix">-042056.789+1390317.111</Point>
     <Point Name="WADRU" Type="Fix">+084442.000+1674844.510</Point>
     <Point Name="WALTZ" Type="Fix">-354650.900+1580455.300</Point>
     <Point Name="WAREN" Type="Fix">-380100.000+1451842.000</Point>
@@ -2906,9 +2952,8 @@ MINDI
     <Point Name="ZIVZU" Type="Fix">+071121.790+1712540.490</Point>
     <Point Name="ZULTO" Type="Fix">+065905.309+1581621.281</Point>
     <Point Name="ZULU" Type="Fix">-174744.761+1682756.318</Point>
-    <Point Name="AA" Type="Navaid" NavaidType="NDB" Frequency="396.000">+003000.000+1735060.000</Point>
+    <Point Name="AA" Type="Navaid" NavaidType="NDB" Frequency="396.000">+003000.000+1735100.000</Point>
     <Point Name="AI" Type="Navaid" NavaidType="NDB" Frequency="360.000">-084205.000+1604050.999</Point>
-    <Point Name="AL" Type="Navaid" NavaidType="NDB" Frequency="385.000">-174932.002+1772312.998</Point>
     <Point Name="BA" Type="Navaid" NavaidType="NDB" Frequency="361.000">-174133.079+1681606.679</Point>
     <Point Name="BL" Type="Navaid" NavaidType="NDB" Frequency="342.000">-194319.700+1633948.100</Point>
     <Point Name="BO" Type="Navaid" NavaidType="NDB" Frequency="390.000">+012246.999+1730844.999</Point>
@@ -2916,15 +2961,14 @@ MINDI
     <Point Name="FND" Type="Navaid" NavaidType="NDB" Frequency="354.000">-220000.900+1661115.400</Point>
     <Point Name="FU" Type="Navaid" NavaidType="NDB" Frequency="340.000">-083128.999+1791152.001</Point>
     <Point Name="GB" Type="Navaid" NavaidType="NDB" Frequency="370.000">-104326.000+1654650.999</Point>
-    <Point Name="GBE" Type="Navaid" NavaidType="NDB" Frequency="215.000">-065325.141+1434044.760</Point>
-    <Point Name="HID" Type="Navaid" NavaidType="NDB" Frequency="356.000">-103531.380+1421733.230</Point>
+    <Point Name="HID" Type="Navaid" NavaidType="NDB" Frequency="000.000">-103531.400+1421733.200</Point>
     <Point Name="HL" Type="Navaid" NavaidType="NDB" Frequency="284.000">-211532.000+1653641.000</Point>
     <Point Name="HN" Type="Navaid" NavaidType="NDB" Frequency="348.000">-092526.720+1600316.740</Point>
     <Point Name="HO" Type="Navaid" NavaidType="NDB" Frequency="315.000">-131425.800-1761150.798</Point>
     <Point Name="IP" Type="Navaid" NavaidType="NDB" Frequency="332.000">-223524.000+1672703.899</Point>
     <Point Name="KO" Type="Navaid" NavaidType="NDB" Frequency="313.000">-203230.300+1641539.802</Point>
     <Point Name="KQ" Type="Navaid" NavaidType="NDB" Frequency="305.000">-210617.500+1645220.100</Point>
-    <Point Name="KUT" Type="Navaid" NavaidType="NDB" Frequency="1738.500">-080354.000+1443336.000</Point>
+    <Point Name="KUT" Type="Navaid" NavaidType="NDB" Frequency="1738.50">-080354.000+1443336.000</Point>
     <Point Name="LHI" Type="Navaid" NavaidType="NDB" Frequency="000.000">-313144.100+1590422.600</Point>
     <Point Name="LHR" Type="Navaid" NavaidType="NDB" Frequency="218.000">-030241.341+1523735.101</Point>
     <Point Name="LK" Type="Navaid" NavaidType="NDB" Frequency="391.000">-181218.000-1784847.999</Point>
@@ -2934,7 +2978,7 @@ MINDI
     <Point Name="MG" Type="Navaid" NavaidType="NDB" Frequency="394.000">-221611.600+1662823.099</Point>
     <Point Name="MI" Type="Navaid" NavaidType="NDB" Frequency="364.000">-175358.999+1771932.002</Point>
     <Point Name="MOE" Type="Navaid" NavaidType="NDB" Frequency="212.000">-020342.001+1472536.001</Point>
-    <Point Name="MOR" Type="Navaid" NavaidType="NDB" Frequency="1642.000">-062146.321+1431515.059</Point>
+    <Point Name="MOR" Type="Navaid" NavaidType="NDB" Frequency="1642.00">-062146.321+1431515.059</Point>
     <Point Name="MR" Type="Navaid" NavaidType="NDB" Frequency="388.000">-212853.800+1680208.902</Point>
     <Point Name="MT" Type="Navaid" NavaidType="NDB" Frequency="296.000">-164117.700-1795248.698</Point>
     <Point Name="MUD" Type="Navaid" NavaidType="NDB" Frequency="400.000">-081951.870+1571517.662</Point>
@@ -2946,7 +2990,7 @@ MINDI
     <Point Name="NW" Type="Navaid" NavaidType="NDB" Frequency="325.500">-215615.900+1660432.300</Point>
     <Point Name="OA" Type="Navaid" NavaidType="NDB" Frequency="402.000">-203831.700+1663419.402</Point>
     <Point Name="OI" Type="Navaid" NavaidType="NDB" Frequency="350.000">-203911.999-1784430.001</Point>
-    <Point Name="OKT" Type="Navaid" NavaidType="NDB" Frequency="1632.000">-052435.640+1411907.320</Point>
+    <Point Name="OKT" Type="Navaid" NavaidType="NDB" Frequency="1632.00">-052435.640+1411907.320</Point>
     <Point Name="PNI" Type="Navaid" NavaidType="NDB" Frequency="366.000">+065856.381+1581207.430</Point>
     <Point Name="RM" Type="Navaid" NavaidType="NDB" Frequency="277.000">-122853.602+1770417.900</Point>
     <Point Name="SON" Type="Navaid" NavaidType="NDB" Frequency="412.000">-153022.291+1671259.620</Point>
@@ -2971,7 +3015,7 @@ MINDI
     <Point Name="NO" Type="Fix">-222526.000+1670047.000</Point>
     <Point Name="P" Type="Fix">-221935.000+1663410.000</Point>
     <Point Name="PD" Type="Fix">-222124.000+1661459.000</Point>
-    <Point Name="R" Type="Fix">-221203.000+1662660.000</Point>
+    <Point Name="R" Type="Fix">-221203.000+1662700.000</Point>
     <Point Name="S" Type="Fix">-220559.000+1660740.000</Point>
     <Point Name="SH" Type="Fix">-220959.000+1662259.000</Point>
     <Point Name="V" Type="Fix">-221251.000+1662412.000</Point>
@@ -2982,19 +3026,15 @@ MINDI
     <Point Name="CS" Type="Navaid" NavaidType="VOR" Frequency="000.000">-165100.100+1454438.000</Point>
     <Point Name="DN" Type="Navaid" NavaidType="VOR" Frequency="000.000">-122523.800+1305423.300</Point>
     <Point Name="FU" Type="Navaid" NavaidType="VOR" Frequency="113.300">-083128.481+1791151.079</Point>
-    <Point Name="GBE" Type="Navaid" NavaidType="VOR" Frequency="113.600">-065325.141+1434044.760</Point>
-    <Point Name="GNY" Type="Navaid" NavaidType="VOR" Frequency="115.600">-101856.761+1502142.779</Point>
     <Point Name="HM" Type="Navaid" NavaidType="VOR" Frequency="000.000">-202104.200+1485721.200</Point>
     <Point Name="HN" Type="Navaid" NavaidType="VOR" Frequency="113.600">-092606.479+1600214.201</Point>
     <Point Name="HOI" Type="Navaid" NavaidType="VOR" Frequency="113.000">-131422.499-1761206.599</Point>
     <Point Name="JPA" Type="Navaid" NavaidType="VOR" Frequency="116.200">-023442.190+1403100.001</Point>
-    <Point Name="KIU" Type="Navaid" NavaidType="VOR" Frequency="113.800">-060718.721+1411712.599</Point>
-    <Point Name="KVG" Type="Navaid" NavaidType="VOR" Frequency="117.100">-023507.861+1504850.281</Point>
+    <Point Name="KVG" Type="Navaid" NavaidType="VOR" Frequency="117.100">-023507.390+1504849.720</Point>
     <Point Name="LB" Type="Navaid" NavaidType="VOR" Frequency="115.100">-162505.999+1791852.999</Point>
     <Point Name="LFU" Type="Navaid" NavaidType="VOR" Frequency="113.300">-204627.098+1671426.002</Point>
     <Point Name="LTO" Type="Navaid" NavaidType="VOR" Frequency="112.900">-220019.598+1661242.001</Point>
     <Point Name="MAJ" Type="Navaid" NavaidType="VOR" Frequency="116.700">+070355.289+1711607.810</Point>
-    <Point Name="MD" Type="Navaid" NavaidType="VOR" Frequency="116.300">-051241.879+1454636.419</Point>
     <Point Name="MGA" Type="Navaid" NavaidType="VOR" Frequency="113.000">-221855.400+1662823.401</Point>
     <Point Name="MK" Type="Navaid" NavaidType="VOR" Frequency="000.000">-211022.800+1491114.000</Point>
     <Point Name="MKE" Type="Navaid" NavaidType="VOR" Frequency="115.800">-083121.389+1402501.600</Point>
@@ -3012,7 +3052,6 @@ MINDI
     <Point Name="PY" Type="Navaid" NavaidType="VOR" Frequency="117.000">-092711.999+1471254.000</Point>
     <Point Name="SON" Type="Navaid" NavaidType="VOR" Frequency="114.500">-153023.828+1671301.628</Point>
     <Point Name="TA" Type="Navaid" NavaidType="VOR" Frequency="112.800">+012259.700+1730846.601</Point>
-    <Point Name="TK" Type="Navaid" NavaidType="VOR" Frequency="113.600">-042047.519+1522351.360</Point>
     <Point Name="TKK" Type="Navaid" NavaidType="VOR" Frequency="116.400">+072725.600+1515025.901</Point>
     <Point Name="TL" Type="Navaid" NavaidType="VOR" Frequency="000.000">-191439.100+1464529.100</Point>
     <Point Name="TN" Type="Navaid" NavaidType="VOR" Frequency="000.000">-143109.100+1322215.600</Point>
@@ -3435,109 +3474,127 @@ MINDI
     </STAR>
   </SIDSTARs>
   <Airports>
-    <Airport ICAO="AGAR" Position="-095138.002+1615848.000" />
-    <Airport ICAO="AGAT" Position="-085223.999+1610041.400">
+    <Airport ICAO="AGAR" Position="-095138.002+1615848.000" Elevation="15">
+      <Runway Name="11" Position="-095138.002+1615848.000" />
+      <Runway Name="29" Position="-095138.002+1615848.000" />
+    </Airport>
+    <Airport ICAO="AGAT" Position="-085223.999+1610041.400" Elevation="17">
       <Runway Name="13" Position="-085213.231+1610032.249" />
       <Runway Name="31" Position="-085234.270+1610050.000" />
     </Airport>
-    <Airport ICAO="AGGA" Position="-084219.739+1604054.210">
+    <Airport ICAO="AGGA" Position="-084219.739+1604054.210" Elevation="11">
       <Runway Name="18" Position="-084154.010+1604056.539" />
       <Runway Name="36" Position="-084224.559+1604052.079" />
     </Airport>
-    <Airport ICAO="AGGB" Position="-111742.000+1594748.001">
+    <Airport ICAO="AGGB" Position="-111742.000+1594748.001" Elevation="56">
       <Runway Name="11" Position="-111803.290+1594742.810" />
       <Runway Name="29" Position="-111811.812+1594803.010" />
     </Airport>
-    <Airport ICAO="AGGC" Position="-064243.319+1562346.298">
+    <Airport ICAO="AGGC" Position="-064243.319+1562346.298" Elevation="5">
       <Runway Name="13" Position="-064234.279+1562340.510" />
       <Runway Name="31" Position="-064252.351+1562352.091" />
     </Airport>
-    <Airport ICAO="AGGE" Position="-065926.999+1555308.999">
+    <Airport ICAO="AGGE" Position="-065926.999+1555308.999" Elevation="6">
       <Runway Name="04" Position="-065943.530+1555247.809" />
       <Runway Name="22" Position="-065910.460+1555330.181" />
     </Airport>
-    <Airport ICAO="AGGF" Position="-080631.162+1593436.181">
+    <Airport ICAO="AGGF" Position="-080631.162+1593436.181" Elevation="9">
       <Runway Name="18" Position="-080611.491+1593439.299" />
       <Runway Name="36" Position="-080635.071+1593436.412" />
     </Airport>
-    <Airport ICAO="AGGH" Position="-092547.089+1600253.380">
+    <Airport ICAO="AGGH" Position="-092547.089+1600253.380" Elevation="34">
       <Runway Name="06" Position="-092555.060+1600242.659" />
       <Runway Name="24" Position="-092528.268+1600349.529" />
     </Airport>
-    <Airport ICAO="AGGI" Position="-094451.940+1595022.780">
+    <Airport ICAO="AGGI" Position="-094451.940+1595022.780" Elevation="74">
       <Runway Name="17" Position="-094440.999+1595022.268" />
       <Runway Name="35" Position="-094502.891+1595023.291" />
     </Airport>
-    <Airport ICAO="AGGJ" Position="-095205.401+1602437.199">
+    <Airport ICAO="AGGJ" Position="-095205.401+1602437.199" Elevation="27">
       <Runway Name="14" Position="-095157.481+1602432.580" />
       <Runway Name="32" Position="-095215.899+1602443.740" />
     </Airport>
-    <Airport ICAO="AGGK" Position="-102630.001+1615348.001">
+    <Airport ICAO="AGGK" Position="-102630.001+1615348.001" Elevation="8">
       <Runway Name="10" Position="-102650.921+1615336.600" />
       <Runway Name="28" Position="-102705.659+1615413.500" />
     </Airport>
-    <Airport ICAO="AGGL" Position="-104310.312+1654754.870">
+    <Airport ICAO="AGGL" Position="-104310.312+1654754.870" Elevation="22">
       <Runway Name="05" Position="-104316.489+1654737.421" />
       <Runway Name="23" Position="-104303.551+1654804.590" />
     </Airport>
-    <Airport ICAO="AGGM" Position="-081938.050+1571542.210">
+    <Airport ICAO="AGGM" Position="-081938.050+1571542.210" Elevation="18">
       <Runway Name="07" Position="-081943.489+1571513.410" />
       <Runway Name="25" Position="-081932.470+1571611.190" />
     </Airport>
-    <Airport ICAO="AGGN" Position="-080554.751+1565150.519">
+    <Airport ICAO="AGGN" Position="-080554.751+1565150.519" Elevation="14">
       <Runway Name="14" Position="-080542.421+1565143.351" />
       <Runway Name="32" Position="-080606.721+1565158.360" />
     </Airport>
-    <Airport ICAO="AGGO" Position="-072455.001+1553400.001">
+    <Airport ICAO="AGGO" Position="-072455.001+1553400.001" Elevation="35">
       <Runway Name="04" Position="-072506.571+1553349.241" />
       <Runway Name="22" Position="-072442.930+1553411.021" />
     </Airport>
-    <Airport ICAO="AGGP" Position="-093837.000+1612541.599">
+    <Airport ICAO="AGGP" Position="-093837.000+1612541.599" Elevation="100">
       <Runway Name="12" Position="-093821.908+1612518.311" />
       <Runway Name="30" Position="-093834.670+1612534.900" />
     </Airport>
-    <Airport ICAO="AGGR" Position="-113235.999+1600342.001">
+    <Airport ICAO="AGGR" Position="-113235.999+1600342.001" Elevation="94">
       <Runway Name="12" Position="-113255.259+1600339.380" />
       <Runway Name="30" Position="-113308.759+1600356.830" />
     </Airport>
-    <Airport ICAO="AGGS" Position="-083444.479+1575245.368">
+    <Airport ICAO="AGGS" Position="-083444.479+1575245.368" Elevation="8">
       <Runway Name="10" Position="-083438.510+1575218.091" />
       <Runway Name="28" Position="-083446.420+1575246.970" />
     </Airport>
-    <Airport ICAO="AGGT" Position="-105054.049+1622716.402">
+    <Airport ICAO="AGGT" Position="-105054.049+1622716.402" Elevation="132">
       <Runway Name="11" Position="-105047.450+1622704.882" />
       <Runway Name="29" Position="-105100.652+1622727.922" />
     </Airport>
-    <Airport ICAO="AGGU" Position="-095151.300+1604921.241" />
-    <Airport ICAO="AGGV" Position="-073459.999+1584359.999">
+    <Airport ICAO="AGGU" Position="-095151.300+1604921.241" Elevation="3">
+      <Runway Name="05" Position="-095151.300+1604921.241" />
+      <Runway Name="23" Position="-095151.300+1604921.241" />
+    </Airport>
+    <Airport ICAO="AGGV" Position="-073459.999+1584359.999" Elevation="20">
       <Runway Name="04" Position="-073515.562+1584343.151" />
       <Runway Name="22" Position="-073457.133+1584403.804" />
     </Airport>
-    <Airport ICAO="AGGY" Position="-090535.999+1591305.999">
+    <Airport ICAO="AGGY" Position="-090535.999+1591305.999" Elevation="66">
       <Runway Name="12" Position="-090534.210+1591306.881" />
       <Runway Name="30" Position="-090552.850+1591330.878" />
     </Airport>
-    <Airport ICAO="AGKG" Position="-071954.001+1573512.001">
+    <Airport ICAO="AGKG" Position="-071954.001+1573512.001" Elevation="10">
       <Runway Name="14" Position="-071943.795+1573505.586" />
       <Runway Name="32" Position="-072004.128+1573518.438" />
     </Airport>
-    <Airport ICAO="AGLM" Position="-101748.599+1661938.521" />
-    <Airport ICAO="AGOB" Position="-081916.799+1604744.999" />
-    <Airport ICAO="AGRC" Position="-080705.999+1570830.001" />
-    <Airport ICAO="ANYN" Position="-003240.920+1665501.679">
+    <Airport ICAO="AGLM" Position="-101748.599+1661938.521" Elevation="26">
+      <Runway Name="10" Position="-101748.599+1661938.521" />
+      <Runway Name="28" Position="-101748.599+1661938.521" />
+    </Airport>
+    <Airport ICAO="AGOB" Position="-081916.799+1604744.999" Elevation="163">
+      <Runway Name="12" Position="-081916.799+1604744.999" />
+      <Runway Name="30" Position="-081916.799+1604744.999" />
+    </Airport>
+    <Airport ICAO="AGRC" Position="-080705.999+1570830.001" Elevation="26">
+      <Runway Name="01" Position="-080705.999+1570830.001" />
+      <Runway Name="19" Position="-080705.999+1570830.001" />
+    </Airport>
+    <Airport ICAO="ANYN" Position="-003240.920+1665501.679" Elevation="25">
       <Runway Name="12" Position="-003229.558+1665443.718" />
       <Runway Name="30" Position="-003311.048+1665532.459" />
     </Airport>
-    <Airport ICAO="AYBK" Position="-052514.801+1544031.800">
+    <Airport ICAO="AYBK" Position="-052514.801+1544031.800" Elevation="10">
       <Runway Name="04" Position="-052537.301+1544002.899" />
       <Runway Name="22" Position="-052503.101+1544040.598" />
     </Airport>
-    <Airport ICAO="AYBU" Position="-071316.259+1463904.500" />
-    <Airport ICAO="AYCH" Position="-060127.419+1445812.000">
+    <Airport ICAO="AYBU" Position="-071316.259+1463904.500" Elevation="2193">
+      <Runway Name="15" Position="-071316.259+1463904.500" />
+      <Runway Name="33" Position="-071316.259+1463904.500" />
+    </Airport>
+    <Airport ICAO="AYCH" Position="-060127.419+1445812.000" Elevation="4974">
       <Runway Name="03" Position="-060139.900+1445803.839" />
       <Runway Name="21" Position="-060112.659+1445823.880" />
     </Airport>
-    <Airport ICAO="AYDU" Position="-090511.800+1431229.498">
+    <Airport ICAO="AYDU" Position="-090511.800+1431229.498" Elevation="21">
       <Runway Name="14" Position="-090456.798+1431211.801" />
       <Runway Name="32" Position="-090529.000+1431244.201" />
     </Airport>
@@ -3547,47 +3604,47 @@ MINDI
       <Runway Name="17R" Position="-060431.260+1452326.340" />
       <Runway Name="35L" Position="-060532.939+1452331.801" />
     </Airport>
-    <Airport ICAO="AYGB" Position="-065240.260+1434318.779">
+    <Airport ICAO="AYGB" Position="-065240.260+1434318.779" Elevation="178">
       <Runway Name="14" Position="-065227.599+1434306.481" />
       <Runway Name="32" Position="-065252.860+1434331.141" />
     </Airport>
-    <Airport ICAO="AYGN" Position="-101839.719+1502004.499">
-      <Runway Name="09" Position="-101832.159+1501935.641" />
-      <Runway Name="27" Position="-101842.840+1502030.181" />
+    <Airport ICAO="AYGN" Position="-101839.719+1502004.499" Elevation="87">
+      <Runway Name="09" Position="-101832.209+1501935.620" />
+      <Runway Name="27" Position="-101844.561+1502038.731" />
     </Airport>
-    <Airport ICAO="AYGR" Position="-084831.900+1481823.400">
+    <Airport ICAO="AYGR" Position="-084831.900+1481823.400" Elevation="314">
       <Runway Name="03" Position="-084837.501+1481815.502" />
       <Runway Name="21" Position="-084754.701+1481849.100" />
     </Airport>
-    <Airport ICAO="AYHK" Position="-052748.802+1502425.499">
+    <Airport ICAO="AYHK" Position="-052748.802+1502425.499" Elevation="77">
       <Runway Name="12" Position="-052728.300+1502403.341" />
       <Runway Name="30" Position="-052810.099+1502448.802" />
     </Airport>
-    <Airport ICAO="AYKA" Position="-083022.079+1510452.860">
+    <Airport ICAO="AYKA" Position="-083022.079+1510452.860" Elevation="21">
       <Runway Name="14" Position="-083001.321+1510433.121" />
       <Runway Name="32" Position="-083043.981+1510509.899" />
     </Airport>
-    <Airport ICAO="AYKI" Position="-060729.500+1411707.102">
+    <Airport ICAO="AYKI" Position="-060729.500+1411707.102" Elevation="115">
       <Runway Name="07" Position="-060736.700+1411636.502" />
       <Runway Name="25" Position="-060725.399+1411713.898" />
     </Airport>
-    <Airport ICAO="AYKK" Position="-072528.740+1441500.241">
+    <Airport ICAO="AYKK" Position="-072528.740+1441500.241" Elevation="40">
       <Runway Name="12" Position="-072522.501+1441450.820" />
       <Runway Name="30" Position="-072535.040+1441509.659" />
     </Airport>
-    <Airport ICAO="AYKM" Position="-075749.702+1454618.700">
+    <Airport ICAO="AYKM" Position="-075749.702+1454618.700" Elevation="8">
       <Runway Name="14" Position="-075736.400+1454608.198" />
       <Runway Name="32" Position="-075801.801+1454625.500" />
     </Airport>
-    <Airport ICAO="AYKV" Position="-023455.999+1504839.100">
+    <Airport ICAO="AYKV" Position="-023455.999+1504839.100" Elevation="15">
       <Runway Name="12" Position="-023430.000+1504806.401" />
-      <Runway Name="30" Position="-023501.619+1504851.199" />
+      <Runway Name="30" Position="-023501.601+1504851.300" />
     </Airport>
-    <Airport ICAO="AYKY" Position="-030235.279+1523740.800">
+    <Airport ICAO="AYKY" Position="-030235.279+1523740.800" Elevation="199">
       <Runway Name="12" Position="-030224.180+1523731.321" />
       <Runway Name="30" Position="-030251.241+1523759.401" />
     </Airport>
-    <Airport ICAO="AYMD" Position="-051229.880+1454715.601" Elevation="18">
+    <Airport ICAO="AYMD" Position="-051229.999+1454715.601" Elevation="18">
       <Runway Name="07" Position="-051237.400+1454653.400" />
       <Runway Name="25" Position="-051225.301+1454738.800" />
     </Airport>
@@ -3597,19 +3654,19 @@ MINDI
       <Runway Name="12" Position="-054922.699+1441727.398" />
       <Runway Name="30" Position="-054959.999+1441827.900" />
     </Airport>
-    <Airport ICAO="AYMN" Position="-060845.960+1433926.161">
+    <Airport ICAO="AYMN" Position="-060845.960+1433926.161" Elevation="5672">
       <Runway Name="17" Position="-060832.978+1433923.231" />
       <Runway Name="35" Position="-060915.181+1433928.501" />
     </Airport>
-    <Airport ICAO="AYMO" Position="-020350.699+1472526.400">
+    <Airport ICAO="AYMO" Position="-020350.699+1472526.400" Elevation="12">
       <Runway Name="16" Position="-020314.159+1472517.040" />
       <Runway Name="34" Position="-020409.779+1472536.419" />
     </Airport>
-    <Airport ICAO="AYMR" Position="-062142.779+1431350.520">
+    <Airport ICAO="AYMR" Position="-062142.779+1431350.520" Elevation="2744">
       <Runway Name="09" Position="-062145.061+1431348.180" />
       <Runway Name="27" Position="-062149.140+1431445.661" />
     </Airport>
-    <Airport ICAO="AYMS" Position="-104117.340+1525021.419">
+    <Airport ICAO="AYMS" Position="-104117.340+1525021.419" Elevation="42">
       <Runway Name="08" Position="-104121.840+1524955.560" />
       <Runway Name="26" Position="-104119.320+1525034.919" />
     </Airport>
@@ -3623,11 +3680,11 @@ MINDI
       <Runway Name="14R" Position="-092605.100+1471247.002" />
       <Runway Name="32L" Position="-092640.999+1471309.098" />
     </Airport>
-    <Airport ICAO="AYTA" Position="-055041.302+1425648.998">
+    <Airport ICAO="AYTA" Position="-055041.302+1425648.998" Elevation="5494">
       <Runway Name="14" Position="-055019.900+1425635.498" />
       <Runway Name="32" Position="-055102.200+1425706.098" />
     </Airport>
-    <Airport ICAO="AYTB" Position="-051645.001+1411338.939">
+    <Airport ICAO="AYTB" Position="-051645.001+1411338.939" Elevation="1570">
       <Runway Name="14" Position="-051629.399+1411324.600" />
       <Runway Name="32" Position="-051704.628+1411350.250" />
     </Airport>
@@ -3635,11 +3692,11 @@ MINDI
       <Runway Name="10" Position="-042017.599+1522220.201" />
       <Runway Name="28" Position="-042033.500+1522313.600" />
     </Airport>
-    <Airport ICAO="AYVN" Position="-024136.060+1411815.901">
+    <Airport ICAO="AYVN" Position="-024136.060+1411815.901" Elevation="16">
       <Runway Name="12" Position="-024117.581+1411751.518" />
       <Runway Name="30" Position="-024151.601+1411832.101" />
     </Airport>
-    <Airport ICAO="AYWD" Position="-053800.121+1435328.561">
+    <Airport ICAO="AYWD" Position="-053800.121+1435328.561" Elevation="5886">
       <Runway Name="14" Position="-053748.540+1435316.080" />
       <Runway Name="32" Position="-053824.389+1435347.551" />
     </Airport>
@@ -3647,122 +3704,169 @@ MINDI
       <Runway Name="10" Position="-033455.099+1433942.998" />
       <Runway Name="28" Position="-033507.620+1434033.200" />
     </Airport>
-    <Airport ICAO="AYXM" Position="-060348.150+1425236.502">
+    <Airport ICAO="AYXM" Position="-060348.150+1425236.502" Elevation="5223">
       <Runway Name="16" Position="-060257.412+1425224.780" />
       <Runway Name="34" Position="-060355.400+1425238.179" />
     </Airport>
-    <Airport ICAO="NFCI" Position="-174437.000-1792030.998" />
+    <Airport ICAO="NFCI" Position="-174437.000-1792030.998" Elevation="13">
+      <Runway Name="17" Position="-174437.000-1792030.998" />
+      <Runway Name="35" Position="-174437.000-1792030.998" />
+    </Airport>
     <Airport ICAO="NFFN" Position="-174523.000+1772637.000" Elevation="59">
       <Runway Name="02" Position="-174622.120+1772544.789" />
       <Runway Name="20" Position="-174459.572+1772651.281" />
       <Runway Name="09" Position="-174511.048+1772609.910" />
       <Runway Name="27" Position="-174527.961+1772720.149" />
     </Airport>
-    <Airport ICAO="NFFO" Position="-174641.002+1771148.001" />
-    <Airport ICAO="NFKB" Position="-171515.998-1792919.000" />
-    <Airport ICAO="NFKD" Position="-190329.002+1780925.999" />
-    <Airport ICAO="NFMO" Position="-183401.999+1795704.000" />
+    <Airport ICAO="NFFO" Position="-174641.002+1771148.001" Elevation="13">
+      <Runway Name="12" Position="-174641.002+1771148.001" />
+      <Runway Name="30" Position="-174641.002+1771148.001" />
+    </Airport>
+    <Airport ICAO="NFKB" Position="-171515.998-1792919.000" Elevation="70">
+      <Runway Name="14" Position="-171515.998-1792919.000" />
+      <Runway Name="32" Position="-171515.998-1792919.000" />
+    </Airport>
+    <Airport ICAO="NFKD" Position="-190329.002+1780925.999" Elevation="6">
+      <Runway Name="16" Position="-190329.002+1780925.999" />
+      <Runway Name="34" Position="-190329.002+1780925.999" />
+    </Airport>
+    <Airport ICAO="NFMA" Position="-174022.001+1770553.999" Elevation="16">
+      <Runway Name="13" Position="-174022.001+1770553.999" />
+      <Runway Name="31" Position="-174022.001+1770553.999" />
+    </Airport>
+    <Airport ICAO="NFMO" Position="-183401.999+1795704.000" Elevation="13">
+      <Runway Name="15" Position="-183401.999+1795704.000" />
+      <Runway Name="33" Position="-183401.999+1795704.000" />
+    </Airport>
     <Airport ICAO="NFNA" Position="-180240.999+1783333.998" Elevation="17">
       <Runway Name="10" Position="-180227.211+1783307.081" />
       <Runway Name="28" Position="-180245.920+1783403.259" />
     </Airport>
-    <Airport ICAO="NFNB" Position="-174242.001+1784522.000" />
-    <Airport ICAO="NFNG" Position="-180656.002+1792022.999" />
-    <Airport ICAO="NFNH" Position="-164448.001-1794000.001">
+    <Airport ICAO="NFNB" Position="-174242.001+1784522.000" Elevation="11">
+      <Runway Name="08" Position="-174242.001+1784522.000" />
+      <Runway Name="26" Position="-174242.001+1784522.000" />
+    </Airport>
+    <Airport ICAO="NFNG" Position="-180656.002+1792022.999" Elevation="50">
+      <Runway Name="10" Position="-180656.002+1792022.999" />
+      <Runway Name="28" Position="-180656.002+1792022.999" />
+    </Airport>
+    <Airport ICAO="NFNH" Position="-164448.001-1794000.001" Elevation="10">
       <Runway Name="17" Position="-164431.711-1794002.449" />
       <Runway Name="35" Position="-164508.719-1794000.991" />
     </Airport>
-    <Airport ICAO="NFNK" Position="-181160.000-1784858.000" />
-    <Airport ICAO="NFNL" Position="-162807.000+1792022.999">
+    <Airport ICAO="NFNK" Position="-181200.000-1784858.000" Elevation="280">
+      <Runway Name="13" Position="-181200.000-1784858.000" />
+      <Runway Name="31" Position="-181200.000-1784858.000" />
+    </Airport>
+    <Airport ICAO="NFNL" Position="-162807.000+1792022.999" Elevation="42">
       <Runway Name="13" Position="-162749.550+1792012.430" />
       <Runway Name="31" Position="-162818.278+1792032.669" />
     </Airport>
-    <Airport ICAO="NFNM" Position="-164126.002-1795239.000">
+    <Airport ICAO="NFNM" Position="-164126.002-1795239.000" Elevation="70">
       <Runway Name="11" Position="-164118.150-1795252.781" />
       <Runway Name="29" Position="-164133.929-1795224.038" />
     </Airport>
-    <Airport ICAO="NFNO" Position="-172044.999+1792518.998" />
-    <Airport ICAO="NFNR" Position="-122855.999+1770414.902">
+    <Airport ICAO="NFNO" Position="-172044.999+1792518.998" Elevation="358">
+      <Runway Name="10" Position="-172044.999+1792518.998" />
+      <Runway Name="28" Position="-172044.999+1792518.998" />
+    </Airport>
+    <Airport ICAO="NFNR" Position="-122855.999+1770414.902" Elevation="42">
       <Runway Name="07" Position="-122900.859+1770354.209" />
       <Runway Name="25" Position="-122854.991+1770440.361" />
     </Airport>
-    <Airport ICAO="NFNS" Position="-164758.999+1792020.000">
-      <Runway Name="14" Position="-164759.629+1792020.620" />
+    <Airport ICAO="NFNS" Position="-164758.999+1792020.000" Elevation="11">
+      <Runway Name="14" Position="-164759.680+1792020.512" />
       <Runway Name="32" Position="-164823.551+1792031.549" />
     </Airport>
-    <Airport ICAO="NFNW" Position="-173743.000+1790036.000" />
-    <Airport ICAO="NFSW" Position="-164533.998+1773244.999" />
-    <Airport ICAO="NFVB" Position="-171442.000-1785733.001" />
-    <Airport ICAO="NFVL" Position="-183043.999+1773819.000" />
-    <Airport ICAO="NGFU" Position="-083128.492+1791143.699">
+    <Airport ICAO="NFNW" Position="-173743.000+1790036.000" Elevation="130">
+      <Runway Name="10" Position="-173743.000+1790036.000" />
+      <Runway Name="28" Position="-173743.000+1790036.000" />
+    </Airport>
+    <Airport ICAO="NFSW" Position="-164533.998+1773244.999" Elevation="100">
+      <Runway Name="12" Position="-164533.998+1773244.999" />
+      <Runway Name="30" Position="-164533.998+1773244.999" />
+    </Airport>
+    <Airport ICAO="NFTO" Position="-153418.440-1753745.970" Elevation="149">
+      <Runway Name="08" Position="-153414.160-1753805.752" />
+      <Runway Name="26" Position="-153414.189-1753730.220" />
+    </Airport>
+    <Airport ICAO="NFVB" Position="-171442.000-1785733.001" Elevation="156">
+      <Runway Name="11" Position="-171442.000-1785733.001" />
+      <Runway Name="29" Position="-171442.000-1785733.001" />
+    </Airport>
+    <Airport ICAO="NFVL" Position="-183043.999+1773819.000" Elevation="7">
+      <Runway Name="12" Position="-183043.999+1773819.000" />
+      <Runway Name="30" Position="-183043.999+1773819.000" />
+    </Airport>
+    <Airport ICAO="NGFU" Position="-083128.492+1791143.699" Elevation="6">
       <Runway Name="03" Position="-083144.648+1791131.250" />
       <Runway Name="21" Position="-083108.108+1791205.569" />
     </Airport>
-    <Airport ICAO="NGNU" Position="-011857.352+1762423.051">
+    <Airport ICAO="NGNU" Position="-011857.352+1762423.051" Elevation="18">
       <Runway Name="06" Position="-011858.208+1762419.012" />
       <Runway Name="24" Position="-011847.099+1762450.692" />
     </Airport>
-    <Airport ICAO="NGTA" Position="+012252.169+1730846.612">
+    <Airport ICAO="NGTA" Position="+012252.169+1730846.612" Elevation="9">
       <Runway Name="09" Position="+012257.929+1730817.131" />
       <Runway Name="27" Position="+012250.020+1730919.130" />
     </Airport>
-    <Airport ICAO="NGTB" Position="+002930.412+1734930.871">
+    <Airport ICAO="NGTB" Position="+002930.412+1734930.871" Elevation="10">
       <Runway Name="09" Position="+002929.648+1734928.560" />
       <Runway Name="27" Position="+002925.030+1735000.910" />
     </Airport>
-    <Airport ICAO="NGTE" Position="-011339.799+1744639.839">
+    <Airport ICAO="NGTE" Position="-011339.799+1744639.839" Elevation="16">
       <Runway Name="14" Position="-011310.729+1744625.939" />
       <Runway Name="32" Position="-011337.898+1744640.102" />
     </Airport>
-    <Airport ICAO="NGTR" Position="-023659.152+1764807.970">
+    <Airport ICAO="NGTR" Position="-023659.152+1764807.970" Elevation="20">
       <Runway Name="09" Position="-023656.408+1764754.668" />
       <Runway Name="27" Position="-023700.790+1764823.890" />
     </Airport>
-    <Airport ICAO="NGTU" Position="+030505.770+1724819.879">
+    <Airport ICAO="NGTU" Position="+030505.770+1724819.879" Elevation="10">
       <Runway Name="06" Position="+030508.131+1724834.020" />
       <Runway Name="24" Position="+030512.300+1724844.730" />
     </Airport>
-    <Airport ICAO="NLWF" Position="-141842.001-1780359.000">
+    <Airport ICAO="NLWF" Position="-141842.001-1780359.000" Elevation="16">
       <Runway Name="07" Position="-141844.078-1780417.339" />
       <Runway Name="25" Position="-141839.442-1780340.950" />
     </Airport>
-    <Airport ICAO="NLWW" Position="-131417.999-1761157.001">
+    <Airport ICAO="NLWW" Position="-131417.999-1761157.001" Elevation="79">
       <Runway Name="08" Position="-131417.992-1761232.152" />
       <Runway Name="26" Position="-131417.902-1761124.562" />
     </Airport>
-    <Airport ICAO="NVSA" Position="-134007.000+1674246.001">
+    <Airport ICAO="NVSA" Position="-134007.000+1674246.001" Elevation="88">
       <Runway Name="14" Position="-133944.212+1674232.630" />
       <Runway Name="32" Position="-134009.592+1674249.331" />
     </Airport>
-    <Airport ICAO="NVSC" Position="-135120.200+1673219.180">
+    <Airport ICAO="NVSC" Position="-135120.200+1673219.180" Elevation="15">
       <Runway Name="16" Position="-135059.122+1673211.710" />
       <Runway Name="34" Position="-135121.622+1673217.048" />
     </Airport>
-    <Airport ICAO="NVSE" Position="-170535.999+1681959.999">
+    <Airport ICAO="NVSE" Position="-170535.999+1681959.999" Elevation="7">
       <Runway Name="14" Position="-170521.516+1681952.291" />
       <Runway Name="32" Position="-170550.381+1682007.670" />
     </Airport>
-    <Airport ICAO="NVSF" Position="-161547.689+1675523.272">
+    <Airport ICAO="NVSF" Position="-161547.689+1675523.272" Elevation="72">
       <Runway Name="11" Position="-161544.989+1675515.820" />
       <Runway Name="29" Position="-161600.120+1675537.751" />
     </Airport>
-    <Airport ICAO="NVSG" Position="-151817.341+1675807.979">
+    <Airport ICAO="NVSG" Position="-151817.341+1675807.979" Elevation="126">
       <Runway Name="04" Position="-151830.060+1675752.459" />
       <Runway Name="22" Position="-151804.630+1675823.498" />
     </Airport>
-    <Airport ICAO="NVSO" Position="-155156.329+1681018.401">
+    <Airport ICAO="NVSO" Position="-155156.329+1681018.401" Elevation="39">
       <Runway Name="15" Position="-155137.822+1681010.942" />
       <Runway Name="33" Position="-155214.851+1681025.871" />
     </Airport>
-    <Airport ICAO="NVSP" Position="-160440.289+1672358.222">
+    <Airport ICAO="NVSP" Position="-160440.289+1672358.222" Elevation="28">
       <Runway Name="13" Position="-160428.420+1672347.980" />
       <Runway Name="31" Position="-160452.162+1672408.471" />
     </Airport>
-    <Airport ICAO="NVSS" Position="-153020.761+1671316.889">
+    <Airport ICAO="NVSS" Position="-153020.761+1671316.889" Elevation="184">
       <Runway Name="12" Position="-152955.889+1671245.421" />
       <Runway Name="30" Position="-153037.001+1671337.441" />
     </Airport>
-    <Airport ICAO="NVVF" Position="-193054.410+1701352.460">
+    <Airport ICAO="NVVF" Position="-193054.410+1701352.460" Elevation="93">
       <Runway Name="14" Position="-193048.211+1701350.750" />
       <Runway Name="32" Position="-193105.009+1701359.830" />
     </Airport>
@@ -3770,35 +3874,35 @@ MINDI
       <Runway Name="11" Position="-174133.691+1681824.142" />
       <Runway Name="29" Position="-174213.219+1681942.139" />
     </Airport>
-    <Airport ICAO="NVVW" Position="-192718.000+1691323.999">
+    <Airport ICAO="NVVW" Position="-192718.000+1691323.999" Elevation="27">
       <Runway Name="15" Position="-192659.521+1691317.429" />
       <Runway Name="33" Position="-192736.569+1691333.982" />
     </Airport>
-    <Airport ICAO="NWWA" Position="-210546.000+1674814.000">
+    <Airport ICAO="NWWA" Position="-210546.000+1674814.000" Elevation="125">
       <Runway Name="16" Position="-210529.659+1674810.732" />
       <Runway Name="34" Position="-210601.750+1674816.301" />
     </Airport>
-    <Airport ICAO="NWWB" Position="-213634.999+1652352.001">
+    <Airport ICAO="NWWB" Position="-213634.999+1652352.001" Elevation="20">
       <Runway Name="09" Position="-213631.331+1652338.659" />
       <Runway Name="27" Position="-213639.060+1652405.220" />
     </Airport>
-    <Airport ICAO="NWWC" Position="-194314.002+1633940.000">
+    <Airport ICAO="NWWC" Position="-194314.002+1633940.000" Elevation="305">
       <Runway Name="09" Position="-194311.370+1633931.252" />
       <Runway Name="27" Position="-194316.489+1633948.989" />
     </Airport>
-    <Airport ICAO="NWWD" Position="-210313.000+1645021.998">
+    <Airport ICAO="NWWD" Position="-210313.000+1645021.998" Elevation="24">
       <Runway Name="09" Position="-210310.238+1645004.121" />
       <Runway Name="27" Position="-210315.379+1645035.509" />
     </Airport>
-    <Airport ICAO="NWWE" Position="-223519.000+1672719.001">
+    <Airport ICAO="NWWE" Position="-223519.000+1672719.001" Elevation="317">
       <Runway Name="10" Position="-223510.640+1672659.129" />
       <Runway Name="28" Position="-223527.269+1672739.038" />
     </Airport>
-    <Airport ICAO="NWWK" Position="-203247.000+1641520.002">
+    <Airport ICAO="NWWK" Position="-203247.000+1641520.002" Elevation="42">
       <Runway Name="06" Position="-203253.790+1641502.671" />
       <Runway Name="24" Position="-203239.941+1641537.739" />
     </Airport>
-    <Airport ICAO="NWWL" Position="-204627.998+1671421.001">
+    <Airport ICAO="NWWL" Position="-204627.998+1671421.001" Elevation="94">
       <Runway Name="12" Position="-204613.591+1671405.618" />
       <Runway Name="30" Position="-204642.290+1671436.211" />
     </Airport>
@@ -3806,23 +3910,23 @@ MINDI
       <Runway Name="17" Position="-221514.339+1662821.742" />
       <Runway Name="35" Position="-221547.452+1662822.649" />
     </Airport>
-    <Airport ICAO="NWWP" Position="-201721.001+1640557.998">
+    <Airport ICAO="NWWP" Position="-201721.001+1640557.998" Elevation="10">
       <Runway Name="12" Position="-201708.419+1640541.410" />
       <Runway Name="30" Position="-201733.580+1640613.900" />
     </Airport>
-    <Airport ICAO="NWWR" Position="-212852.000+1680215.000">
+    <Airport ICAO="NWWR" Position="-212852.000+1680215.000" Elevation="138">
       <Runway Name="13" Position="-212841.380+1680204.240" />
       <Runway Name="31" Position="-212912.059+1680232.849" />
     </Airport>
-    <Airport ICAO="NWWT" Position="-214910.999+1655138.999">
+    <Airport ICAO="NWWT" Position="-214910.999+1655138.999" Elevation="98">
       <Runway Name="13" Position="-214901.470+1655130.301" />
       <Runway Name="31" Position="-214921.220+1655148.431" />
     </Airport>
-    <Airport ICAO="NWWU" Position="-204724.000+1651533.998">
+    <Airport ICAO="NWWU" Position="-204724.000+1651533.998" Elevation="10">
       <Runway Name="13" Position="-204708.858+1651523.209" />
       <Runway Name="31" Position="-204738.389+1651544.680" />
     </Airport>
-    <Airport ICAO="NWWV" Position="-203826.002+1663422.001">
+    <Airport ICAO="NWWV" Position="-203826.002+1663422.001" Elevation="24">
       <Runway Name="13" Position="-203814.460+1663412.788" />
       <Runway Name="31" Position="-203840.531+1663433.330" />
     </Airport>
@@ -3830,15 +3934,15 @@ MINDI
       <Runway Name="11" Position="-220025.049+1661158.319" />
       <Runway Name="29" Position="-220119.650+1661335.371" />
     </Airport>
-    <Airport ICAO="NWWX" Position="-213113.001+1655818.001">
+    <Airport ICAO="NWWX" Position="-213113.001+1655818.001" Elevation="8">
       <Runway Name="11" Position="-213104.649+1655804.501" />
       <Runway Name="29" Position="-213121.788+1655832.261" />
     </Airport>
-    <Airport ICAO="PKMJ" Position="+070353.899+1711619.301">
+    <Airport ICAO="PKMJ" Position="+070353.899+1711619.301" Elevation="7">
       <Runway Name="07" Position="+070344.561+1711541.141" />
       <Runway Name="25" Position="+070403.281+1711657.461" />
     </Airport>
-    <Airport ICAO="PKRO" Position="+092348.811+1672815.172">
+    <Airport ICAO="PKRO" Position="+092348.811+1672815.172" Elevation="14">
       <Runway Name="04" Position="+092333.990+1672758.360" />
       <Runway Name="22" Position="+092403.622+1672831.980" />
     </Airport>
@@ -3846,71 +3950,105 @@ MINDI
       <Runway Name="06" Position="+084302.640+1674322.231" />
       <Runway Name="24" Position="+084322.231+1674425.739" />
     </Airport>
-    <Airport ICAO="PTKK" Position="+072742.811+1515034.861">
+    <Airport ICAO="PTKK" Position="+072742.811+1515034.861" Elevation="10">
       <Runway Name="04" Position="+072722.090+1515013.358" />
       <Runway Name="22" Position="+072803.529+1515056.360" />
     </Airport>
-    <Airport ICAO="PTPN" Position="+065906.299+1581235.302">
+    <Airport ICAO="PTPN" Position="+065906.299+1581235.302" Elevation="9">
       <Runway Name="09" Position="+065906.490+1581202.549" />
       <Runway Name="27" Position="+065906.180+1581308.090" />
     </Airport>
-    <Airport ICAO="PTSA" Position="+052125.099+1625730.200">
+    <Airport ICAO="PTSA" Position="+052125.099+1625730.200" Elevation="12">
       <Runway Name="05" Position="+052109.029+1625706.660" />
       <Runway Name="23" Position="+052141.191+1625753.708" />
     </Airport>
-    <Airport ICAO="WAJG" Position="-042638.620+1405253.872">
+    <Airport ICAO="TT02" Position="+100111.708+1394723.100" Elevation="16">
+      <Runway Name="09" Position="+100100.545+1394743.476" />
+      <Runway Name="27" Position="+100059.404+1394816.546" />
+    </Airport>
+    <Airport ICAO="WAJG" Position="-042638.620+1405253.872" Elevation="354">
       <Runway Name="07" Position="-042636.172+1405248.839" />
       <Runway Name="25" Position="-042630.908+1405313.200" />
     </Airport>
-    <Airport ICAO="WAJJ" Position="-023418.520+1403042.271">
+    <Airport ICAO="WAJJ" Position="-023418.998+1403042.001" Elevation="289">
       <Runway Name="12" Position="-023416.118+1403031.028" />
       <Runway Name="30" Position="-023514.212+1403148.878" />
     </Airport>
-    <Airport ICAO="WAJK" Position="-044247.999+1404421.998">
-      <Runway Name="07" Position="-044251.070+1404418.910" />
+    <Airport ICAO="WAJK" Position="-044247.999+1404421.998" Elevation="5446">
+      <Runway Name="07" Position="-044250.670+1404418.571" />
       <Runway Name="25" Position="-044245.389+1404434.148" />
     </Airport>
-    <Airport ICAO="WAJL" Position="-030443.000+1395704.000" />
-    <Airport ICAO="WAJM" Position="-032447.999+1403310.001" />
-    <Airport ICAO="WAJO" Position="-045425.999+1403749.001">
+    <Airport ICAO="WAJL" Position="-030443.000+1395704.000" Elevation="700">
+      <Runway Name="12" Position="-030443.000+1395704.000" />
+      <Runway Name="30" Position="-030443.000+1395704.000" />
+    </Airport>
+    <Airport ICAO="WAJM" Position="-032447.999+1403310.001" Elevation="699">
+      <Runway Name="05" Position="-032447.999+1403310.001" />
+      <Runway Name="23" Position="-032447.999+1403310.001" />
+    </Airport>
+    <Airport ICAO="WAJO" Position="-045425.999+1403749.001" Elevation="4264">
       <Runway Name="11" Position="-045417.399+1403721.410" />
       <Runway Name="29" Position="-045435.611+1403801.320" />
     </Airport>
-    <Airport ICAO="WAJR" Position="-031359.999+1405800.001" />
-    <Airport ICAO="WAJS" Position="-032634.260+1404641.570" />
-    <Airport ICAO="WAJU" Position="-034031.001+1405253.000" />
-    <Airport ICAO="WAKD" Position="-055245.199+1404230.510">
+    <Airport ICAO="WAJR" Position="-031359.999+1405800.001" Elevation="1476">
+      <Runway Name="07" Position="-031359.999+1405800.001" />
+      <Runway Name="25" Position="-031359.999+1405800.001" />
+    </Airport>
+    <Airport ICAO="WAJS" Position="-032634.001+1404641.999" Elevation="680">
+      <Runway Name="01" Position="-032634.001+1404641.999" />
+      <Runway Name="19" Position="-032634.001+1404641.999" />
+    </Airport>
+    <Airport ICAO="WAJU" Position="-034031.001+1405253.000" Elevation="1476">
+      <Runway Name="09" Position="-034031.001+1405253.000" />
+      <Runway Name="27" Position="-034031.001+1405253.000" />
+    </Airport>
+    <Airport ICAO="WAKD" Position="-055245.199+1404230.510" Elevation="108">
       <Runway Name="16" Position="-055227.728+1404231.601" />
       <Runway Name="34" Position="-055246.571+1404236.900" />
     </Airport>
-    <Airport ICAO="WAKE" Position="-071031.390+1393503.862">
+    <Airport ICAO="WAKE" Position="-071031.390+1393503.862" Elevation="28">
       <Runway Name="02" Position="-071043.540+1393455.981" />
       <Runway Name="20" Position="-071025.280+1393503.570" />
     </Airport>
-    <Airport ICAO="WAKK" Position="-083116.000+1402500.998">
+    <Airport ICAO="WAKK" Position="-083116.000+1402500.998" Elevation="10">
       <Runway Name="16" Position="-083044.791+1402456.272" />
       <Runway Name="34" Position="-083201.439+1402523.801" />
     </Airport>
-    <Airport ICAO="WAKL" Position="-054818.000+1395204.001" />
-    <Airport ICAO="WAKO" Position="-080541.708+1394320.651" />
-    <Airport ICAO="WAKP" Position="-063220.000+1391949.001">
+    <Airport ICAO="WAKL" Position="-054818.000+1395204.001" Elevation="49">
+      <Runway Name="15" Position="-054818.000+1395204.001" />
+      <Runway Name="33" Position="-054818.000+1395204.001" />
+    </Airport>
+    <Airport ICAO="WAKO" Position="-080542.000+1394321.000" Elevation="11">
+      <Runway Name="08" Position="-080542.000+1394321.000" />
+      <Runway Name="26" Position="-080542.000+1394321.000" />
+    </Airport>
+    <Airport ICAO="WAKP" Position="-063220.000+1391949.001" Elevation="24">
       <Runway Name="15" Position="-063220.220+1391949.739" />
       <Runway Name="33" Position="-063249.628+1392003.682" />
     </Airport>
-    <Airport ICAO="WAKQ" Position="-054126.002+1392058.999" />
-    <Airport ICAO="WAKT" Position="-060546.000+1401800.000">
+    <Airport ICAO="WAKQ" Position="-054126.002+1392058.999" Elevation="50">
+      <Runway Name="09" Position="-054126.002+1392058.999" />
+      <Runway Name="27" Position="-054126.002+1392058.999" />
+    </Airport>
+    <Airport ICAO="WAKT" Position="-060546.000+1401800.000" Elevation="86">
       <Runway Name="07" Position="-060553.120+1401756.580" />
       <Runway Name="25" Position="-060542.889+1401829.390" />
     </Airport>
-    <Airport ICAO="WAVD" Position="-045113.000+1392912.001">
+    <Airport ICAO="WAVD" Position="-045113.000+1392912.001" Elevation="329">
       <Runway Name="07" Position="-045129.599+1392824.110" />
       <Runway Name="25" Position="-045112.110+1392924.950" />
     </Airport>
-    <Airport ICAO="WAVE" Position="-034707.541+1392303.440">
+    <Airport ICAO="WAVE" Position="-034707.541+1392303.440" Elevation="1487">
       <Runway Name="03" Position="-034721.469+1392257.929" />
       <Runway Name="21" Position="-034653.890+1392312.289" />
     </Airport>
-    <Airport ICAO="WAVM" Position="-052458.000+1402611.000" />
-    <Airport ICAO="XN55" Position="+055424.001+1693830.001" />
+    <Airport ICAO="WAVM" Position="-052458.000+1402611.000" Elevation="299">
+      <Runway Name="18" Position="-052458.000+1402611.000" />
+      <Runway Name="36" Position="-052458.000+1402611.000" />
+    </Airport>
+    <Airport ICAO="XN55" Position="+055424.001+1693830.001" Elevation="4">
+      <Runway Name="03" Position="+055405.083+1693814.057" />
+      <Runway Name="21" Position="+055442.908+1693845.917" />
+    </Airport>
   </Airports>
 </Airspace>

@@ -31,7 +31,7 @@
   </Position>
   <Position Name="Nadi Oceanic" Type="ASD" DefaultCenter="-10.660683+178.585898" DefaultRange="4500">
     <Sectors>
-      <Sector Name="NFFF" />
+      <Sector Name="NFFFO" />
     </Sectors>
     <Maps>
       <Map Name="ALL_CTA" />
@@ -168,6 +168,7 @@
   <Position Name="Moresby TCU" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="200" MagneticVariation="-5.8">
     <Sectors>
       <Sector Name="AYPYA" />
+      <Sector Name="AYPYD" />
     </Sectors>
     <Maps>
       <Map Name="ALL_CTA" />
@@ -249,9 +250,38 @@
     </ControllerInfo>
     <Transition Altitude="20000" />
   </Position>
-  <Position Name="Nadi TCU" Type="ASD" DefaultCenter="-17.756389+177.443611" DefaultRange="400" MagneticVariation="-12.5">
+  <Position Name="Nadi CTR" Type="ASD" DefaultCenter="-17.749037+178.325786" DefaultRange="1200" >
+    <Sectors>
+      <Sector Name="NFFN" />
+    </Sectors>
+    <Maps>
+      <Map Name="ALL_CTA" />
+      <Map Name="ALL_SECTORS" />
+      <Map Name="ALL_NAVAIDS" />
+      <Map Name="COAST_ALL" />
+      <Map Name="ALL_ROUTES_HIGH" />
+      <Map Name="ALL_POINTS_HIGH" />
+      <Map Name="FIR_BDRY" />
+    </Maps>
+    <Strips Mode="State" Sort="Time">
+      <Window Type="State" State="Jurisdiction" Visible="true" />
+      <Window Type="State" State="Announced" Visible="true" />
+      <Window Type="State" State="Preactive" Visible="true" />
+    </Strips>
+    <CFL QuickLevel="9000" />
+    <ArrivalLists>
+      <Airport Name="NFFN" />
+      <Airport Name="NFFA" />
+    </ArrivalLists>
+    <ControllerInfo>
+      <Line>Nadi Centre</Line>
+      <Line>ATC feedback - feedback.vatpac.org</Line>
+    </ControllerInfo>
+  </Position>
+  <Position Name="Nadi TCU" Type="ASD" DefaultCenter="-17.903026+177.984746" DefaultRange="300" MagneticVariation="-12.5">
     <Sectors>
       <Sector Name="NFFNA" />
+      <Sector Name="NFNAA" />
     </Sectors>
     <Maps>
       <Map Name="ALL_CTA" />
@@ -407,6 +437,14 @@
       <Map Name="Nadi/ASMGCS_NFFN_APR" />
       <Map Name="Nadi/ASMGCS_NFFN_TWY" />
       <Map Name="Nadi/ASMGCS_NFFN_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="NFNA" Type="ASMGCS" ASMGCSAirport="NFNA" DefaultCenter="-18.044722+178.559444" DefaultRange="1" MagneticVariation="-12.6" Rotation="-6">
+    <Maps>
+      <Map Name="Nadi/ASMGCS_NFNA_RWY" />
+      <Map Name="Nadi/ASMGCS_NFNA_APR" />
+      <Map Name="Nadi/ASMGCS_NFNA_TWY" />
+      <Map Name="Nadi/ASMGCS_NFNA_BLD" />
     </Maps>
   </Position>
   <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.720122+167.731661" DefaultRange="2" MagneticVariation="-7.6" Rotation="206">

@@ -1,5 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <DefaultJurisdiction>
   <RuleSets>
+    <RuleSet Name="AYPY_DEPS">
+      <Rules>
+        <Departure Values="AYPY">
+          <Rules>
+            <Default>
+              <AssignSector Order="AYPYD,AYPYA"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
   </RuleSets>
 </DefaultJurisdiction>

@@ -22,7 +22,7 @@
   <Map Type="System" Name="AYNZ_ALLRWYS" Priority="2" Centre="-06.569222+146.728056">
     <!--AYNZ-->
     <Runway Name="09/27">
-      <Threshold Name="09" Position="-06.568861+146.715250" ExtendedCentrelineTrack="274.98" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="09" Position="-06.568861+146.715250" ExtendedCentrelineTrack="274.3" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
       <Threshold Name="27" Position="-06.570778+146.737222" ExtendedCentrelineTrack="94.3" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
     </Runway>
   </Map>
