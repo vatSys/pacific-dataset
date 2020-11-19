@@ -168,7 +168,6 @@
   <Position Name="Moresby TCU" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="200" MagneticVariation="-5.8">
     <Sectors>
       <Sector Name="AYPYA" />
-      <Sector Name="AYPYD" />
     </Sectors>
     <Maps>
       <Map Name="ALL_CTA" />

@@ -158,7 +158,7 @@
       <Point>AGREX</Point>
       <Point>ATLUR</Point>
       <Point>EGATO</Point>
-      <Point>IBUKO</Point>
+      <Point>IBOKU</Point>
       <Point>ISTOS</Point>
       <Point>IGAPI</Point>
       <Point>ATOLL</Point>
@@ -199,6 +199,7 @@
       <Point>ISPID</Point>
       <Point>ABARB</Point>
       <Point>LHI NDB</Point>
+      <Point>NF VOR</Point>
       <Point>DOLSI</Point>
       <Point>DUNAK</Point>
       <Point>SOVRA</Point>
@@ -447,7 +448,6 @@
       <Point>DOTOD</Point>
       <Point>EGITI</Point>
       <Point>TESAT</Point>
-      <Point>NF VOR</Point>
       <Point>KAKSI</Point>
       <Point>MAGPO</Point>
       <Point>JPA VOR</Point>
@@ -564,7 +564,7 @@
     <Line Name="B220_0">VIPAM.B220.PY VOR</Line>
     <Line Name="B326_0">HN VOR.B326.NAMIE</Line>
     <Line Name="B333_0">SALAG.B333.PY VOR</Line>
-    <Line Name="B450_0">TEKEP.B450.KILAN</Line>
+    <Line Name="B450_0">NF VOR.B450.KILAN</Line>
     <Line Name="B451_0">DOLSI.B451.GURDI</Line>
     <Line Name="B452_0">NN VOR.B452.KRONK</Line>
     <Line Name="B456_0">JPA VOR.B456.DOTUB</Line>
@@ -711,7 +711,7 @@
       <Point>AGREX</Point>
       <Point>ATLUR</Point>
       <Point>EGATO</Point>
-      <Point>IBUKO</Point>
+      <Point>IBOKU</Point>
       <Point>ISTOS</Point>
       <Point>IGAPI</Point>
       <Point>ATOLL</Point>
@@ -746,6 +746,7 @@
       <Point>NIXAM</Point>
       <Point>NAMIE</Point>
       <Point>LEBOL</Point>
+      <Point>NF VOR</Point>
       <Point>DOLSI</Point>
       <Point>DUNAK</Point>
       <Point>SOVRA</Point>
@@ -969,7 +970,6 @@
       <Point>MAJ NDB</Point>
       <Point>PY VOR</Point>
       <Point>EGITI</Point>
-      <Point>NF VOR</Point>
       <Point>KAKSI</Point>
       <Point>MAGPO</Point>
       <Point>JPA VOR</Point>
@@ -1065,7 +1065,7 @@
       <Point>AGREX</Point>
       <Point>ATLUR</Point>
       <Point>EGATO</Point>
-      <Point>IBUKO</Point>
+      <Point>IBOKU</Point>
       <Point>ISTOS</Point>
       <Point>IGAPI</Point>
       <Point>ATOLL</Point>
@@ -1100,6 +1100,7 @@
       <Point>NIXAM</Point>
       <Point>NAMIE</Point>
       <Point>LEBOL</Point>
+      <Point>NF VOR</Point>
       <Point>DOLSI</Point>
       <Point>DUNAK</Point>
       <Point>SOVRA</Point>
@@ -1321,7 +1322,6 @@
       <Point>MAJ NDB</Point>
       <Point>PY VOR</Point>
       <Point>EGITI</Point>
-      <Point>NF VOR</Point>
       <Point>KAKSI</Point>
       <Point>MAGPO</Point>
       <Point>JPA VOR</Point>
@@ -1456,7 +1456,7 @@
       <Point>AGREX</Point>
       <Point>ATLUR</Point>
       <Point>EGATO</Point>
-      <Point>IBUKO</Point>
+      <Point>IBOKU</Point>
       <Point>ISTOS</Point>
       <Point>IGAPI</Point>
       <Point>ATOLL</Point>
@@ -1497,6 +1497,7 @@
       <Point>ISPID</Point>
       <Point>ABARB</Point>
       <Point>LHI NDB</Point>
+      <Point>NF VOR</Point>
       <Point>DOLSI</Point>
       <Point>DUNAK</Point>
       <Point>SOVRA</Point>
@@ -1743,7 +1744,6 @@
       <Point>DOTOD</Point>
       <Point>EGITI</Point>
       <Point>TESAT</Point>
-      <Point>NF VOR</Point>
       <Point>KAKSI</Point>
       <Point>MAGPO</Point>
       <Point>JPA VOR</Point>

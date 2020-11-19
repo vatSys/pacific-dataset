@@ -314,7 +314,7 @@ NOBAR
 AGREX/
 ATLUR/
 EGATO/
-IBUKO/
+IBOKU/
 ISTOS/
 IGAPI/
 NA VOR/
@@ -1849,7 +1849,7 @@ NINIA
     <Point Name="IBAKA" Type="Fix">-213940.360-1762413.140</Point>
     <Point Name="IBEDO" Type="Fix">-053659.900+1454122.441</Point>
     <Point Name="IBELO" Type="Fix">-134926.501+1674403.001</Point>
-    <Point Name="IBUKO" Type="Fix">-201635.000+1781053.000</Point>
+    <Point Name="IBOKU" Type="Fix">-201635.000+1781053.000</Point>
     <Point Name="IDBAD" Type="Fix">-411907.331+1662643.462</Point>
     <Point Name="IDBUX" Type="Fix">-003710.409+1670729.820</Point>
     <Point Name="IDELU" Type="Fix">-113545.400+1362148.100</Point>
@@ -2416,6 +2416,7 @@ NINIA
     <Point Name="SAMID" Type="Fix">-215525.702+1654620.701</Point>
     <Point Name="SAMOT" Type="Fix">-285924.299+1675046.291</Point>
     <Point Name="SAPIR" Type="Fix">-184805.670+1800000.000</Point>
+    <Point Name="SAPRI" Type="Fix">-065324.000+1434041.999</Point>
     <Point Name="SARAK" Type="Fix">-094500.000+1432518.001</Point>
     <Point Name="SARAM" Type="Fix">-214040.001+1655602.000</Point>
     <Point Name="SARAP" Type="Fix">-325506.802+1630000.000</Point>
@@ -2603,6 +2604,7 @@ NINIA
     <Point Name="UPLAR" Type="Fix">-353355.220+1710535.290</Point>
     <Point Name="UPRAP" Type="Fix">-063339.290+1454639.209</Point>
     <Point Name="UPSET" Type="Fix">-085346.792+1493037.462</Point>
+    <Point Name="URBEL" Type="Fix">-090634.189+1483821.480</Point>
     <Point Name="UTOCO" Type="Fix">+083119.870+1674340.051</Point>
     <Point Name="UVIKI" Type="Fix">-215322.999+1661905.002</Point>
     <Point Name="UVUPO" Type="Fix">-411440.380+1644723.060</Point>
@@ -2776,13 +2778,20 @@ NINIA
     <Point Name="YHKWH" Type="Fix">-052026.711+1502423.152</Point>
     <Point Name="YHKWI" Type="Fix">-052012.739+1501610.340</Point>
     <Point Name="YHKWM" Type="Fix">-052639.340+1502310.162</Point>
-    <Point Name="YKAWA" Type="Fix">-082508.738+1505520.021</Point>
-    <Point Name="YKAWB" Type="Fix">-082040.711+1505628.691</Point>
-    <Point Name="YKAWC" Type="Fix">-082013.261+1510105.059</Point>
-    <Point Name="YKAWF" Type="Fix">-082646.349+1510144.468</Point>
-    <Point Name="YKAWH" Type="Fix">-083626.438+1511005.909</Point>
-    <Point Name="YKAWI" Type="Fix">-082343.541+1505906.562</Point>
-    <Point Name="YKAWM" Type="Fix">-082949.150+1510422.418</Point>
+    <Point Name="YKAND" Type="Fix">-082502.010+1505359.708</Point>
+    <Point Name="YKANE" Type="Fix">-081927.008+1505525.709</Point>
+    <Point Name="YKANF" Type="Fix">-082704.252+1510200.211</Point>
+    <Point Name="YKANG" Type="Fix">-081852.859+1510111.168</Point>
+    <Point Name="YKANH" Type="Fix">-083349.900+1510750.491</Point>
+    <Point Name="YKANI" Type="Fix">-082315.652+1505842.931</Point>
+    <Point Name="YKANM" Type="Fix">-083001.339+1510433.089</Point>
+    <Point Name="YKASA" Type="Fix">-083638.948+1511631.958</Point>
+    <Point Name="YKASB" Type="Fix">-084214.018+1511506.210</Point>
+    <Point Name="YKASC" Type="Fix">-084248.370+1510920.419</Point>
+    <Point Name="YKASF" Type="Fix">-083437.009+1510831.189</Point>
+    <Point Name="YKASH" Type="Fix">-082655.410+1510152.568</Point>
+    <Point Name="YKASI" Type="Fix">-083825.530+1511148.660</Point>
+    <Point Name="YKASM" Type="Fix">-083043.988+1510509.920</Point>
     <Point Name="YKIEA" Type="Fix">-094743.901+1433719.499</Point>
     <Point Name="YKIEB" Type="Fix">-095329.299+1433736.098</Point>
     <Point Name="YKIEC" Type="Fix">-095542.701+1433214.399</Point>
@@ -2926,6 +2935,18 @@ NINIA
     <Point Name="YTKWI" Type="Fix">-041730.170+1521254.569</Point>
     <Point Name="YTKWM" Type="Fix">-042017.660+1522220.161</Point>
     <Point Name="YTKWT" Type="Fix">-042108.820+1522512.990</Point>
+    <Point Name="YTUEA" Type="Fix">-085511.330+1492746.570</Point>
+    <Point Name="YTUEB" Type="Fix">-085741.710+1493427.682</Point>
+    <Point Name="YTUEC" Type="Fix">-090420.572+1493156.449</Point>
+    <Point Name="YTUEF" Type="Fix">-090150.149+1492515.229</Point>
+    <Point Name="YTUEI" Type="Fix">-085945.960+1492951.479</Point>
+    <Point Name="YTUEM" Type="Fix">-090355.001+1492037.331</Point>
+    <Point Name="YTUWD" Type="Fix">-090319.289+1485818.480</Point>
+    <Point Name="YTUWF" Type="Fix">-090412.691+1491413.369</Point>
+    <Point Name="YTUWH" Type="Fix">-090604.050+1492409.331</Point>
+    <Point Name="YTUWI" Type="Fix">-090220.609+1490417.512</Point>
+    <Point Name="YTUWM" Type="Fix">-090508.632+1491911.341</Point>
+    <Point Name="YTUWZ" Type="Fix">-090444.018+1491700.229</Point>
     <Point Name="YWKEB" Type="Fix">-033839.311+1435508.400</Point>
     <Point Name="YWKEC" Type="Fix">-034219.901+1434905.239</Point>
     <Point Name="YWKEF" Type="Fix">-033617.060+1434533.869</Point>
@@ -2984,7 +3005,7 @@ NINIA
     <Point Name="MUD" Type="Navaid" NavaidType="NDB" Frequency="400.000">-081951.870+1571517.662</Point>
     <Point Name="NA" Type="Navaid" NavaidType="NDB" Frequency="307.000">-180251.799+1783331.900</Point>
     <Point Name="NDJ" Type="Navaid" NavaidType="NDB" Frequency="359.000">+084315.179+1674339.990</Point>
-    <Point Name="NF" Type="Navaid" NavaidType="NDB" Frequency="260.000">-290026.078+1675515.038</Point>
+    <Point Name="NF" Type="Navaid" NavaidType="NDB" Frequency="260.000">-290026.150+1675514.999</Point>
     <Point Name="NI" Type="Navaid" NavaidType="NDB" Frequency="355.000">-003232.719+1665504.469</Point>
     <Point Name="NO" Type="Navaid" NavaidType="NDB" Frequency="330.000">-180052.999+1782804.001</Point>
     <Point Name="NW" Type="Navaid" NavaidType="NDB" Frequency="325.500">-215615.900+1660432.300</Point>
@@ -3043,7 +3064,7 @@ NINIA
     <Point Name="MOR" Type="Navaid" NavaidType="VOR" Frequency="114.600">-062146.321+1431515.059</Point>
     <Point Name="MUD" Type="Navaid" NavaidType="VOR" Frequency="113.800">-081951.870+1571517.662</Point>
     <Point Name="NA" Type="Navaid" NavaidType="VOR" Frequency="112.200">-180232.302+1783342.998</Point>
-    <Point Name="NF" Type="Navaid" NavaidType="VOR" Frequency="112.400">-290250.438+1675555.762</Point>
+    <Point Name="NF" Type="Navaid" NavaidType="VOR" Frequency="112.400">-290250.399+1675555.801</Point>
     <Point Name="NI" Type="Navaid" NavaidType="VOR" Frequency="113.000">-003237.630+1665514.722</Point>
     <Point Name="NN" Type="Navaid" NavaidType="VOR" Frequency="112.500">-173916.999+1772344.999</Point>
     <Point Name="NZ" Type="Navaid" NavaidType="VOR" Frequency="113.900">-063405.999+1464232.220</Point>
@@ -3620,7 +3641,7 @@ NINIA
       <Runway Name="12" Position="-052728.300+1502403.341" />
       <Runway Name="30" Position="-052810.099+1502448.802" />
     </Airport>
-    <Airport ICAO="AYKA" Position="-083022.079+1510452.860" Elevation="21">
+    <Airport ICAO="AYKA" Position="-083022.079+1510452.860" Elevation="27">
       <Runway Name="14" Position="-083001.321+1510433.121" />
       <Runway Name="32" Position="-083043.981+1510509.899" />
     </Airport>
@@ -3691,6 +3712,10 @@ NINIA
     <Airport ICAO="AYTK" Position="-042027.701+1522245.199" Elevation="49">
       <Runway Name="10" Position="-042017.599+1522220.201" />
       <Runway Name="28" Position="-042033.500+1522313.600" />
+    </Airport>
+    <Airport ICAO="AYTU" Position="-090436.239+1491901.740" Elevation="125">
+      <Runway Name="06" Position="-090439.540+1491858.140" />
+      <Runway Name="24" Position="-090427.239+1491925.500" />
     </Airport>
     <Airport ICAO="AYVN" Position="-024136.060+1411815.901" Elevation="16">
       <Runway Name="12" Position="-024117.581+1411751.518" />
