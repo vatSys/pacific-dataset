@@ -174,8 +174,12 @@
     <Volumes>WAAF</Volumes>
   </Sector>
   <Sector FullName="Ujung Pandang Bali" Frequency="120.700" Callsign="WAAF_B_CTR" Name="-" />
-  <Sector FullName="Ujung Pandang East" Frequency="132.500" Callsign="WAAF_E_CTR" Name="-" />
-  <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_T_CTR" Name="-" />
+  <Sector FullName="Ujung Pandang East" Frequency="132.500" Callsign="WAAF_E_CTR" Name="WAAFE" DisplayInSectorsWindow="False">
+    <Volumes>WAAF</Volumes>
+  </Sector>
+  <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_T_CTR" Name="WAAFT" DisplayInSectorsWindow="False">
+    <Volumes>WAAF</Volumes>
+  </Sector>
   <Sector FullName="Warburton" Frequency="124.900" Callsign="ML-WAR_CTR" Name="WAR">
     <Volumes />
   </Sector>
@@ -223,10 +227,10 @@
   <Sector FullName="Nadi Oceanic" Frequency="123.600" Callsign="NFFF_FSS" Name="NFFFO">
     <Volumes>NFFF</Volumes>
   </Sector>
-  <Sector FullName="Oakland Oceanic East" Frequency="131.950" Callsign="ZAK_E_FSS" Name="KZAK-E" DisplayInSectorsWindow="False">
+  <Sector FullName="Oakland Oceanic East" Frequency="131.950" Callsign="ZAK_E_FSS" Name="KZAKE" DisplayInSectorsWindow="False">
     <Volumes>KZAK-E</Volumes>
   </Sector>
-  <Sector FullName="Oakland Oceanic West" Frequency="122.500" Callsign="ZAK_W_FSS" Name="KZAK-W" DisplayInSectorsWindow="False">
+  <Sector FullName="Oakland Oceanic West" Frequency="122.500" Callsign="ZAK_W_FSS" Name="KZAKW" DisplayInSectorsWindow="False">
     <Volumes>KZAK-W</Volumes>
   </Sector>
   <Sector FullName="South East Asia Upper" Frequency="135.350" Callsign="ASEA_FSS" Name="-" />
@@ -234,7 +238,7 @@
     <Volumes>TSN</Volumes>
     <ResponsibleSectors>COL,FLD,HWE</ResponsibleSectors>
   </Sector>
-  <Sector FullName="West Asia Upper" Frequency="135.400" Callsign="ASIA_W_FSS" Name="ASIA_W" />
+  <Sector FullName="West Asia Upper" Frequency="135.400" Callsign="ASIA_W_FSS" Name="ASIAW" />
   <Sector FullName="Adelaide Approach East" Frequency="118.200" Callsign="AD_DEP" Name="AAE">
     <Volumes />
   </Sector>
