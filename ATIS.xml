@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ATIS xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Frequencies>
+<?xml version="1.0" encoding="utf-8" ?>
+<ATIS>
+ <Frequencies>
     <Frequency Airport="AYGA" Frequency="134.0" />
     <Frequency Airport="AYMD" Frequency="127.8" />
     <Frequency Airport="AYMH" Frequency="128.4" />
@@ -55,7 +55,6 @@
     <Frequency Airport="YSSY" Frequency="126.25" />
     <Frequency Airport="YSTW" Frequency="123.8" />
     <Frequency Airport="YWLM" Frequency="134.45" />
-    <Frequency Airport="YPPD" Frequency="133.65" />
   </Frequencies>
   <Translations>
     <Translation String="AYGA" Spoken="Goroka" />
@@ -112,7 +111,12 @@
     <Translation String="YSSY" Spoken="Sydney" />
     <Translation String="YSTW" Spoken="Tamworth" />
     <Translation String="YWLM" Spoken="Willy" />
+	
+	<Translation String="YMMM" Spoken="Melbourne" />
+	<Translation String="YBBB" Spoken="Brisbane" />
+
     <Translation String="ATIS" Spoken="terminal information" />
+
     <Translation String="A" Spoken="alpha" />
     <Translation String="B" Spoken="bravo" />
     <Translation String="C" Spoken="charlie" />
@@ -139,10 +143,12 @@
     <Translation String="X" Spoken="x-ray" />
     <Translation String="Y" Spoken="yankee" />
     <Translation String="Z" Spoken="zulu" />
+
     <Translation String="3" Spoken="tree" />
     <Translation String="5" Spoken="fife" />
     <Translation String="9" Spoken="niner" />
     <Translation String="." Spoken="decimal" />
+
     <Translation String="APCH" Spoken="approach" />
     <Translation String="INST" Spoken="instrument" />
     <Translation String="INSTR" Spoken="instrument" />
@@ -152,7 +158,7 @@
     <Translation String="GLS" Spoken="G L S" />
     <Translation String="DME" Spoken="D M E" />
     <Translation String="RNP" Spoken="R N P" />
-    <Translation String="RNAV" Spoken="ɑːnævː" Alphabet="IPA" FallbackSpoken="are-navv" />
+    <Translation String="RNAV" Spoken="ɑ&#x02D0;næv&#x02D0;" Alphabet="IPA" FallbackSpoken="are-navv" />
     <Translation String="OPR" Spoken="operational" />
     <Translation String="EXP" Spoken="expect" />
     <Translation String="EIA" Spoken="expect instrument approach" />
@@ -162,13 +168,13 @@
     <Translation String="PROG" Spoken="progress" />
     <Translation String="INDEP" Spoken="independent" />
     <Translation String="AVBL" Spoken="available" />
-    <Translation String="REQ" Spoken="request" />
-    <Translation String="REQD" Spoken="required" />
+    <Translation String="REQ" Spoken="request" />  
+    <Translation String="REQD" Spoken="required" />  
     <Translation String="LAHSO" Spoken="land and hold short operations" />
     <Translation String="FM" Spoken="from" />
     <Translation String="THRU" Spoken="through" />
-    <Translation String="CL" Spoken="centre line" />
-    <Translation String="PARL" Spoken="parallel" />
+	<Translation String="CL" Spoken="centre line" />
+	<Translation String="PARL" Spoken="parallel" />
     <Translation String="ABV" Spoken="above" />
     <Translation String="BLW" Spoken="below" />
     <Translation String="BTN" Spoken="between" />
@@ -189,44 +195,65 @@
     <Translation String="LGT" Spoken="light" />
     <Translation String="OTLED" Spoken="OTLEDD" />
     <Translation String="DEG" Spoken="degrees" />
-    <Translation String="NAVBL" Spoken="NOT AVAILABLE" />
+    <Translation String="NAVBL" Spoken="not available" /> 
+    <Translation String="SIMUL" Spoken="simultaneous" />
+    <Translation String="OPP" Spoken="opposite" />
+    <Translation String="DIR" Spoken="direction" />
+    <Translation String="RECIP" Spoken="reciprocal" />
+    <Translation String="APRV" Spoken="approval" />
+    <Translation String="NE" Spoken="north east" />
+    <Translation String="PDC" Spoken="pre departute clearance" />
+    <Translation String="TIL" Spoken="until" />
+    <Translation String="HLDG" Spoken="holding" />
+    <Translation String="MINS" Spoken="minutes" />
+    <Translation String="TRL" Spoken="transition level" />
+
     <Translation String="RWY" Spoken="runway" />
     <Translation String="RWYS" Spoken="runways" />
-    <Translation Spoken="$1 left and right" Regex="([012]\d|[3][0123456])L AND R" />
-    <Translation Spoken="$1 left and centre" Regex="([012]\d|[3][0123456])L AND C" />
-    <Translation Spoken="$1 centre and right" Regex="([012]\d|[3][0123456])C AND R" />
-    <Translation Spoken="$1 left" Regex="([012]\d|[3][0123456])L" />
-    <Translation Spoken="$1 right" Regex="([012]\d|[3][0123456])R" />
-    <Translation Spoken="$1 centre" Regex="([012]\d|[3][0123456])C" />
+    <!--Changes L to Left when it is associated with a two digit runway identifier-->
+	<Translation Regex="([012]\d|[3][0123456])L AND R" Spoken="$1 left and right" />
+    <Translation Regex="([012]\d|[3][0123456])L AND C" Spoken="$1 left and centre" />
+    <Translation Regex="([012]\d|[3][0123456])C AND R" Spoken="$1 centre and right" />
+    <Translation Regex="([012]\d|[3][0123456])L" Spoken="$1 left" />
+    <Translation Regex="([012]\d|[3][0123456])R" Spoken="$1 right" />
+    <Translation Regex="([012]\d|[3][0123456])C" Spoken="$1 centre" />
+
     <Translation String="WIND" Spoken="wind:" />
-    <Translation Spoken="$1 degrees, $2 knots" Regex="(\d{3})\/(\d{1,3})" />
-    <Translation Spoken="$1 degrees, minimum $2 knots, maximum $3 knots" Regex="(\d{3})\/(\d{1,3})-(\d{1,3})" />
-    <Translation Spoken="varying $1 degrees to $2 degrees, $3 knots" Regex="(\d{3})-(\d{3})\/(\d{1,3})" />
-    <Translation Spoken="varying $1 degrees to $2 degrees, minimum $3 knots, maximum $4 knots" Regex="(\d{3})-(\d{3})\/(\d{1,3})-(\d{1,3})" />
+    <!--This regex will change xxx/yyy to xxx degrees, yyy knots-->
+    <Translation Regex="(\d{3})\/(\d{1,3})" Spoken="$1 degrees, $2 knots" />
+	<Translation Regex="(\d{3})\/(\d{1,3})-(\d{1,3})" Spoken="$1 degrees, minimum $2 knots, maximum $3 knots" />
+	<Translation Regex="(\d{3})-(\d{3})\/(\d{1,3})" Spoken="varying $1 degrees to $2 degrees, $3 knots" />
+	<Translation Regex="(\d{3})-(\d{3})\/(\d{1,3})-(\d{1,3})" Spoken="varying $1 degrees to $2 degrees, minimum $3 knots, maximum $4 knots" />
     <Translation String="MAX" Spoken="maximum" />
     <Translation String="MIN" Spoken="minimum" />
     <Translation String="XW" Spoken="crosswind" />
     <Translation String="TW" Spoken="tailwind" />
-    <Translation Spoken="$1 knots" Regex="(\d{1,3})KTS" />
+    <!--This regex will change xxxKTS to xxx knots-->
+    <Translation Regex="(\d{1,3})KTS" Spoken="$1 knots" />
     <Translation String="KTS" Spoken="knots" />
     <Translation String="VRB" Spoken="variable" />
+
     <Translation String="CLD" Spoken="cloud" />
-    <Translation Spoken="$1 ${2}00 feet" Regex="(FEW|SCT|BKN|OVC)[0]{0,2}(\d+)" />
+    <!--Changes cloud to abbreviation and altitude * 100 without leading zeros-->
+    <Translation Regex="(FEW|SCT|BKN|OVC)[0]{0,2}(\d+)" Spoken="$1 ${2}00 feet" />
     <Translation String="FT" Spoken="feet" />
     <Translation String="FEW" Spoken="few" />
     <Translation String="SCT" Spoken="scattered" />
     <Translation String="BKN" Spoken="broken" />
     <Translation String="OVC" Spoken="overcast" />
+
     <Translation String="VIS" Spoken="visibility" />
     <Translation String="RED" Spoken="reduced" />
-    <Translation Spoken="$1 meters" Regex="[0]{0,3}(\d+)M" />
-    <Translation Spoken="$1 kilometres" Regex="[0]{0,1}(\d+)KM" />
+    <Translation Regex="[0]{0,3}(\d+)M" Spoken="$1 meters" />
+	<Translation String="10KM" Spoken="1 0 kilometres" />
+    <Translation Regex="[0]{0,1}(\d+)KM" Spoken="$1 kilometres" />
     <Translation String="RVR" Spoken="runway visual range" />
     <Translation String="GT" Spoken="greater than" />
-    <Translation String="CAVOK" Spoken="ˈkævˈoʊˈkeɪ" Alphabet="IPA" FallbackSpoken="kuv-okay" />
-    <Translation String="NSC" Spoken="nil significant cloud" />
-    <Translation Spoken="heavy $1" Regex="\+([A-Z]+)" />
-    <Translation Spoken="light $1" Regex="\-([A-Z]+)" />
+
+	<Translation String="CAVOK" Spoken="ˈkævˈoʊˈkeɪ" Alphabet="IPA" FallbackSpoken="kuv-okay"/>
+	<Translation String="NSC" Spoken="nil significant cloud" />
+    <Translation Regex="\+([A-Z]+)" Spoken="heavy $1" />
+    <Translation Regex="\-([A-Z]+)" Spoken="light $1" />
     <Translation String="MI" Spoken="shallow" />
     <Translation String="BC" Spoken="patches" />
     <Translation String="PR" Spoken="partial" />
@@ -262,9 +289,13 @@
     <Translation String="TSRA" Spoken="thunderstorms and rain" />
     <Translation String="TSRAGS" Spoken="thunderstorms and rain with hail" />
     <Translation String="TCU" Spoken="towering cumulus" />
+
     <Translation String="TMP" Spoken="temperature" />
+
     <Translation String="QNH" Spoken="Q-N-H" />
-    <Translation String="SIGMET" Spoken="sig met" />
+
+    <Translation String="SIGMET" Spoken="sɪɢɱɛt" Alphabet="IPA" FallbackSpoken="sygmet" />
+
   </Translations>
   <Editor>
     <Input name="APCH" NameIsSpoken="false" InputType="Edit" />
@@ -278,6 +309,6 @@
     <Input name="TMP" NameIsSpoken="true" InputType="Edit" />
     <Input name="QNH" NameIsSpoken="true" InputType="Edit" />
     <Input name="SIGWX" NameIsSpoken="false" InputType="Edit" NumbersSpokenGrouped="true" />
-    <Input name="OFCW_NOTIFY" InputType="Edit" value="ground or approach" />
+    <Input name="OFCW_NOTIFY" value="ground or approach" InputType="Edit" />
   </Editor>
 </ATIS>
