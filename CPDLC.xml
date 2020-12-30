@@ -7,7 +7,7 @@
     <Message Response="WU">MAINTAIN [SPEED] OR GREATER</Message>
     <Message Response="WU">MAINTAIN [SPEED] OR LESS</Message>
     <Message Response="WU">CONTACT [UNIT] [FREQUENCY]</Message>
-    <Message Response="R">REQUEST RECIEVED RESPONSE WILL BE VIA VOICE</Message>
+    <Message Response="R">REQUEST RECEIVED RESPONSE WILL BE VIA VOICE</Message>
   </Category>
   <Category name="Level">
     <Message Response="NE">WHEN CAN YOU ACCEPT [LEVEL]</Message>
@@ -15,9 +15,11 @@
     <Message Response="AN">CAN YOU ACCEPT [LEVEL] AT [TIME]</Message>
     <Message Response="WU">MAINTAIN [LEVEL]</Message>
     <Message Response="WU">CLIMB TO AND MAINTAIN [LEVEL]</Message>
+	<Message Response="WU">CLIMB VIA SID TO [LEVEL]</Message>
     <Message Response="WU">AT [TIME] CLIMB TO AND MAINTAIN [LEVEL]</Message>
     <Message Response="WU">AT [POSITION] CLIMB TO AND MAINTAIN [LEVEL]</Message>
     <Message Response="WU">DESCEND TO AND MAINTAIN [LEVEL]</Message>
+	<Message Response="WU">DESCEND VIA STAR TO [LEVEL]</Message>
     <Message Response="WU">AT [TIME] DESCEND TO AND MAINTAIN [LEVEL]</Message>
     <Message Response="WU">AT [POSITION] DESCEND TO AND MAINTAIN [LEVEL]</Message>
     <Message Response="WU">CLIMB TO REACH [LEVEL] BY [TIME]</Message>
@@ -30,7 +32,7 @@
     <Message Response="WU">CLIMB TO AND MAINTAIN BLOCK [LEVEL] TO [LEVEL]</Message>
     <Message Response="WU">DESCEND TO AND MAINTAIN BLOCK [LEVEL] TO [LEVEL]</Message>
     <Message Response="R">LEAVE CONTROL AREA DESCENDING</Message>
-    <Message Response="R">CRUISE CLIMB NOT AVAILABLE IN AUSTRALIAN ADMINISTRED AIRSPACE</Message>
+    <Message Response="R">CRUISE CLIMB NOT AVAILABLE IN AUSTRALIAN ADMINISTERED AIRSPACE</Message>
     <Message Response="WU">CRUISE [LEVEL]</Message>
     <Message Response="WU">CRUISE CLIMB TO [LEVEL]</Message>
     <Message Response="WU">CRUISE CLIMB ABOVE [LEVEL]</Message>
@@ -168,6 +170,7 @@
     <Message Response="WU">SQUAWK IDENT</Message>
     <Message Response="R">ALTIMETER [QNH]</Message>
     <Message Response="R">IDENTIFICATION</Message>
+    <Message Response="R">IDENTIFIED</Message>
     <Message Response="R">IDENTIFICATION TERMINATED</Message>
     <Message Response="R">TRANSMIT ADS-B IDENT</Message>
     <Message Response="R">CONFIRM ADS-C EMERGENCY</Message>
