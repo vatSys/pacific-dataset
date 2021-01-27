@@ -134,8 +134,6 @@
       VK NDB
     </Line>
     <!--STARs-->
-    <Symbol Type="HollowTriangle" />
-    <Symbol Type="SolidStar" />
     <Symbol Type="Circle">
       <Point>NA VOR</Point>
       <Point>LB VOR</Point>

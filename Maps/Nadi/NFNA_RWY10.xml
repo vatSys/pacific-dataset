@@ -92,8 +92,6 @@
       ISTOS
     </Line>
     <!--STARs-->
-    <Symbol Type="HollowTriangle" />
-    <Symbol Type="SolidStar" />
     <Symbol Type="Circle">
       <Point>LB VOR</Point>
       <Point>MT NDB</Point>

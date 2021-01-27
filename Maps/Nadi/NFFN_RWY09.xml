@@ -168,8 +168,6 @@
       VIPOB
     </Line>
     <!--STARs-->
-    <Symbol Type="HollowTriangle" />
-    <Symbol Type="SolidStar" />
     <Symbol Type="Circle">
       <Point>NN VOR</Point>
       <Point>NA VOR</Point>

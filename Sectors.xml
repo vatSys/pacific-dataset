@@ -104,7 +104,7 @@
   <Sector FullName="Male" Frequency="123.900" Callsign="VRMF_CTR" Name="VRMF" />
   <Sector FullName="Male Training" Frequency="123.900" Callsign="VRMF_T_CTR" Name="-" />
   <Sector FullName="Mauritius" Frequency="129.300" Callsign="FIMM_CTR" Name="FIMM" />
-  <Sector FullName="Melbourne Upper" Frequency="134.200" Callsign="YMMM_FSS" Name="MMM">
+  <Sector FullName="Melbourne Upper" Frequency="132.500" Callsign="YMMM_FSS" Name="MMM">
     <ResponsibleSectors />
   </Sector>
   <Sector FullName="Morris" Frequency="133.700" Callsign="ML-MOR_CTR" Name="MOR">

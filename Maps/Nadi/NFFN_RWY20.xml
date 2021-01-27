@@ -261,7 +261,6 @@
     <Symbol Type="HollowTriangle">
       <Point>MOTKI</Point>
     </Symbol>
-    <Symbol Type="SolidStar" />
     <Symbol Type="Circle">
       <Point>NN VOR</Point>
       <Point>NA VOR</Point>

@@ -84,8 +84,6 @@
       VIRAR
     </Line>
     <!--STARs-->
-    <Symbol Type="HollowTriangle" />
-    <Symbol Type="SolidStar" />
     <Symbol Type="Circle">
       <Point>NW NDB</Point>
       <Point>LTO VOR</Point>

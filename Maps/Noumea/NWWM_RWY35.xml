@@ -162,7 +162,6 @@
       <Point>REDIK</Point>
       <Point>MAMIT</Point>
     </Symbol>
-    <Symbol Type="SolidStar" />
     <Symbol Type="Circle">
       <Point>IP NDB</Point>
       <Point>LFU VOR</Point>

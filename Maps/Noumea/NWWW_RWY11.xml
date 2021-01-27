@@ -214,7 +214,6 @@
       <Point>PEPIT</Point>
       <Point>SAMID</Point>
     </Symbol>
-    <Symbol Type="SolidStar" />
     <Symbol Type="Circle">
       <Point>NW NDB</Point>
     </Symbol>

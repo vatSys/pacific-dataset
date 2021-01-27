@@ -127,8 +127,6 @@
       <Point>TESEM</Point>
       <Point>ANLOB</Point>
     </Symbol>
-    <Symbol Type="SolidStar" />
-    <Symbol Type="Circle" />
     <Symbol Type="HollowStar">
       <Point>PY VOR</Point>
       <Point>DOMRA</Point>

@@ -101,8 +101,6 @@
       
     </Line>
     <!--STARs-->
-    <Symbol Type="HollowTriangle" />
-    <Symbol Type="SolidStar" />
     <Symbol Type="Circle">
       <Point>IP NDB</Point>
       <Point>LFU VOR</Point>
