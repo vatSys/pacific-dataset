@@ -238,7 +238,7 @@ STEFF/
 NDJ NDB
 </Airway>
     <Airway Name="A346">
-HM VOR/
+OVRON/
 ELDEK/
 LEEAM/
 PADDY/
@@ -438,7 +438,7 @@ EMPRA/
 PY VOR/
 APISO/
 NONIR/
-HM VOR/
+OVRON/
 MK VOR
 </Airway>
     <Airway Name="B474">
@@ -599,7 +599,7 @@ ATPEN/
 TEBUR
 </Airway>
     <Airway Name="G205">
-HM VOR/
+OVRON/
 LAMEK/
 PIPPA/
 WEENA/
@@ -1602,9 +1602,6 @@ NINIA
     <Point Name="FN010" Type="Fix">-174553.719+1772924.450</Point>
     <Point Name="FN020" Type="Fix">-174553.899+1772944.819</Point>
     <Point Name="FN030" Type="Fix">-174453.689+1772945.398</Point>
-    <Point Name="FN424" Type="Fix">-174555.620+1773301.778</Point>
-    <Point Name="FN601" Type="Fix">-174800.850+1773216.598</Point>
-    <Point Name="FN818" Type="Fix">-174335.191+1772759.220</Point>
     <Point Name="FNAED" Type="Fix">-180215.439+1784733.202</Point>
     <Point Name="FNAEE" Type="Fix">-180747.579+1784911.888</Point>
     <Point Name="FNAEF" Type="Fix">-180430.151+1783916.769</Point>
@@ -1831,7 +1828,6 @@ NINIA
     <Point Name="HEWIT" Type="Fix">-423000.600+1505528.600</Point>
     <Point Name="HIPEL" Type="Fix">-040000.151+1494653.602</Point>
     <Point Name="HIRUP" Type="Fix">+072326.948+1514335.011</Point>
-    <Point Name="HISED" Type="Fix">-102921.840+1422902.400</Point>
     <Point Name="HIVRO" Type="Fix">+074936.998+1651631.001</Point>
     <Point Name="HOBAT" Type="Fix">-203948.359-1761932.948</Point>
     <Point Name="HOBBO" Type="Fix">-120000.011+1530932.681</Point>
@@ -1992,7 +1988,6 @@ NINIA
     <Point Name="KIMMI" Type="Fix">-143849.700+1443008.900</Point>
     <Point Name="KISME" Type="Fix">+050000.000+1480524.000</Point>
     <Point Name="KIYJE" Type="Fix">+072909.899+1515218.502</Point>
-    <Point Name="KJ601" Type="Fix">-080649.219+1390021.690</Point>
     <Point Name="KK402" Type="Fix">-082310.500+1402213.199</Point>
     <Point Name="KK403" Type="Fix">-082600.802+1402314.302</Point>
     <Point Name="KK602" Type="Fix">-083936.601+1402807.399</Point>
@@ -2034,6 +2029,7 @@ NINIA
     <Point Name="LARAB" Type="Fix">-120403.600+1291133.400</Point>
     <Point Name="LAREB" Type="Fix">-175032.989+1772547.399</Point>
     <Point Name="LARID" Type="Fix">-064412.001+1465953.999</Point>
+    <Point Name="LAROT" Type="Fix">-080354.000+1443336.000</Point>
     <Point Name="LARUT" Type="Fix">-092026.700+1595223.812</Point>
     <Point Name="LASEN" Type="Fix">-181335.000-1750000.000</Point>
     <Point Name="LATEM" Type="Fix">-222250.999+1654904.001</Point>
@@ -2219,7 +2215,6 @@ NINIA
     <Point Name="NODOK" Type="Fix">-121112.001+1550000.000</Point>
     <Point Name="NOFKE" Type="Fix">+070448.220+1710209.550</Point>
     <Point Name="NOGOT" Type="Fix">-091949.991+1455203.580</Point>
-    <Point Name="NOKEV" Type="Fix">-174245.180+1772946.640</Point>
     <Point Name="NONID" Type="Fix">-341428.600+1535449.200</Point>
     <Point Name="NONIR" Type="Fix">-154032.400+1481109.900</Point>
     <Point Name="NONON" Type="Fix">-231930.000+1695230.000</Point>
@@ -2293,11 +2288,13 @@ NINIA
     <Point Name="OREMO" Type="Fix">-040556.929+1492653.948</Point>
     <Point Name="ORION" Type="Fix">-153917.640-1753035.989</Point>
     <Point Name="OSERO" Type="Fix">-083600.000+1410000.000</Point>
+    <Point Name="OSREN" Type="Fix">-080649.201+1390021.701</Point>
     <Point Name="OSVAR" Type="Fix">-280753.220+1674126.261</Point>
     <Point Name="OTGIS" Type="Fix">-055408.140+1441012.680</Point>
     <Point Name="OUANA" Type="Fix">-220546.000+1665319.000</Point>
     <Point Name="OVLAD" Type="Fix">-132720.272-1744305.441</Point>
     <Point Name="OVNAK" Type="Fix">-003940.241+1670309.940</Point>
+    <Point Name="OVRON" Type="Fix">-202104.200+1485721.200</Point>
     <Point Name="OWIDO" Type="Fix">+070213.718+1580035.640</Point>
     <Point Name="PAAMA" Type="Fix">-162554.998+1681408.002</Point>
     <Point Name="PACKO" Type="Fix">-164659.999+1785317.999</Point>
@@ -3047,7 +3044,6 @@ NINIA
     <Point Name="CS" Type="Navaid" NavaidType="VOR" Frequency="000.000">-165100.100+1454438.000</Point>
     <Point Name="DN" Type="Navaid" NavaidType="VOR" Frequency="000.000">-122523.800+1305423.300</Point>
     <Point Name="FU" Type="Navaid" NavaidType="VOR" Frequency="113.300">-083128.481+1791151.079</Point>
-    <Point Name="HM" Type="Navaid" NavaidType="VOR" Frequency="000.000">-202104.200+1485721.200</Point>
     <Point Name="HN" Type="Navaid" NavaidType="VOR" Frequency="113.600">-092606.479+1600214.201</Point>
     <Point Name="HOI" Type="Navaid" NavaidType="VOR" Frequency="113.000">-131422.499-1761206.599</Point>
     <Point Name="JPA" Type="Navaid" NavaidType="VOR" Frequency="116.200">-023442.190+1403100.001</Point>
