@@ -3,8 +3,8 @@
   <Map Type="System" Name="AYGA_TCU" Priority="1" Centre="-06.082600+145.391283">
     <!--AYGA-->
     <Runway Name="17L/35R">
-      <Threshold Name="17L" Position="-06.074822+145.391681" />
-      <Threshold Name="35R" Position="-06.087172+145.392767" />
+      <Threshold Name="17L" Position="-06.074817+145.391683" />
+      <Threshold Name="35R" Position="-06.087167+145.392767" />
     </Runway>
     <Runway Name="17R/35L">
       <Threshold Name="17R" Position="-06.075350+145.390650" />
@@ -14,8 +14,8 @@
   <Map Type="System" Name="AYGA_ALLRWYS" Priority="2" Centre="-06.082600+145.391283">
     <!--AYGA-->
     <Runway Name="17L/35R">
-      <Threshold Name="17L" Position="-06.074822+145.391681" ExtendedCentrelineTrack="354.9" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
-      <Threshold Name="35R" Position="-06.087172+145.392767" ExtendedCentrelineTrack="174.9" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="17L" Position="-06.074817+145.391683" ExtendedCentrelineTrack="354.9" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="35R" Position="-06.087167+145.392767" ExtendedCentrelineTrack="174.9" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
     </Runway>
     <!--AYGA-->
     <Runway Name="17R/35L">

@@ -3583,11 +3583,11 @@ NINIA
       <Runway Name="14" Position="-071943.795+1573505.586" />
       <Runway Name="32" Position="-072004.128+1573518.438" />
     </Airport>
-    <Airport ICAO="AGLM" Position="-101748.599+1661938.521" Elevation="26">
+    <Airport ICAO="AGLM" Position="-101748.599+1661938.521" Elevation="6">
       <Runway Name="10" Position="-101748.599+1661938.521" />
       <Runway Name="28" Position="-101748.599+1661938.521" />
     </Airport>
-    <Airport ICAO="AGOB" Position="-081916.799+1604744.999" Elevation="163">
+    <Airport ICAO="AGOB" Position="-081916.799+1604744.999" Elevation="14">
       <Runway Name="12" Position="-081916.799+1604744.999" />
       <Runway Name="30" Position="-081916.799+1604744.999" />
     </Airport>
@@ -3612,16 +3612,16 @@ NINIA
       <Runway Name="21" Position="-060112.659+1445823.880" />
     </Airport>
     <Airport ICAO="AYDU" Position="-090511.800+1431229.498" Elevation="21">
-      <Runway Name="14" Position="-090456.798+1431211.801" />
-      <Runway Name="32" Position="-090529.000+1431244.201" />
+      <Runway Name="14" Position="-090456.798+1431211.750" />
+      <Runway Name="32" Position="-090528.979+1431244.269" />
     </Airport>
     <Airport ICAO="AYGA" Position="-060457.360+1452328.619" Elevation="5199">
-      <Runway Name="17L" Position="-060429.359+1452330.052" />
-      <Runway Name="35R" Position="-060513.819+1452333.961" />
+      <Runway Name="17L" Position="-060429.341+1452330.059" />
+      <Runway Name="35R" Position="-060513.801+1452333.961" />
       <Runway Name="17R" Position="-060431.260+1452326.340" />
       <Runway Name="35L" Position="-060532.939+1452331.801" />
     </Airport>
-    <Airport ICAO="AYGB" Position="-065240.260+1434318.779" Elevation="178">
+    <Airport ICAO="AYGB" Position="-065240.260+1434318.779" Elevation="181">
       <Runway Name="14" Position="-065227.599+1434306.481" />
       <Runway Name="32" Position="-065252.860+1434331.141" />
     </Airport>
@@ -3714,8 +3714,8 @@ NINIA
       <Runway Name="24" Position="-090427.239+1491925.500" />
     </Airport>
     <Airport ICAO="AYVN" Position="-024136.060+1411815.901" Elevation="16">
-      <Runway Name="12" Position="-024117.581+1411751.518" />
-      <Runway Name="30" Position="-024151.601+1411832.101" />
+      <Runway Name="12" Position="-024116.822+1411750.579" />
+      <Runway Name="30" Position="-024157.721+1411839.409" />
     </Airport>
     <Airport ICAO="AYWD" Position="-053800.121+1435328.561" Elevation="5886">
       <Runway Name="14" Position="-053748.540+1435316.080" />
@@ -3735,7 +3735,7 @@ NINIA
     </Airport>
     <Airport ICAO="NFFN" Position="-174523.000+1772637.000" Elevation="59">
       <Runway Name="02" Position="-174622.120+1772544.789" />
-      <Runway Name="20" Position="-174459.572+1772651.281" />
+      <Runway Name="20" Position="-174501.109+1772650.348" />
       <Runway Name="09" Position="-174511.048+1772609.910" />
       <Runway Name="27" Position="-174527.961+1772720.149" />
     </Airport>
@@ -3931,10 +3931,6 @@ NINIA
       <Runway Name="17" Position="-221514.339+1662821.742" />
       <Runway Name="35" Position="-221547.452+1662822.649" />
     </Airport>
-    <Airport ICAO="NWWP" Position="-201721.001+1640557.998" Elevation="10">
-      <Runway Name="12" Position="-201708.419+1640541.410" />
-      <Runway Name="30" Position="-201733.580+1640613.900" />
-    </Airport>
     <Airport ICAO="NWWR" Position="-212852.000+1680215.000" Elevation="138">
       <Runway Name="13" Position="-212841.380+1680204.240" />
       <Runway Name="31" Position="-212912.059+1680232.849" />
@@ -4007,8 +4003,8 @@ NINIA
       <Runway Name="05" Position="-032447.999+1403310.001" />
       <Runway Name="23" Position="-032447.999+1403310.001" />
     </Airport>
-    <Airport ICAO="WAJO" Position="-045425.999+1403749.001" Elevation="4264">
-      <Runway Name="11" Position="-045417.399+1403721.410" />
+    <Airport ICAO="WAJO" Position="-045425.999+1403749.001" Elevation="4284">
+      <Runway Name="11" Position="-045417.399+1403721.140" />
       <Runway Name="29" Position="-045435.611+1403801.320" />
     </Airport>
     <Airport ICAO="WAJR" Position="-031359.999+1405800.001" Elevation="1476">
