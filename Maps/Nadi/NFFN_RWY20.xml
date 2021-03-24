@@ -4,7 +4,7 @@
     <!--NFFN-->
     <Runway Name="02/20">
       <Threshold Name="02" Position="-17.772811+177.429108" />
-      <Threshold Name="20" Position="-17.749881+177.447578" ExtendedCentrelineTrack="37.5" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="20" Position="-17.750308+177.447319" ExtendedCentrelineTrack="37.5" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
     </Runway>
     <!--SIDs-->
     <Line>
