@@ -5,36 +5,21 @@
       <Vertical LowerLevel="0" UpperLevel="28000" Height="600" HeightWithRVSM="600"/>
       <Vertical LowerLevel="28001" UpperLevel="41000" Height="1600" HeightWithRVSM="600"/>
       <Vertical LowerLevel="41001" UpperLevel="99999" Height="1600" HeightWithRVSM="1600"/>
-      <Volumes>ADA,ADD,AVCTR,AVCTA,BNA,CBE,CBW,BAG_NORTH,BAG_SOUTH,CSA,DNA,MLA,PHANE,PHASW,PHDNE,PHDSW,SYA,WLMA</Volumes>
+      <Volumes>NFFNA,NFNAA,AYPYA,PKWAA</Volumes>
 	  <InhibitionAreas>
-		<InhibitionArea Name="YSSY" LowerLevel="0" UpperLevel="3000">
-			-334133.0+1510406.0/
-			-335458.0+1510735.0/
-			-335751.0+1505532.0/
-			-335734.0+1505817.0/
-			-340157.0+1505644.0/
-			-335854.0+1510833.0/
-			-341323.0+1511226.0/
-			-341226.0+1511759.0/
-			-335738.0+1511409.0/
-			-335501.0+1512511.0/
-			-335108.0+1512349.0/
-			-335339.0+1511305.0/
-			-334034.0+1510936.0
-		</InhibitionArea>
 	  </InhibitionAreas>
     </STCA>
     <STCA Name="ENR" LateralNM="4.8" SecondsLookahead="90" AlertPriority="1">
       <Vertical LowerLevel="0" UpperLevel="28000" Height="600" HeightWithRVSM="600"/>
       <Vertical LowerLevel="28001" UpperLevel="41000" Height="1600" HeightWithRVSM="600"/>
       <Vertical LowerLevel="41001" UpperLevel="99999" Height="1600" HeightWithRVSM="1600"/>
-      <Volumes>AGGG,ARA,ARM,ASP,AUG,BAR,BIK,BIL,BKE,BUR,COL,CRS,CBN,DOS,ELW,ESP,FLD,FOR,GEL,GRN_A,GRN_B,GTH,GVE,HUM,HWE,HYD,IND,INE,INS,ISA,JAR,KAT,KEN,KIY,KPL,LEA,MDE,MLD,MOR,MUN,NFFF,NZCM,NZZO,OCN,ORE,OXL,PIY,SNO,STR,SDY,SWY,TAS,TBD,TBP,TFR,TRT,TSN,WAR,WEG,WOL,WON,WRA,YWE</Volumes>
+      <Volumes>NFFN,NVVV,AYPM,NFFF,ARA,COL,FLD,HWE</Volumes>
     </STCA>
     <MTCA Name="ENR" LateralNM="5.0" SecondsLookahead="300" AlertPriority="3">
       <Vertical LowerLevel="18000" UpperLevel="28000" Height="600" HeightWithRVSM="600"/>
       <Vertical LowerLevel="28001" UpperLevel="41000" Height="1600" HeightWithRVSM="600"/>
       <Vertical LowerLevel="41001" UpperLevel="99999" Height="1600" HeightWithRVSM="1600"/>
-      <Volumes>AGGG,ARA,ARM,ASP,AUG,BAR,BIK,BIL,BKE,BUR,COL,CRS,CBN,DOS,ELW,ESP,FLD,FOR,GEL,GRN_A,GRN_B,GTH,GVE,HUM,HWE,HYD,IND,INE,INS,ISA,JAR,KAT,KEN,KIY,KPL,LEA,MDE,MLD,MOR,MUN,NFFF,NZCM,NZZO,OCN,ORE,OXL,PIY,SNO,STR,SDY,SWY,TAS,TBD,TBP,TFR,TRT,TSN,WAR,WEG,WOL,WON,WRA,YWE</Volumes>
+      <Volumes>NFFN,NVVV,AYPM,NFFF,ARA,COL,FLD,HWE</Volumes>
     </MTCA>
   </ConflictAlerts>
   <EMG SSRCode="7700" AlertPriority="2"/>
