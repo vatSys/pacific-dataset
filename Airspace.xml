@@ -3080,74 +3080,74 @@ NINIA
   </Intersections>
   <SIDSTARs>
     <SID Name="ASTRO1" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY DOMRA KALKO</Route>
-      <Route Runway="14R">PY DOMRA KALKO</Route>
-      <Route Runway="32L">PY DOMRA KALKO</Route>
-      <Route Runway="32R">PY DOMRA KALKO</Route>
+      <Route Runway="14L">PY VOR/DOMRA/KALKO</Route>
+      <Route Runway="14R">PY VOR/DOMRA/KALKO</Route>
+      <Route Runway="32L">PY VOR/DOMRA/KALKO</Route>
+      <Route Runway="32R">PY VOR/DOMRA/KALKO</Route>
     </SID>
     <SID Name="ASTRO2" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY KAPKI</Route>
-      <Route Runway="14R">PY KAPKI</Route>
-      <Route Runway="32L">PY KAPKI</Route>
-      <Route Runway="32R">PY KAPKI</Route>
+      <Route Runway="14L">PY VOR/KAPKI</Route>
+      <Route Runway="14R">PY VOR/KAPKI</Route>
+      <Route Runway="32L">PY VOR/KAPKI</Route>
+      <Route Runway="32R">PY VOR/KAPKI</Route>
     </SID>
     <SID Name="GALLEY" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY SAKTO</Route>
-      <Route Runway="14R">PY SAKTO</Route>
-      <Route Runway="32L">PY SAKTO</Route>
-      <Route Runway="32R">PY SAKTO</Route>
+      <Route Runway="14L">PY VOR/SAKTO</Route>
+      <Route Runway="14R">PY VOR/SAKTO</Route>
+      <Route Runway="32L">PY VOR/SAKTO</Route>
+      <Route Runway="32R">PY VOR/SAKTO</Route>
     </SID>
     <SID Name="KOKODA" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY RUPNO</Route>
-      <Route Runway="14R">PY RUPNO</Route>
-      <Route Runway="32L">PY RUPNO</Route>
-      <Route Runway="32R">PY RUPNO</Route>
+      <Route Runway="14L">PY VOR/RUPNO</Route>
+      <Route Runway="14R">PY VOR/RUPNO</Route>
+      <Route Runway="32L">PY VOR/RUPNO</Route>
+      <Route Runway="32R">PY VOR/RUPNO</Route>
     </SID>
     <SID Name="ALFA" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02">NN</Route>
-      <Route Runway="09">NN</Route>
-      <Route Runway="20">NN</Route>
-      <Route Runway="27">NN</Route>
+      <Route Runway="02">NN VOR</Route>
+      <Route Runway="09">NN VOR</Route>
+      <Route Runway="20">NN VOR</Route>
+      <Route Runway="27">NN VOR</Route>
       <Transition Name="KABAR">KABAR</Transition>
       <Transition Name="TUTRI">TUTRI</Transition>
     </SID>
     <SID Name="CHARLI" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02">NN</Route>
-      <Route Runway="09">NN</Route>
-      <Route Runway="20">NN</Route>
-      <Route Runway="27">NN</Route>
+      <Route Runway="02">NN VOR</Route>
+      <Route Runway="09">NN VOR</Route>
+      <Route Runway="20">NN VOR</Route>
+      <Route Runway="27">NN VOR</Route>
       <Transition Name="BIDAN">BIDAN</Transition>
       <Transition Name="EXORA">EXORA</Transition>
       <Transition Name="GODAP">GODAP</Transition>
       <Transition Name="LUPLO">LUPLO</Transition>
-      <Transition Name="NA">NA</Transition>
+      <Transition Name="NA">NA VOR</Transition>
       <Transition Name="NAVUA">NAVUA</Transition>
       <Transition Name="PACKO">PACKO</Transition>
     </SID>
     <SID Name="DELTA" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02">VK</Route>
-      <Route Runway="09">VK</Route>
-      <Route Runway="20">VK</Route>
-      <Route Runway="27">VK</Route>
+      <Route Runway="02">VK NDB</Route>
+      <Route Runway="09">VK NDB</Route>
+      <Route Runway="20">VK NDB</Route>
+      <Route Runway="27">VK NDB</Route>
       <Transition Name="EXORA">EXORA</Transition>
       <Transition Name="GODAP">GODAP</Transition>
       <Transition Name="LUPLO">LUPLO</Transition>
-      <Transition Name="NA">NA</Transition>
+      <Transition Name="NA">NA VOR</Transition>
       <Transition Name="NAVUA">NAVUA</Transition>
     </SID>
     <SID Name="ECHO" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02">MI</Route>
-      <Route Runway="09">MI</Route>
-      <Route Runway="20">MI</Route>
-      <Route Runway="27">MI</Route>
-      <Transition Name="NA">NA</Transition>
+      <Route Runway="02">MI NDB</Route>
+      <Route Runway="09">MI NDB</Route>
+      <Route Runway="20">MI NDB</Route>
+      <Route Runway="27">MI NDB</Route>
+      <Transition Name="NA">NA VOR</Transition>
       <Transition Name="NAVUA">NAVUA</Transition>
     </SID>
     <SID Name="FOXTRO" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02">MI AGTOS</Route>
-      <Route Runway="09">MI AGTOS</Route>
-      <Route Runway="20">MI AGTOS</Route>
-      <Route Runway="27">MI AGTOS</Route>
+      <Route Runway="02">MI NDB/AGTOS</Route>
+      <Route Runway="09">MI NDB/AGTOS</Route>
+      <Route Runway="20">MI NDB/AGTOS</Route>
+      <Route Runway="27">MI NDB/AGTOS</Route>
     </SID>
     <SID Name="GOLF" Airport="NFFN" Runways="02,09,20,27">
       <Route Runway="02" />
@@ -3161,27 +3161,27 @@ NINIA
     </SID>
     <SID Name="HOTEL" Airport="NFFN" Runways="20">
       <Route Runway="20" />
-      <Transition Name="NAB598">NA</Transition>
-      <Transition Name="NAQ271">NA</Transition>
+      <Transition Name="NAB598">NA VOR</Transition>
+      <Transition Name="NAQ271">NA VOR</Transition>
       <Transition Name="NAVUA">NAVUA</Transition>
     </SID>
     <SID Name="ALPHA" Airport="NFNA" Runways="10,28">
       <Route Runway="10">NAVUA</Route>
-      <Route Runway="28">NA NAVUA</Route>
+      <Route Runway="28">NA VOR/NAVUA</Route>
     </SID>
     <SID Name="BRAVO" Airport="NFNA" Runways="10,28">
       <Route Runway="10" />
       <Route Runway="28" />
-      <Transition Name="LB">LB</Transition>
-      <Transition Name="MT">MT</Transition>
+      <Transition Name="LB">LB VOR</Transition>
+      <Transition Name="MT">MT NDB</Transition>
       <Transition Name="NFNS">NFNS</Transition>
     </SID>
     <SID Name="CHARLI" Airport="NFNA" Runways="10,28">
-      <Route Runway="10">NA</Route>
-      <Route Runway="28">NA</Route>
-      <Transition Name="MI">MI</Transition>
-      <Transition Name="NN">NN</Transition>
-      <Transition Name="VK">VK</Transition>
+      <Route Runway="10">NA VOR</Route>
+      <Route Runway="28">NA VOR</Route>
+      <Transition Name="MI">MI NDB</Transition>
+      <Transition Name="NN">NN VOR</Transition>
+      <Transition Name="VK">VK NDB</Transition>
     </SID>
     <SID Name="DELTA" Airport="NFNA" Runways="10,28">
       <Route Runway="10">ATOLL</Route>
@@ -3197,12 +3197,12 @@ NINIA
     </SID>
     <SID Name="GOLF" Airport="NFNA" Runways="28">
       <Route Runway="28" />
-      <Transition Name="MI">MI</Transition>
-      <Transition Name="NN">NN</Transition>
-      <Transition Name="VK">VK</Transition>
+      <Transition Name="MI">MI NDB</Transition>
+      <Transition Name="NN">NN VOR</Transition>
+      <Transition Name="VK">VK NDB</Transition>
     </SID>
     <SID Name="EAST" Airport="NVVV" Runways="29">
-      <Route Runway="29">SOUTH ZULU</Route>
+      <Route Runway="29">SOUTH/ZULU</Route>
     </SID>
     <SID Name="NORTH" Airport="NVVV" Runways="29">
       <Route Runway="29">SOUTH</Route>
@@ -3215,158 +3215,158 @@ NINIA
       <Route Runway="11" />
     </SID>
     <SID Name="IP1A" Airport="NWWM" Runways="17">
-      <Route Runway="17">PIROG NORAC MISGA IP</Route>
+      <Route Runway="17">PIROG/NORAC/MISGA/IP NDB</Route>
     </SID>
     <SID Name="IP2B" Airport="NWWM" Runways="35">
-      <Route Runway="35">PIROG NORAC MISGA IP</Route>
+      <Route Runway="35">PIROG/NORAC/MISGA/IP NDB</Route>
     </SID>
     <SID Name="IP1C" Airport="NWWM" Runways="17">
-      <Route Runway="17">NORAC MISGA IP</Route>
+      <Route Runway="17">NORAC/MISGA/IP NDB</Route>
     </SID>
     <SID Name="IP2F" Airport="NWWM" Runways="35">
-      <Route Runway="35">NORAC MISGA IP</Route>
+      <Route Runway="35">NORAC/MISGA/IP NDB</Route>
     </SID>
     <SID Name="LFU1A" Airport="NWWM" Runways="17">
-      <Route Runway="17">PIROG LFU</Route>
+      <Route Runway="17">PIROG/LFU VOR</Route>
     </SID>
     <SID Name="LFU2B" Airport="NWWM" Runways="35">
-      <Route Runway="35">PIROG LFU</Route>
+      <Route Runway="35">PIROG/LFU VOR</Route>
     </SID>
     <SID Name="LFU1C" Airport="NWWM" Runways="17">
-      <Route Runway="17">NORAC OUANA LFU</Route>
+      <Route Runway="17">NORAC/OUANA/LFU VOR</Route>
     </SID>
     <SID Name="LFU1D" Airport="NWWM" Runways="17">
-      <Route Runway="17">KAORI LFU</Route>
+      <Route Runway="17">KAORI/LFU VOR</Route>
     </SID>
     <SID Name="LFU2F" Airport="NWWM" Runways="35">
-      <Route Runway="35">NORAC OUANA LFU</Route>
+      <Route Runway="35">NORAC/OUANA/LFU VOR</Route>
     </SID>
     <SID Name="LFU2G" Airport="NWWM" Runways="35">
-      <Route Runway="35">KAORI LFU</Route>
+      <Route Runway="35">KAORI/LFU VOR</Route>
     </SID>
     <SID Name="LTO3A" Airport="NWWM" Runways="17">
-      <Route Runway="17">MGA LTO</Route>
+      <Route Runway="17">MGA VOR/LTO VOR</Route>
     </SID>
     <SID Name="LTO4B" Airport="NWWM" Runways="35">
-      <Route Runway="35">LTO</Route>
+      <Route Runway="35">LTO VOR</Route>
     </SID>
     <SID Name="MG1" Airport="NWWM" Runways="17">
       <Route Runway="17" />
     </SID>
     <SID Name="MR1A" Airport="NWWM" Runways="17">
-      <Route Runway="17">PIROG KAORI OUANA MR</Route>
+      <Route Runway="17">PIROG/KAORI/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR2B" Airport="NWWM" Runways="35">
-      <Route Runway="35">PIROG KAORI OUANA MR</Route>
+      <Route Runway="35">PIROG/KAORI/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR1C" Airport="NWWM" Runways="17">
-      <Route Runway="17">NORAC OUANA MR</Route>
+      <Route Runway="17">NORAC/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR1D" Airport="NWWM" Runways="17">
-      <Route Runway="17">KAORI OUANA MR</Route>
+      <Route Runway="17">KAORI/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR2F" Airport="NWWM" Runways="35">
-      <Route Runway="35">NORAC OUANA MR</Route>
+      <Route Runway="35">NORAC/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR2G" Airport="NWWM" Runways="35">
-      <Route Runway="35">KAORI OUANA MR</Route>
+      <Route Runway="35">KAORI/OUANA/MR NDB</Route>
     </SID>
     <SID Name="SEP1A" Airport="NWWM" Runways="17">
       <Route Runway="17">PIROG</Route>
     </SID>
     <SID Name="GOPR3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">NW TOSAM GOPRA</Route>
+      <Route Runway="11">NW NDB/TOSAM/GOPRA</Route>
     </SID>
     <SID Name="GOPR3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">NW TOSAM GOPRA</Route>
+      <Route Runway="29">NW NDB/TOSAM/GOPRA</Route>
     </SID>
     <SID Name="LTO3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">LTO</Route>
+      <Route Runway="11">LTO VOR</Route>
     </SID>
     <SID Name="LTO3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">LTO</Route>
+      <Route Runway="29">LTO VOR</Route>
     </SID>
     <SID Name="NISA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">BEDON NISAS</Route>
+      <Route Runway="11">BEDON/NISAS</Route>
     </SID>
     <SID Name="NISA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">BEDON NISAS</Route>
+      <Route Runway="29">BEDON/NISAS</Route>
     </SID>
     <SID Name="ONIB3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">NW TOSAM ONIBA</Route>
+      <Route Runway="11">NW NDB/TOSAM/ONIBA</Route>
     </SID>
     <SID Name="ONIB3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">NW TOSAM ONIBA</Route>
+      <Route Runway="29">NW NDB/TOSAM/ONIBA</Route>
     </SID>
     <SID Name="POGO" Airport="NWWW" Runways="11,29">
-      <Route Runway="11">GIRAD MAMIT</Route>
-      <Route Runway="29">GIRAD MAMIT</Route>
+      <Route Runway="11">GIRAD/MAMIT</Route>
+      <Route Runway="29">GIRAD/MAMIT</Route>
     </SID>
     <SID Name="POXA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">SUDOV POXAK</Route>
+      <Route Runway="11">SUDOV/POXAK</Route>
     </SID>
     <SID Name="POXA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">SUDOV POXAK</Route>
+      <Route Runway="29">SUDOV/POXAK</Route>
     </SID>
     <SID Name="SCUB3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">GIRAD BASSA SCUBA</Route>
+      <Route Runway="11">GIRAD/BASSA/SCUBA</Route>
     </SID>
     <SID Name="SCUB3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">BASSA SCUBA</Route>
+      <Route Runway="29">BASSA/SCUBA</Route>
     </SID>
     <SID Name="TEPA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">SAMID TEPAM</Route>
+      <Route Runway="11">SAMID/TEPAM</Route>
     </SID>
     <SID Name="TEPA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">SAMID TEPAM</Route>
+      <Route Runway="29">SAMID/TEPAM</Route>
     </SID>
     <SID Name="VIRA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">GIRAD BASSA VIRAR</Route>
+      <Route Runway="11">GIRAD/BASSA/VIRAR</Route>
     </SID>
     <SID Name="VIRA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">BASSA VIRAR</Route>
+      <Route Runway="29">BASSA/VIRAR</Route>
     </SID>
     <STAR Name="ASTROL" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">NIXUT IRNUS TESEM</Route>
-      <Route Runway="14R">NIXUT IRNUS TESEM</Route>
-      <Route Runway="32L">NIXUT IRNUS TESEM</Route>
-      <Route Runway="32R">NIXUT IRNUS TESEM</Route>
+      <Route Runway="14L">NIXUT/IRNUS/TESEM</Route>
+      <Route Runway="14R">NIXUT/IRNUS/TESEM</Route>
+      <Route Runway="32L">NIXUT/IRNUS/TESEM</Route>
+      <Route Runway="32R">NIXUT/IRNUS/TESEM</Route>
     </STAR>
     <STAR Name="HIRI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY</Route>
-      <Route Runway="14R">PY</Route>
-      <Route Runway="32L">PY</Route>
-      <Route Runway="32R">PY</Route>
+      <Route Runway="14L">PY VOR</Route>
+      <Route Runway="14R">PY VOR</Route>
+      <Route Runway="32L">PY VOR</Route>
+      <Route Runway="32R">PY VOR</Route>
     </STAR>
     <STAR Name="KOKODA" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">RUPNO PY</Route>
-      <Route Runway="14R">RUPNO PY</Route>
-      <Route Runway="32L">RUPNO PY</Route>
-      <Route Runway="32R">RUPNO PY</Route>
+      <Route Runway="14L">RUPNO/PY VOR</Route>
+      <Route Runway="14R">RUPNO/PY VOR</Route>
+      <Route Runway="32L">RUPNO/PY VOR</Route>
+      <Route Runway="32R">RUPNO/PY VOR</Route>
     </STAR>
     <STAR Name="LALOKI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">EMPRA STARF ANLOB</Route>
-      <Route Runway="14R">EMPRA STARF ANLOB</Route>
-      <Route Runway="32L">EMPRA STARF ANLOB</Route>
-      <Route Runway="32R">EMPRA STARF ANLOB</Route>
+      <Route Runway="14L">EMPRA/STARF/ANLOB</Route>
+      <Route Runway="14R">EMPRA/STARF/ANLOB</Route>
+      <Route Runway="32L">EMPRA/STARF/ANLOB</Route>
+      <Route Runway="32R">EMPRA/STARF/ANLOB</Route>
     </STAR>
     <STAR Name="MAGI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY</Route>
-      <Route Runway="14R">PY</Route>
-      <Route Runway="32L">PY</Route>
-      <Route Runway="32R">PY</Route>
+      <Route Runway="14L">PY VOR</Route>
+      <Route Runway="14R">PY VOR</Route>
+      <Route Runway="32L">PY VOR</Route>
+      <Route Runway="32R">PY VOR</Route>
     </STAR>
     <STAR Name="PARER" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">GUARI LELID ANLOB</Route>
-      <Route Runway="14R">GUARI LELID ANLOB</Route>
-      <Route Runway="32L">GUARI LELID ANLOB</Route>
-      <Route Runway="32R">GUARI LELID ANLOB</Route>
+      <Route Runway="14L">GUARI/LELID/ANLOB</Route>
+      <Route Runway="14R">GUARI/LELID/ANLOB</Route>
+      <Route Runway="32L">GUARI/LELID/ANLOB</Route>
+      <Route Runway="32R">GUARI/LELID/ANLOB</Route>
     </STAR>
     <STAR Name="SAKTO" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">SAKTO PY</Route>
-      <Route Runway="14R">SAKTO PY</Route>
-      <Route Runway="32L">SAKTO PY</Route>
-      <Route Runway="32R">SAKTO PY</Route>
+      <Route Runway="14L">SAKTO/PY VOR</Route>
+      <Route Runway="14R">SAKTO/PY VOR</Route>
+      <Route Runway="32L">SAKTO/PY VOR</Route>
+      <Route Runway="32R">SAKTO/PY VOR</Route>
     </STAR>
     <STAR Name="TAVAI" Airport="AYPY" Runways="14L,14R,32L,32R">
       <Route Runway="14L">TESEM</Route>
@@ -3375,119 +3375,119 @@ NINIA
       <Route Runway="32R">TESEM</Route>
     </STAR>
     <STAR Name="AGTA1B" Airport="NFFN" Runways="20">
-      <Route Runway="20">AGTAG MOTKI</Route>
+      <Route Runway="20">AGTAG/MOTKI</Route>
     </STAR>
     <STAR Name="KALT1B" Airport="NFFN" Runways="20">
       <Transition Name="BEGIT">BEGIT</Transition>
       <Transition Name="GUSOS">GUSOS</Transition>
       <Transition Name="ISMOP">ISMOP</Transition>
       <Transition Name="PAGBO">PAGBO</Transition>
-      <Route Runway="20">KALTA LAREB MOTKI</Route>
+      <Route Runway="20">KALTA/LAREB/MOTKI</Route>
     </STAR>
     <STAR Name="MIKA1B" Airport="NFFN" Runways="20">
       <Transition Name="AGUTA">AGUTA</Transition>
       <Transition Name="TUTMU">TUTMU</Transition>
       <Transition Name="VIBEX">VIBEX</Transition>
-      <Route Runway="20">MIKAX MOTKI</Route>
+      <Route Runway="20">MIKAX/MOTKI</Route>
     </STAR>
     <STAR Name="TEDU1B" Airport="NFFN" Runways="20">
       <Transition Name="BEDOK">BEDOK</Transition>
       <Transition Name="KALPO">KALPO</Transition>
       <Transition Name="TARON">TARON</Transition>
-      <Route Runway="20">TEDUM KALTA LAREB MOTKI</Route>
+      <Route Runway="20">TEDUM/KALTA/LAREB/MOTKI</Route>
     </STAR>
     <STAR Name="IP1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">IP MISGA MGA</Route>
+      <Route Runway="35">IP NDB/MISGA/MGA VOR</Route>
     </STAR>
     <STAR Name="IP1R" Airport="NWWM" Runways="35">
-      <Route Runway="35">IP NEMID REDIK</Route>
+      <Route Runway="35">IP NDB/NEMID/REDIK</Route>
     </STAR>
     <STAR Name="KQ1M" Airport="NWWM" Runways="35">
-      <Route Runway="35">KQ GIRAD MGA</Route>
+      <Route Runway="35">KQ NDB/GIRAD/MGA VOR</Route>
     </STAR>
     <STAR Name="KQ1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">KQ LTO GIRAD MAMIT</Route>
+      <Route Runway="35">KQ NDB/LTO VOR/GIRAD/MAMIT</Route>
     </STAR>
     <STAR Name="KQ1S" Airport="NWWM" Runways="35">
-      <Route Runway="35">KQ GIRAD MAMIT</Route>
+      <Route Runway="35">KQ NDB/GIRAD/MAMIT</Route>
     </STAR>
     <STAR Name="KQ1T" Airport="NWWM" Runways="35">
-      <Route Runway="35">KQ LTO TIMDU MGA</Route>
+      <Route Runway="35">KQ NDB/LTO VOR/TIMDU/MGA VOR</Route>
     </STAR>
     <STAR Name="LFU1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">LFU GOSLA MGA</Route>
+      <Route Runway="35">LFU VOR/GOSLA/MGA VOR</Route>
     </STAR>
     <STAR Name="LTO1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">LTO GIRAD MAMIT MG194 MGA</Route>
+      <Route Runway="35">LTO VOR/GIRAD/MAMIT/MG194/MGA VOR</Route>
     </STAR>
     <STAR Name="MR1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">MR KAORI MGA</Route>
+      <Route Runway="35">MR NDB/KAORI/MGA VOR</Route>
     </STAR>
     <STAR Name="OA1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">OA OBOLI MGA</Route>
+      <Route Runway="35">OA NDB/OBOLI/MGA VOR</Route>
     </STAR>
     <STAR Name="TH1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">TH LTO GIRAD MAMIT</Route>
+      <Route Runway="35">TH NDB/LTO VOR/GIRAD/MAMIT</Route>
     </STAR>
     <STAR Name="TH1T" Airport="NWWM" Runways="35">
-      <Route Runway="35">TH LTO TIMDU MGA</Route>
+      <Route Runway="35">TH NDB/LTO VOR/TIMDU/MGA VOR</Route>
     </STAR>
     <STAR Name="ADKAD2" Airport="NWWW" Runways="11">
-      <Route Runway="11">ADKAD BAPUS LTO</Route>
+      <Route Runway="11">ADKAD/BAPUS/LTO VOR</Route>
     </STAR>
     <STAR Name="GOPRA2" Airport="NWWW" Runways="11">
-      <Route Runway="11">GOPRA BASAR LTO</Route>
+      <Route Runway="11">GOPRA/BASAR/LTO VOR</Route>
     </STAR>
     <STAR Name="GOPR2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">GOPRA SARAM TOSAM</Route>
+      <Route Runway="11">GOPRA/SARAM/TOSAM</Route>
     </STAR>
     <STAR Name="MESUS2" Airport="NWWW" Runways="11">
-      <Route Runway="11">MESUS ADORA LTO</Route>
+      <Route Runway="11">MESUS/ADORA/LTO VOR</Route>
     </STAR>
     <STAR Name="NIPOG2" Airport="NWWW" Runways="11">
-      <Route Runway="11">NIPOG LECNA DETIS LTO</Route>
+      <Route Runway="11">NIPOG/LECNA/DETIS/LTO VOR</Route>
     </STAR>
     <STAR Name="NIPO2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">NIPOG LECNA SARAM TOSAM</Route>
+      <Route Runway="11">NIPOG/LECNA/SARAM/TOSAM</Route>
     </STAR>
     <STAR Name="NISAS2" Airport="NWWW" Runways="11">
-      <Route Runway="11">NISAS KOKOL PEPIT LTO</Route>
+      <Route Runway="11">NISAS/KOKOL/PEPIT/LTO VOR</Route>
     </STAR>
     <STAR Name="NISA2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">NISAS KOKOL PEPIT</Route>
+      <Route Runway="11">NISAS/KOKOL/PEPIT</Route>
     </STAR>
     <STAR Name="ONIBA2" Airport="NWWW" Runways="11">
-      <Route Runway="11">ONIBA TESRA TOSAM LTO</Route>
+      <Route Runway="11">ONIBA/TESRA/TOSAM/LTO VOR</Route>
     </STAR>
     <STAR Name="ONIB2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">ONIBA TESRA TOSAM</Route>
+      <Route Runway="11">ONIBA/TESRA/TOSAM</Route>
     </STAR>
     <STAR Name="POXAK2" Airport="NWWW" Runways="11">
-      <Route Runway="11">POXAK LATEM SUDOV LTO</Route>
+      <Route Runway="11">POXAK/LATEM/SUDOV/LTO VOR</Route>
     </STAR>
     <STAR Name="POXA2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">POXAK LATEM SUDOV PEPIT</Route>
+      <Route Runway="11">POXAK/LATEM/SUDOV/PEPIT</Route>
     </STAR>
     <STAR Name="PULON2" Airport="NWWW" Runways="11">
-      <Route Runway="11">PULON UVIKI LTO</Route>
+      <Route Runway="11">PULON/UVIKI/LTO VOR</Route>
     </STAR>
     <STAR Name="SCUBA2" Airport="NWWW" Runways="11">
-      <Route Runway="11">SCUBA SONIT ATSAR LTO</Route>
+      <Route Runway="11">SCUBA/SONIT/ATSAR/LTO VOR</Route>
     </STAR>
     <STAR Name="SCUB2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">SCUBA SONIT ATSAR PEPIT</Route>
+      <Route Runway="11">SCUBA/SONIT/ATSAR/PEPIT</Route>
     </STAR>
     <STAR Name="TEPAM2" Airport="NWWW" Runways="11">
-      <Route Runway="11">TEPAM SOTAL SAMID LTO</Route>
+      <Route Runway="11">TEPAM/SOTAL/SAMID/LTO VOR</Route>
     </STAR>
     <STAR Name="TEPA2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">TEPAM SOTAL SAMID</Route>
+      <Route Runway="11">TEPAM/SOTAL/SAMID</Route>
     </STAR>
     <STAR Name="VIRAR2" Airport="NWWW" Runways="11">
-      <Route Runway="11">VIRAR NULVI LTO</Route>
+      <Route Runway="11">VIRAR/NULVI/LTO VOR</Route>
     </STAR>
     <STAR Name="VIRA2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">VIRAR NULVI PEPIT</Route>
+      <Route Runway="11">VIRAR/NULVI/PEPIT</Route>
     </STAR>
   </SIDSTARs>
   <Airports>
