@@ -10,8 +10,6 @@
     <Line>
       <!--Rwy11 SOUTH-->
       -17.703672+168.328372/
-      NVVV/
-      -17.703671+168.328372/
       -17.719671+168.360107/
       -17.723883+168.362671/
       -17.728749+168.362840/
@@ -19,17 +17,13 @@
     </Line>
     <Line>
       <!--Rwy11 VOR-->
-      -17.703671+168.328372/
+      -17.703672+168.328372/
       -17.747799+168.393661
     </Line>
     <!--STARs-->
-    <Symbol Type="HollowStar">
-      <Point>NVVV</Point>
-    </Symbol>
   </Map>
   <Map Type="System" Name="NVVV_RWY11_NAMES" Priority="2" Centre="-17.699325+168.319794">
     <Label>
-      <Point>NVVV</Point>
       <Point>NIPOG</Point>
       <Point>LEDIT</Point>
     </Label>

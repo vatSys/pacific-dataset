@@ -5,7 +5,7 @@
     <ResponsibleSectors />
   </Sector>
   <Sector FullName="Arafura" Frequency="133.700" Callsign="BN-ARA_CTR" Name="ARA" DisplayInSectorsWindow="False">
-    <Volumes>ARAFURA</Volumes>
+    <Volumes>ARA</Volumes>
   </Sector>
   <Sector FullName="Armadale" Frequency="130.900" Callsign="BN-ARM_CTR" Name="ARM">
     <Volumes />
@@ -171,14 +171,14 @@
     <ResponsibleSectors />
   </Sector>
   <Sector FullName="Ujung Pandang" Frequency="128.100" Callsign="WAAF_CTR" Name="WAAF" DisplayInSectorsWindow="False">
-    <Volumes>WAAF</Volumes>
+    <Volumes>WAAF-E</Volumes>
   </Sector>
   <Sector FullName="Ujung Pandang Bali" Frequency="120.700" Callsign="WAAF_B_CTR" Name="-" />
   <Sector FullName="Ujung Pandang East" Frequency="132.500" Callsign="WAAF_E_CTR" Name="WAAFE" DisplayInSectorsWindow="False">
-    <Volumes>WAAF</Volumes>
+    <Volumes>WAAF-E</Volumes>
   </Sector>
   <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_T_CTR" Name="WAAFT" DisplayInSectorsWindow="False">
-    <Volumes>WAAF</Volumes>
+    <Volumes>WAAF-E</Volumes>
   </Sector>
   <Sector FullName="Warburton" Frequency="124.900" Callsign="ML-WAR_CTR" Name="WAR">
     <Volumes />
