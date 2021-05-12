@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="NWWW_RWY11" Priority="1" Centre="-22.014444+166.213056">
+  <Map Type="System" Name="NWWW_RWY11" Priority="1" Center="-22.014444+166.213056">
     <!--NWWW-->
     <Runway Name="11/29">
       <Threshold Name="11" Position="-22.006958+166.199533" ExtendedCentrelineTrack="301.4" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
@@ -250,7 +250,7 @@
       <Point>NULVI</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="NWWW_RWY11_NAMES" Priority="2" Centre="-22.014444+166.213056">
+  <Map Type="System" Name="NWWW_RWY11_NAMES" Priority="2" Center="-22.014444+166.213056">
     <Label>
       <Point>NW NDB</Point>
       <Point>TOSAM</Point>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="NFFN_RWY27" Priority="1" Centre="-17.756389+177.443611">
+  <Map Type="System" Name="NFFN_RWY27" Priority="1" Center="-17.756389+177.443611">
     <!--NFFN-->
     <Runway Name="09/27">
       <Threshold Name="09" Position="-17.753069+177.436086" />
@@ -176,7 +176,7 @@
       <Point>VIPOB</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="NFFN_RWY27_NAMES" Priority="2" Centre="-17.756389+177.443611">
+  <Map Type="System" Name="NFFN_RWY27_NAMES" Priority="2" Center="-17.756389+177.443611">
     <Label>
       <Point>NN VOR</Point>
       <Point>KABAR</Point>

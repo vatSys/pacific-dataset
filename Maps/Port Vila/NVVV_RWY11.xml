@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="NVVV_RWY11" Priority="1" Centre="-17.699325+168.319794">
+  <Map Type="System" Name="NVVV_RWY11" Priority="1" Center="-17.699325+168.319794">
     <!--NVVV-->
     <Runway Name="11/29">
       <Threshold Name="11" Position="-17.692692+168.306706" ExtendedCentrelineTrack="297.6" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
@@ -22,7 +22,7 @@
     </Line>
     <!--STARs-->
   </Map>
-  <Map Type="System" Name="NVVV_RWY11_NAMES" Priority="2" Centre="-17.699325+168.319794">
+  <Map Type="System" Name="NVVV_RWY11_NAMES" Priority="2" Center="-17.699325+168.319794">
     <Label>
       <Point>NIPOG</Point>
       <Point>LEDIT</Point>

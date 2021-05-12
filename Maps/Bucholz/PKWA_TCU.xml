@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="PKWA_TCU" Priority="1" Centre="+08.720122+167.731661">
+  <Map Type="System" Name="PKWA_TCU" Priority="1" Center="+08.720122+167.731661">
     <!--PKWA-->
     <Runway Name="06/24">
       <Threshold Name="06" Position="+08.717400+167.722842" />
       <Threshold Name="24" Position="+08.722842+167.740483" />
     </Runway>
   </Map>
-  <Map Type="System" Name="PKWA_ALLRWYS" Priority="2" Centre="+08.720122+167.731661">
+  <Map Type="System" Name="PKWA_ALLRWYS" Priority="2" Center="+08.720122+167.731661">
     <!--PKWA-->
     <Runway Name="06/24">
       <Threshold Name="06" Position="+08.717400+167.722842" ExtendedCentrelineTrack="252.6" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />

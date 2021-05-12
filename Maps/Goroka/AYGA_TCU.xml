@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="AYGA_TCU" Priority="1" Centre="-06.082600+145.391283">
+  <Map Type="System" Name="AYGA_TCU" Priority="1" Center="-06.082600+145.391283">
     <!--AYGA-->
     <Runway Name="17L/35R">
       <Threshold Name="17L" Position="-06.074817+145.391683" />
@@ -11,7 +11,7 @@
       <Threshold Name="35L" Position="-06.092483+145.392167" />
     </Runway>
   </Map>
-  <Map Type="System" Name="AYGA_ALLRWYS" Priority="2" Centre="-06.082600+145.391283">
+  <Map Type="System" Name="AYGA_ALLRWYS" Priority="2" Center="-06.082600+145.391283">
     <!--AYGA-->
     <Runway Name="17L/35R">
       <Threshold Name="17L" Position="-06.074817+145.391683" ExtendedCentrelineTrack="354.9" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />

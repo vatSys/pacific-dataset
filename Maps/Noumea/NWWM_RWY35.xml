@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="NWWM_RWY35" Priority="1" Centre="-22.258333+166.472778">
+  <Map Type="System" Name="NWWM_RWY35" Priority="1" Center="-22.258333+166.472778">
     <!--NWWM-->
     <Runway Name="17/35">
       <Threshold Name="17" Position="-22.253983+166.472706" />
@@ -184,7 +184,7 @@
       <Point>OBOLI</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="NWWM_RWY35_NAMES" Priority="2" Centre="-22.258333+166.472778">
+  <Map Type="System" Name="NWWM_RWY35_NAMES" Priority="2" Center="-22.258333+166.472778">
     <Label>
       <Point>PIROG</Point>
       <Point>NORAC</Point>
