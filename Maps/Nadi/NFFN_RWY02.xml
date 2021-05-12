@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="NFFN_RWY02" Priority="1" Centre="-17.756389+177.443611">
+  <Map Type="System" Name="NFFN_RWY02" Priority="1" Center="-17.756389+177.443611">
     <!--NFFN-->
     <Runway Name="02/20">
       <Threshold Name="02" Position="-17.772811+177.429108" ExtendedCentrelineTrack="217.5" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
@@ -185,7 +185,7 @@
       <Point>VIPOB</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="NFFN_RWY02_NAMES" Priority="2" Centre="-17.756389+177.443611">
+  <Map Type="System" Name="NFFN_RWY02_NAMES" Priority="2" Center="-17.756389+177.443611">
     <Label>
       <Point>NN VOR</Point>
       <Point>KABAR</Point>

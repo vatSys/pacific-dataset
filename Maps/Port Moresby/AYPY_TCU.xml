@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="AYPY_TCU" Priority="1" Centre="-09.440278+147.218611">
+  <Map Type="System" Name="AYPY_TCU" Priority="1" Center="-09.440278+147.218611">
     <!--AYPY-->
     <Runway Name="14L/32R">
       <Threshold Name="14L" Position="-09.430889+147.213917" />
@@ -52,7 +52,7 @@
       MABRO
     </Line>
   </Map>
-  <Map Type="System" Name="AYPY_ALLRWYS" Priority="2" Centre="-09.440278+147.218611">
+  <Map Type="System" Name="AYPY_ALLRWYS" Priority="2" Center="-09.440278+147.218611">
     <!--AYPY-->
     <Runway Name="14L/32R">
       <Threshold Name="14L" Position="-09.430889+147.213917" ExtendedCentrelineTrack="327.8" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="NWWW_TCU" Priority="1" Centre="-22.014444+166.213056">
+  <Map Type="System" Name="NWWW_TCU" Priority="1" Center="-22.014444+166.213056">
     <!--NWWM-->
     <Runway Name="17/35">
       <Threshold Name="17" Position="-22.253983+166.472706" />
@@ -43,7 +43,7 @@
       MEPAB
     </Line>
   </Map>
-  <Map Type="System2" Name="NWWW_VFR" Priority="1" Centre="-22.014444+166.213056">
+  <Map Type="System2" Name="NWWW_VFR" Priority="1" Center="-22.014444+166.213056">
     <Symbol Type="HollowSquare">
       <Point>Y</Point>
       <Point>S</Point>
@@ -87,7 +87,7 @@
       <Point>NO</Point>
     </Label>
   </Map>
-  <Map Type="System" Name="NWWW_ALLRWYS" Priority="2" Centre="-22.014444+166.213056">
+  <Map Type="System" Name="NWWW_ALLRWYS" Priority="2" Center="-22.014444+166.213056">
     <!--NWWW-->
     <Runway Name="11/29">
       <Threshold Name="11" Position="-22.006958+166.199533" ExtendedCentrelineTrack="301.4" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
