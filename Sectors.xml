@@ -233,6 +233,7 @@
   <Sector FullName="Oakland Oceanic West" Frequency="122.500" Callsign="ZAK_W_FSS" Name="KZAKW" DisplayInSectorsWindow="False">
     <Volumes>KZAK-W</Volumes>
   </Sector>
+  <Sector FullName="South Africa Upper" Frequency="134.570" Callsign="AFRS_FSS" Name="AFRS" />
   <Sector FullName="South East Asia Upper" Frequency="135.350" Callsign="ASEA_FSS" Name="-" />
   <Sector FullName="Tasman Oceanic" Frequency="128.600" Callsign="BN-TSN_FSS" Name="TSN" DisplayInSectorsWindow="False">
     <Volumes>TSN</Volumes>
