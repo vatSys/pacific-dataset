@@ -28,34 +28,6 @@
       NORAC
     </Line>
     <Line>
-      <!--Rwy17 LFU1A-->
-      PIROG/
-      -22.324616+166.691486/
-      -22.321828+166.699497/
-      -22.315933+166.705210/
-      -22.308263+166.707335/
-      -22.034903+166.614184/
-      LFU VOR
-    </Line>
-    <Line>
-      <!--Rwy17 LFU1C-->
-      NORAC/
-      -22.397830+166.765146/
-      -22.396608+166.774223/
-      -22.382707+166.792064/
-      OUANA/
-      LFU VOR
-    </Line>
-    <Line>
-      <!--Rwy17 LFU1D-->
-      -22.317025+166.517366/
-      -22.318082+166.593771/
-      -22.309861+166.608845/
-      -22.296037+166.617948/
-      KAORI/
-      LFU VOR
-    </Line>
-    <Line>
       <!--Rwy17 LTO3A-->
       -22.263181+166.472958/
       -22.275742+166.473361/
@@ -69,6 +41,15 @@
       -22.286808+166.360322/
       -22.279173+166.357276/
       LTO VOR
+    </Line>
+    <Line>
+      <!--Rwy17 LU1D-->
+      -22.317025+166.517366/
+      -22.318082+166.593771/
+      -22.309861+166.608845/
+      -22.296037+166.617948/
+      KAORI/
+      LU NDB
     </Line>
     <Line>
       <!--Rwy17 MG1-->
@@ -88,7 +69,11 @@
     </Line>
     <Line>
       <!--Rwy17 MR1C-->
-      
+      NORAC/
+      -22.397830+166.765146/
+      -22.396608+166.774223/
+      -22.382707+166.792064/
+      OUANA
     </Line>
     <Line>
       <!--Rwy17 MR1D-->
@@ -101,17 +86,17 @@
     <!--STARs-->
     <Symbol Type="Circle">
       <Point>IP NDB</Point>
-      <Point>LFU VOR</Point>
       <Point>MGA VOR</Point>
       <Point>LTO VOR</Point>
+      <Point>LU NDB</Point>
       <Point>MR NDB</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>PIROG</Point>
       <Point>NORAC</Point>
       <Point>MISGA</Point>
-      <Point>OUANA</Point>
       <Point>KAORI</Point>
+      <Point>OUANA</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="NWWM_RWY17_NAMES" Priority="2" Center="-22.258333+166.472778">
@@ -120,11 +105,11 @@
       <Point>NORAC</Point>
       <Point>MISGA</Point>
       <Point>IP NDB</Point>
-      <Point>LFU VOR</Point>
-      <Point>OUANA</Point>
-      <Point>KAORI</Point>
       <Point>MGA VOR</Point>
       <Point>LTO VOR</Point>
+      <Point>KAORI</Point>
+      <Point>LU NDB</Point>
+      <Point>OUANA</Point>
       <Point>MR NDB</Point>
       <Point>TEBUR</Point>
       <Point>NISAS</Point>

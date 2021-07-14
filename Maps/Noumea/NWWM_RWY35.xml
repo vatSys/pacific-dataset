@@ -29,32 +29,6 @@
       NORAC
     </Line>
     <Line>
-      <!--Rwy35 LFU2B-->
-      PIROG/
-      -22.324616+166.691486/
-      -22.321828+166.699497/
-      -22.315933+166.705210/
-      -22.308263+166.707335/
-      -22.034903+166.614184/
-      LFU VOR
-    </Line>
-    <Line>
-      <!--Rwy35 LFU2F-->
-      NORAC/
-      -22.397830+166.765146/
-      -22.396608+166.774223/
-      -22.382707+166.792064/
-      OUANA/
-      LFU VOR
-    </Line>
-    <Line>
-      <!--Rwy35 LFU2G-->
-      -22.214489+166.533116/
-      -22.266853+166.565068/
-      KAORI/
-      LFU VOR
-    </Line>
-    <Line>
       <!--Rwy35 LTO4B-->
       -22.253983+166.472706/
       -22.234001+166.471541/
@@ -63,6 +37,13 @@
       -22.225643+166.347381/
       -22.224144+166.339372/
       LTO VOR
+    </Line>
+    <Line>
+      <!--Rwy35 LU2G-->
+      -22.214489+166.533116/
+      -22.266853+166.565068/
+      KAORI/
+      LU NDB
     </Line>
     <Line>
       <!--Rwy35 MR2B-->
@@ -75,7 +56,11 @@
     </Line>
     <Line>
       <!--Rwy35 MR2F-->
-      
+      NORAC/
+      -22.397830+166.765146/
+      -22.396608+166.774223/
+      -22.382707+166.792064/
+      OUANA
     </Line>
     <Line>
       <!--Rwy35 MR2G-->
@@ -117,11 +102,6 @@
       TIMDU
     </Line>
     <Line>
-      <!--Rwy35 LFU1N-->
-      LFU VOR/
-      GOSLA
-    </Line>
-    <Line>
       <!--Rwy35 LTO1N-->
       MAMIT/
       MG194/
@@ -136,6 +116,11 @@
       -22.423975+166.431756/
       -22.422881+166.433123/
       -22.384073+166.474074
+    </Line>
+    <Line>
+      <!--Rwy35 LU1N-->
+      LU NDB/
+      GOSLA
     </Line>
     <Line>
       <!--Rwy35 MR1N-->
@@ -163,8 +148,8 @@
     </Symbol>
     <Symbol Type="Circle">
       <Point>IP NDB</Point>
-      <Point>LFU VOR</Point>
       <Point>LTO VOR</Point>
+      <Point>LU NDB</Point>
       <Point>MR NDB</Point>
       <Point>KQ NDB</Point>
       <Point>OA NDB</Point>
@@ -174,13 +159,13 @@
       <Point>PIROG</Point>
       <Point>NORAC</Point>
       <Point>MISGA</Point>
-      <Point>OUANA</Point>
       <Point>KAORI</Point>
+      <Point>OUANA</Point>
       <Point>NEMID</Point>
       <Point>GIRAD</Point>
       <Point>TIMDU</Point>
-      <Point>GOSLA</Point>
       <Point>MG194</Point>
+      <Point>GOSLA</Point>
       <Point>OBOLI</Point>
     </Symbol>
   </Map>
@@ -190,10 +175,10 @@
       <Point>NORAC</Point>
       <Point>MISGA</Point>
       <Point>IP NDB</Point>
-      <Point>LFU VOR</Point>
-      <Point>OUANA</Point>
-      <Point>KAORI</Point>
       <Point>LTO VOR</Point>
+      <Point>KAORI</Point>
+      <Point>LU NDB</Point>
+      <Point>OUANA</Point>
       <Point>MR NDB</Point>
       <Point>NEMID</Point>
       <Point>REDIK</Point>
@@ -201,8 +186,8 @@
       <Point>GIRAD</Point>
       <Point>MAMIT</Point>
       <Point>TIMDU</Point>
-      <Point>GOSLA</Point>
       <Point>MG194</Point>
+      <Point>GOSLA</Point>
       <Point>OA NDB</Point>
       <Point>OBOLI</Point>
       <Point>TH NDB</Point>

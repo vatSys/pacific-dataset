@@ -187,73 +187,73 @@
     </Line>
     <!--STARs-->
     <Line>
-      <!--Rwy20 AGTA1B-->
+      <!--Rwy20 AGTA2B-->
       AGTAG/
       MOTKI
     </Line>
     <Line>
-      <!--Rwy20 KALT1B.BEGIT-->
+      <!--Rwy20 KALT2B.BEGIT-->
       BEGIT/
       KALTA
     </Line>
     <Line>
-      <!--Rwy20 KALT1B.GUSOS-->
+      <!--Rwy20 KALT2B.GUSOS-->
       GUSOS/
       KALTA
     </Line>
     <Line>
-      <!--Rwy20 KALT1B.ISMOP-->
+      <!--Rwy20 KALT2B.ISMOP-->
       ISMOP/
       KALTA
     </Line>
     <Line>
-      <!--Rwy20 KALT1B.PAGBO-->
+      <!--Rwy20 KALT2B.PAGBO-->
       PAGBO/
       KALTA
     </Line>
     <Line>
-      <!--Rwy20 KALT1B-->
+      <!--Rwy20 KALT2B-->
       KALTA/
       LAREB/
       MOTKI
     </Line>
     <Line>
-      <!--Rwy20 MIKA1B.AGUTA-->
+      <!--Rwy20 MIKA2B.AGUTA-->
       AGUTA/
       MIKAX
     </Line>
     <Line>
-      <!--Rwy20 MIKA1B.TUTMU-->
+      <!--Rwy20 MIKA2B.TUTMU-->
       TUTMU/
       MIKAX
     </Line>
     <Line>
-      <!--Rwy20 MIKA1B.VIBEX-->
+      <!--Rwy20 MIKA2B.VIBEX-->
       VIBEX/
       MIKAX
     </Line>
     <Line>
-      <!--Rwy20 MIKA1B-->
+      <!--Rwy20 MIKA2B-->
       MIKAX/
       MOTKI
     </Line>
     <Line>
-      <!--Rwy20 TEDU1B.BEDOK-->
+      <!--Rwy20 TEDU2B.BEDOK-->
       BEDOK/
       TEDUM
     </Line>
     <Line>
-      <!--Rwy20 TEDU1B.KALPO-->
+      <!--Rwy20 TEDU2B.KALPO-->
       KALPO/
       TEDUM
     </Line>
     <Line>
-      <!--Rwy20 TEDU1B.TARON-->
+      <!--Rwy20 TEDU2B.TARON-->
       TARON/
       TEDUM
     </Line>
     <Line>
-      <!--Rwy20 TEDU1B-->
+      <!--Rwy20 TEDU2B-->
       TEDUM/
       KALTA
     </Line>

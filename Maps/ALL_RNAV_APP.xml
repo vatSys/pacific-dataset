@@ -7,11 +7,6 @@
       <Point>DGOWC</Point>
       <Point>DGOWF</Point>
       <Point>DGOWI</Point>
-      <Point>FNAED</Point>
-      <Point>FNAEE</Point>
-      <Point>FNAEF</Point>
-      <Point>FNAEG</Point>
-      <Point>FNAEI</Point>
       <Point>FNAWA</Point>
       <Point>FNAWB</Point>
       <Point>FNAWC</Point>
@@ -32,11 +27,6 @@
       <Point>FNNSF</Point>
       <Point>FNNSG</Point>
       <Point>FNNSI</Point>
-      <Point>FNNWA</Point>
-      <Point>FNNWB</Point>
-      <Point>FNNWC</Point>
-      <Point>FNNWF</Point>
-      <Point>FNNWI</Point>
       <Point>GATNA</Point>
       <Point>GATNC</Point>
       <Point>GATNF</Point>
@@ -303,12 +293,10 @@
     </Label>
     <Symbol Type="MalteseCross">
       <Point>DGOWF</Point>
-      <Point>FNAEF</Point>
       <Point>FNAWF</Point>
       <Point>FNHNF</Point>
       <Point>FNHSF</Point>
       <Point>FNNSF</Point>
-      <Point>FNNWF</Point>
       <Point>GATNF</Point>
       <Point>GBESF</Point>
       <Point>GGBEF</Point>
@@ -373,12 +361,10 @@
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>DGOWI</Point>
-      <Point>FNAEI</Point>
       <Point>FNAWI</Point>
       <Point>FNHNI</Point>
       <Point>FNHSI</Point>
       <Point>FNNSI</Point>
-      <Point>FNNWI</Point>
       <Point>GATNI</Point>
       <Point>GBESI</Point>
       <Point>GGBEI</Point>
@@ -443,9 +429,6 @@
       <Point>DGOWA</Point>
       <Point>DGOWB</Point>
       <Point>DGOWC</Point>
-      <Point>FNAED</Point>
-      <Point>FNAEE</Point>
-      <Point>FNAEG</Point>
       <Point>FNAWA</Point>
       <Point>FNAWB</Point>
       <Point>FNAWC</Point>
@@ -458,9 +441,6 @@
       <Point>FNNSD</Point>
       <Point>FNNSE</Point>
       <Point>FNNSG</Point>
-      <Point>FNNWA</Point>
-      <Point>FNNWB</Point>
-      <Point>FNNWC</Point>
       <Point>GATNA</Point>
       <Point>GATNC</Point>
       <Point>GBESB</Point>
@@ -610,11 +590,6 @@
     <Line>DGOWC/DGOWI</Line>
     <Line>DGOWI/DGOWF</Line>
     <Line>DGOWM/DGOWF</Line>
-    <Line>FNAED/FNAEI</Line>
-    <Line>FNAEE/FNAEI</Line>
-    <Line>FNAEG/FNAEI</Line>
-    <Line>FNAEI/FNAEF</Line>
-    <Line>FNAEM/FNAEF</Line>
     <Line>FNAWA/FNAWI</Line>
     <Line>FNAWB/FNAWI</Line>
     <Line>FNAWC/FNAWI</Line>
@@ -635,11 +610,6 @@
     <Line>FNNSG/FNNSI</Line>
     <Line>FNNSI/FNNSF</Line>
     <Line>FNNSM/FNNSF</Line>
-    <Line>FNNWA/FNNWI</Line>
-    <Line>FNNWB/FNNWI</Line>
-    <Line>FNNWC/FNNWI</Line>
-    <Line>FNNWI/FNNWF</Line>
-    <Line>FNNWM/FNNWF</Line>
     <Line>GATNA/GATNI</Line>
     <Line>GATNC/GATNI</Line>
     <Line>GATNI/GATNF</Line>
