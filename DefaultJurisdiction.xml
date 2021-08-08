@@ -6,7 +6,117 @@
         <Departure Values="AYPY">
           <Rules>
             <Default>
-              <AssignSector Order="AYPYD,AYPYA"/>
+              <AssignSector Order="PYA"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="AYNZ_DEPS">
+      <Rules>
+        <Departure Values="AYNZ">
+          <Rules>
+            <Default>
+              <AssignSector Order="NZA"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="AYGA_DEPS">
+      <Rules>
+        <Departure Values="AYGA">
+          <Rules>
+            <Default>
+              <AssignSector Order="AYPM"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="AYMD_DEPS">
+      <Rules>
+        <Departure Values="AYMD">
+          <Rules>
+            <Default>
+              <AssignSector Order="AYPM"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="AYMH_DEPS">
+      <Rules>
+        <Departure Values="AYMH">
+          <Rules>
+            <Default>
+              <AssignSector Order="AYPM"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="AYTK_DEPS">
+      <Rules>
+        <Departure Values="AYTK">
+          <Rules>
+            <Default>
+              <AssignSector Order="AYPM"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="AYWK_DEPS">
+      <Rules>
+        <Departure Values="AYWK">
+          <Rules>
+            <Default>
+              <AssignSector Order="AYPM"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="NFFN_DEPS">
+      <Rules>
+        <Departure Values="NFFN">
+          <Rules>
+            <Default>
+              <AssignSector Order="FNA"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="NFNA_DEPS">
+      <Rules>
+        <Departure Values="NFNA">
+          <Rules>
+            <Default>
+              <AssignSector Order="NAA"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="NWWW_NWWM_DEPS">
+      <Rules>
+        <Departure Values="NWWW,NWWM">
+          <Rules>
+            <Default>
+              <AssignSector Order="WWA"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="PKWA_DEPS">
+      <Rules>
+        <Departure Values="PKWA">
+          <Rules>
+            <Default>
+              <AssignSector Order="WAA"/>
             </Default>
           </Rules>
         </Departure>

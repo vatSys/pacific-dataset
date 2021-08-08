@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Airspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SystemRunways>
+    <Airport Name="AYGA">
+      <Runway Name="17L" DataRunway="17L" />
+      <Runway Name="17R" DataRunway="17R" />
+      <Runway Name="35L" DataRunway="35L" />
+      <Runway Name="35R" DataRunway="35R" />
+    </Airport>
+    <Airport Name="AYMD">
+      <Runway Name="07" DataRunway="07" />
+      <Runway Name="25" DataRunway="25" />
+    </Airport>
+    <Airport Name="AYMH">
+      <Runway Name="08" DataRunway="08" />
+      <Runway Name="12" DataRunway="12" />
+      <Runway Name="26" DataRunway="26" />
+      <Runway Name="30" DataRunway="30" />
+    </Airport>
+    <Airport Name="AYNZ">
+      <Runway Name="09" DataRunway="09" />
+      <Runway Name="27" DataRunway="27" />
+    </Airport>
     <Airport Name="AYPY">
       <Runway Name="14L" DataRunway="14L">
         <SID Name="ASTRO1" />
@@ -58,6 +78,14 @@
         <STAR Name="SAKTO" />
         <STAR Name="TAVAI" />
       </Runway>
+    </Airport>
+    <Airport Name="AYTK">
+      <Runway Name="10" DataRunway="10" />
+      <Runway Name="28" DataRunway="28" />
+    </Airport>
+    <Airport Name="AYWK">
+      <Runway Name="10" DataRunway="10" />
+      <Runway Name="28" DataRunway="28" />
     </Airport>
     <Airport Name="NFFN">
       <Runway Name="02" DataRunway="02">
@@ -118,14 +146,14 @@
       </Runway>
     </Airport>
     <Airport Name="NVVV">
+      <Runway Name="11" DataRunway="11">
+        <SID Name="SOUTH" />
+        <SID Name="VOR" />
+      </Runway>
       <Runway Name="29" DataRunway="29">
         <SID Name="EAST" />
         <SID Name="NORTH" />
         <SID Name="SOUTH" />
-      </Runway>
-      <Runway Name="11" DataRunway="11">
-        <SID Name="SOUTH" />
-        <SID Name="VOR" />
       </Runway>
     </Airport>
     <Airport Name="NWWM">
@@ -204,6 +232,10 @@
         <SID Name="TEPA3W" />
         <SID Name="VIRA3W" />
       </Runway>
+    </Airport>
+    <Airport Name="PKWA">
+      <Runway Name="06" DataRunway="06" />
+      <Runway Name="24" DataRunway="24" />
     </Airport>
   </SystemRunways>
   <Airways>
