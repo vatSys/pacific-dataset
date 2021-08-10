@@ -142,7 +142,7 @@
       </ControllerInfo>
     </Position>
   </Group>
-  <Group Name="Procedural">
+  <Group Name="Procedural TWR">
     <Position Name="Goroka Tower" Type="ASD" DefaultCenter="-06.082600+145.391283" DefaultRange="80" MagneticVariation="-4.9">
       <Sectors>
         <Sector Name="AYGA ADC" />
@@ -394,7 +394,7 @@
       </ControllerInfo>
     </Position>
   </Group>
-  <Group Name="Radar">
+  <Group Name="Radar TWR">
     <Position Name="Jacksons Tower" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="90" MagneticVariation="-5.8">
       <Sectors>
         <Sector Name="AYPY ADC" />
