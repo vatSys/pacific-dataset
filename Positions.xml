@@ -116,6 +116,48 @@
       <Map Name="Bucholz/ASMGCS_PKWA_BLD" />
     </Maps>
   </Position>
+  <Group Name="Class D">
+  <Position Name="AYGA" Type="ASMGCS" ASMGCSAirport="AYGA" DefaultCenter="-06.082600+145.391283" DefaultRange="2" MagneticVariation="-4.9" Rotation="0">
+    <Maps>
+      <Map Name="Goroka/ASMGCS_AYGA_RWY" />
+      <Map Name="Goroka/ASMGCS_AYGA_APR" />
+      <Map Name="Goroka/ASMGCS_AYGA_TWY" />
+      <Map Name="Goroka/ASMGCS_AYGA_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="AYMD" Type="ASMGCS" ASMGCSAirport="AYMD" DefaultCenter="-05.208333+145.787667" DefaultRange="2" MagneticVariation="-4.8" Rotation="0">
+    <Maps>
+      <Map Name="Madang/ASMGCS_AYMD_RWY" />
+      <Map Name="Madang/ASMGCS_AYMD_APR" />
+      <Map Name="Madang/ASMGCS_AYMD_TWY" />
+      <Map Name="Madang/ASMGCS_AYMD_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="AYMH" Type="ASMGCS" ASMGCSAirport="AYMH" DefaultCenter="-05.827806+144.299528" DefaultRange="2" MagneticVariation="-4.6" Rotation="0">
+    <Maps>
+      <Map Name="Mt Hagen/ASMGCS_AYMH_RWY" />
+      <Map Name="Mt Hagen/ASMGCS_AYMH_APR" />
+      <Map Name="Mt Hagen/ASMGCS_AYMH_TWY" />
+      <Map Name="Mt Hagen/ASMGCS_AYMH_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="AYTK" Type="ASMGCS" ASMGCSAirport="AYTK" DefaultCenter="-04.341028+152.379222" DefaultRange="2" MagneticVariation="-6.3" Rotation="0">
+    <Maps>
+      <Map Name="Tokua/ASMGCS_AYTK_RWY" />
+      <Map Name="Tokua/ASMGCS_AYTK_APR" />
+      <Map Name="Tokua/ASMGCS_AYTK_TWY" />
+      <Map Name="Tokua/ASMGCS_AYTK_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="AYWK" Type="ASMGCS" ASMGCSAirport="AYWK" DefaultCenter="-03.584139+143.668783" DefaultRange="2" MagneticVariation="-4.1" Rotation="0">
+    <Maps>
+      <Map Name="Wewak/ASMGCS_AYWK_RWY" />
+      <Map Name="Wewak/ASMGCS_AYWK_APR" />
+      <Map Name="Wewak/ASMGCS_AYWK_TWY" />
+      <Map Name="Wewak/ASMGCS_AYWK_BLD" />
+    </Maps>
+  </Position>
+  </Group>
   <Group Name="Oceanic">
     <Position Name="Nadi Oceanic" Type="ASD" DefaultCenter="-10.660683+178.585898" DefaultRange="4500">
       <Sectors>

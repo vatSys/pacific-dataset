@@ -1,83 +1,135 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Radars>
-  <Radar Name="MORSEBY" Type="PRI" Elevation="140" MaxRange="50">
-    <Lat>-9.44388055590292</Lat>
-    <Long>147.226391666445</Long>
+  <Radar Name="MORSEBY" Type="PRI" Elevation="140" MaxRange="80">
+    <Lat>-9.44388055555556</Lat>
+    <Long>147.226391666667</Long>
   </Radar>
-  <Radar Name="MORSEBY" Type="SSR_ModeS" Elevation="140" MaxRange="255">
-    <Lat>-9.44388055590292</Lat>
-    <Long>147.226391666445</Long>
+  <Radar Name="MORSEBY" Type="SSR_ModeS" Elevation="140" MaxRange="250">
+    <Lat>-9.44388055555556</Lat>
+    <Long>147.226391666667</Long>
   </Radar>
-  <Radar Name="Mt Nauwein PNG" Type="ADSB" Elevation="4700" MaxRange="255">
-    <Lat>-6.52627777780096</Lat>
-    <Long>146.093055555907</Long>
+  <Radar Name="Mt Nauwein PNG" Type="ADSB" Elevation="4700" MaxRange="250">
+    <Lat>-6.52627777777778</Lat>
+    <Long>146.093055555556</Long>
   </Radar>
-  <Radar Name="Mt Mission PNG" Type="ADSB" Elevation="350" MaxRange="255">
+  <Radar Name="Mt Mission PNG" Type="ADSB" Elevation="350" MaxRange="250">
     <Lat>-4.5</Lat>
     <Long>142.5</Long>
   </Radar>
-  <Radar Name="Mt Konokalang PNG" Type="ADSB" Elevation="5000" MaxRange="255">
+  <Radar Name="Mt Konokalang PNG" Type="ADSB" Elevation="5000" MaxRange="250">
     <Lat>-4.41666666666667</Lat>
     <Long>152.833333333333</Long>
   </Radar>
-  <Radar Name="Mt Dimodimo PNG" Type="ADSB" Elevation="2700" MaxRange="255">
+  <Radar Name="Mt Dimodimo PNG" Type="ADSB" Elevation="2700" MaxRange="250">
     <Lat>-6.5</Lat>
     <Long>142.833333333333</Long>
   </Radar>
-  <Radar Name="Lorengau PNG" Type="ADSB" Elevation="450" MaxRange="255">
+  <Radar Name="Lorengau PNG" Type="ADSB" Elevation="450" MaxRange="250">
     <Lat>-2.05</Lat>
     <Long>145.283333333333</Long>
   </Radar>
-  <Radar Name="Mt Robinson PNG" Type="ADSB" Elevation="450" MaxRange="255">
+  <Radar Name="Mt Robinson PNG" Type="ADSB" Elevation="450" MaxRange="250">
     <Lat>-4.9</Lat>
     <Long>141.15</Long>
   </Radar>
-  <Radar Name="Burns Peak PNG" Type="ADSB" Elevation="800" MaxRange="255">
-    <Lat>-9.45532222213224</Lat>
-    <Long>147.164572221786</Long>
+  <Radar Name="Burns Peak PNG" Type="ADSB" Elevation="800" MaxRange="250">
+    <Lat>-9.45532222222222</Lat>
+    <Long>147.164572222222</Long>
   </Radar>
-  <Radar Name="Rotuma Fiji" Type="ADSB" Elevation="150" MaxRange="255">
-    <Lat>-12.5023050000891</Lat>
-    <Long>177.072456944051</Long>
+  <Radar Name="Rotuma Fiji" Type="ADSB" Elevation="150" MaxRange="250">
+    <Lat>-12.502305</Lat>
+    <Long>177.072456944444</Long>
   </Radar>
-  <Radar Name="Delaikoro Labasa Fiji" Type="ADSB" Elevation="100" MaxRange="255">
-    <Lat>-16.5869769443137</Lat>
-    <Long>179.314405000024</Long>
+  <Radar Name="Delaikoro Labasa Fiji" Type="ADSB" Elevation="100" MaxRange="250">
+    <Lat>-16.5869769444444</Lat>
+    <Long>179.314405</Long>
   </Radar>
-  <Radar Name="Matei Fiji" Type="ADSB" Elevation="100" MaxRange="255">
-    <Lat>-16.6917780551439</Lat>
-    <Long>180.122231944433</Long>
+  <Radar Name="Matei Fiji" Type="ADSB" Elevation="100" MaxRange="250">
+    <Lat>-16.6917780555556</Lat>
+    <Long>180.122231944444</Long>
   </Radar>
-  <Radar Name="Lakeba Fiji" Type="ADSB" Elevation="100" MaxRange="255">
-    <Lat>-18.2045111109503</Lat>
-    <Long>181.187273889066</Long>
+  <Radar Name="Lakeba Fiji" Type="ADSB" Elevation="100" MaxRange="250">
+    <Lat>-18.2045111111111</Lat>
+    <Long>181.187273888889</Long>
   </Radar>
-  <Radar Name="Nausori Tower Fiji" Type="ADSB" Elevation="50" MaxRange="255">
-    <Lat>-18.0457230556135</Lat>
-    <Long>178.559586110711</Long>
+  <Radar Name="Nausori Tower Fiji" Type="ADSB" Elevation="50" MaxRange="250">
+    <Lat>-18.0457230555556</Lat>
+    <Long>178.559586111111</Long>
   </Radar>
-  <Radar Name="Nadi Tower Fiji" Type="ADSB" Elevation="50" MaxRange="255">
-    <Lat>-17.7588430549949</Lat>
-    <Long>177.446299999704</Long>
+  <Radar Name="Nadi Tower Fiji" Type="ADSB" Elevation="50" MaxRange="250">
+    <Lat>-17.7588430555556</Lat>
+    <Long>177.4463</Long>
   </Radar>
-  <Radar Name="Bauerfield Vanuatu" Type="ADSB" Elevation="50" MaxRange="255">
-    <Lat>-17.6992944439252</Lat>
-    <Long>168.319788333277</Long>
+  <Radar Name="Bauerfield Vanuatu" Type="ADSB" Elevation="50" MaxRange="250">
+    <Lat>-17.6992944444444</Lat>
+    <Long>168.319788333333</Long>
   </Radar>
-  <Radar Name="Santo Pekoa Vanuatu" Type="ADSB" Elevation="50" MaxRange="255">
-    <Lat>-15.5057369442657</Lat>
-    <Long>167.221319444353</Long>
+  <Radar Name="Santo Pekoa Vanuatu" Type="ADSB" Elevation="50" MaxRange="250">
+    <Lat>-15.5057369444444</Lat>
+    <Long>167.221319444444</Long>
   </Radar>
-  <Radar Name="Whitegrass Vanuatu" Type="ADSB" Elevation="50" MaxRange="255">
-    <Lat>-19.4549155554734</Lat>
-    <Long>169.223338055766</Long>
+  <Radar Name="Whitegrass Vanuatu" Type="ADSB" Elevation="50" MaxRange="250">
+    <Lat>-19.4549155555556</Lat>
+    <Long>169.223338055556</Long>
   </Radar>
-  <Radar Name="Bucholz" Type="PRI" Elevation="30" MaxRange="50">
-    <Lat>8.71806111116117</Lat>
-    <Long>167.733210833619</Long>
+  <Radar Name="Bucholz" Type="PRI" Elevation="30" MaxRange="150">
+    <Lat>8.71806111111111</Lat>
+    <Long>167.733210833333</Long>
   </Radar>
   <Radar Name="Bucholz" Type="SSR_ModeC" Elevation="30" MaxRange="255">
-    <Lat>8.71806111116117</Lat>
-    <Long>167.733210833619</Long>
+    <Lat>8.71806111111111</Lat>
+    <Long>167.733210833333</Long>
+  </Radar>
+  <Radar Name="Goroka" Type="SMR_ADSB" Elevation="5199" MaxRange="5">
+    <Lat>-6.0826</Lat>
+    <Long>145.391283055556</Long>
+  </Radar>
+  <Radar Name="Madang" Type="SMR_ADSB" Elevation="18" MaxRange="5">
+    <Lat>-5.20833333333333</Lat>
+    <Long>145.787666944444</Long>
+  </Radar>
+  <Radar Name="Mt Hagen" Type="SMR_ADSB" Elevation="5386" MaxRange="5">
+    <Lat>-5.82780611111111</Lat>
+    <Long>144.299528055556</Long>
+  </Radar>
+  <Radar Name="Nadzab" Type="SMR_ADSB" Elevation="238" MaxRange="5">
+    <Lat>-6.56922194444444</Lat>
+    <Long>146.728055555556</Long>
+  </Radar>
+  <Radar Name="Port Moresby" Type="SMR_ADSB" Elevation="129" MaxRange="5">
+    <Lat>-9.44027777777778</Lat>
+    <Long>147.218611111111</Long>
+  </Radar>
+  <Radar Name="Tokua" Type="SMR_ADSB" Elevation="49" MaxRange="5">
+    <Lat>-4.34102805555556</Lat>
+    <Long>152.379221944444</Long>
+  </Radar>
+  <Radar Name="Wewak" Type="SMR_ADSB" Elevation="15" MaxRange="5">
+    <Lat>-3.58413888888889</Lat>
+    <Long>143.668783055556</Long>
+  </Radar>
+  <Radar Name="Nadi" Type="SMR_ADSB" Elevation="59" MaxRange="5">
+    <Lat>-17.7563888888889</Lat>
+    <Long>177.443611111111</Long>
+  </Radar>
+  <Radar Name="Nausori" Type="SMR_ADSB" Elevation="17" MaxRange="5">
+    <Lat>-18.0447222222222</Lat>
+    <Long>178.559444444444</Long>
+  </Radar>
+  <Radar Name="Port Vila" Type="SMR_ADSB" Elevation="70" MaxRange="5">
+    <Lat>-17.699325</Lat>
+    <Long>168.319793888889</Long>
+  </Radar>
+  <Radar Name="Magenta" Type="SMR_ADSB" Elevation="9" MaxRange="5">
+    <Lat>-22.2583333333333</Lat>
+    <Long>166.472777777778</Long>
+  </Radar>
+  <Radar Name="Noumea" Type="SMR_ADSB" Elevation="51" MaxRange="5">
+    <Lat>-22.0144444444444</Lat>
+    <Long>166.213055555556</Long>
+  </Radar>
+  <Radar Name="Bucholz" Type="SMR_ADSB" Elevation="16" MaxRange="5">
+    <Lat>8.72012194444445</Lat>
+    <Long>167.731661111111</Long>
   </Radar>
 </Radars>

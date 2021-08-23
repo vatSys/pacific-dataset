@@ -112,10 +112,10 @@
         <SID Name="FOXTRO" />
         <SID Name="GOLF" />
         <SID Name="HOTEL" />
-        <STAR Name="AGTA2B" />
-        <STAR Name="KALT2B" />
-        <STAR Name="MIKA2B" />
-        <STAR Name="TEDU2B" />
+        <STAR Name="AGTA2B" ApproachName="RNP" />
+        <STAR Name="KALT2B" ApproachName="RNP" />
+        <STAR Name="MIKA2B" ApproachName="RNP" />
+        <STAR Name="TEDU2B" ApproachName="RNP" />
       </Runway>
       <Runway Name="27" DataRunway="27">
         <SID Name="ALFA" />
@@ -3044,6 +3044,40 @@ NINIA
     <Point Name="ZH" Type="Navaid" NavaidType="NDB" Frequency="295.000">-060642.000+1401600.000</Point>
     <Point Name="ZP" Type="Navaid" NavaidType="NDB" Frequency="253.000">-083038.491+1402436.130</Point>
     <Point Name="ZX" Type="Navaid" NavaidType="NDB" Frequency="342.000">-045042.000+1403442.000</Point>
+    <Point Name="FN02T" Type="Fix">-174622.120+1772544.789</Point>
+    <Point Name="FN09T" Type="Fix">-174511.048+1772609.910</Point>
+    <Point Name="FN20T" Type="Fix">-174501.109+1772650.348</Point>
+    <Point Name="FN27T" Type="Fix">-174527.961+1772720.149</Point>
+    <Point Name="GA17L" Type="Fix">-060429.341+1452330.059</Point>
+    <Point Name="GA17R" Type="Fix">-060431.260+1452326.340</Point>
+    <Point Name="GA35L" Type="Fix">-060532.939+1452331.801</Point>
+    <Point Name="GA35R" Type="Fix">-060513.801+1452333.961</Point>
+    <Point Name="MD07T" Type="Fix">-051237.400+1454653.400</Point>
+    <Point Name="MD25T" Type="Fix">-051225.301+1454738.800</Point>
+    <Point Name="MH08T" Type="Fix">-054934.799+1441734.300</Point>
+    <Point Name="MH12T" Type="Fix">-054922.699+1441727.398</Point>
+    <Point Name="MH26T" Type="Fix">-054931.699+1441809.839</Point>
+    <Point Name="MH30T" Type="Fix">-055000.000+1441827.900</Point>
+    <Point Name="NA10T" Type="Fix">-180227.211+1783307.081</Point>
+    <Point Name="NA28T" Type="Fix">-180245.920+1783403.259</Point>
+    <Point Name="NZ09T" Type="Fix">-063407.900+1464254.900</Point>
+    <Point Name="NZ27T" Type="Fix">-063414.801+1464414.000</Point>
+    <Point Name="PY14L" Type="Fix">-092551.200+1471250.101</Point>
+    <Point Name="PY14R" Type="Fix">-092605.100+1471247.000</Point>
+    <Point Name="PY32L" Type="Fix">-092641.000+1471309.098</Point>
+    <Point Name="PY32R" Type="Fix">-092707.402+1471337.099</Point>
+    <Point Name="TK10T" Type="Fix">-042017.599+1522220.201</Point>
+    <Point Name="TK28T" Type="Fix">-042033.500+1522313.600</Point>
+    <Point Name="VV11T" Type="Fix">-174133.691+1681824.142</Point>
+    <Point Name="VV29T" Type="Fix">-174213.219+1681942.139</Point>
+    <Point Name="WA06T" Type="Fix">+084302.640+1674322.231</Point>
+    <Point Name="WA24T" Type="Fix">+084322.231+1674425.739</Point>
+    <Point Name="WK10T" Type="Fix">-033455.099+1433943.000</Point>
+    <Point Name="WK28T" Type="Fix">-033507.620+1434033.200</Point>
+    <Point Name="WM17T" Type="Fix">-221514.339+1662821.742</Point>
+    <Point Name="WM35T" Type="Fix">-221547.452+1662822.649</Point>
+    <Point Name="WW11T" Type="Fix">-220025.049+1661158.319</Point>
+    <Point Name="WW29T" Type="Fix">-220119.650+1661335.371</Point>
     <Point Name="B" Type="Fix">-221810.000+1663444.000</Point>
     <Point Name="C" Type="Fix">-221408.000+1663455.000</Point>
     <Point Name="EA" Type="Fix">-220554.000+1661820.000</Point>
@@ -3500,6 +3534,10 @@ NINIA
     <STAR Name="VIRA2A" Airport="NWWW" Runways="11">
       <Route Runway="11">VIRAR/NULVI/PEPIT</Route>
     </STAR>
+    <Approach Name="RNP" Airport="NFFN" Runway="20">
+      <Transition Name="MOTKI">MOTKI</Transition>
+      <Route>FN664/NIREV/FN581/FN812/FN20T</Route>
+    </Approach>
   </SIDSTARs>
   <Airports>
     <Airport ICAO="AGAR" FullName="Arona" Position="-095138.000+1615848.000" Elevation="15">

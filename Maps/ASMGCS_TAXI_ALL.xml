@@ -2,6 +2,11 @@
 <Maps>
   <Map Type="Ground_INF" Name="ASMGCS_TAXI_ALL" Priority="0" Center="-07.0+166.0">
     <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+      <Point Name="Apron">-0604.5057+14523.5421</Point>
+      <Point Name="Apron">-0512.5786+14547.308</Point>
+      <Point Name="A">-0550.0116+14418.3454</Point>
+      <Point Name="B">-0549.7061+14417.9053</Point>
+      <Point Name="C">-0549.8796+14418.1946</Point>
       <Point Name="A">-0634.1097+14643.9994</Point>
       <Point Name="A">-0634.0913+14642.9237</Point>
       <Point Name="A">-0634.0724+14643.6072</Point>
