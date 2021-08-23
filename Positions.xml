@@ -145,7 +145,7 @@
   <Group Name="Procedural TWR">
     <Position Name="Goroka Tower" Type="ASD" DefaultCenter="-06.082600+145.391283" DefaultRange="80" MagneticVariation="-4.9">
       <Sectors>
-        <Sector Name="AYGA ADC" />
+        <Sector Name="AYGAT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -173,7 +173,7 @@
     </Position>
     <Position Name="Madang Tower" Type="ASD" DefaultCenter="-05.208300+145.787667" DefaultRange="80" MagneticVariation="-4.8">
       <Sectors>
-        <Sector Name="AYMD ADC" />
+        <Sector Name="AYMDT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -201,7 +201,7 @@
     </Position>
     <Position Name="Hagen Tower" Type="ASD" DefaultCenter="-05.827806+144.299528" DefaultRange="80" MagneticVariation="-4.6">
       <Sectors>
-        <Sector Name="AYMH ADC" />
+        <Sector Name="AYMHT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -229,7 +229,7 @@
     </Position>
     <Position Name="Tokua Tower" Type="ASD" DefaultCenter="-04.341028+152.379222" DefaultRange="80" MagneticVariation="-6.3">
       <Sectors>
-        <Sector Name="AYTK ADC" />
+        <Sector Name="AYTKT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -257,7 +257,7 @@
     </Position>
     <Position Name="Wewak Tower" Type="ASD" DefaultCenter="-03.584139+143.668783" DefaultRange="80" MagneticVariation="-4.1">
       <Sectors>
-        <Sector Name="AYWK ADC" />
+        <Sector Name="AYWKT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -283,9 +283,9 @@
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
-    <Position Name="Port Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="80" MagneticVariation="-11.6">
+    <Position Name="Port Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="200" MagneticVariation="-11.6">
       <Sectors>
-        <Sector Name="NVVV ADC" />
+        <Sector Name="NVVVT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -312,7 +312,7 @@
     </Position>
     <Position Name="Nadzab Tower" Type="ASD" DefaultCenter="-06.569222+146.728056" DefaultRange="80" MagneticVariation="-5.3">
       <Sectors>
-        <Sector Name="AYNZ ADC" />
+        <Sector Name="AYNZT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -340,7 +340,7 @@
     </Position>
     <Position Name="Tontouta Tower" Type="ASD" DefaultCenter="-215935.0+1655243.0" DefaultRange="120" MagneticVariation="-12.5">
       <Sectors>
-        <Sector Name="NWWW ADC" />
+        <Sector Name="NWWWT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -367,7 +367,7 @@
     </Position>
     <Position Name="Magenta Tower" Type="ASD" DefaultCenter="-222620.0+1663749.0" DefaultRange="100" MagneticVariation="-12.5">
       <Sectors>
-        <Sector Name="NWWM ADC" />
+        <Sector Name="NWWMT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -397,7 +397,7 @@
   <Group Name="Radar TWR">
     <Position Name="Jacksons Tower" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="90" MagneticVariation="-5.8">
       <Sectors>
-        <Sector Name="AYPY ADC" />
+        <Sector Name="AYPYT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -425,7 +425,7 @@
     </Position>
     <Position Name="Nadi Tower" Type="ASD" DefaultCenter="-17.756389+177.443611" DefaultRange="60" MagneticVariation="-12.5">
       <Sectors>
-        <Sector Name="NFFN ADC" />
+        <Sector Name="NFFNT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -452,7 +452,7 @@
     </Position>
     <Position Name="Nausori Tower" Type="ASD" DefaultCenter="-18.044722+178.559444" DefaultRange="60" MagneticVariation="-12.6">
       <Sectors>
-        <Sector Name="NFNA ADC" />
+        <Sector Name="NFNAT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -479,7 +479,7 @@
     </Position>
     <Position Name="Bucholz Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="60" MagneticVariation="-7.6">
       <Sectors>
-        <Sector Name="PKWA ADC" />
+        <Sector Name="PKWAT" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
