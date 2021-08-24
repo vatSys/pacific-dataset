@@ -1,32 +1,88 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System2" Name="ALL_RNAV_APP" Priority="2" Center="-07.0+166.0">
+  <Map Type="System2" Name="APP_RNP_ALL" Priority="0" Center="-07.0+166.0">
     <Label HasLeader="true">
+      <Point>YGNWD</Point>
+      <Point>YGNWF</Point>
+      <Point>YMDWD</Point>
+      <Point>YMDWE</Point>
+      <Point>YMDWG</Point>
+      <Point>YMDNA</Point>
+      <Point>YMDNC</Point>
+      <Point>YMDND</Point>
+      <Point>YMHEA</Point>
+      <Point>YMHEB</Point>
+      <Point>WESFI</Point>
+      <Point>YNZWA</Point>
+      <Point>LARID</Point>
+      <Point>YTKWA</Point>
+      <Point>YTKWB</Point>
+      <Point>YTKSD</Point>
+      <Point>YTKSG</Point>
+      <Point>FNNSD</Point>
+      <Point>FNNSE</Point>
+      <Point>FNNSG</Point>
+      <Point>FNAWA</Point>
+      <Point>FNAWB</Point>
+      <Point>FNAWC</Point>
+      <Point>AF11N</Point>
+      <Point>AF11S</Point>
+      <Point>AF11W</Point>
+      <Point>AF29E</Point>
+      <Point>AF29N</Point>
+      <Point>AF29S</Point>
+      <Point>WW435</Point>
+      <Point>HOBLO</Point>
+      <Point>CETMO</Point>
+      <Point>FASRU</Point>
+      <Point>OBSOE</Point>
+      <Point>PAYPO</Point>
+      <Point>YMDWF</Point>
+      <Point>YMDNF</Point>
+      <Point>YMHEF</Point>
+      <Point>YNZWF</Point>
+      <Point>YNZEF</Point>
+      <Point>YPYNF</Point>
+      <Point>YPYSF</Point>
+      <Point>YTKWF</Point>
+      <Point>YTKSF</Point>
+      <Point>FNNSF</Point>
+      <Point>FNAWF</Point>
+      <Point>FF11</Point>
+      <Point>FF29</Point>
+      <Point>FWW11</Point>
+      <Point>MAVTE</Point>
+      <Point>WADRU</Point>
+      <Point>YMDWI</Point>
+      <Point>YMDNI</Point>
+      <Point>YMHEI</Point>
+      <Point>YNZWI</Point>
+      <Point>YNZEI</Point>
+      <Point>VIMIB</Point>
+      <Point>ISLOK</Point>
+      <Point>YTKWI</Point>
+      <Point>YTKSI</Point>
+      <Point>FNNSI</Point>
+      <Point>FNAWI</Point>
+      <Point>IF11</Point>
+      <Point>IF29</Point>
+      <Point>IWW11</Point>
+      <Point>TONBE</Point>
       <Point>DGOWA</Point>
       <Point>DGOWB</Point>
       <Point>DGOWC</Point>
       <Point>DGOWF</Point>
       <Point>DGOWI</Point>
-      <Point>FNAWA</Point>
-      <Point>FNAWB</Point>
-      <Point>FNAWC</Point>
-      <Point>FNAWF</Point>
-      <Point>FNAWI</Point>
       <Point>FNHND</Point>
       <Point>FNHNE</Point>
-      <Point>FNHNF</Point>
       <Point>FNHNG</Point>
+      <Point>FNHNF</Point>
       <Point>FNHNI</Point>
       <Point>FNHSA</Point>
       <Point>FNHSB</Point>
       <Point>FNHSC</Point>
       <Point>FNHSF</Point>
       <Point>FNHSI</Point>
-      <Point>FNNSD</Point>
-      <Point>FNNSE</Point>
-      <Point>FNNSF</Point>
-      <Point>FNNSG</Point>
-      <Point>FNNSI</Point>
       <Point>GATNA</Point>
       <Point>GATNC</Point>
       <Point>GATNF</Point>
@@ -54,8 +110,8 @@
       <Point>GGESI</Point>
       <Point>GGFED</Point>
       <Point>GGFEE</Point>
-      <Point>GGFEF</Point>
       <Point>GGFEG</Point>
+      <Point>GGFEF</Point>
       <Point>GGFEI</Point>
       <Point>GGFNA</Point>
       <Point>GGFNC</Point>
@@ -95,8 +151,8 @@
       <Point>UNGEF</Point>
       <Point>UNGEI</Point>
       <Point>UNGWD</Point>
-      <Point>UNGWF</Point>
       <Point>UNGWG</Point>
+      <Point>UNGWF</Point>
       <Point>UNGWI</Point>
       <Point>YBKEA</Point>
       <Point>YBKEB</Point>
@@ -105,14 +161,14 @@
       <Point>YBKEI</Point>
       <Point>YBKWD</Point>
       <Point>YBKWE</Point>
-      <Point>YBKWF</Point>
       <Point>YBKWG</Point>
+      <Point>YBKWF</Point>
       <Point>YBKWI</Point>
       <Point>YDUND</Point>
       <Point>YDUNE</Point>
+      <Point>YDUNJ</Point>
       <Point>YDUNF</Point>
       <Point>YDUNI</Point>
-      <Point>YDUNJ</Point>
       <Point>YDUSA</Point>
       <Point>YDUSB</Point>
       <Point>YDUSC</Point>
@@ -133,13 +189,13 @@
       <Point>YHKEI</Point>
       <Point>YHKWD</Point>
       <Point>YHKWE</Point>
-      <Point>YHKWF</Point>
       <Point>YHKWG</Point>
+      <Point>YHKWF</Point>
       <Point>YHKWI</Point>
       <Point>YKAND</Point>
       <Point>YKANE</Point>
-      <Point>YKANF</Point>
       <Point>YKANG</Point>
+      <Point>YKANF</Point>
       <Point>YKANI</Point>
       <Point>YKASA</Point>
       <Point>YKASB</Point>
@@ -162,13 +218,13 @@
       <Point>YKMNI</Point>
       <Point>YKMSD</Point>
       <Point>YKMSE</Point>
-      <Point>YKMSF</Point>
       <Point>YKMSG</Point>
+      <Point>YKMSF</Point>
       <Point>YKMSI</Point>
       <Point>YKVED</Point>
       <Point>YKVEE</Point>
-      <Point>YKVEF</Point>
       <Point>YKVEG</Point>
+      <Point>YKVEF</Point>
       <Point>YKVEI</Point>
       <Point>YKVNA</Point>
       <Point>YKVNC</Point>
@@ -182,23 +238,9 @@
       <Point>YKYEI</Point>
       <Point>YKYWD</Point>
       <Point>YKYWE</Point>
-      <Point>YKYWF</Point>
       <Point>YKYWG</Point>
+      <Point>YKYWF</Point>
       <Point>YKYWI</Point>
-      <Point>YMDNA</Point>
-      <Point>YMDNC</Point>
-      <Point>YMDND</Point>
-      <Point>YMDNF</Point>
-      <Point>YMDNI</Point>
-      <Point>YMDWD</Point>
-      <Point>YMDWE</Point>
-      <Point>YMDWF</Point>
-      <Point>YMDWG</Point>
-      <Point>YMDWI</Point>
-      <Point>YMHEA</Point>
-      <Point>YMHEB</Point>
-      <Point>YMHEF</Point>
-      <Point>YMHEI</Point>
       <Point>YMNSA</Point>
       <Point>YMNSB</Point>
       <Point>YMNSC</Point>
@@ -213,24 +255,14 @@
       <Point>YMSWB</Point>
       <Point>YMSWF</Point>
       <Point>YMSWI</Point>
-      <Point>YNZEI</Point>
-      <Point>YNZWI</Point>
       <Point>YTASB</Point>
+      <Point>YTASY</Point>
       <Point>YTASF</Point>
       <Point>YTASI</Point>
-      <Point>YTASY</Point>
       <Point>YTBSB</Point>
       <Point>YTBSC</Point>
       <Point>YTBSF</Point>
       <Point>YTBSI</Point>
-      <Point>YTKSD</Point>
-      <Point>YTKSF</Point>
-      <Point>YTKSG</Point>
-      <Point>YTKSI</Point>
-      <Point>YTKWA</Point>
-      <Point>YTKWB</Point>
-      <Point>YTKWF</Point>
-      <Point>YTKWI</Point>
       <Point>YTUEA</Point>
       <Point>YTUEB</Point>
       <Point>YTUEC</Point>
@@ -245,58 +277,33 @@
       <Point>YWKEI</Point>
       <Point>YWKWD</Point>
       <Point>YWKWE</Point>
-      <Point>YWKWF</Point>
       <Point>YWKWG</Point>
+      <Point>YWKWF</Point>
       <Point>YWKWI</Point>
       <Point>YXMNA</Point>
       <Point>YXMNF</Point>
       <Point>YXMNI</Point>
-      <Point>VIMIB</Point>
-      <Point>YPYNF</Point>
-      <Point>ISLOK</Point>
-      <Point>YPYSF</Point>
-      <Point>OPIGO</Point>
-      <Point>LARID</Point>
-      <Point>YNZWA</Point>
-      <Point>WESFI</Point>
-      <Point>YNZWF</Point>
-      <Point>YNZEF</Point>
-      <Point>AF11W</Point>
-      <Point>AF11S</Point>
-      <Point>AF11N</Point>
-      <Point>IF11</Point>
-      <Point>FF11</Point>
-      <Point>AF29S</Point>
-      <Point>AF29E</Point>
-      <Point>AF29N</Point>
-      <Point>IF29</Point>
-      <Point>FF29</Point>
-      <Point>WW435</Point>
-      <Point>WW433</Point>
-      <Point>IWW11</Point>
-      <Point>FWW11</Point>
-      <Point>WW700</Point>
-      <Point>WW701</Point>
-      <Point>WW702</Point>
-      <Point>IWW29</Point>
-      <Point>FWW29</Point>
-      <Point>CETMO</Point>
-      <Point>FASRU</Point>
-      <Point>HOBLO</Point>
-      <Point>MAVTE</Point>
-      <Point>PAYPO</Point>
-      <Point>OBSOE</Point>
-      <Point>TONBE</Point>
-      <Point>WADRU</Point>
-      <Point>YGNWD</Point>
-      <Point>YGNWF</Point>
     </Label>
     <Symbol Type="MalteseCross">
-      <Point>DGOWF</Point>
+      <Point>YMDWF</Point>
+      <Point>YMDNF</Point>
+      <Point>YMHEF</Point>
+      <Point>YNZWF</Point>
+      <Point>YNZEF</Point>
+      <Point>YPYNF</Point>
+      <Point>YPYSF</Point>
+      <Point>YTKWF</Point>
+      <Point>YTKSF</Point>
+      <Point>FNNSF</Point>
       <Point>FNAWF</Point>
+      <Point>FF11</Point>
+      <Point>FF29</Point>
+      <Point>FWW11</Point>
+      <Point>MAVTE</Point>
+      <Point>WADRU</Point>
+      <Point>DGOWF</Point>
       <Point>FNHNF</Point>
       <Point>FNHSF</Point>
-      <Point>FNNSF</Point>
       <Point>GATNF</Point>
       <Point>GBESF</Point>
       <Point>GGBEF</Point>
@@ -333,38 +340,36 @@
       <Point>YKVNF</Point>
       <Point>YKYEF</Point>
       <Point>YKYWF</Point>
-      <Point>YMDNF</Point>
-      <Point>YMDWF</Point>
-      <Point>YMHEF</Point>
       <Point>YMNSF</Point>
       <Point>YMSEF</Point>
       <Point>YMSWF</Point>
-      <Point>YNZEF</Point>
-      <Point>YNZWF</Point>
       <Point>YTASF</Point>
       <Point>YTBSF</Point>
-      <Point>YTKSF</Point>
-      <Point>YTKWF</Point>
       <Point>YTUEF</Point>
       <Point>YTUWF</Point>
       <Point>YWKEF</Point>
       <Point>YWKWF</Point>
       <Point>YXMNF</Point>
-      <Point>YPYNF</Point>
-      <Point>YPYSF</Point>
-      <Point>FF11</Point>
-      <Point>FF29</Point>
-      <Point>FWW11</Point>
-      <Point>FWW29</Point>
-      <Point>MAVTE</Point>
-      <Point>WADRU</Point>
     </Symbol>
     <Symbol Type="HollowStar">
-      <Point>DGOWI</Point>
+      <Point>YMDWI</Point>
+      <Point>YMDNI</Point>
+      <Point>YMHEI</Point>
+      <Point>YNZWI</Point>
+      <Point>YNZEI</Point>
+      <Point>VIMIB</Point>
+      <Point>ISLOK</Point>
+      <Point>YTKWI</Point>
+      <Point>YTKSI</Point>
+      <Point>FNNSI</Point>
       <Point>FNAWI</Point>
+      <Point>IF11</Point>
+      <Point>IF29</Point>
+      <Point>IWW11</Point>
+      <Point>TONBE</Point>
+      <Point>DGOWI</Point>
       <Point>FNHNI</Point>
       <Point>FNHSI</Point>
-      <Point>FNNSI</Point>
       <Point>GATNI</Point>
       <Point>GBESI</Point>
       <Point>GGBEI</Point>
@@ -401,46 +406,61 @@
       <Point>YKVNI</Point>
       <Point>YKYEI</Point>
       <Point>YKYWI</Point>
-      <Point>YMDNI</Point>
-      <Point>YMDWI</Point>
-      <Point>YMHEI</Point>
       <Point>YMNSI</Point>
       <Point>YMSEI</Point>
       <Point>YMSWI</Point>
-      <Point>YNZEI</Point>
-      <Point>YNZWI</Point>
       <Point>YTASI</Point>
       <Point>YTBSI</Point>
-      <Point>YTKSI</Point>
-      <Point>YTKWI</Point>
       <Point>YTUEI</Point>
       <Point>YTUWI</Point>
       <Point>YWKEI</Point>
       <Point>YWKWI</Point>
       <Point>YXMNI</Point>
-      <Point>IF11</Point>
-      <Point>IF29</Point>
-      <Point>IWW11</Point>
-      <Point>IWW29</Point>
-      <Point>HOBLO</Point>
-      <Point>TONBE</Point>
     </Symbol>
     <Symbol Type="HollowTriangle">
-      <Point>DGOWA</Point>
-      <Point>DGOWB</Point>
-      <Point>DGOWC</Point>
+      <Point>YGNWD</Point>
+      <Point>YMDWD</Point>
+      <Point>YMDWE</Point>
+      <Point>YMDWG</Point>
+      <Point>YMDNA</Point>
+      <Point>YMDNC</Point>
+      <Point>YMDND</Point>
+      <Point>YMHEA</Point>
+      <Point>YMHEB</Point>
+      <Point>WESFI</Point>
+      <Point>YNZWA</Point>
+      <Point>LARID</Point>
+      <Point>YTKWA</Point>
+      <Point>YTKWB</Point>
+      <Point>YTKSD</Point>
+      <Point>YTKSG</Point>
+      <Point>FNNSD</Point>
+      <Point>FNNSE</Point>
+      <Point>FNNSG</Point>
       <Point>FNAWA</Point>
       <Point>FNAWB</Point>
       <Point>FNAWC</Point>
+      <Point>AF11N</Point>
+      <Point>AF11S</Point>
+      <Point>AF11W</Point>
+      <Point>AF29E</Point>
+      <Point>AF29N</Point>
+      <Point>AF29S</Point>
+      <Point>WW435</Point>
+      <Point>HOBLO</Point>
+      <Point>CETMO</Point>
+      <Point>FASRU</Point>
+      <Point>OBSOE</Point>
+      <Point>PAYPO</Point>
+      <Point>DGOWA</Point>
+      <Point>DGOWB</Point>
+      <Point>DGOWC</Point>
       <Point>FNHND</Point>
       <Point>FNHNE</Point>
       <Point>FNHNG</Point>
       <Point>FNHSA</Point>
       <Point>FNHSB</Point>
       <Point>FNHSC</Point>
-      <Point>FNNSD</Point>
-      <Point>FNNSE</Point>
-      <Point>FNNSG</Point>
       <Point>GATNA</Point>
       <Point>GATNC</Point>
       <Point>GBESB</Point>
@@ -528,14 +548,6 @@
       <Point>YKYWD</Point>
       <Point>YKYWE</Point>
       <Point>YKYWG</Point>
-      <Point>YMDNA</Point>
-      <Point>YMDNC</Point>
-      <Point>YMDND</Point>
-      <Point>YMDWD</Point>
-      <Point>YMDWE</Point>
-      <Point>YMDWG</Point>
-      <Point>YMHEA</Point>
-      <Point>YMHEB</Point>
       <Point>YMNSA</Point>
       <Point>YMNSB</Point>
       <Point>YMNSC</Point>
@@ -548,10 +560,6 @@
       <Point>YTASY</Point>
       <Point>YTBSB</Point>
       <Point>YTBSC</Point>
-      <Point>YTKSD</Point>
-      <Point>YTKSG</Point>
-      <Point>YTKWA</Point>
-      <Point>YTKWB</Point>
       <Point>YTUEA</Point>
       <Point>YTUEB</Point>
       <Point>YTUEC</Point>
@@ -562,39 +570,12 @@
       <Point>YWKWE</Point>
       <Point>YWKWG</Point>
       <Point>YXMNA</Point>
-      <Point>VIMIB</Point>
-      <Point>ISLOK</Point>
-      <Point>OPIGO</Point>
-      <Point>LARID</Point>
-      <Point>YNZWA</Point>
-      <Point>WESFI</Point>
-      <Point>AF11W</Point>
-      <Point>AF11S</Point>
-      <Point>AF11N</Point>
-      <Point>AF29S</Point>
-      <Point>AF29E</Point>
-      <Point>AF29N</Point>
-      <Point>WW435</Point>
-      <Point>WW433</Point>
-      <Point>WW700</Point>
-      <Point>WW701</Point>
-      <Point>WW702</Point>
-      <Point>CETMO</Point>
-      <Point>FASRU</Point>
-      <Point>PAYPO</Point>
-      <Point>OBSOE</Point>
-      <Point>YGNWD</Point>
     </Symbol>
     <Line>DGOWA/DGOWI</Line>
     <Line>DGOWB/DGOWI</Line>
     <Line>DGOWC/DGOWI</Line>
     <Line>DGOWI/DGOWF</Line>
     <Line>DGOWM/DGOWF</Line>
-    <Line>FNAWA/FNAWI</Line>
-    <Line>FNAWB/FNAWI</Line>
-    <Line>FNAWC/FNAWI</Line>
-    <Line>FNAWI/FNAWF</Line>
-    <Line>FNAWM/FNAWF</Line>
     <Line>FNHND/FNHNI</Line>
     <Line>FNHNE/FNHNI</Line>
     <Line>FNHNG/FNHNI</Line>
@@ -605,11 +586,6 @@
     <Line>FNHSC/FNHSI</Line>
     <Line>FNHSI/FNHSF</Line>
     <Line>FNHSM/FNHSF</Line>
-    <Line>FNNSD/FNNSI</Line>
-    <Line>FNNSE/FNNSI</Line>
-    <Line>FNNSG/FNNSI</Line>
-    <Line>FNNSI/FNNSF</Line>
-    <Line>FNNSM/FNNSF</Line>
     <Line>GATNA/GATNI</Line>
     <Line>GATNC/GATNI</Line>
     <Line>GATNI/GATNF</Line>
@@ -770,20 +746,6 @@
     <Line>YKYWG/YKYWI</Line>
     <Line>YKYWI/YKYWF</Line>
     <Line>YKYWM/YKYWF</Line>
-    <Line>YMDNA/YMDNI</Line>
-    <Line>YMDNC/YMDNI</Line>
-    <Line>YMDND/YMDNI</Line>
-    <Line>YMDNI/YMDNF</Line>
-    <Line>YMDNM/YMDNF</Line>
-    <Line>YMDWD/YMDWI</Line>
-    <Line>YMDWE/YMDWI</Line>
-    <Line>YMDWG/YMDWI</Line>
-    <Line>YMDWI/YMDWF</Line>
-    <Line>YMDWM/YMDWF</Line>
-    <Line>YMHEA/YMHEI</Line>
-    <Line>YMHEB/YMHEI</Line>
-    <Line>YMHEI/YMHEF</Line>
-    <Line>YMHEM/YMHEF</Line>
     <Line>YMNSA/YMNSI</Line>
     <Line>YMNSB/YMNSI</Line>
     <Line>YMNSC/YMNSI</Line>
@@ -798,13 +760,6 @@
     <Line>YMSWB/YMSWI</Line>
     <Line>YMSWI/YMSWF</Line>
     <Line>YMSWM/YMSWF</Line>
-    <Line>OPIGO/LARID/YNZEI</Line>
-    <Line>YNZEI/YNZEF</Line>
-    <Line>YNZEM/YNZEF</Line>
-    <Line>OPIGO/LARID/YNZWA/YNZWI</Line>
-    <Line>WESFI/YNZWI</Line>
-    <Line>YNZWI/YNZWF</Line>
-    <Line>YNZWM/YNZWF</Line>
     <Line>YTASB/YTASI</Line>
     <Line>YTASY/YTASI</Line>
     <Line>YTASI/YTASF</Line>
@@ -813,14 +768,6 @@
     <Line>YTBSC/YTBSI</Line>
     <Line>YTBSI/YTBSF</Line>
     <Line>YTBSM/YTBSF</Line>
-    <Line>YTKSD/YTKSI</Line>
-    <Line>YTKSG/YTKSI</Line>
-    <Line>YTKSI/YTKSF</Line>
-    <Line>YTKSM/YTKSF</Line>
-    <Line>YTKWA/YTKWI</Line>
-    <Line>YTKWB/YTKWI</Line>
-    <Line>YTKWI/YTKWF</Line>
-    <Line>YTKWM/YTKWF</Line>
     <Line>YTUEA/YTUEI</Line>
     <Line>YTUEB/YTUEI</Line>
     <Line>YTUEC/YTUEI</Line>
@@ -841,36 +788,62 @@
     <Line>YXMNA/YXMNI</Line>
     <Line>YXMNI/YXMNF</Line>
     <Line>YXMNM/YXMNF</Line>
-    <Line>VIMIB/VIMIB</Line>
-    <Line>VIMIB/YPYNF</Line>
-    <Line>YPYNM/YPYNF</Line>
-    <Line>ISLOK/ISLOK</Line>
-    <Line>ISLOK/YPYSF</Line>
-    <Line>YPYSM/YPYSF</Line>
-    <Line>AF11W/IF11</Line>
-    <Line>AF11S/IF11</Line>
+    <Line>YMDWI/YMDWF/YMDWZ/YMDWM</Line>
+    <Line>YMDWD/YMDWI</Line>
+    <Line>YMDWE/YMDWI</Line>
+    <Line>YMDWG/YMDWI</Line>
+    <Line>YMDNI/YMDNF/YMDNM</Line>
+    <Line>YMDNA/YMDNI</Line>
+    <Line>YMDNC/YMDNI</Line>
+    <Line>YMDND/YMDNI</Line>
+    <Line>YMHEI/YMHEF/YMHEM</Line>
+    <Line>YMHEA/YMHEI</Line>
+    <Line>YMHEB/YMHEI</Line>
+    <Line>YMHEI/YMHEF/YMHEM</Line>
+    <Line>YMHEA/YMHEI</Line>
+    <Line>YMHEB/YMHEI</Line>
+    <Line>YMHEI/YMHEF/YMHEM</Line>
+    <Line>YMHEA/YMHEI</Line>
+    <Line>YMHEB/YMHEI</Line>
+    <Line>YMHEI/YMHEF/YMHEM</Line>
+    <Line>YMHEA/YMHEI</Line>
+    <Line>YMHEB/YMHEI</Line>
+    <Line>YNZWI/YNZWF/YNZWM</Line>
+    <Line>WESFI/YNZWI</Line>
+    <Line>YNZWA/YNZWI</Line>
+    <Line>YNZEI/YNZEF/YNZEM</Line>
+    <Line>LARID/YNZEI</Line>
+    <Line>VIMIB/YPYNF/YPYNZ/YPYNM</Line>
+    <Line>ISLOK/YPYSF/YPYSM</Line>
+    <Line>YTKWI/YTKWF/YTKWM</Line>
+    <Line>YTKWA/YTKWI</Line>
+    <Line>YTKWB/YTKWI</Line>
+    <Line>YTKSI/YTKSF/YTKSM</Line>
+    <Line>YTKSD/YTKSI</Line>
+    <Line>YTKSG/YTKSI</Line>
+    <Line>FNNSI/FNNSF/FNNSM</Line>
+    <Line>FNNSD/FNNSI</Line>
+    <Line>FNNSE/FNNSI</Line>
+    <Line>FNNSG/FNNSI</Line>
+    <Line>FNAWI/FNAWF/FNAWM</Line>
+    <Line>FNAWA/FNAWI</Line>
+    <Line>FNAWB/FNAWI</Line>
+    <Line>FNAWC/FNAWI</Line>
+    <Line>IF11/FF11/MA11</Line>
     <Line>AF11N/IF11</Line>
-    <Line>IF11/FF11</Line>
-    <Line>MA11/FF11</Line>
-    <Line>AF29S/IF29</Line>
+    <Line>AF11S/IF11</Line>
+    <Line>AF11W/IF11</Line>
+    <Line>IF29/FF29/MA29</Line>
     <Line>AF29E/IF29</Line>
     <Line>AF29N/IF29</Line>
-    <Line>IF29/FF29</Line>
-    <Line>MA29/FF29</Line>
+    <Line>AF29S/IF29</Line>
+    <Line>IWW11/FWW11/MWW11</Line>
     <Line>WW435/IWW11</Line>
-    <Line>WW433/IWW11</Line>
-    <Line>IWW11/FWW11</Line>
-    <Line>MWW11/FWW11</Line>
-    <Line>WW700/WW701/WW702/IWW29</Line>
-    <Line>IWW29/FWW29</Line>
-    <Line>MWW29/FWW29</Line>
+    <Line>HOBLO/MAVTE/WA06T</Line>
     <Line>CETMO/HOBLO</Line>
     <Line>FASRU/HOBLO</Line>
-    <Line>HOBLO/MAVTE</Line>
-    <Line>+08.717400+167.722842/MAVTE</Line>
-    <Line>PAYPO/TONBE</Line>
+    <Line>TONBE/WADRU/WA24T</Line>
     <Line>OBSOE/TONBE</Line>
-    <Line>TONBE/WADRU</Line>
-    <Line>+08.722842+167.740483/WADRU</Line>
+    <Line>PAYPO/TONBE</Line>
   </Map>
 </Maps>

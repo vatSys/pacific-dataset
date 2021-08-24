@@ -149,14 +149,6 @@
       <Map Name="Tokua/ASMGCS_AYTK_BLD" />
     </Maps>
   </Position>
-  <Position Name="AYWK" Type="ASMGCS" ASMGCSAirport="AYWK" DefaultCenter="-03.584139+143.668783" DefaultRange="2" MagneticVariation="-4.1" Rotation="0">
-    <Maps>
-      <Map Name="Wewak/ASMGCS_AYWK_RWY" />
-      <Map Name="Wewak/ASMGCS_AYWK_APR" />
-      <Map Name="Wewak/ASMGCS_AYWK_TWY" />
-      <Map Name="Wewak/ASMGCS_AYWK_BLD" />
-    </Maps>
-  </Position>
   </Group>
   <Group Name="Oceanic">
     <Position Name="Nadi Oceanic" Type="ASD" DefaultCenter="-10.660683+178.585898" DefaultRange="4500">
@@ -293,34 +285,6 @@
       <ControllerInfo>
         <Line>Tokua Tower</Line>
         <Line>ATIS available on 128.0</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="20000" />
-    </Position>
-    <Position Name="Wewak Tower" Type="ASD" DefaultCenter="-03.584139+143.668783" DefaultRange="80" MagneticVariation="-4.1">
-      <Sectors>
-        <Sector Name="AYWKT" />
-      </Sectors>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Wewak/AYWK_COAST" />
-        <Map Name="Wewak/AYWK_TCU" />
-        <Map Name="Wewak/AYWK_ALLRWYS" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="AYWK" Frequency="128.2" />
-        <Window Airport="AYWK" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYWK" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="5000" />
-      <ArrivalLists>
-        <Airport Name="AYWK" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Wewak Tower</Line>
-        <Line>ATIS available on 128.2</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System2" Name="APP_RNP(AR)" Priority="0" Center="-07.0+166.0">
+    <Label HasLeader="true">
+      <Point>MOTKI</Point>
+      <Point>NIREV</Point>
+      <Point>FN664</Point>
+    </Label>
+    <Symbol Type="HollowStar">
+      <Point>FN581</Point>
+      <Point>FN812</Point>
+    </Symbol>
+    <Symbol Type="HollowTriangle">
+      <Point>MOTKI</Point>
+    </Symbol>
+    <Symbol Type="MalteseCross">
+      <Point>NIREV</Point>
+    </Symbol>
+    <Symbol Type="SolidTriangle">
+      <Point>FN664</Point>
+    </Symbol>
+    <Line>FN664/NIREV/FN581/FN812/FN20T</Line>
+    <Line>MOTKI/FN664</Line>
+  </Map>
+</Maps>

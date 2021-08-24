@@ -83,10 +83,6 @@
       <Runway Name="10" DataRunway="10" />
       <Runway Name="28" DataRunway="28" />
     </Airport>
-    <Airport Name="AYWK">
-      <Runway Name="10" DataRunway="10" />
-      <Runway Name="28" DataRunway="28" />
-    </Airport>
     <Airport Name="NFFN">
       <Runway Name="02" DataRunway="02">
         <SID Name="ALFA" />
