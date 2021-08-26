@@ -149,6 +149,22 @@
       <Map Name="Tokua/ASMGCS_AYTK_BLD" />
     </Maps>
   </Position>
+  <Position Name="NVVV" Type="ASMGCS" ASMGCSAirport="NVVV" DefaultCenter="-17.699325+168.319794" DefaultRange="2" MagneticVariation="-11.6" Rotation="0">
+    <Maps>
+      <Map Name="Port Vila/ASMGCS_NVVV_RWY" />
+      <Map Name="Port Vila/ASMGCS_NVVV_APR" />
+      <Map Name="Port Vila/ASMGCS_NVVV_TWY" />
+      <Map Name="Port Vila/ASMGCS_NVVV_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="NWWM" Type="ASMGCS" ASMGCSAirport="NWWM" DefaultCenter="-22.258333+166.472778" DefaultRange="2" MagneticVariation="-12.5" Rotation="0">
+    <Maps>
+      <Map Name="Noumea/ASMGCS_NWWM_RWY" />
+      <Map Name="Noumea/ASMGCS_NWWM_APR" />
+      <Map Name="Noumea/ASMGCS_NWWM_TWY" />
+      <Map Name="Noumea/ASMGCS_NWWM_BLD" />
+    </Maps>
+  </Position>
   </Group>
   <Group Name="Oceanic">
     <Position Name="Nadi Oceanic" Type="ASD" DefaultCenter="-10.660683+178.585898" DefaultRange="4500">

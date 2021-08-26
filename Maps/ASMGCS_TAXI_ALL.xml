@@ -53,6 +53,11 @@
       <Point Name="G">-1745.0853+17726.8734</Point>
       <Point Name="H">-1745.3556+17727.0718</Point>
       <Point Name="Terminal">-1802.7642+17833.5893</Point>
+      <Point Name="W1">-2215.4844+16628.3364</Point>
+      <Point Name="W2">-2215.5496+16628.3399</Point>
+      <Point Name="W3">-2215.6832+16628.3423</Point>
+      <Point Name="Z1">-2215.4314+16628.3958</Point>
+      <Point Name="Z2">-2215.5488+16628.3996</Point>
       <Point Name="A">+0843.089+16743.3724</Point>
       <Point Name="B">+0843.1966+16743.7361</Point>
       <Point Name="C">+0843.2923+16744.0515</Point>
