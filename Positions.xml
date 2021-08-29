@@ -92,7 +92,7 @@
       <Map Name="Port Moresby/ASMGCS_AYPY_BLD" />
     </Maps>
   </Position>
-  <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.756389+177.443611" DefaultRange="2" MagneticVariation="-12.5" Rotation="-2">
+  <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.761944+177.440556" DefaultRange="2" MagneticVariation="-12.5" Rotation="65">
     <Maps>
       <Map Name="Nadi/ASMGCS_NFFN_RWY" />
       <Map Name="Nadi/ASMGCS_NFFN_APR" />
@@ -100,7 +100,7 @@
       <Map Name="Nadi/ASMGCS_NFFN_BLD" />
     </Maps>
   </Position>
-  <Position Name="NFNA" Type="ASMGCS" ASMGCSAirport="NFNA" DefaultCenter="-18.044722+178.559444" DefaultRange="1" MagneticVariation="-12.6" Rotation="-6">
+  <Position Name="NFNA" Type="ASMGCS" ASMGCSAirport="NFNA" DefaultCenter="-18.045000+178.558611" DefaultRange="1" MagneticVariation="-12.6" Rotation="-7">
     <Maps>
       <Map Name="Nadi/ASMGCS_NFNA_RWY" />
       <Map Name="Nadi/ASMGCS_NFNA_APR" />
@@ -108,7 +108,7 @@
       <Map Name="Nadi/ASMGCS_NFNA_BLD" />
     </Maps>
   </Position>
-  <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.720122+167.731661" DefaultRange="2" MagneticVariation="-7.6" Rotation="206">
+  <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.723056+167.731944" DefaultRange="2" MagneticVariation="-7.6" Rotation="205">
     <Maps>
       <Map Name="Bucholz/ASMGCS_PKWA_RWY" />
       <Map Name="Bucholz/ASMGCS_PKWA_APR" />
@@ -117,7 +117,7 @@
     </Maps>
   </Position>
   <Group Name="Class D">
-  <Position Name="AYGA" Type="ASMGCS" ASMGCSAirport="AYGA" DefaultCenter="-06.082600+145.391283" DefaultRange="2" MagneticVariation="-4.9" Rotation="0">
+  <Position Name="AYGA" Type="ASMGCS" ASMGCSAirport="AYGA" DefaultCenter="-06.083333+145.392500" DefaultRange="1" MagneticVariation="-4.9" Rotation="100">
     <Maps>
       <Map Name="Goroka/ASMGCS_AYGA_RWY" />
       <Map Name="Goroka/ASMGCS_AYGA_APR" />
@@ -125,7 +125,7 @@
       <Map Name="Goroka/ASMGCS_AYGA_BLD" />
     </Maps>
   </Position>
-  <Position Name="AYMD" Type="ASMGCS" ASMGCSAirport="AYMD" DefaultCenter="-05.208333+145.787667" DefaultRange="2" MagneticVariation="-4.8" Rotation="0">
+  <Position Name="AYMD" Type="ASMGCS" ASMGCSAirport="AYMD" DefaultCenter="-05.209444+145.788056" DefaultRange="1" MagneticVariation="-4.8" Rotation="20">
     <Maps>
       <Map Name="Madang/ASMGCS_AYMD_RWY" />
       <Map Name="Madang/ASMGCS_AYMD_APR" />
@@ -133,7 +133,7 @@
       <Map Name="Madang/ASMGCS_AYMD_BLD" />
     </Maps>
   </Position>
-  <Position Name="AYMH" Type="ASMGCS" ASMGCSAirport="AYMH" DefaultCenter="-05.827806+144.299528" DefaultRange="2" MagneticVariation="-4.6" Rotation="0">
+  <Position Name="AYMH" Type="ASMGCS" ASMGCSAirport="AYMH" DefaultCenter="-05.827500+144.300000" DefaultRange="2" MagneticVariation="-4.6" Rotation="-27">
     <Maps>
       <Map Name="Mt Hagen/ASMGCS_AYMH_RWY" />
       <Map Name="Mt Hagen/ASMGCS_AYMH_APR" />
@@ -141,7 +141,7 @@
       <Map Name="Mt Hagen/ASMGCS_AYMH_BLD" />
     </Maps>
   </Position>
-  <Position Name="AYTK" Type="ASMGCS" ASMGCSAirport="AYTK" DefaultCenter="-04.341028+152.379222" DefaultRange="2" MagneticVariation="-6.3" Rotation="0">
+  <Position Name="AYTK" Type="ASMGCS" ASMGCSAirport="AYTK" DefaultCenter="-04.341028+152.379222" DefaultRange="1" MagneticVariation="-6.3" Rotation="-10">
     <Maps>
       <Map Name="Tokua/ASMGCS_AYTK_RWY" />
       <Map Name="Tokua/ASMGCS_AYTK_APR" />
@@ -149,7 +149,7 @@
       <Map Name="Tokua/ASMGCS_AYTK_BLD" />
     </Maps>
   </Position>
-  <Position Name="NVVV" Type="ASMGCS" ASMGCSAirport="NVVV" DefaultCenter="-17.699325+168.319794" DefaultRange="2" MagneticVariation="-11.6" Rotation="0">
+  <Position Name="NVVV" Type="ASMGCS" ASMGCSAirport="NVVV" DefaultCenter="-17.698889+168.316944" DefaultRange="2" MagneticVariation="-11.6" Rotation="164">
     <Maps>
       <Map Name="Port Vila/ASMGCS_NVVV_RWY" />
       <Map Name="Port Vila/ASMGCS_NVVV_APR" />
@@ -157,12 +157,20 @@
       <Map Name="Port Vila/ASMGCS_NVVV_BLD" />
     </Maps>
   </Position>
-  <Position Name="NWWM" Type="ASMGCS" ASMGCSAirport="NWWM" DefaultCenter="-22.258333+166.472778" DefaultRange="2" MagneticVariation="-12.5" Rotation="0">
+  <Position Name="NWWM" Type="ASMGCS" ASMGCSAirport="NWWM" DefaultCenter="-22.257778+166.472222" DefaultRange="1" MagneticVariation="-12.5" Rotation="-76">
     <Maps>
       <Map Name="Noumea/ASMGCS_NWWM_RWY" />
       <Map Name="Noumea/ASMGCS_NWWM_APR" />
       <Map Name="Noumea/ASMGCS_NWWM_TWY" />
       <Map Name="Noumea/ASMGCS_NWWM_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="NWWW" Type="ASMGCS" ASMGCSAirport="NWWW" DefaultCenter="-22.014167+166.212778" DefaultRange="2" MagneticVariation="-12.4" Rotation="161">
+    <Maps>
+      <Map Name="Noumea/ASMGCS_NWWW_RWY" />
+      <Map Name="Noumea/ASMGCS_NWWW_APR" />
+      <Map Name="Noumea/ASMGCS_NWWW_TWY" />
+      <Map Name="Noumea/ASMGCS_NWWW_BLD" />
     </Maps>
   </Position>
   </Group>
