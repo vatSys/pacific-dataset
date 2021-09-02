@@ -335,7 +335,7 @@
         <Airport Name="NVVV" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Port Vila Tower</Line>
+        <Line>Vila Tower</Line>
         <Line>ATIS available on 126.4</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
@@ -428,6 +428,7 @@
     <Position Name="Jacksons Tower" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="90" MagneticVariation="-5.8">
       <Sectors>
         <Sector Name="AYPYT" />
+        <Sector Name="AYPY SMC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -448,6 +449,11 @@
       </ArrivalLists>
       <ControllerInfo>
         <Line>Jacksons Tower</Line>
+        <Line>ATIS available on 128.0</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="AYPY_GND">
+        <Line>Jacksons Ground</Line>
         <Line>ATIS available on 128.0</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
@@ -510,7 +516,8 @@
     <Position Name="Bucholz Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="60" MagneticVariation="-7.6">
       <Sectors>
         <Sector Name="PKWAT" />
-      </Sectors>
+        <Sector Name="PKWA SMC" />
+        </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
         <Map Name="Bucholz/PKWA_COAST" />
@@ -530,6 +537,11 @@
       </ArrivalLists>
       <ControllerInfo>
         <Line>Bucholz Tower</Line>
+        <Line>ATIS available on 119.5</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="PKWA_GND">
+        <Line>Bucholz Ground</Line>
         <Line>ATIS available on 119.5</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
@@ -622,6 +634,11 @@
       <ControllerInfo>
         <Line>Nadi Approach</Line>
         <Line>ATIS available on 127.9</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="NFNA_APP">
+        <Line>Nausori Approach</Line>
+        <Line>ATIS available on 128.5</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>

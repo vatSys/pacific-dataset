@@ -192,7 +192,9 @@
   <Sector FullName="Brisbane Tower West" Frequency="118.000" Callsign="BN-W_TWR" Name="BN ADCW" />
   <Sector FullName="Broome Surface Movement Control" Frequency="121.700" Callsign="BRM_GND" Name="BRM SMC" />
   <Sector FullName="Broome Tower" Frequency="126.000" Callsign="BRM_TWR" Name="BRM ADC" />
-  <Sector FullName="Bucholz SMC" Frequency="121.900" Callsign="PKWA_GND" Name="PKWA SMC" DisplayInHandoffWindow="False" />
+  <Sector FullName="Bucholz SMC" Frequency="121.900" Callsign="PKWA_GND" Name="PKWA SMC" DisplayInHandoffWindow="False">
+    <Volumes>PKWATWR</Volumes>
+  </Sector>
   <Sector FullName="Bucholz Tower" Frequency="118.800" Callsign="PKWA_TWR" Name="PKWAT" DisplayInHandoffWindow="False">
     <Volumes>PKWATWR</Volumes>
   </Sector>
@@ -227,7 +229,9 @@
   <Sector FullName="Hamilton Island Tower" Frequency="118.700" Callsign="HM_TWR" Name="HM ADC" />
   <Sector FullName="Hobart Surface Movement Control" Frequency="121.700" Callsign="HB_GND" Name="HB SMC" />
   <Sector FullName="Hobart Tower" Frequency="118.100" Callsign="HB_TWR" Name="HB ADC" />
-  <Sector FullName="Jacksons Ground" Frequency="121.700" Callsign="AYPY_GND" Name="AYPY SMC" DisplayInHandoffWindow="False" />
+  <Sector FullName="Jacksons Ground" Frequency="121.700" Callsign="AYPY_GND" Name="AYPY SMC" DisplayInHandoffWindow="False">
+    <Volumes>AYPYTWR</Volumes>
+  </Sector>
   <Sector FullName="Jacksons Tower" Frequency="118.100" Callsign="AYPY_TWR" Name="AYPYT" DisplayInHandoffWindow="False">
     <Volumes>AYPYTWR</Volumes>
   </Sector>
