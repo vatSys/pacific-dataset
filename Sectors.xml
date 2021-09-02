@@ -10,7 +10,6 @@
   <Sector FullName="Billabong" Frequency="132.000" Callsign="ML-BIL_CTR" Name="BIL" />
   <Sector FullName="Bindook" Frequency="129.800" Callsign="ML-BIK_CTR" Name="BIK" />
   <Sector FullName="Bourke" Frequency="128.200" Callsign="ML-BKE_CTR" Name="BKE" />
-  <Sector FullName="Brisbane Upper" Frequency="132.100" Callsign="YBBB_FSS" Name="BBB" />
   <Sector FullName="Burnett" Frequency="123.000" Callsign="BN-BUR_CTR" Name="BUR" />
   <Sector FullName="Carnarvon" Frequency="133.800" Callsign="BN-CVN_CTR" Name="CVN" />
   <Sector FullName="Colombo" Frequency="124.900" Callsign="VCCF_CTR" Name="VCCF" />
@@ -41,7 +40,6 @@
   <Sector FullName="Male" Frequency="123.900" Callsign="VRMF_CTR" Name="VRMF" />
   <Sector FullName="Male Training" Frequency="123.900" Callsign="VRMF_T_CTR" Name="-" />
   <Sector FullName="Mauritius" Frequency="129.300" Callsign="FIMM_CTR" Name="FIMM" />
-  <Sector FullName="Melbourne Upper" Frequency="132.400" Callsign="YMMM_FSS" Name="MMM" />
   <Sector FullName="Moresby Centre" Frequency="123.400" Callsign="AYPM_CTR" Name="AYPM">
     <Volumes>AYPM</Volumes>
   </Sector>
