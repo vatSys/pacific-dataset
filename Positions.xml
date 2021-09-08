@@ -196,7 +196,7 @@
       <ControllerInfo>
         <Line>Nadi Radio</Line>
         <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
-        <Line />
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>
   </Group>
