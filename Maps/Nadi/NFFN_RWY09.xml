@@ -3,7 +3,7 @@
   <Map Type="System" Name="NFFN_RWY09" Priority="1" Center="-17.756389+177.443611">
     <!--NFFN-->
     <Runway Name="09/27">
-      <Threshold Name="09" Position="-17.753069+177.436086" ExtendedCentrelineTrack="284.5" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="09" Position="-17.753278+177.436947" ExtendedCentrelineTrack="284.5" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
       <Threshold Name="27" Position="-17.757767+177.455597" />
     </Runway>
     <!--SIDs-->

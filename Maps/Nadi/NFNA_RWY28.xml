@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="NFNA_RWY28" Priority="1" Center="-18.044722+178.559444">
+  <Map Type="System" Name="NFNA_RWY28" Priority="1" Center="-18.044608+178.559547">
     <!--NFNA-->
     <Runway Name="10/28">
       <Threshold Name="10" Position="-18.040892+178.551967" />
-      <Threshold Name="28" Position="-18.046089+178.567572" ExtendedCentrelineTrack="109.6" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="28" Position="-18.047272+178.571136" ExtendedCentrelineTrack="108.6" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
     </Runway>
     <!--SIDs-->
     <Line>
@@ -147,7 +147,7 @@
       <Point>ISTOS</Point>
     </Symbol>
   </Map>
-  <Map Type="System" Name="NFNA_RWY28_NAMES" Priority="2" Center="-18.044722+178.559444">
+  <Map Type="System" Name="NFNA_RWY28_NAMES" Priority="2" Center="-18.044608+178.559547">
     <Label>
       <Point>NA VOR</Point>
       <Point>NAVUA</Point>
