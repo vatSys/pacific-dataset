@@ -58,6 +58,30 @@
       TESEM
     </Line>
     <Line>
+      <!--Rwy14L ENTO1A-->
+      ENTOG/
+      DOVLU/
+      EMVUD/
+      ATSIM/
+      ADLEV/
+      DAPLO/
+      VIMIB
+    </Line>
+    <Line>
+      <!--Rwy14L ENTO1B-->
+      DOVLU/
+      IKUDA/
+      TANUB/
+      AKVAT/
+      DAPLO
+    </Line>
+    <Line>
+      <!--Rwy14L GUMBU1-->
+      GUMBU/
+      BUVEN/
+      ADLEV
+    </Line>
+    <Line>
       <!--Rwy14L HIRI-->
       -08.583014+146.939906
     </Line>
@@ -72,8 +96,25 @@
       ANLOB
     </Line>
     <Line>
+      <!--Rwy14L LOTGU1-->
+      LOTGU/
+      ATSIM
+    </Line>
+    <Line>
       <!--Rwy14L MAGI-->
       -10.090617+147.757107
+    </Line>
+    <Line>
+      <!--Rwy14L MUDOV1-->
+      MUDOV/
+      MIMEP/
+      MEVOR/
+      AKVAT
+    </Line>
+    <Line>
+      <!--Rwy14L NUPTA1-->
+      NUPTA/
+      EMVUD
     </Line>
     <Line>
       <!--Rwy14L PARER-->
@@ -82,14 +123,21 @@
       ANLOB
     </Line>
     <Line>
-      <!--Rwy14L SAKTO-->
-      SAKTO
+      <!--Rwy14L SAKTO1-->
+      SAKTO/
+      VANGI/
+      DAPLO
     </Line>
     <Line>
       <!--Rwy14L TAVAI-->
       -10.405620+146.880718/
-      -09.768333+147.423333/
+      SHAOL/
       TESEM
+    </Line>
+    <Line>
+      <!--Rwy14L UNSAM1-->
+      UNSAM/
+      ATSIM
     </Line>
     <Line>
       <!--Rwy14R ASTROL-->
@@ -116,15 +164,12 @@
       
     </Line>
     <Line>
-      <!--Rwy14R SAKTO-->
-      SAKTO
-    </Line>
-    <Line>
       <!--Rwy14R TAVAI-->
       
     </Line>
     <Symbol Type="HollowTriangle">
       <Point>TESEM</Point>
+      <Point>VIMIB</Point>
       <Point>ANLOB</Point>
     </Symbol>
     <Symbol Type="HollowStar">
@@ -136,10 +181,29 @@
       <Point>RUPNO</Point>
       <Point>NIXUT</Point>
       <Point>IRNUS</Point>
+      <Point>ENTOG</Point>
+      <Point>DOVLU</Point>
+      <Point>EMVUD</Point>
+      <Point>ATSIM</Point>
+      <Point>ADLEV</Point>
+      <Point>DAPLO</Point>
+      <Point>IKUDA</Point>
+      <Point>TANUB</Point>
+      <Point>AKVAT</Point>
+      <Point>GUMBU</Point>
+      <Point>BUVEN</Point>
       <Point>EMPRA</Point>
       <Point>STARF</Point>
+      <Point>LOTGU</Point>
+      <Point>MUDOV</Point>
+      <Point>MIMEP</Point>
+      <Point>MEVOR</Point>
+      <Point>NUPTA</Point>
       <Point>GUARI</Point>
       <Point>LELID</Point>
+      <Point>VANGI</Point>
+      <Point>SHAOL</Point>
+      <Point>UNSAM</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="AYPY_RWY14_NAMES" Priority="2" Center="-09.440278+147.218611">
@@ -153,11 +217,31 @@
       <Point>NIXUT</Point>
       <Point>IRNUS</Point>
       <Point>TESEM</Point>
+      <Point>ENTOG</Point>
+      <Point>DOVLU</Point>
+      <Point>EMVUD</Point>
+      <Point>ATSIM</Point>
+      <Point>ADLEV</Point>
+      <Point>DAPLO</Point>
+      <Point>VIMIB</Point>
+      <Point>IKUDA</Point>
+      <Point>TANUB</Point>
+      <Point>AKVAT</Point>
+      <Point>GUMBU</Point>
+      <Point>BUVEN</Point>
       <Point>EMPRA</Point>
       <Point>STARF</Point>
       <Point>ANLOB</Point>
+      <Point>LOTGU</Point>
+      <Point>MUDOV</Point>
+      <Point>MIMEP</Point>
+      <Point>MEVOR</Point>
+      <Point>NUPTA</Point>
       <Point>GUARI</Point>
       <Point>LELID</Point>
+      <Point>VANGI</Point>
+      <Point>SHAOL</Point>
+      <Point>UNSAM</Point>
       <Point>NOGOT</Point>
       <Point>ASIXA</Point>
       <Point>KIBAV</Point>

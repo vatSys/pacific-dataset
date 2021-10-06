@@ -82,18 +82,28 @@
       ANLOB
     </Line>
     <Line>
-      <!--Rwy32L SAKTO-->
-      SAKTO
-    </Line>
-    <Line>
       <!--Rwy32L TAVAI-->
       -10.405620+146.880718/
-      -09.768333+147.423333/
+      SHAOL/
       TESEM
     </Line>
     <Line>
       <!--Rwy32R ASTROL-->
       
+    </Line>
+    <Line>
+      <!--Rwy32R ENTO1A-->
+      ENTOG/
+      DOVLU/
+      OBGOP/
+      SARAB/
+      ISLOK
+    </Line>
+    <Line>
+      <!--Rwy32R GUMBU1-->
+      GUMBU/
+      UGREK/
+      SARAB
     </Line>
     <Line>
       <!--Rwy32R HIRI-->
@@ -108,24 +118,52 @@
       
     </Line>
     <Line>
+      <!--Rwy32R LOTGU1-->
+      LOTGU/
+      UGOTO/
+      SARAB
+    </Line>
+    <Line>
       <!--Rwy32R MAGI-->
       -10.090617+147.757107
+    </Line>
+    <Line>
+      <!--Rwy32R MUDOV1-->
+      MUDOV/
+      NISUK/
+      IPLUD/
+      OBGOP
+    </Line>
+    <Line>
+      <!--Rwy32R NUPTA1-->
+      NUPTA/
+      IDRUL/
+      SARAB
     </Line>
     <Line>
       <!--Rwy32R PARER-->
       
     </Line>
     <Line>
-      <!--Rwy32R SAKTO-->
-      SAKTO
+      <!--Rwy32R SAKTO1-->
+      SAKTO/
+      OPARO/
+      POKUM/
+      UGREK
     </Line>
     <Line>
       <!--Rwy32R TAVAI-->
       
     </Line>
+    <Line>
+      <!--Rwy32R UNSAM1-->
+      UNSAM/
+      UGOTO
+    </Line>
     <Symbol Type="HollowTriangle">
       <Point>TESEM</Point>
       <Point>ANLOB</Point>
+      <Point>ISLOK</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>PY VOR</Point>
@@ -140,6 +178,23 @@
       <Point>STARF</Point>
       <Point>GUARI</Point>
       <Point>LELID</Point>
+      <Point>SHAOL</Point>
+      <Point>ENTOG</Point>
+      <Point>DOVLU</Point>
+      <Point>OBGOP</Point>
+      <Point>SARAB</Point>
+      <Point>GUMBU</Point>
+      <Point>UGREK</Point>
+      <Point>LOTGU</Point>
+      <Point>UGOTO</Point>
+      <Point>MUDOV</Point>
+      <Point>NISUK</Point>
+      <Point>IPLUD</Point>
+      <Point>NUPTA</Point>
+      <Point>IDRUL</Point>
+      <Point>OPARO</Point>
+      <Point>POKUM</Point>
+      <Point>UNSAM</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="AYPY_RWY32_NAMES" Priority="2" Center="-09.440278+147.218611">
@@ -158,6 +213,24 @@
       <Point>ANLOB</Point>
       <Point>GUARI</Point>
       <Point>LELID</Point>
+      <Point>SHAOL</Point>
+      <Point>ENTOG</Point>
+      <Point>DOVLU</Point>
+      <Point>OBGOP</Point>
+      <Point>SARAB</Point>
+      <Point>ISLOK</Point>
+      <Point>GUMBU</Point>
+      <Point>UGREK</Point>
+      <Point>LOTGU</Point>
+      <Point>UGOTO</Point>
+      <Point>MUDOV</Point>
+      <Point>NISUK</Point>
+      <Point>IPLUD</Point>
+      <Point>NUPTA</Point>
+      <Point>IDRUL</Point>
+      <Point>OPARO</Point>
+      <Point>POKUM</Point>
+      <Point>UNSAM</Point>
       <Point>NOGOT</Point>
       <Point>ASIXA</Point>
       <Point>KIBAV</Point>

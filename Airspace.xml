@@ -28,13 +28,20 @@
         <SID Name="GALLEY" />
         <SID Name="KOKODA" />
         <STAR Name="ASTROL" />
+        <STAR Name="ENTO1A" ApproachName="GNSS" />
+        <STAR Name="ENTO1B" ApproachName="GNSS" />
+        <STAR Name="GUMBU1" ApproachName="GNSS" />
         <STAR Name="HIRI" />
         <STAR Name="KOKODA" />
         <STAR Name="LALOKI" />
+        <STAR Name="LOTGU1" ApproachName="GNSS" />
         <STAR Name="MAGI" />
+        <STAR Name="MUDOV1" ApproachName="GNSS" />
+        <STAR Name="NUPTA1" ApproachName="GNSS" />
         <STAR Name="PARER" />
-        <STAR Name="SAKTO" />
+        <STAR Name="SAKTO1" ApproachName="GNSS" />
         <STAR Name="TAVAI" />
+        <STAR Name="UNSAM1" ApproachName="GNSS" />
       </Runway>
       <Runway Name="14R" DataRunway="14R">
         <SID Name="ASTRO1" />
@@ -47,7 +54,6 @@
         <STAR Name="LALOKI" />
         <STAR Name="MAGI" />
         <STAR Name="PARER" />
-        <STAR Name="SAKTO" />
         <STAR Name="TAVAI" />
       </Runway>
       <Runway Name="32L" DataRunway="32L">
@@ -61,7 +67,6 @@
         <STAR Name="LALOKI" />
         <STAR Name="MAGI" />
         <STAR Name="PARER" />
-        <STAR Name="SAKTO" />
         <STAR Name="TAVAI" />
       </Runway>
       <Runway Name="32R" DataRunway="32R">
@@ -70,13 +75,19 @@
         <SID Name="GALLEY" />
         <SID Name="KOKODA" />
         <STAR Name="ASTROL" />
+        <STAR Name="ENTO1A" ApproachName="GNSS" />
+        <STAR Name="GUMBU1" ApproachName="GNSS" />
         <STAR Name="HIRI" />
         <STAR Name="KOKODA" />
         <STAR Name="LALOKI" />
+        <STAR Name="LOTGU1" ApproachName="GNSS" />
         <STAR Name="MAGI" />
+        <STAR Name="MUDOV1" ApproachName="GNSS" />
+        <STAR Name="NUPTA1" ApproachName="GNSS" />
         <STAR Name="PARER" />
-        <STAR Name="SAKTO" />
+        <STAR Name="SAKTO1" ApproachName="GNSS" />
         <STAR Name="TAVAI" />
+        <STAR Name="UNSAM1" ApproachName="GNSS" />
       </Runway>
     </Airport>
     <Airport Name="AYTK">
@@ -3100,7 +3111,7 @@ NINIA
     <Point Name="MH26T" Type="Fix">-054931.699+1441809.839</Point>
     <Point Name="MH30T" Type="Fix">-055000.000+1441827.900</Point>
     <Point Name="NA10T" Type="Fix">-180227.211+1783307.081</Point>
-    <Point Name="NA28T" Type="Fix">-180245.920+1783403.259</Point>
+    <Point Name="NA28T" Type="Fix">-180250.179+1783416.090</Point>
     <Point Name="NZ09T" Type="Fix">-063407.900+1464254.900</Point>
     <Point Name="NZ27T" Type="Fix">-063414.801+1464414.000</Point>
     <Point Name="PY14L" Type="Fix">-092551.200+1471250.101</Point>
@@ -3418,6 +3429,17 @@ NINIA
       <Route Runway="32L">NIXUT/IRNUS/TESEM</Route>
       <Route Runway="32R">NIXUT/IRNUS/TESEM</Route>
     </STAR>
+    <STAR Name="ENTO1A" Airport="AYPY" Runways="14L,32R">
+      <Route Runway="14L">ENTOG/DOVLU/EMVUD/ATSIM/ADLEV/DAPLO/VIMIB</Route>
+      <Route Runway="32R">ENTOG/DOVLU/OBGOP/SARAB/ISLOK</Route>
+    </STAR>
+    <STAR Name="ENTO1B" Airport="AYPY" Runways="14L">
+      <Route Runway="14L">ENTOG/DOVLU/IKUDA/TANUB/AKVAT/DAPLO/VIMIB</Route>
+    </STAR>
+    <STAR Name="GUMBU1" Airport="AYPY" Runways="14L,32R">
+      <Route Runway="14L">GUMBU/BUVEN/ADLEV/DAPLO/VIMIB</Route>
+      <Route Runway="32R">GUMBU/UGREK/SARAB/ISLOK</Route>
+    </STAR>
     <STAR Name="HIRI" Airport="AYPY" Runways="14L,14R,32L,32R">
       <Route Runway="14L">PY VOR</Route>
       <Route Runway="14R">PY VOR</Route>
@@ -3436,11 +3458,23 @@ NINIA
       <Route Runway="32L">EMPRA/STARF/ANLOB</Route>
       <Route Runway="32R">EMPRA/STARF/ANLOB</Route>
     </STAR>
+    <STAR Name="LOTGU1" Airport="AYPY" Runways="14L,32R">
+      <Route Runway="14L">LOTGU/ATSIM/ADLEV/DAPLO/VIMIB</Route>
+      <Route Runway="32R">LOTGU/UGOTO/SARAB/ISLOK</Route>
+    </STAR>
     <STAR Name="MAGI" Airport="AYPY" Runways="14L,14R,32L,32R">
       <Route Runway="14L">PY VOR</Route>
       <Route Runway="14R">PY VOR</Route>
       <Route Runway="32L">PY VOR</Route>
       <Route Runway="32R">PY VOR</Route>
+    </STAR>
+    <STAR Name="MUDOV1" Airport="AYPY" Runways="14L,32R">
+      <Route Runway="14L">MUDOV/MIMEP/MEVOR/AKVAT/DAPLO/VIMIB</Route>
+      <Route Runway="32R">MUDOV/NISUK/IPLUD/OBGOP/SARAB/ISLOK</Route>
+    </STAR>
+    <STAR Name="NUPTA1" Airport="AYPY" Runways="14L,32R">
+      <Route Runway="14L">NUPTA/EMVUD/ATSIM/ADLEV/DAPLO/VIMIB</Route>
+      <Route Runway="32R">NUPTA/IDRUL/SARAB/ISLOK</Route>
     </STAR>
     <STAR Name="PARER" Airport="AYPY" Runways="14L,14R,32L,32R">
       <Route Runway="14L">GUARI/LELID/ANLOB</Route>
@@ -3448,17 +3482,19 @@ NINIA
       <Route Runway="32L">GUARI/LELID/ANLOB</Route>
       <Route Runway="32R">GUARI/LELID/ANLOB</Route>
     </STAR>
-    <STAR Name="SAKTO" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">SAKTO/PY VOR</Route>
-      <Route Runway="14R">SAKTO/PY VOR</Route>
-      <Route Runway="32L">SAKTO/PY VOR</Route>
-      <Route Runway="32R">SAKTO/PY VOR</Route>
+    <STAR Name="SAKTO1" Airport="AYPY" Runways="14L,32R">
+      <Route Runway="14L">SAKTO/VANGI/DAPLO/VIMIB</Route>
+      <Route Runway="32R">SAKTO/OPARO/POKUM/UGREK/SARAB/ISLOK</Route>
     </STAR>
     <STAR Name="TAVAI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">TESEM</Route>
-      <Route Runway="14R">TESEM</Route>
-      <Route Runway="32L">TESEM</Route>
-      <Route Runway="32R">TESEM</Route>
+      <Route Runway="14L">SHAOL/TESEM</Route>
+      <Route Runway="14R">SHAOL/TESEM</Route>
+      <Route Runway="32L">SHAOL/TESEM</Route>
+      <Route Runway="32R">SHAOL/TESEM</Route>
+    </STAR>
+    <STAR Name="UNSAM1" Airport="AYPY" Runways="14L,32R">
+      <Route Runway="14L">UNSAM/ATSIM/ADLEV/DAPLO/VIMIB</Route>
+      <Route Runway="32R">UNSAM/UGOTO/SARAB/ISLOK</Route>
     </STAR>
     <STAR Name="AGTA2B" Airport="NFFN" Runways="20">
       <Route Runway="20">AGTAG/MOTKI</Route>
@@ -3575,6 +3611,12 @@ NINIA
     <STAR Name="VIRA2A" Airport="NWWW" Runways="11">
       <Route Runway="11">VIRAR/NULVI/PEPIT</Route>
     </STAR>
+    <Approach Name="GNSS" Airport="AYPY" Runway="14L">
+      <Route>VIMIB/YPYNF/YPYNZ/YPYNM</Route>
+    </Approach>
+    <Approach Name="GNSS" Airport="AYPY" Runway="32R">
+      <Route>ISLOK/YPYSF/YPYSM</Route>
+    </Approach>
     <Approach Name="RNP" Airport="NFFN" Runway="20">
       <Transition Name="MOTKI">MOTKI</Transition>
       <Route>FN664/NIREV/FN581/FN812/FN20T</Route>
