@@ -31,6 +31,8 @@
       <Point>AF29E</Point>
       <Point>AF29N</Point>
       <Point>AF29S</Point>
+      <Point>WL600</Point>
+      <Point>WL700</Point>
       <Point>WW435</Point>
       <Point>HOBLO</Point>
       <Point>CETMO</Point>
@@ -50,6 +52,8 @@
       <Point>FNAWF</Point>
       <Point>FF11</Point>
       <Point>FF29</Point>
+      <Point>FWL12</Point>
+      <Point>FWL30</Point>
       <Point>FWW11</Point>
       <Point>MAVTE</Point>
       <Point>WADRU</Point>
@@ -66,6 +70,8 @@
       <Point>FNAWI</Point>
       <Point>IF11</Point>
       <Point>IF29</Point>
+      <Point>IWL12</Point>
+      <Point>IWL30</Point>
       <Point>IWW11</Point>
       <Point>TONBE</Point>
       <Point>DGOWA</Point>
@@ -298,6 +304,8 @@
       <Point>FNAWF</Point>
       <Point>FF11</Point>
       <Point>FF29</Point>
+      <Point>FWL12</Point>
+      <Point>FWL30</Point>
       <Point>FWW11</Point>
       <Point>MAVTE</Point>
       <Point>WADRU</Point>
@@ -365,6 +373,8 @@
       <Point>FNAWI</Point>
       <Point>IF11</Point>
       <Point>IF29</Point>
+      <Point>IWL12</Point>
+      <Point>IWL30</Point>
       <Point>IWW11</Point>
       <Point>TONBE</Point>
       <Point>DGOWI</Point>
@@ -446,6 +456,8 @@
       <Point>AF29E</Point>
       <Point>AF29N</Point>
       <Point>AF29S</Point>
+      <Point>WL600</Point>
+      <Point>WL700</Point>
       <Point>WW435</Point>
       <Point>HOBLO</Point>
       <Point>CETMO</Point>
@@ -837,6 +849,10 @@
     <Line>AF29E/IF29</Line>
     <Line>AF29N/IF29</Line>
     <Line>AF29S/IF29</Line>
+    <Line>IWL12/FWL12/NL12T</Line>
+    <Line>WL600/IWL12</Line>
+    <Line>IWL30/FWL30/NL30T</Line>
+    <Line>WL700/IWL30</Line>
     <Line>IWW11/FWW11/MWW11</Line>
     <Line>WW435/IWW11</Line>
     <Line>HOBLO/MAVTE/WA06T</Line>

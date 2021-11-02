@@ -163,6 +163,10 @@
         <SID Name="SOUTH" />
       </Runway>
     </Airport>
+    <Airport Name="NWWL">
+      <Runway Name="12" DataRunway="12" />
+      <Runway Name="30" DataRunway="30" />
+    </Airport>
     <Airport Name="NWWM">
       <Runway Name="17" DataRunway="17">
         <SID Name="IP1A" />
@@ -3112,6 +3116,8 @@ NINIA
     <Point Name="MH30T" Type="Fix">-055000.000+1441827.900</Point>
     <Point Name="NA10T" Type="Fix">-180227.211+1783307.081</Point>
     <Point Name="NA28T" Type="Fix">-180250.179+1783416.090</Point>
+    <Point Name="NL12T" Type="Fix">-204613.591+1671405.618</Point>
+    <Point Name="NL30T" Type="Fix">-204642.290+1671436.211</Point>
     <Point Name="NZ09T" Type="Fix">-063407.900+1464254.900</Point>
     <Point Name="NZ27T" Type="Fix">-063414.801+1464414.000</Point>
     <Point Name="PY14L" Type="Fix">-092551.200+1471250.101</Point>
