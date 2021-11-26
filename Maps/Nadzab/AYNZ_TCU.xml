@@ -12,11 +12,47 @@
       PY VOR/
       KAPKI
     </Line>
+    <Line>
+      <!--H401-->
+      PY VOR/
+      LELID/
+      GUARI
+    </Line>
+    <Line>
+      <!--H401-->
+      ALBUP/
+      BOGIA
+    </Line>
+    <Line>
+      <!--H405-->
+      PY VOR/
+      DUKIS
+    </Line>
+    <Line>
+      <!--H410-->
+      AVLIX/
+      ARAWE/
+      VATVO
+    </Line>
+    <Line>
+      <!--H663-->
+      AVLIX/
+      TAXAD
+    </Line>
   </Map>
   <Map Type="System" Name="AYNZ_TCU_NAMES" Priority="2" Center="-06.569222+146.728056">
     <Label>
       <Point>PY VOR</Point>
       <Point>KAPKI</Point>
+      <Point>LELID</Point>
+      <Point>GUARI</Point>
+      <Point>ALBUP</Point>
+      <Point>BOGIA</Point>
+      <Point>DUKIS</Point>
+      <Point>AVLIX</Point>
+      <Point>ARAWE</Point>
+      <Point>VATVO</Point>
+      <Point>TAXAD</Point>
     </Label>
   </Map>
   <Map Type="System" Name="AYNZ_ALLRWYS" Priority="2" Center="-06.569222+146.728056">

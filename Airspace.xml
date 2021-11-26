@@ -12,10 +12,18 @@
       <Runway Name="25" DataRunway="25" />
     </Airport>
     <Airport Name="AYMH">
-      <Runway Name="08" DataRunway="08" />
-      <Runway Name="12" DataRunway="12" />
-      <Runway Name="26" DataRunway="26" />
-      <Runway Name="30" DataRunway="30" />
+      <Runway Name="08" DataRunway="08">
+        <STAR Name="GUGPU1" ApproachName="GNSSA" />
+      </Runway>
+      <Runway Name="12" DataRunway="12">
+        <STAR Name="GUGPU1" ApproachName="GNSSA" />
+      </Runway>
+      <Runway Name="26" DataRunway="26">
+        <STAR Name="GUGPU1" ApproachName="GNSSA" />
+      </Runway>
+      <Runway Name="30" DataRunway="30">
+        <STAR Name="GUGPU1" ApproachName="GNSSA" />
+      </Runway>
     </Airport>
     <Airport Name="AYNZ">
       <Runway Name="09" DataRunway="09" />
@@ -774,6 +782,66 @@ NA VOR
 NN VOR/
 NAVUA
 </Airway>
+    <Airway Name="H401">
+PY VOR/
+LELID/
+GUARI/
+NZ VOR/
+ALBUP/
+BOGIA/
+DOTUB/
+EMLEN/
+VNO NDB
+</Airway>
+    <Airway Name="H404">
+NZ VOR/
+OKTUX/
+MOE NDB
+</Airway>
+    <Airway Name="H405">
+PY VOR/
+DUKIS/
+LARID/
+NZ VOR
+</Airway>
+    <Airway Name="H410">
+NZ VOR/
+AVLIX/
+ARAWE/
+VATVO/
+ESNIV
+</Airway>
+    <Airway Name="H414">
+ALBUP/
+UGTOK/
+MUKIK/
+BEMGO/
+VIDOT/
+KAIFU/
+SAKTO/
+PY VOR
+</Airway>
+    <Airway Name="H421">
+PY VOR/
+RUPNO/
+DAKNU/
+BINNA/
+ESNIV/
+LHR NDB
+</Airway>
+    <Airway Name="H422">
+RUPNO/
+LUKTI/
+YALOL/
+AKBOK/
+LUNTO
+</Airway>
+    <Airway Name="H423">
+RUPNO/
+OLRIG/
+VATVO/
+KVG VOR
+</Airway>
     <Airway Name="H430">
 NN VOR/
 LB VOR
@@ -781,6 +849,88 @@ LB VOR
     <Airway Name="H490">
 NAVUA/
 NA NDB
+</Airway>
+    <Airway Name="H529">
+PY VOR/
+COWRY/
+VATVO/
+LEMUP/
+LHR NDB
+</Airway>
+    <Airway Name="H536">
+BELUP/
+STARF/
+SNAPA/
+EPKED/
+GUGPU/
+IKERU/
+SLUMI/
+LUMMI/
+VNO NDB
+</Airway>
+    <Airway Name="H537">
+EPKED/
+ANULO/
+MUDIX
+</Airway>
+    <Airway Name="H539">
+PASDU/
+BOSVI/
+KIBAV/
+EMPRA/
+STARF/
+PY VOR
+</Airway>
+    <Airway Name="H546">
+ASIXA/
+NOGOT/
+GUNKI/
+BELUP/
+PY VOR
+</Airway>
+    <Airway Name="H663">
+NZ VOR/
+AVLIX/
+TAXAD/
+CADAM/
+OPILU/
+LUNTO
+</Airway>
+    <Airway Name="H665">
+SAKTO/
+MAIPA/
+OMBOG/
+MUDIX/
+MAYUI/
+DOTUB
+</Airway>
+    <Airway Name="H778">
+EPKED/
+IOKEA/
+SAKTO
+</Airway>
+    <Airway Name="H784">
+EPKED/
+YABAL/
+KADKA/
+DOTUB
+</Airway>
+    <Airway Name="H789">
+ESNIV/
+HOUJI/
+LUNTO
+</Airway>
+    <Airway Name="H791">
+EPKED/
+KIBAV/
+NODAR/
+OKT NDB
+</Airway>
+    <Airway Name="H799">
+ALBUP/
+LETKA/
+MIKIT/
+VATVO
 </Airway>
     <Airway Name="H95">
 LB VOR/
@@ -2104,7 +2254,7 @@ NINIA
     <Point Name="LENKU" Type="Fix">-191421.638+1690607.099</Point>
     <Point Name="LENUM" Type="Fix">-170417.000+1781742.000</Point>
     <Point Name="LEPAR" Type="Fix">-391412.400+1502737.400</Point>
-    <Point Name="LEPKA" Type="Fix">-013024.000+1700000.000</Point>
+    <Point Name="LEPKA" Type="Fix">-013000.000+1700000.000</Point>
     <Point Name="LETKA" Type="Fix">-051742.331+1471611.078</Point>
     <Point Name="LEVGY" Type="Fix">+070531.931+1575648.311</Point>
     <Point Name="LIBLA" Type="Fix">-435553.040+1674034.010</Point>
@@ -3429,6 +3579,12 @@ NINIA
     <SID Name="VIRA3W" Airport="NWWW" Runways="29">
       <Route Runway="29">BASSA/VIRAR</Route>
     </SID>
+    <STAR Name="GUGPU1" Airport="AYMH" Runways="08,12,26,30">
+      <Route Runway="08">GUGPU/ESNON/YABAL/YMHEB</Route>
+      <Route Runway="12">GUGPU/ESNON/YABAL/YMHEB</Route>
+      <Route Runway="26">GUGPU/ESNON/YABAL/YMHEB</Route>
+      <Route Runway="30">GUGPU/ESNON/YABAL/YMHEB</Route>
+    </STAR>
     <STAR Name="ASTROL" Airport="AYPY" Runways="14L,14R,32L,32R">
       <Route Runway="14L">NIXUT/IRNUS/TESEM</Route>
       <Route Runway="14R">NIXUT/IRNUS/TESEM</Route>
@@ -3617,6 +3773,26 @@ NINIA
     <STAR Name="VIRA2A" Airport="NWWW" Runways="11">
       <Route Runway="11">VIRAR/NULVI/PEPIT</Route>
     </STAR>
+    <Approach Name="GNSSA" Airport="AYMH" Runway="08">
+      <Transition Name="YMHEA">YMHEA</Transition>
+      <Transition Name="YMHEB">YMHEB</Transition>
+      <Route>YMHEI/YMHEF/YMHEM</Route>
+    </Approach>
+    <Approach Name="GNSSA" Airport="AYMH" Runway="12">
+      <Transition Name="YMHEA">YMHEA</Transition>
+      <Transition Name="YMHEB">YMHEB</Transition>
+      <Route>YMHEI/YMHEF/YMHEM</Route>
+    </Approach>
+    <Approach Name="GNSSA" Airport="AYMH" Runway="26">
+      <Transition Name="YMHEA">YMHEA</Transition>
+      <Transition Name="YMHEB">YMHEB</Transition>
+      <Route>YMHEI/YMHEF/YMHEM</Route>
+    </Approach>
+    <Approach Name="GNSSA" Airport="AYMH" Runway="30">
+      <Transition Name="YMHEA">YMHEA</Transition>
+      <Transition Name="YMHEB">YMHEB</Transition>
+      <Route>YMHEI/YMHEF/YMHEM</Route>
+    </Approach>
     <Approach Name="GNSS" Airport="AYPY" Runway="14L">
       <Route>VIMIB/YPYNF/YPYNZ/YPYNM</Route>
     </Approach>

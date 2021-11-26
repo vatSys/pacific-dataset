@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="AYMH_RWY3026" Priority="1" Center="-05.827806+144.299528">
+    <!--AYMH-->
+    <Runway Name="08/26">
+      <Threshold Name="08" Position="-05.826333+144.292861" />
+      <Threshold Name="26" Position="-05.825472+144.302733" ExtendedCentrelineTrack="84.6" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <Runway Name="12/30">
+      <Threshold Name="12" Position="-05.822972+144.290944" />
+      <Threshold Name="30" Position="-05.833333+144.307750" ExtendedCentrelineTrack="120.6" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <!--SIDs-->
+    <!--STARs-->
+    <Line>
+      <!--Rwy26 GUGPU1-->
+      GUGPU/
+      ESNON/
+      YABAL/
+      YMHEB
+    </Line>
+    <Line>
+      <!--Rwy30 GUGPU1-->
+      
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>YMHEB</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>GUGPU</Point>
+      <Point>ESNON</Point>
+      <Point>YABAL</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="AYMH_RWY3026_NAMES" Priority="2" Center="-05.827806+144.299528">
+    <Label>
+      <Point>GUGPU</Point>
+      <Point>ESNON</Point>
+      <Point>YABAL</Point>
+      <Point>YMHEB</Point>
+    </Label>
+  </Map>
+</Maps>

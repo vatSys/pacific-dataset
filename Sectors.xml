@@ -41,8 +41,6 @@
   <Sector FullName="Male Training" Frequency="123.900" Callsign="VRMF_T_CTR" Name="-" />
   <Sector FullName="Mauritius" Frequency="129.300" Callsign="FIMM_CTR" Name="FIMM" />
   <Sector FullName="Meekatharra" Frequency="132.000" Callsign="ML-MEK_CTR" Name="MEK" />
-  <Sector FullName="Melbourne Centre (Dookie)" Frequency="123.350" Callsign="ML-DOK_CTR" Name="DOK" />
-  <Sector FullName="Melbourne Centre (Forest East)" Frequency="135.000" Callsign="ML-FOE_CTR" Name="FOE" />
   <Sector FullName="Menzies" Frequency="134.300" Callsign="ML-MZI_CTR" Name="MZI" />
   <Sector FullName="Moresby Centre" Frequency="123.400" Callsign="AYPM_CTR" Name="AYPM">
     <Volumes>AYPM</Volumes>
@@ -74,7 +72,7 @@
     <Volumes>NWWW</Volumes>
   </Sector>
   <Sector FullName="Ujung Pandang" Frequency="128.100" Callsign="WAAF_CTR" Name="WAAF" DisplayInSectorsWindow="False">
-    <Volumes>WAAF-E</Volumes>
+    <Volumes>WAAF</Volumes>
   </Sector>
   <Sector FullName="Ujung Pandang Bali" Frequency="120.700" Callsign="WAAF_B_CTR" Name="-" />
   <Sector FullName="Ujung Pandang East" Frequency="132.500" Callsign="WAAF_E_CTR" Name="WAAFE" DisplayInSectorsWindow="False">

@@ -4,11 +4,11 @@
     <Sectors>
       <Sector Name="AYPM" />
     </Sectors>
-      <ManualVisibility>
-        <Point>-0432.0+14435.0</Point>
-        <Point>-0211.0+15440.0</Point>
-        <Point>-1004.0+14948.0</Point>
-      </ManualVisibility>
+    <ManualVisibility>
+      <Point>-0432.0+14435.0</Point>
+      <Point>-0211.0+15440.0</Point>
+      <Point>-1004.0+14948.0</Point>
+    </ManualVisibility>
     <Maps>
       <Map Name="ALL_CTA" />
       <Map Name="ALL_SECTORS" />
@@ -38,9 +38,9 @@
     <Sectors>
       <Sector Name="NFFN" />
     </Sectors>
-      <ManualVisibility>
-        <Point>-1745.0+17820.0</Point>
-      </ManualVisibility>
+    <ManualVisibility>
+      <Point>-1745.0+17820.0</Point>
+    </ManualVisibility>
     <Maps>
       <Map Name="ALL_CTA" />
       <Map Name="ALL_SECTORS" />
@@ -69,9 +69,9 @@
     <Sectors>
       <Sector Name="NVVV" />
     </Sectors>
-      <ManualVisibility>
-        <Point>-1634.0+16748.0</Point>
-      </ManualVisibility>
+    <ManualVisibility>
+      <Point>-1634.0+16748.0</Point>
+    </ManualVisibility>
     <Maps>
       <Map Name="ALL_CTA" />
       <Map Name="ALL_SECTORS" />
@@ -99,10 +99,10 @@
     <Sectors>
       <Sector Name="NWWW" />
     </Sectors>
-      <ManualVisibility>
-        <Point>-2147.0+16701.0</Point>
-        <Point>-1553.0+16516.0</Point>
-      </ManualVisibility>
+    <ManualVisibility>
+      <Point>-2147.0+16701.0</Point>
+      <Point>-1553.0+16516.0</Point>
+    </ManualVisibility>
     <Maps>
       <Map Name="ALL_CTA" />
       <Map Name="ALL_SECTORS" />
