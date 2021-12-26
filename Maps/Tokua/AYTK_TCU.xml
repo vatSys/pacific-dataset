@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System" Name="AYTK_TCU" Priority="1" Center="-04.341028+152.379222">
+  <Map Type="System" Name="AYTK_TCU" Priority="1" Center="-04.340833+152.379167">
     <!--AYTK-->
     <Runway Name="10/28">
-      <Threshold Name="10" Position="-04.338222+152.372278" />
-      <Threshold Name="28" Position="-04.342639+152.387111" />
+      <Threshold Name="10" Position="-04.338300+152.372261" />
+      <Threshold Name="28" Position="-04.342675+152.387142" />
     </Runway>
   </Map>
-  <Map Type="System" Name="AYTK_ALLRWYS" Priority="2" Center="-04.341028+152.379222">
+  <Map Type="System" Name="AYTK_ALLRWYS" Priority="2" Center="-04.340833+152.379167">
     <!--AYTK-->
     <Runway Name="10/28">
-      <Threshold Name="10" Position="-04.338222+152.372278" ExtendedCentrelineTrack="286.3" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
-      <Threshold Name="28" Position="-04.342639+152.387111" ExtendedCentrelineTrack="106.3" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="10" Position="-04.338300+152.372261" ExtendedCentrelineTrack="286.3" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="28" Position="-04.342675+152.387142" ExtendedCentrelineTrack="106.3" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
     </Runway>
   </Map>
 </Maps>

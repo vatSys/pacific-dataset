@@ -32,9 +32,9 @@
       
     </Line>
     <Line>
-      <!--Rwy20 CHARLI.BIDAN-->
+      <!--Rwy20 CHARLI.BIDNA-->
       NN VOR/
-      BIDAN
+      BIDNA
     </Line>
     <Line>
       <!--Rwy20 CHARLI.EXORA-->
@@ -269,7 +269,7 @@
     <Symbol Type="HollowStar">
       <Point>KABAR</Point>
       <Point>TUTRI</Point>
-      <Point>BIDAN</Point>
+      <Point>BIDNA</Point>
       <Point>EXORA</Point>
       <Point>GODAP</Point>
       <Point>LUPLO</Point>
@@ -302,7 +302,7 @@
       <Point>NN VOR</Point>
       <Point>KABAR</Point>
       <Point>TUTRI</Point>
-      <Point>BIDAN</Point>
+      <Point>BIDNA</Point>
       <Point>EXORA</Point>
       <Point>GODAP</Point>
       <Point>LUPLO</Point>
@@ -366,24 +366,24 @@
       <Point>IDUBO</Point>
       <Point>MATUA</Point>
       <Point>LENUM</Point>
-      <Point>DENTO</Point>
+      <Point>DIVTA</Point>
       <Point>SAVUS</Point>
       <Point>NFNS</Point>
       <Point>NEMAL</Point>
       <Point>DALOT</Point>
-      <Point>LB VOR</Point>
-      <Point>MALAK</Point>
-      <Point>LATKA</Point>
-      <Point>ROTAN</Point>
-      <Point>TOMBA</Point>
+      <Point>LAVAV</Point>
+      <Point>MAKSO</Point>
+      <Point>LATIT</Point>
+      <Point>RUTEB</Point>
+      <Point>TOMIK</Point>
       <Point>PUNIX</Point>
-      <Point>ALENO</Point>
-      <Point>MABEL</Point>
-      <Point>LEKUB</Point>
+      <Point>ALEBO</Point>
+      <Point>MABTU</Point>
+      <Point>LUNKI</Point>
       <Point>KOROI</Point>
-      <Point>LAVEN</Point>
-      <Point>NABAT</Point>
-      <Point>RUDAL</Point>
+      <Point>LINPA</Point>
+      <Point>NINIK</Point>
+      <Point>RUMAB</Point>
       <Point>SUSUI</Point>
       <Point>NFVB</Point>
       <Point>PAKDA</Point>

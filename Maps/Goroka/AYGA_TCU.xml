@@ -4,23 +4,23 @@
     <!--AYGA-->
     <Runway Name="17L/35R">
       <Threshold Name="17L" Position="-06.074817+145.391683" />
-      <Threshold Name="35R" Position="-06.087167+145.392767" />
+      <Threshold Name="35R" Position="-06.087164+145.392758" />
     </Runway>
     <Runway Name="17R/35L">
-      <Threshold Name="17R" Position="-06.075350+145.390650" />
-      <Threshold Name="35L" Position="-06.092483+145.392167" />
+      <Threshold Name="17R" Position="-06.075386+145.390650" />
+      <Threshold Name="35L" Position="-06.092442+145.392156" />
     </Runway>
   </Map>
   <Map Type="System" Name="AYGA_ALLRWYS" Priority="2" Center="-06.082600+145.391283">
     <!--AYGA-->
     <Runway Name="17L/35R">
       <Threshold Name="17L" Position="-06.074817+145.391683" ExtendedCentrelineTrack="354.9" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
-      <Threshold Name="35R" Position="-06.087167+145.392767" ExtendedCentrelineTrack="174.9" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="35R" Position="-06.087164+145.392758" ExtendedCentrelineTrack="174.9" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
     </Runway>
     <!--AYGA-->
     <Runway Name="17R/35L">
-      <Threshold Name="17R" Position="-06.075350+145.390650" />
-      <Threshold Name="35L" Position="-06.092483+145.392167" />
+      <Threshold Name="17R" Position="-06.075386+145.390650" />
+      <Threshold Name="35L" Position="-06.092442+145.392156" />
     </Runway>
   </Map>
 </Maps>

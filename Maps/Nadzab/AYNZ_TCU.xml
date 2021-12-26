@@ -29,10 +29,34 @@
       DUKIS
     </Line>
     <Line>
+      <!--H407-->
+      SAKTO/
+      KAMUL
+    </Line>
+    <Line>
+      <!--H409-->
+      PAPTI/
+      IKERU/
+      YABAL/
+      MUDIX/
+      KANTU/
+      MUKIK
+    </Line>
+    <Line>
       <!--H410-->
       AVLIX/
       ARAWE/
       VATVO
+    </Line>
+    <Line>
+      <!--H413-->
+      EPKED/
+      VIDOT
+    </Line>
+    <Line>
+      <!--H661-->
+      UGTOK/
+      PINUR
     </Line>
     <Line>
       <!--H663-->
@@ -49,9 +73,21 @@
       <Point>ALBUP</Point>
       <Point>BOGIA</Point>
       <Point>DUKIS</Point>
+      <Point>SAKTO</Point>
+      <Point>KAMUL</Point>
+      <Point>PAPTI</Point>
+      <Point>IKERU</Point>
+      <Point>YABAL</Point>
+      <Point>MUDIX</Point>
+      <Point>KANTU</Point>
+      <Point>MUKIK</Point>
       <Point>AVLIX</Point>
       <Point>ARAWE</Point>
       <Point>VATVO</Point>
+      <Point>EPKED</Point>
+      <Point>VIDOT</Point>
+      <Point>UGTOK</Point>
+      <Point>PINUR</Point>
       <Point>TAXAD</Point>
     </Label>
   </Map>
