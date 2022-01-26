@@ -31,7 +31,7 @@
     <Line>
       <!--Rwy10 BRAVO.LB-->
       -17.939643+178.679318/
-      LB VOR
+      LAVAV
     </Line>
     <Line>
       <!--Rwy10 BRAVO.MT-->
@@ -90,7 +90,6 @@
     </Line>
     <!--STARs-->
     <Symbol Type="Circle">
-      <Point>LB VOR</Point>
       <Point>NA VOR</Point>
       <Point>MI NDB</Point>
       <Point>NN VOR</Point>
@@ -98,6 +97,7 @@
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>NAVUA</Point>
+      <Point>LAVAV</Point>
       <Point>MAMDU</Point>
       <Point>NFNS</Point>
       <Point>ATOLL</Point>
@@ -108,7 +108,7 @@
   <Map Type="System" Name="NFNA_RWY10_NAMES" Priority="2" Center="-18.044608+178.559547">
     <Label>
       <Point>NAVUA</Point>
-      <Point>LB VOR</Point>
+      <Point>LAVAV</Point>
       <Point>MAMDU</Point>
       <Point>NFNS</Point>
       <Point>NA VOR</Point>
@@ -174,7 +174,6 @@
       <Point>SAVUS</Point>
       <Point>NEMAL</Point>
       <Point>DALOT</Point>
-      <Point>LAVAV</Point>
       <Point>MAKSO</Point>
       <Point>LATIT</Point>
       <Point>RUTEB</Point>

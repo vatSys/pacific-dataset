@@ -35,7 +35,7 @@
     <Line>
       <!--Rwy28 BRAVO.LB-->
       -17.939643+178.679318/
-      LB VOR
+      LAVAV
     </Line>
     <Line>
       <!--Rwy28 BRAVO.MT-->
@@ -133,13 +133,13 @@
     <!--STARs-->
     <Symbol Type="Circle">
       <Point>NA VOR</Point>
-      <Point>LB VOR</Point>
       <Point>MI NDB</Point>
       <Point>NN VOR</Point>
       <Point>VK NDB</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>NAVUA</Point>
+      <Point>LAVAV</Point>
       <Point>MAMDU</Point>
       <Point>NFNS</Point>
       <Point>ATOLL</Point>
@@ -151,7 +151,7 @@
     <Label>
       <Point>NA VOR</Point>
       <Point>NAVUA</Point>
-      <Point>LB VOR</Point>
+      <Point>LAVAV</Point>
       <Point>MAMDU</Point>
       <Point>NFNS</Point>
       <Point>MI NDB</Point>
@@ -216,7 +216,6 @@
       <Point>SAVUS</Point>
       <Point>NEMAL</Point>
       <Point>DALOT</Point>
-      <Point>LAVAV</Point>
       <Point>MAKSO</Point>
       <Point>LATIT</Point>
       <Point>RUTEB</Point>

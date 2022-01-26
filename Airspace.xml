@@ -770,17 +770,10 @@ ELARA/
 IDUBO/
 RM NDB
 </Airway>
-    <Airway Name="H192">
-NA VOR/
-LAVAV
-</Airway>
     <Airway Name="H271">
 VK NDB/
+NOBOX/
 NA VOR
-</Airway>
-    <Airway Name="H296">
-NN VOR/
-NAVUA
 </Airway>
     <Airway Name="H401">
 PY VOR/
@@ -897,10 +890,6 @@ RUPNO/
 OLRIG/
 VATVO/
 KVG VOR
-</Airway>
-    <Airway Name="H430">
-NN VOR/
-LAVAV
 </Airway>
     <Airway Name="H490">
 NAVUA/
@@ -1157,10 +1146,6 @@ ALBUP/
 LETKA/
 MIKIT/
 VATVO
-</Airway>
-    <Airway Name="H95">
-LAVAV/
-MAMDU
 </Airway>
     <Airway Name="J917">
 CS VOR/
@@ -1567,10 +1552,6 @@ SADIM/
 RUMUS/
 DUGAN
 </Airway>
-    <Airway Name="T271">
-LAVAV/
-MAMDU
-</Airway>
     <Airway Name="T272">
 MI NDB/
 NAVUA
@@ -1620,6 +1601,18 @@ NA NDB
     <Airway Name="T490">
 NAVUA/
 NA NDB
+</Airway>
+    <Airway Name="V192">
+NA VOR/
+LAVAV
+</Airway>
+    <Airway Name="V296">
+NN VOR/
+NAVUA
+</Airway>
+    <Airway Name="V430">
+NN VOR/
+LAVAV
 </Airway>
     <Airway Name="W66">
 JPA VOR/
@@ -3543,7 +3536,6 @@ NINIA
     <Point Name="HOI" Type="Navaid" NavaidType="VOR" Frequency="113.000">-131422.499-1761206.599</Point>
     <Point Name="JPA" Type="Navaid" NavaidType="VOR" Frequency="116.200">-023442.190+1403100.000</Point>
     <Point Name="KVG" Type="Navaid" NavaidType="VOR" Frequency="117.100">-023507.390+1504849.720</Point>
-    <Point Name="LB" Type="Navaid" NavaidType="VOR" Frequency="115.100">-162506.000+1791853.000</Point>
     <Point Name="LFU" Type="Navaid" NavaidType="VOR" Frequency="113.300">-204627.098+1671426.000</Point>
     <Point Name="LTO" Type="Navaid" NavaidType="VOR" Frequency="112.900">-220019.598+1661242.000</Point>
     <Point Name="MAJ" Type="Navaid" NavaidType="VOR" Frequency="116.700">+070355.289+1711607.810</Point>
@@ -3614,7 +3606,9 @@ NINIA
       <Transition Name="BIDNA">BIDNA</Transition>
       <Transition Name="EXORA">EXORA</Transition>
       <Transition Name="GODAP">GODAP</Transition>
+      <Transition Name="LATIT">LATIT</Transition>
       <Transition Name="LUPLO">LUPLO</Transition>
+      <Transition Name="MAKSO">MAKSO</Transition>
       <Transition Name="NA">NA VOR</Transition>
       <Transition Name="NAVUA">NAVUA</Transition>
       <Transition Name="PACKO">PACKO</Transition>
@@ -3667,7 +3661,7 @@ NINIA
     <SID Name="BRAVO" Airport="NFNA" Runways="10,28">
       <Route Runway="10" />
       <Route Runway="28" />
-      <Transition Name="LB">LB VOR</Transition>
+      <Transition Name="LB">LAVAV</Transition>
       <Transition Name="MT">MAMDU</Transition>
       <Transition Name="NFNS">NFNS</Transition>
     </SID>

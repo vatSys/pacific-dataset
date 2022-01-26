@@ -47,9 +47,19 @@
       GODAP
     </Line>
     <Line>
+      <!--Rwy20 CHARLI.LATIT-->
+      NN VOR/
+      LATIT
+    </Line>
+    <Line>
       <!--Rwy20 CHARLI.LUPLO-->
       NN VOR/
       LUPLO
+    </Line>
+    <Line>
+      <!--Rwy20 CHARLI.MAKSO-->
+      NN VOR/
+      MAKSO
     </Line>
     <Line>
       <!--Rwy20 CHARLI.NA-->
@@ -272,7 +282,9 @@
       <Point>BIDNA</Point>
       <Point>EXORA</Point>
       <Point>GODAP</Point>
+      <Point>LATIT</Point>
       <Point>LUPLO</Point>
+      <Point>MAKSO</Point>
       <Point>NAVUA</Point>
       <Point>PACKO</Point>
       <Point>AGTOS</Point>
@@ -305,7 +317,9 @@
       <Point>BIDNA</Point>
       <Point>EXORA</Point>
       <Point>GODAP</Point>
+      <Point>LATIT</Point>
       <Point>LUPLO</Point>
+      <Point>MAKSO</Point>
       <Point>NA VOR</Point>
       <Point>NAVUA</Point>
       <Point>PACKO</Point>
@@ -371,9 +385,6 @@
       <Point>NFNS</Point>
       <Point>NEMAL</Point>
       <Point>DALOT</Point>
-      <Point>LAVAV</Point>
-      <Point>MAKSO</Point>
-      <Point>LATIT</Point>
       <Point>RUTEB</Point>
       <Point>TOMIK</Point>
       <Point>PUNIX</Point>
