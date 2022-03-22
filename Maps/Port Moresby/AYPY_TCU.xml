@@ -90,6 +90,12 @@
       GUNKI
     </Line>
     <Line>
+      <!--H674-->
+      DOMRA/
+      KALKO/
+      SEKDI
+    </Line>
+    <Line>
       <!--R210-->
       KAPSO/
       LENAK
@@ -99,6 +105,22 @@
       TOSAS/
       MABRO
     </Line>
+  </Map>
+  <Map Type="System2" Name="AYPY_VFR" Priority="1" Center="-09.440278+147.218611">
+    <Symbol Type="HollowSquare">
+      <Point>SFI</Point>
+      <Point>SHL</Point>
+    </Symbol>
+    <Label HasLeader="True">
+      <Point>SFI</Point>
+      <Point>SHL</Point>
+    </Label>
+  </Map>
+  <Map Type="System2" Name="AYPY_VFR_FULL_NAME" Priority="1" Center="-09.440278+147.218611">
+    <Label HasLeader="True" LabelOrientation="SW">
+      <Point Name="STARFISH">SFI</Point>
+      <Point Name="SHOAL">SHL</Point>
+    </Label>
   </Map>
   <Map Type="System" Name="AYPY_ALLRWYS" Priority="2" Center="-09.440278+147.218611">
     <!--AYPY-->

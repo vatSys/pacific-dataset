@@ -50,6 +50,8 @@
   </Map>
   <Map Type="System2" Name="NWWW_VFR" Priority="1" Center="-22.014444+166.213056">
     <Symbol Type="HollowSquare">
+      <Point>UVIKI</Point>
+      <Point>VICTR</Point>
       <Point>Y</Point>
       <Point>S</Point>
       <Point>PD</Point>
@@ -71,6 +73,8 @@
       <Point>NO</Point>
     </Symbol>
     <Label HasLeader="True">
+      <Point>UVIKI</Point>
+      <Point>VICTR</Point>
       <Point>Y</Point>
       <Point>S</Point>
       <Point>PD</Point>
@@ -90,6 +94,31 @@
       <Point>R</Point>
       <Point>V</Point>
       <Point>NO</Point>
+    </Label>
+  </Map>
+  <Map Type="System2" Name="NWWW_VFR_FULL_NAME" Priority="1" Center="-22.014444+166.213056">
+    <Label HasLeader="True" LabelOrientation="SW">
+      <Point Name="TUVIKI">UVIKI</Point>
+      <Point Name="VICTOR">VICTR</Point>
+      <Point Name="PUEN ISLAND">Y</Point>
+      <Point Name="UITOÉ PENINSULA">S</Point>
+      <Point Name="DUMBÉA BOATPASS">PD</Point>
+      <Point Name="MAA HEADLAND">M</Point>
+      <Point Name="SOUTH SAVANNAH">SH</Point>
+      <Point Name="TANKS">EA</Point>
+      <Point Name="LA TONTOUTA BRIDGE">NB</Point>
+      <Point Name="NASSIRAH PASS">NA</Point>
+      <Point Name="BOULOUPARIS ENTRY">WB</Point>
+      <Point Name="OUAMÉNI">WA</Point>
+      <Point Name="KUENDU BEACH">K</Point>
+      <Point Name="MAITRE ISLET">I</Point>
+      <Point Name="PORC-EPIC ISLET">P</Point>
+      <Point Name="BAILLY ISLET">B</Point>
+      <Point Name="LA COULÉE">C</Point>
+      <Point Name="LA CROIX">L</Point>
+      <Point Name="WATER TANK">R</Point>
+      <Point Name="GOAT ISLAND">V</Point>
+      <Point Name="NOUARÉ ISLET">NO</Point>
     </Label>
   </Map>
   <Map Type="System" Name="NWWW_ALLRWYS" Priority="2" Center="-22.014444+166.213056">

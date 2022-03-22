@@ -47,8 +47,55 @@
       
     </Line>
     <Line>
+      <!--Rwy32R GUNKI1-->
+      -09.430889+147.213917/
+      ANLOB/
+      BELUP/
+      GUNKI
+    </Line>
+    <Line>
       <!--Rwy32R KOKODA-->
       
+    </Line>
+    <Line>
+      <!--Rwy32R LOTGU1-->
+      BELUP/
+      TAVON/
+      LOTGU
+    </Line>
+    <Line>
+      <!--Rwy32R NUPTA1-->
+      ANLOB/
+      VEDNU/
+      KAKRA/
+      NUPTA
+    </Line>
+    <Line>
+      <!--Rwy32R ODOGA1-->
+      ANLOB/
+      LELID/
+      ODOGA
+    </Line>
+    <Line>
+      <!--Rwy32R RUKVI1-->
+      LELID/
+      RUKVI
+    </Line>
+    <Line>
+      <!--Rwy32R STARF1-->
+      ANLOB/
+      STARF
+    </Line>
+    <Line>
+      <!--Rwy32R TOMOM1-->
+      VEDNU/
+      UKDES/
+      TOMOM
+    </Line>
+    <Line>
+      <!--Rwy32R UNSAM1-->
+      TAVON/
+      UNSAM
     </Line>
     <!--STARs-->
     <Line>
@@ -172,12 +219,24 @@
       <Point>KAPKI</Point>
       <Point>SAKTO</Point>
       <Point>RUPNO</Point>
+      <Point>BELUP</Point>
+      <Point>GUNKI</Point>
+      <Point>TAVON</Point>
+      <Point>LOTGU</Point>
+      <Point>VEDNU</Point>
+      <Point>KAKRA</Point>
+      <Point>NUPTA</Point>
+      <Point>LELID</Point>
+      <Point>ODOGA</Point>
+      <Point>RUKVI</Point>
+      <Point>STARF</Point>
+      <Point>UKDES</Point>
+      <Point>TOMOM</Point>
+      <Point>UNSAM</Point>
       <Point>NIXUT</Point>
       <Point>IRNUS</Point>
       <Point>EMPRA</Point>
-      <Point>STARF</Point>
       <Point>GUARI</Point>
-      <Point>LELID</Point>
       <Point>SHAOL</Point>
       <Point>ENTOG</Point>
       <Point>DOVLU</Point>
@@ -185,16 +244,13 @@
       <Point>SARAB</Point>
       <Point>GUMBU</Point>
       <Point>UGREK</Point>
-      <Point>LOTGU</Point>
       <Point>UGOTO</Point>
       <Point>MUDOV</Point>
       <Point>NISUK</Point>
       <Point>IPLUD</Point>
-      <Point>NUPTA</Point>
       <Point>IDRUL</Point>
       <Point>OPARO</Point>
       <Point>POKUM</Point>
-      <Point>UNSAM</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="AYPY_RWY32_NAMES" Priority="2" Center="-09.440278+147.218611">
@@ -205,14 +261,26 @@
       <Point>KAPKI</Point>
       <Point>SAKTO</Point>
       <Point>RUPNO</Point>
+      <Point>ANLOB</Point>
+      <Point>BELUP</Point>
+      <Point>GUNKI</Point>
+      <Point>TAVON</Point>
+      <Point>LOTGU</Point>
+      <Point>VEDNU</Point>
+      <Point>KAKRA</Point>
+      <Point>NUPTA</Point>
+      <Point>LELID</Point>
+      <Point>ODOGA</Point>
+      <Point>RUKVI</Point>
+      <Point>STARF</Point>
+      <Point>UKDES</Point>
+      <Point>TOMOM</Point>
+      <Point>UNSAM</Point>
       <Point>NIXUT</Point>
       <Point>IRNUS</Point>
       <Point>TESEM</Point>
       <Point>EMPRA</Point>
-      <Point>STARF</Point>
-      <Point>ANLOB</Point>
       <Point>GUARI</Point>
-      <Point>LELID</Point>
       <Point>SHAOL</Point>
       <Point>ENTOG</Point>
       <Point>DOVLU</Point>
@@ -221,16 +289,13 @@
       <Point>ISLOK</Point>
       <Point>GUMBU</Point>
       <Point>UGREK</Point>
-      <Point>LOTGU</Point>
       <Point>UGOTO</Point>
       <Point>MUDOV</Point>
       <Point>NISUK</Point>
       <Point>IPLUD</Point>
-      <Point>NUPTA</Point>
       <Point>IDRUL</Point>
       <Point>OPARO</Point>
       <Point>POKUM</Point>
-      <Point>UNSAM</Point>
       <Point>NOGOT</Point>
       <Point>ASIXA</Point>
       <Point>KIBAV</Point>
@@ -247,7 +312,7 @@
       <Point>VIDOT</Point>
       <Point>KAIFU</Point>
       <Point>DAKNU</Point>
-      <Point>GUNKI</Point>
+      <Point>SEKDI</Point>
       <Point>KAPSO</Point>
       <Point>LENAK</Point>
       <Point>TOSAS</Point>

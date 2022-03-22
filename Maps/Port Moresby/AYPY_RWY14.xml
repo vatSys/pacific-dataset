@@ -29,9 +29,61 @@
       SAKTO
     </Line>
     <Line>
+      <!--Rwy14L GUNKI1-->
+      -09.452056+147.226972/
+      -09.494794+147.253215/
+      RIRGO/
+      GUNKI
+    </Line>
+    <Line>
       <!--Rwy14L KOKODA-->
       PY VOR/
       RUPNO
+    </Line>
+    <Line>
+      <!--Rwy14L LOTGU1-->
+      -09.494794+147.253215/
+      LOTGU
+    </Line>
+    <Line>
+      <!--Rwy14L NUPTA1-->
+      -09.452056+147.226972/
+      -09.580265+147.305722/
+      NUPTA
+    </Line>
+    <Line>
+      <!--Rwy14L ODOGA1-->
+      -09.452056+147.226972/
+      -09.594510+147.314475/
+      BODUX/
+      KAKRA/
+      LELID/
+      ODOGA
+    </Line>
+    <Line>
+      <!--Rwy14L RUKVI1-->
+      KAKRA/
+      OVPED/
+      RUKVI
+    </Line>
+    <Line>
+      <!--Rwy14L STARF1-->
+      RIRGO/
+      BELUP/
+      STARF
+    </Line>
+    <Line>
+      <!--Rwy14L TOMOM1-->
+      BODUX/
+      VIGUV/
+      UKDES/
+      TOMOM
+    </Line>
+    <Line>
+      <!--Rwy14L UNSAM1-->
+      -09.494794+147.253215/
+      TAVON/
+      UNSAM
     </Line>
     <Line>
       <!--Rwy14R ASTRO1-->
@@ -178,7 +230,24 @@
       <Point>KALKO</Point>
       <Point>KAPKI</Point>
       <Point>SAKTO</Point>
+      <Point>RIRGO</Point>
+      <Point>GUNKI</Point>
       <Point>RUPNO</Point>
+      <Point>LOTGU</Point>
+      <Point>NUPTA</Point>
+      <Point>BODUX</Point>
+      <Point>KAKRA</Point>
+      <Point>LELID</Point>
+      <Point>ODOGA</Point>
+      <Point>OVPED</Point>
+      <Point>RUKVI</Point>
+      <Point>BELUP</Point>
+      <Point>STARF</Point>
+      <Point>VIGUV</Point>
+      <Point>UKDES</Point>
+      <Point>TOMOM</Point>
+      <Point>TAVON</Point>
+      <Point>UNSAM</Point>
       <Point>NIXUT</Point>
       <Point>IRNUS</Point>
       <Point>ENTOG</Point>
@@ -193,17 +262,12 @@
       <Point>GUMBU</Point>
       <Point>BUVEN</Point>
       <Point>EMPRA</Point>
-      <Point>STARF</Point>
-      <Point>LOTGU</Point>
       <Point>MUDOV</Point>
       <Point>MIMEP</Point>
       <Point>MEVOR</Point>
-      <Point>NUPTA</Point>
       <Point>GUARI</Point>
-      <Point>LELID</Point>
       <Point>VANGI</Point>
       <Point>SHAOL</Point>
-      <Point>UNSAM</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="AYPY_RWY14_NAMES" Priority="2" Center="-09.440278+147.218611">
@@ -213,7 +277,24 @@
       <Point>KALKO</Point>
       <Point>KAPKI</Point>
       <Point>SAKTO</Point>
+      <Point>RIRGO</Point>
+      <Point>GUNKI</Point>
       <Point>RUPNO</Point>
+      <Point>LOTGU</Point>
+      <Point>NUPTA</Point>
+      <Point>BODUX</Point>
+      <Point>KAKRA</Point>
+      <Point>LELID</Point>
+      <Point>ODOGA</Point>
+      <Point>OVPED</Point>
+      <Point>RUKVI</Point>
+      <Point>BELUP</Point>
+      <Point>STARF</Point>
+      <Point>VIGUV</Point>
+      <Point>UKDES</Point>
+      <Point>TOMOM</Point>
+      <Point>TAVON</Point>
+      <Point>UNSAM</Point>
       <Point>NIXUT</Point>
       <Point>IRNUS</Point>
       <Point>TESEM</Point>
@@ -230,18 +311,13 @@
       <Point>GUMBU</Point>
       <Point>BUVEN</Point>
       <Point>EMPRA</Point>
-      <Point>STARF</Point>
       <Point>ANLOB</Point>
-      <Point>LOTGU</Point>
       <Point>MUDOV</Point>
       <Point>MIMEP</Point>
       <Point>MEVOR</Point>
-      <Point>NUPTA</Point>
       <Point>GUARI</Point>
-      <Point>LELID</Point>
       <Point>VANGI</Point>
       <Point>SHAOL</Point>
-      <Point>UNSAM</Point>
       <Point>NOGOT</Point>
       <Point>ASIXA</Point>
       <Point>KIBAV</Point>
@@ -258,7 +334,7 @@
       <Point>VIDOT</Point>
       <Point>KAIFU</Point>
       <Point>DAKNU</Point>
-      <Point>GUNKI</Point>
+      <Point>SEKDI</Point>
       <Point>KAPSO</Point>
       <Point>LENAK</Point>
       <Point>TOSAS</Point>
