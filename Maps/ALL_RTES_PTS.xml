@@ -26,7 +26,7 @@
     <Line Name="B577_0">NN VOR.B577.OVLAD</Line>
     <Line Name="B578_0">IBAKA.B578.BN VOR</Line>
     <Line Name="B580_0">NOBAR.B580.BAYUS</Line>
-    <Line Name="B581_0">NN VOR.B581.GOBIN</Line>
+    <Line Name="B581_0">NN VOR.B581.GOMIK</Line>
     <Line Name="B586_0">LTO VOR.B586.HUTEL</Line>
     <Line Name="B589_0">TEDED.B589.MAJ NDB</Line>
     <Line Name="B590_0">LTO VOR.B590.NI NDB</Line>
@@ -374,7 +374,7 @@
       <Point>BIDNA</Point>
       <Point>BONLO</Point>
       <Point>BAXIL</Point>
-      <Point>GOBIN</Point>
+      <Point>GOMIK</Point>
       <Point>ONIBA</Point>
       <Point>BODEG</Point>
       <Point>IKODA</Point>
@@ -855,7 +855,7 @@
     <Line Name="B577_0">NN VOR.B577.OVLAD</Line>
     <Line Name="B578_0">IBAKA.B578.NISAS</Line>
     <Line Name="B580_0">VESUN.B580.BAYUS</Line>
-    <Line Name="B581_0">NN VOR.B581.GOBIN</Line>
+    <Line Name="B581_0">NN VOR.B581.GOMIK</Line>
     <Line Name="B586_0">LTO VOR.B586.HUTEL</Line>
     <Line Name="B589_0">TEDED.B589.MAJ NDB</Line>
     <Line Name="B590_0">LTO VOR.B590.NI NDB</Line>
@@ -1147,7 +1147,7 @@
       <Point>BIDNA</Point>
       <Point>BONLO</Point>
       <Point>BAXIL</Point>
-      <Point>GOBIN</Point>
+      <Point>GOMIK</Point>
       <Point>ONIBA</Point>
       <Point>PIKOK</Point>
       <Point>NUTTI</Point>
@@ -1624,7 +1624,7 @@
       <Point>BIDNA</Point>
       <Point>BONLO</Point>
       <Point>BAXIL</Point>
-      <Point>GOBIN</Point>
+      <Point>GOMIK</Point>
       <Point>ONIBA</Point>
       <Point>PIKOK</Point>
       <Point>NUTTI</Point>
@@ -2148,7 +2148,7 @@
       <Point>BIDNA</Point>
       <Point>BONLO</Point>
       <Point>BAXIL</Point>
-      <Point>GOBIN</Point>
+      <Point>GOMIK</Point>
       <Point>ONIBA</Point>
       <Point>BODEG</Point>
       <Point>IKODA</Point>

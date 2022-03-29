@@ -565,7 +565,7 @@ BEDOK/
 BIDNA/
 BONLO/
 BAXIL/
-GOBIN
+GOMIK
 </Airway>
     <Airway Name="B586">
 LTO VOR/
@@ -2257,12 +2257,12 @@ NINIA
     <Point Name="GM868" Type="Fix">-082026.790+1570850.870</Point>
     <Point Name="GN556" Type="Fix">-080126.389+1564903.731</Point>
     <Point Name="GN813" Type="Fix">-081022.710+1565438.059</Point>
-    <Point Name="GOBIN" Type="Fix">-092751.689-1725618.380</Point>
     <Point Name="GODAP" Type="Fix">-171248.000+1790454.000</Point>
     <Point Name="GODIP" Type="Fix">-120012.000+1440742.000</Point>
     <Point Name="GOKIT" Type="Fix">-161522.000-1781606.000</Point>
     <Point Name="GOLPE" Type="Fix">+092601.432+1673045.709</Point>
     <Point Name="GOMEN" Type="Fix">-081719.640+1572746.530</Point>
+    <Point Name="GOMIK" Type="Fix">-092751.689-1725618.380</Point>
     <Point Name="GOOFI" Type="Fix">+100532.000+1471929.000</Point>
     <Point Name="GOPLU" Type="Fix">-412356.551+1702324.281</Point>
     <Point Name="GOPRA" Type="Fix">-201230.000+1651606.000</Point>
