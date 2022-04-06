@@ -80,6 +80,7 @@
   <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_T_CTR" Name="WAAFT" DisplayInSectorsWindow="False">
     <Volumes>WAAF-E</Volumes>
   </Sector>
+  <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_X_CTR" Name="CTR" />
   <Sector FullName="Vila Centre" Frequency="120.700" Callsign="NVVV_CTR" Name="NVVV">
     <Volumes>NVVV</Volumes>
   </Sector>
@@ -89,7 +90,7 @@
   <Sector FullName="Wonthaggi" Frequency="135.300" Callsign="ML-WON_CTR" Name="WON" />
   <Sector FullName="Woomera" Frequency="132.900" Callsign="ML-WRA_CTR" Name="WRA" />
   <Sector FullName="Yarrowee" Frequency="134.325" Callsign="ML-YWE_CTR" Name="YWE" />
-  <Sector FullName="Auckland Oceanic" Frequency="128.900" Callsign="NZZO_FSS" Name="NZZO" DisplayInSectorsWindow="False">
+  <Sector FullName="Auckland Oceanic" Frequency="129.000" Callsign="NZZO_FSS" Name="NZZO" DisplayInSectorsWindow="False">
     <Volumes>NZZO</Volumes>
   </Sector>
   <Sector FullName="Coral Oceanic" Frequency="133.150" Callsign="BN-COL_FSS" Name="COL" DisplayInSectorsWindow="False">
@@ -105,27 +106,36 @@
   <Sector FullName="Lord Howe Oceanic" Frequency="124.950" Callsign="BN-HWE_FSS" Name="HWE" DisplayInSectorsWindow="False">
     <Volumes>HWE</Volumes>
   </Sector>
+  <Sector FullName="Mauritius" Frequency="133.050" Callsign="FIMM_FSS" Name="FIMM" />
   <Sector FullName="McMurdo Oceanic" Frequency="128.700" Callsign="NZCM_FSS" Name="NZCM" />
   <Sector FullName="Nadi Oceanic" Frequency="123.600" Callsign="NFFF_FSS" Name="NFFF">
     <Volumes>NFFF</Volumes>
   </Sector>
+  <Sector FullName="Oakland Oceanic" Frequency="129.400" Callsign="ZAK_FSS" Name="KZAK" DisplayInSectorsWindow="False">
+    <Volumes>KZAK_E,KZAK_W</Volumes>
+  </Sector>
   <Sector FullName="Oakland Oceanic East" Frequency="131.175" Callsign="ZAK_E_FSS" Name="KZAKE" DisplayInSectorsWindow="False">
     <Volumes>KZAK-E</Volumes>
   </Sector>
-  <Sector FullName="Oakland Oceanic West" Frequency="131.950" Callsign="ZAK_W_FSS" Name="KZAKW" DisplayInSectorsWindow="False">
-    <Volumes>KZAK-W</Volumes>
+  <Sector FullName="Oakland Oceanic East1" Frequency="130.800" Callsign="ZAK_E1_FSS" Name="KZAKE1" DisplayInSectorsWindow="False">
+    <Volumes>KZAK_E</Volumes>
   </Sector>
-  <Sector FullName="SE Asia Upper" Frequency="135.350" Callsign="ASEA_FSS" Name="-" />
+  <Sector FullName="Oakland Oceanic West" Frequency="131.950" Callsign="ZAK_W_FSS" Name="KZAKW" DisplayInSectorsWindow="False">
+    <Volumes>KZAK_W</Volumes>
+  </Sector>
+  <Sector FullName="Oakland Oceanic West1" Frequency="130.700" Callsign="ZAK_W1_FSS" Name="KZAKW1" DisplayInSectorsWindow="False">
+    <Volumes>KZAK_W</Volumes>
+  </Sector>
+  <Sector FullName="Oakland Oceanic West2" Frequency="128.900" Callsign="ZAK_W2_FSS" Name="KZAKW2" DisplayInSectorsWindow="False">
+    <Volumes>KZAK_W</Volumes>
+  </Sector>
+  <Sector FullName="SE Asia Upper" Frequency="135.350" Callsign="ASEA_FSS" Name="ASEA" DisplayInSectorsWindow="False">
+    <Volumes>WAAF</Volumes>
+  </Sector>
   <Sector FullName="South Africa Upper" Frequency="134.575" Callsign="AFRS_FSS" Name="AFRS" />
   <Sector FullName="Tasman Oceanic" Frequency="124.650" Callsign="BN-TSN_FSS" Name="TSN" DisplayInSectorsWindow="False">
     <Volumes>TSN</Volumes>
     <ResponsibleSectors>COL,FLD,HWE</ResponsibleSectors>
-  </Sector>
-  <Sector FullName="USA Oakland Oceanic (East1)" Frequency="130.800" Callsign="ZAK_E1_FSS" Name="KZAKE1" DisplayInSectorsWindow="False">
-    <Volumes>KZAK-E</Volumes>
-  </Sector>
-  <Sector FullName="USA Oakland Oceanic (West1)" Frequency="130.700" Callsign="ZAK_W1_FSS" Name="KZAKW1" DisplayInSectorsWindow="False">
-    <Volumes>KZAK-W</Volumes>
   </Sector>
   <Sector FullName="West Asia Upper" Frequency="135.400" Callsign="ASIA_W_FSS" Name="ASIAW" />
   <Sector FullName="Adelaide Approach East" Frequency="118.200" Callsign="AD_DEP" Name="AAE" />
@@ -213,6 +223,7 @@
   <Sector FullName="Cairns Tower" Frequency="124.900" Callsign="CS_TWR" Name="CS ADC" />
   <Sector FullName="Camden Surface Movement Control" Frequency="121.900" Callsign="CN_GND" Name="CN SMC" />
   <Sector FullName="Camden Tower" Frequency="120.100" Callsign="CN_TWR" Name="CN ADC" />
+  <Sector FullName="Canberra Clearance Delivery" Frequency="131.325" Callsign="CB_DEL" Name="CB COORD" />
   <Sector FullName="Canberra Surface Movement Control" Frequency="121.700" Callsign="CB_GND" Name="CB SMC" />
   <Sector FullName="Canberra Tower" Frequency="118.700" Callsign="CB_TWR" Name="CB ADC" />
   <Sector FullName="Coffs Harbour Tower" Frequency="118.200" Callsign="CFS_TWR" Name="CFS ADC" />
