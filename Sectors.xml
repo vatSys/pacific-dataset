@@ -223,7 +223,6 @@
   <Sector FullName="Cairns Tower" Frequency="124.900" Callsign="CS_TWR" Name="CS ADC" />
   <Sector FullName="Camden Surface Movement Control" Frequency="121.900" Callsign="CN_GND" Name="CN SMC" />
   <Sector FullName="Camden Tower" Frequency="120.100" Callsign="CN_TWR" Name="CN ADC" />
-  <Sector FullName="Canberra Clearance Delivery" Frequency="131.325" Callsign="CB_DEL" Name="CB COORD" />
   <Sector FullName="Canberra Surface Movement Control" Frequency="121.700" Callsign="CB_GND" Name="CB SMC" />
   <Sector FullName="Canberra Tower" Frequency="118.700" Callsign="CB_TWR" Name="CB ADC" />
   <Sector FullName="Coffs Harbour Tower" Frequency="118.200" Callsign="CFS_TWR" Name="CFS ADC" />
