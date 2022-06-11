@@ -23,6 +23,7 @@
   <Sector FullName="Geraldton" Frequency="134.200" Callsign="ML-GEL_CTR" Name="GEL" />
   <Sector FullName="Griffith" Frequency="122.750" Callsign="ML-GTH_CTR" Name="GTH" />
   <Sector FullName="Grove" Frequency="133.800" Callsign="ML-GVE_CTR" Name="GVE" />
+  <Sector FullName="Huon" Frequency="123.800" Callsign="ML-HUO_CTR" Name="HUO" />
   <Sector FullName="Hyden" Frequency="118.200" Callsign="ML-HYD_CTR" Name="HYD" />
   <Sector FullName="Inverell" Frequency="134.200" Callsign="BN-INL_CTR" Name="INL" />
   <Sector FullName="Isa" Frequency="125.200" Callsign="BN-ISA_CTR" Name="ISA" />
@@ -64,8 +65,7 @@
   <Sector FullName="Sturt" Frequency="134.400" Callsign="BN-STR_CTR" Name="STR" />
   <Sector FullName="Swampy" Frequency="133.200" Callsign="BN-SWY_CTR" Name="SWY" />
   <Sector FullName="Tabletop" Frequency="120.550" Callsign="BN-TBP_CTR" Name="TBP" />
-  <Sector FullName="Tailem Bend" Frequency="125.300" Callsign="ML-TBD_CTR" Name="TBD" />
-  <Sector FullName="Tasmania" Frequency="123.800" Callsign="ML-TAS_CTR" Name="TAS" />
+  <Sector FullName="Tailem Bend" Frequency="123.050" Callsign="ML-TBD_CTR" Name="TBD" />
   <Sector FullName="Territory" Frequency="133.200" Callsign="BN-TRT_CTR" Name="TRT" />
   <Sector FullName="Tontouta Centre" Frequency="128.200" Callsign="NWWW_CTR" Name="NWWW">
     <Volumes>NWWW</Volumes>
@@ -153,12 +153,15 @@
   <Sector FullName="Darwin Approach" Frequency="134.100" Callsign="DN_APP" Name="DNA" />
   <Sector FullName="East Sale Approach" Frequency="123.300" Callsign="ES_APP" Name="ESA" />
   <Sector FullName="Gold Coast Approach" Frequency="123.500" Callsign="CG_APP" Name="BAG" />
+  <Sector FullName="Hobart Approach" Frequency="125.550" Callsign="HB_APP" Name="HBA" />
   <Sector FullName="Jacksons Approach" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
     <Volumes>AYPYA</Volumes>
   </Sector>
   <Sector FullName="Kwaj Approach" Frequency="126.200" Callsign="PKWA_APP" Name="PKWAA">
     <Volumes>PKWAA</Volumes>
   </Sector>
+  <Sector FullName="Launceston Approach" Frequency="123.800" Callsign="LT_APP" Name="LTA" />
+  <Sector FullName="Mackay Approach" Frequency="125.650" Callsign="MK_APP" Name="MKA" />
   <Sector FullName="Melbourne Approach East" Frequency="132.000" Callsign="ML_APP" Name="MAE" />
   <Sector FullName="Melbourne Departures North" Frequency="118.900" Callsign="ML_DEP" Name="MDN" />
   <Sector FullName="Melbourne Departures South" Frequency="129.400" Callsign="ML-S_DEP" Name="MDS" />
@@ -177,6 +180,7 @@
   <Sector FullName="Pearce Approach" Frequency="130.200" Callsign="PE_APP" Name="PEA" />
   <Sector FullName="Perth Approach" Frequency="123.600" Callsign="PH_APP" Name="PHA" />
   <Sector FullName="Perth Departures" Frequency="118.700" Callsign="PH_DEP" Name="PHD" />
+  <Sector FullName="Rockhampton Approach" Frequency="123.750" Callsign="RK_APP" Name="RKA" />
   <Sector FullName="Sydney Approach North" Frequency="124.400" Callsign="SY_APP" Name="SAN" />
   <Sector FullName="Sydney Approach South" Frequency="128.300" Callsign="SY-S_APP" Name="SAS" />
   <Sector FullName="Sydney Departures North" Frequency="123.000" Callsign="SY_DEP" Name="SDN" />
