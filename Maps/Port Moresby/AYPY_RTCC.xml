@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+	<Map Type="System" Name="AYPY_RTCC" Priority="0" Center="-09.440278+147.218611">
+		<Line Pattern="Dotted" Width="1.5">
+			<Point>-09.359+147.201/-09.357+147.219/-09.359+147.236/-09.364+147.253/-09.373+147.268/-09.382+147.279/-09.396+147.290/-09.412+147.298/-09.412+147.298/-09.429+147.302/-09.446+147.303/-09.463+147.300/-09.479+147.293/-09.492+147.285/-09.502+147.275/-09.512+147.261/-09.519+147.245/-09.523+147.227/-09.523+147.208/-09.606+147.198/-09.598+147.164/-09.583+147.132/-09.562+147.103/-09.536+147.080/-09.505+147.063/-09.472+147.053/-09.429+147.050/-09.417+146.882/-09.348+146.894/-09.299+146.913/-09.264+146.836/-09.190+146.882/-09.126+146.942/-09.079+147.012/-09.069+147.027/-09.044+147.088/-09.123+147.114/-09.114+147.148/-09.359+147.201</Point>
+		</Line>		
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.688+147.445/-09.732+147.382/-10.168+147.628/-10.237+147.465/-10.240+147.449/-10.270+147.292/-10.267+147.116/-10.228+146.944/-10.154+146.784/-10.049+146.643/-09.917+146.527/-09.765+146.442/-09.685+146.417/-09.598+146.390/-09.425+146.375/-09.252+146.396/-09.088+146.454/-09.264+146.836</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.190+147.219/-09.196+147.271/-09.212+147.322/-09.238+147.367/-09.267+147.401/-09.382+147.279</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.107+147.219/-09.114+147.289/-09.136+147.356/-09.171+147.417/-09.217+147.470/-09.274+147.511/-09.337+147.540/-09.405+147.554/-09.423+147.556/-09.427+147.472/-09.414+147.470/-09.363+147.459/-09.315+147.438/-09.288+147.418/-09.273+147.407/-09.267+147.401</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.423+147.556/-09.475+147.554/-09.526+147.545/-09.526+147.545/-09.569+147.708/-09.667+147.670/-09.755+147.612/-09.828+147.537/-09.877+147.464/-09.732+147.382/-09.688+147.445/-09.645+147.485/-09.604+147.431/-09.492+147.285</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.688+147.445/-09.502+147.275</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.564+147.332/-09.585+147.303/-09.599+147.271/-09.606+147.236/-09.606+147.198</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.196+147.166/-09.190+147.219/-09.107+147.219/-09.114+147.148</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.107+147.219/-09.024+147.219/-09.026+147.174/-09.033+147.131/-09.044+147.088/-08.965+147.062/-08.952+147.113/-08.943+147.166/-08.941+147.219/-08.774+147.219/-08.778+147.148/-08.789+147.078/-08.807+147.010/-08.648+146.958/-08.626+147.043/-08.612+147.130/-08.608+147.219/-08.626+147.394/-08.679+147.562/-08.766+147.715/-08.861+147.826/-09.093+147.583/-09.036+147.516/-08.984+147.425/-08.952+147.324/-08.941+147.219/-09.024+147.219/-09.033+147.306/-09.060+147.390/-09.103+147.467/-09.151+147.522/-09.219+147.577/-09.298+147.615/-09.382+147.637/-09.418+147.640/-09.411+147.775/-09.363+147.770/-09.252+147.742/-09.149+147.691/-09.058+147.619</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.088+146.454/-08.950+146.536/-08.821+146.654/-08.719+146.797/-08.648+146.958</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-08.965+147.062/-09.007+146.965/-09.069+146.880/-09.146+146.809/-09.229+146.760</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.423+147.556/-09.418+147.640</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-08.774+147.219/-08.608+147.219</Point>
+		</Line>		
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-08.965+147.062/-08.807+147.010</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.209+147.462/-09.151+147.522</Point>
+		</Line>		
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.569+147.708/-09.492+147.722/-09.414+147.724</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-08.872+147.836/-09.011+147.942/-09.168+148.017/-09.338+148.057/-09.396+148.062/-09.411+147.775</Point>
+		</Line>		
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.405+147.893/-09.509+147.890/-09.612+147.871/-09.655+148.034</Point>
+		</Line>	
+		<Line Pattern="Dotted" Width="1.5">		
+			<Point>-09.396+148.062/-09.526+148.058/-09.655+148.034/-09.818+147.971/-09.964+147.875/-10.087+147.750/-10.168+147.628</Point>
+		</Line>					
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="2500">-091712.386+1465923.042</Point>
+		</Label>		
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="1500">-095000.492+1465334.188</Point>
+		</Label>	
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="2000">-093421.828+1471456.22</Point>
+		</Label>	
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="3300">-090646.105+1465323.294</Point>
+		</Label>	
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="5300">-085626.808+1464757.804</Point>
+		</Label>	
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="10700">-084240.86+1470619.08</Point>
+		</Label>		
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="8800">-085314.316+1470828.212</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="7800">-090018.252+1470912.06</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="5300">-090511.868+1470933.984</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="4400">-090824.324+1471113.884</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="3400">-091451.72+1471448.3</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="5400">-091123.424+1472037.896</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="7200">-090451.132+1471720.544</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="10800">-091034.68+1473613.32</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="15500">-084937.56+1472609.24</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="8000">-091817.64+1473327.72</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="13600">-091029.64+1475124.84</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="12400">-093254.6+1475902.76</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="7800">-095120.88+1474233.48</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="5600">-092900.96+1473613.32</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="4900">-092841.16+1472407.56</Point>
+		</Label>
+		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
+			<Point Name="3200">-093648.6+1472333.324</Point>
+		</Label>
+	</Map>
+</Maps>
+
