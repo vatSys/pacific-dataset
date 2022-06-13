@@ -62,7 +62,7 @@
 			<Point Name="2500">-091712.386+1465923.042</Point>
 		</Label>		
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="1500">-095000.492+1465334.188</Point>
+			<Point Name="1500">-094531.0+1465640.0</Point>
 		</Label>	
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
 			<Point Name="2000">-093421.828+1471456.22</Point>
@@ -113,10 +113,10 @@
 			<Point Name="12400">-093254.6+1475902.76</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="7800">-095120.88+1474233.48</Point>
+			<Point Name="7800">-094448.0+1474807.0</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="5600">-092900.96+1473613.32</Point>
+			<Point Name="5600">-092905.0+1473823.0</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
 			<Point Name="4900">-092841.16+1472407.56</Point>

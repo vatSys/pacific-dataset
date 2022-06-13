@@ -154,7 +154,7 @@
   <Sector FullName="East Sale Approach" Frequency="123.300" Callsign="ES_APP" Name="ESA" />
   <Sector FullName="Gold Coast Approach" Frequency="123.500" Callsign="CG_APP" Name="BAG" />
   <Sector FullName="Hobart Approach" Frequency="125.550" Callsign="HB_APP" Name="HBA" />
-  <Sector FullName="Jacksons Approach" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
+  <Sector FullName="Jacksons Radar" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
     <Volumes>AYPYA</Volumes>
   </Sector>
   <Sector FullName="Kwaj Approach" Frequency="126.200" Callsign="PKWA_APP" Name="PKWAA">
