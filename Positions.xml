@@ -659,7 +659,7 @@
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
-    <Position Name="Moresby TCU" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="250" VisibilityRange="100" MagneticVariation="-5.8">
+    <Position Name="Moresby TCU" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="200" VisibilityRange="100" MagneticVariation="-5.8">
       <Sectors>
         <Sector Name="AYPYA" />
       </Sectors>
@@ -684,7 +684,7 @@
         <Airport Name="AYPY" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Jacksons Radar</Line>
+        <Line>Jacksons Approach</Line>
         <Line>ATIS available on 128.0</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
