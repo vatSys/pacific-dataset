@@ -23,7 +23,7 @@
   <Sector FullName="Geraldton" Frequency="134.200" Callsign="ML-GEL_CTR" Name="GEL" />
   <Sector FullName="Griffith" Frequency="122.750" Callsign="ML-GTH_CTR" Name="GTH" />
   <Sector FullName="Grove" Frequency="133.800" Callsign="ML-GVE_CTR" Name="GVE" />
-  <Sector FullName="Huon" Frequency="123.800" Callsign="ML-HUO_CTR" Name="HUO" />
+  <Sector FullName="Huon" Frequency="122.600" Callsign="ML-HUO_CTR" Name="HUO" />
   <Sector FullName="Hyden" Frequency="118.200" Callsign="ML-HYD_CTR" Name="HYD" />
   <Sector FullName="Inverell" Frequency="134.200" Callsign="BN-INL_CTR" Name="INL" />
   <Sector FullName="Isa" Frequency="125.200" Callsign="BN-ISA_CTR" Name="ISA" />

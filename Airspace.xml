@@ -13,16 +13,16 @@
     </Airport>
     <Airport Name="AYMH">
       <Runway Name="08" DataRunway="08">
-        <STAR Name="GUGPU1" ApproachName="GNSSA" />
+        <STAR Name="GUGPU1" ApproachName="RNPA" />
       </Runway>
       <Runway Name="12" DataRunway="12">
-        <STAR Name="GUGPU1" ApproachName="GNSSA" />
+        <STAR Name="GUGPU1" ApproachName="RNPA" />
       </Runway>
       <Runway Name="26" DataRunway="26">
-        <STAR Name="GUGPU1" ApproachName="GNSSA" />
+        <STAR Name="GUGPU1" ApproachName="RNPA" />
       </Runway>
       <Runway Name="30" DataRunway="30">
-        <STAR Name="GUGPU1" ApproachName="GNSSA" />
+        <STAR Name="GUGPU1" ApproachName="RNPA" />
       </Runway>
     </Airport>
     <Airport Name="AYNZ">
@@ -44,20 +44,20 @@
         <SID Name="TOMOM1" />
         <SID Name="UNSAM1" />
         <STAR Name="ASTROL" />
-        <STAR Name="ENTO1A" ApproachName="GNSS" />
-        <STAR Name="ENTO1B" ApproachName="GNSS" />
-        <STAR Name="GUMBU1" ApproachName="GNSS" />
+        <STAR Name="ENTO1A" ApproachName="RNP" />
+        <STAR Name="ENTO1B" ApproachName="RNP" />
+        <STAR Name="GUMBU1" ApproachName="RNP" />
         <STAR Name="HIRI" />
         <STAR Name="KOKODA" />
         <STAR Name="LALOKI" />
-        <STAR Name="LOTGU1" ApproachName="GNSS" />
+        <STAR Name="LOTGU1" ApproachName="RNP" />
         <STAR Name="MAGI" />
-        <STAR Name="MUDOV1" ApproachName="GNSS" />
-        <STAR Name="NUPTA1" ApproachName="GNSS" />
+        <STAR Name="MUDOV1" ApproachName="RNP" />
+        <STAR Name="NUPTA1" ApproachName="RNP" />
         <STAR Name="PARER" />
-        <STAR Name="SAKTO1" ApproachName="GNSS" />
+        <STAR Name="SAKTO1" ApproachName="RNP" />
         <STAR Name="TAVAI" />
-        <STAR Name="UNSAM1" ApproachName="GNSS" />
+        <STAR Name="UNSAM1" ApproachName="RNP" />
       </Runway>
       <Runway Name="14R" DataRunway="14R">
         <SID Name="ASTRO1" />
@@ -99,19 +99,19 @@
         <SID Name="TOMOM1" />
         <SID Name="UNSAM1" />
         <STAR Name="ASTROL" />
-        <STAR Name="ENTO1A" ApproachName="GNSS" />
-        <STAR Name="GUMBU1" ApproachName="GNSS" />
+        <STAR Name="ENTO1A" ApproachName="RNP" />
+        <STAR Name="GUMBU1" ApproachName="RNP" />
         <STAR Name="HIRI" />
         <STAR Name="KOKODA" />
         <STAR Name="LALOKI" />
-        <STAR Name="LOTGU1" ApproachName="GNSS" />
+        <STAR Name="LOTGU1" ApproachName="RNP" />
         <STAR Name="MAGI" />
-        <STAR Name="MUDOV1" ApproachName="GNSS" />
-        <STAR Name="NUPTA1" ApproachName="GNSS" />
+        <STAR Name="MUDOV1" ApproachName="RNP" />
+        <STAR Name="NUPTA1" ApproachName="RNP" />
         <STAR Name="PARER" />
-        <STAR Name="SAKTO1" ApproachName="GNSS" />
+        <STAR Name="SAKTO1" ApproachName="RNP" />
         <STAR Name="TAVAI" />
-        <STAR Name="UNSAM1" ApproachName="GNSS" />
+        <STAR Name="UNSAM1" ApproachName="RNP" />
       </Runway>
     </Airport>
     <Airport Name="AYTK">
@@ -143,10 +143,10 @@
         <SID Name="FOXTRO" />
         <SID Name="GOLF" />
         <SID Name="HOTEL" />
-        <STAR Name="AGTA2B" ApproachName="RNP" />
-        <STAR Name="KALT2B" ApproachName="RNP" />
-        <STAR Name="MIKA2B" ApproachName="RNP" />
-        <STAR Name="TEDU2B" ApproachName="RNP" />
+        <STAR Name="AGTA2B" ApproachName="RNP-AR" />
+        <STAR Name="KALT2B" ApproachName="RNP-AR" />
+        <STAR Name="MIKA2B" ApproachName="RNP-AR" />
+        <STAR Name="TEDU2B" ApproachName="RNP-AR" />
       </Runway>
       <Runway Name="27" DataRunway="27">
         <SID Name="ALFA" />
@@ -4118,33 +4118,33 @@ NINIA
     <STAR Name="VIRA2A" Airport="NWWW" Runways="11">
       <Route Runway="11">VIRAR/NULVI/PEPIT</Route>
     </STAR>
-    <Approach Name="GNSSA" Airport="AYMH" Runway="08">
+    <Approach Name="RNPA" Airport="AYMH" Runway="08">
       <Transition Name="YMHEA">YMHEA</Transition>
       <Transition Name="YMHEB">YMHEB</Transition>
       <Route>YMHEI/YMHEF/YMHEM</Route>
     </Approach>
-    <Approach Name="GNSSA" Airport="AYMH" Runway="12">
+    <Approach Name="RNPA" Airport="AYMH" Runway="12">
       <Transition Name="YMHEA">YMHEA</Transition>
       <Transition Name="YMHEB">YMHEB</Transition>
       <Route>YMHEI/YMHEF/YMHEM</Route>
     </Approach>
-    <Approach Name="GNSSA" Airport="AYMH" Runway="26">
+    <Approach Name="RNPA" Airport="AYMH" Runway="26">
       <Transition Name="YMHEA">YMHEA</Transition>
       <Transition Name="YMHEB">YMHEB</Transition>
       <Route>YMHEI/YMHEF/YMHEM</Route>
     </Approach>
-    <Approach Name="GNSSA" Airport="AYMH" Runway="30">
+    <Approach Name="RNPA" Airport="AYMH" Runway="30">
       <Transition Name="YMHEA">YMHEA</Transition>
       <Transition Name="YMHEB">YMHEB</Transition>
       <Route>YMHEI/YMHEF/YMHEM</Route>
     </Approach>
-    <Approach Name="GNSS" Airport="AYPY" Runway="14L">
+    <Approach Name="RNP" Airport="AYPY" Runway="14L">
       <Route>VIMIB/YPYNF/YPYNZ/YPYNM</Route>
     </Approach>
-    <Approach Name="GNSS" Airport="AYPY" Runway="32R">
+    <Approach Name="RNP" Airport="AYPY" Runway="32R">
       <Route>ISLOK/YPYSF/YPYSM</Route>
     </Approach>
-    <Approach Name="RNP" Airport="NFFN" Runway="20">
+    <Approach Name="RNP-AR" Airport="NFFN" Runway="20">
       <Transition Name="MOTKI">MOTKI</Transition>
       <Route>FN664/NIREV/FN581/FN812/FN20T</Route>
     </Approach>
@@ -4574,7 +4574,7 @@ NINIA
       <Runway Name="09" Position="-213631.331+1652338.659" />
       <Runway Name="27" Position="-213639.060+1652405.220" />
     </Airport>
-    <Airport ICAO="NWWC" FullName="Ile Artala" Position="-194314.000+1633940.000" Elevation="305">
+    <Airport ICAO="NWWC" FullName="Ile Art Waala" Position="-194314.000+1633940.000" Elevation="305">
       <Runway Name="09" Position="-194311.370+1633931.252" />
       <Runway Name="27" Position="-194316.489+1633948.989" />
     </Airport>
