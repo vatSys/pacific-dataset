@@ -41,6 +41,7 @@
   <Sector FullName="Male" Frequency="123.900" Callsign="VRMF_CTR" Name="VRMF" />
   <Sector FullName="Mauritius" Frequency="129.300" Callsign="FIMM_CTR" Name="FIMM" />
   <Sector FullName="Meekatharra" Frequency="132.000" Callsign="ML-MEK_CTR" Name="MEK" />
+  <Sector FullName="Melbourne Centre (Huon)" Frequency="122.600" Callsign="ML-HUO_CTR" Name="HUO" />
   <Sector FullName="Menzies" Frequency="134.300" Callsign="ML-MZI_CTR" Name="MZI" />
   <Sector FullName="Moresby Centre" Frequency="123.400" Callsign="AYPM_CTR" Name="AYPM">
     <Volumes>AYPM</Volumes>
@@ -66,6 +67,7 @@
   <Sector FullName="Swampy" Frequency="133.200" Callsign="BN-SWY_CTR" Name="SWY" />
   <Sector FullName="Tabletop" Frequency="120.550" Callsign="BN-TBP_CTR" Name="TBP" />
   <Sector FullName="Tailem Bend" Frequency="123.050" Callsign="ML-TBD_CTR" Name="TBD" />
+  <Sector FullName="Tasmania" Frequency="123.800" Callsign="ML-TAS_CTR" Name="TAS" />
   <Sector FullName="Territory" Frequency="133.200" Callsign="BN-TRT_CTR" Name="TRT" />
   <Sector FullName="Tontouta Centre" Frequency="128.200" Callsign="NWWW_CTR" Name="NWWW">
     <Volumes>NWWW</Volumes>
@@ -154,7 +156,7 @@
   <Sector FullName="East Sale Approach" Frequency="123.300" Callsign="ES_APP" Name="ESA" />
   <Sector FullName="Gold Coast Approach" Frequency="123.500" Callsign="CG_APP" Name="BAG" />
   <Sector FullName="Hobart Approach" Frequency="125.550" Callsign="HB_APP" Name="HBA" />
-  <Sector FullName="Jacksons Radar" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
+  <Sector FullName="Jacksons Approach" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
     <Volumes>AYPYA</Volumes>
   </Sector>
   <Sector FullName="Kwaj Approach" Frequency="126.200" Callsign="PKWA_APP" Name="PKWAA">
