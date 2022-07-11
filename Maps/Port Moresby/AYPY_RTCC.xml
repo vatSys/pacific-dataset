@@ -59,70 +59,70 @@
 			<Point>-09.396+148.062/-09.526+148.058/-09.655+148.034/-09.818+147.971/-09.964+147.875/-10.087+147.750/-10.168+147.628</Point>
 		</Line>					
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="25">-091712.386+1465923.042</Point>
+			<Point Name="2500">-091712.386+1465923.042</Point>
 		</Label>		
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="15">-094531.0+1465640.0</Point>
+			<Point Name="1500">-094531.0+1465640.0</Point>
 		</Label>	
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="20">-093421.828+1471456.22</Point>
+			<Point Name="2000">-093421.828+1471456.22</Point>
 		</Label>	
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="33">-090646.105+1465323.294</Point>
+			<Point Name="3300">-090646.105+1465323.294</Point>
 		</Label>	
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="53">-085626.808+1464757.804</Point>
+			<Point Name="5300">-085626.808+1464757.804</Point>
 		</Label>	
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="107">-084240.86+1470619.08</Point>
+			<Point Name="10700">-084240.86+1470619.08</Point>
 		</Label>		
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="88">-085314.316+1470828.212</Point>
+			<Point Name="8800">-085314.316+1470828.212</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="78">-090018.252+1470912.06</Point>
+			<Point Name="7800">-090018.252+1470912.06</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="53">-090511.868+1470933.984</Point>
+			<Point Name="5300">-090511.868+1470933.984</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="44">-090824.324+1471113.884</Point>
+			<Point Name="4400">-090824.324+1471113.884</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="34">-091451.72+1471448.3</Point>
+			<Point Name="3400">-091451.72+1471448.3</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="54">-091123.424+1472037.896</Point>
+			<Point Name="5400">-091123.424+1472037.896</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="72">-090451.132+1471720.544</Point>
+			<Point Name="7200">-090451.132+1471720.544</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="108">-091034.68+1473613.32</Point>
+			<Point Name="10800">-091034.68+1473613.32</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="155">-084937.56+1472609.24</Point>
+			<Point Name="15500">-084937.56+1472609.24</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="80">-091817.64+1473327.72</Point>
+			<Point Name="8000">-091817.64+1473327.72</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="136">-091029.64+1475124.84</Point>
+			<Point Name="13600">-091029.64+1475124.84</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="124">-093254.6+1475902.76</Point>
+			<Point Name="12400">-093254.6+1475902.76</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="78">-094448.0+1474807.0</Point>
+			<Point Name="7800">-094448.0+1474807.0</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="56">-092905.0+1473823.0</Point>
+			<Point Name="5600">-092905.0+1473823.0</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="49">-092841.16+1472407.56</Point>
+			<Point Name="4900">-092841.16+1472407.56</Point>
 		</Label>
 		<Label HasLeader="false" Alignment="Center" VerticalAlignment="Bottom">
-			<Point Name="32">-093648.6+1472333.324</Point>
+			<Point Name="3200">-093648.6+1472333.324</Point>
 		</Label>
 	</Map>
 </Maps>
