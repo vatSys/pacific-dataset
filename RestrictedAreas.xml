@@ -4,6 +4,7 @@
     <RestrictedArea Type="Danger" Name="(AYPY)D901" AltitudeFloor="0" AltitudeCeiling="4000" DAIWEnabled="false" LinePattern="None">
       <Area>-092730.000+1470430.000/
 -093330.000+1470800.000/
+-094231.000+1465952.000/
 -094231.011+1465951.450/
 -094003.000+1465721.506/
 -093711.561+1465519.949/
