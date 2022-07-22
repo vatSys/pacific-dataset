@@ -78,6 +78,7 @@
       <Point>NFNR</Point>
       <Point>NFNS</Point>
       <Point>NFNW</Point>
+      <Point>NFOL</Point>
       <Point>NFSW</Point>
       <Point>NFTO</Point>
       <Point>NFVB</Point>
@@ -225,6 +226,7 @@
       <Point>NFNR</Point>
       <Point>NFNS</Point>
       <Point>NFNW</Point>
+      <Point>NFOL</Point>
       <Point>NFSW</Point>
       <Point>NFTO</Point>
       <Point>NFVB</Point>
