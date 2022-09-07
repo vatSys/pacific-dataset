@@ -1821,6 +1821,7 @@ NINIA
     <Point Name="ANUTO" Type="Fix">-104410.280+1653655.890</Point>
     <Point Name="APATI" Type="Fix">-082347.738+1791858.939</Point>
     <Point Name="APEXI" Type="Fix">-092439.841+1594655.312</Point>
+    <Point Name="APILI" Type="Fix">-174926.720+1771346.391</Point>
     <Point Name="APISO" Type="Fix">-120000.000+1473623.800</Point>
     <Point Name="APITA" Type="Fix">-092658.229+1600004.979</Point>
     <Point Name="APUKA" Type="Fix">-120000.000+1445739.600</Point>
@@ -1879,6 +1880,7 @@ NINIA
     <Point Name="BEGIT" Type="Fix">-174008.000+1764503.000</Point>
     <Point Name="BEGMI" Type="Fix">-095000.000+1402436.000</Point>
     <Point Name="BEKTA" Type="Fix">-012538.010+1761643.050</Point>
+    <Point Name="BELAV" Type="Fix">-174124.140+1771028.132</Point>
     <Point Name="BELUP" Type="Fix">-092549.919+1465745.691</Point>
     <Point Name="BEMAM" Type="Fix">+003037.148+1734134.120</Point>
     <Point Name="BEMGO" Type="Fix">-063156.849+1461431.981</Point>
@@ -1950,6 +1952,7 @@ NINIA
     <Point Name="CFKJT" Type="Fix">+072923.510+1514815.869</Point>
     <Point Name="CHAMB" Type="Fix">-041118.038+1430632.101</Point>
     <Point Name="CHENG" Type="Fix">+073113.120+1515324.529</Point>
+    <Point Name="CONTI" Type="Fix">-173547.839+1771716.879</Point>
     <Point Name="COOPS" Type="Fix">-412754.300+1575000.500</Point>
     <Point Name="COSAT" Type="Fix">+090000.000+1523000.000</Point>
     <Point Name="COSFI" Type="Fix">+084132.449+1675533.589</Point>
@@ -1968,6 +1971,7 @@ NINIA
     <Point Name="DAGDA" Type="Fix">-084921.990+1605019.961</Point>
     <Point Name="DAKAL" Type="Fix">-011829.941+1761414.950</Point>
     <Point Name="DAKAM" Type="Fix">-144339.169-1741446.961</Point>
+    <Point Name="DAKMA" Type="Fix">-174237.570+1771532.890</Point>
     <Point Name="DAKNU" Type="Fix">-065930.952+1495507.961</Point>
     <Point Name="DAKSI" Type="Fix">-075710.469+1564623.948</Point>
     <Point Name="DALOS" Type="Fix">-290128.960+1673036.810</Point>
@@ -2037,6 +2041,7 @@ NINIA
     <Point Name="EGRAW" Type="Fix">+084451.450+1674915.211</Point>
     <Point Name="EJOSO" Type="Fix">+091733.860+1672109.781</Point>
     <Point Name="EKADU" Type="Fix">-394701.439+1672603.772</Point>
+    <Point Name="EKANU" Type="Fix">-174358.361+1772108.168</Point>
     <Point Name="EKOBU" Type="Fix">-092622.060+1601506.080</Point>
     <Point Name="EKODA" Type="Fix">-430155.279+1672924.450</Point>
     <Point Name="EKOKU" Type="Fix">-161800.000+1465354.000</Point>
@@ -2261,6 +2266,7 @@ NINIA
     <Point Name="GN813" Type="Fix">-081022.710+1565438.059</Point>
     <Point Name="GODAP" Type="Fix">-171248.000+1790454.000</Point>
     <Point Name="GODIP" Type="Fix">-120012.000+1440742.000</Point>
+    <Point Name="GOGIB" Type="Fix">-174457.109+1772512.011</Point>
     <Point Name="GOKIT" Type="Fix">-161522.000-1781606.000</Point>
     <Point Name="GOLPE" Type="Fix">+092601.432+1673045.709</Point>
     <Point Name="GOMEN" Type="Fix">-081719.640+1572746.530</Point>
@@ -2457,7 +2463,6 @@ NINIA
     <Point Name="KAUPA" Type="Fix">-083539.300+1790056.419</Point>
     <Point Name="KAVLE" Type="Fix">+054405.000+1602619.000</Point>
     <Point Name="KAVWO" Type="Fix">+070038.239+1580626.100</Point>
-    <Point Name="KDMAP" Type="Fix">-185609.000+1780530.000</Point>
     <Point Name="KE401" Type="Fix">-071808.000+1393151.200</Point>
     <Point Name="KE402" Type="Fix">-071521.000+1393300.698</Point>
     <Point Name="KE403" Type="Fix">-070756.600+1393605.602</Point>
@@ -3120,7 +3125,6 @@ NINIA
     <Point Name="VATVO" Type="Fix">-052730.000+1502454.000</Point>
     <Point Name="VAVEE" Type="Fix">+033000.000+1723000.000</Point>
     <Point Name="VAYUD" Type="Fix">+084802.009+1674919.240</Point>
-    <Point Name="VBMAP" Type="Fix">-170828.000-1790703.000</Point>
     <Point Name="VEBGO" Type="Fix">-021916.601+1490556.911</Point>
     <Point Name="VEDNU" Type="Fix">-091129.299+1471725.130</Point>
     <Point Name="VELKU" Type="Fix">-370421.000+1583000.200</Point>
