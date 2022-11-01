@@ -173,6 +173,14 @@
       VIPOB
     </Line>
     <!--STARs-->
+    <Line>
+      <!--Rwy02 WFLGT1-->
+      BEDOK/
+      -17.445556+177.375000/
+      -17.643056+177.241667/
+      -17.957500+177.167778/
+      -17.971667+177.268611
+    </Line>
     <Symbol Type="Circle">
       <Point>NN VOR</Point>
       <Point>NA VOR</Point>
@@ -195,6 +203,7 @@
       <Point>BEACH</Point>
       <Point>TEPEK</Point>
       <Point>VIPOB</Point>
+      <Point>BEDOK</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="NFFN_RWY02_NAMES" Priority="2" Center="-17.756389+177.443611">
@@ -218,6 +227,7 @@
       <Point>BEACH</Point>
       <Point>TEPEK</Point>
       <Point>VIPOB</Point>
+      <Point>BEDOK</Point>
       <Point>AGTEM</Point>
       <Point>AGTAG</Point>
       <Point>TARON</Point>
@@ -235,7 +245,6 @@
       <Point>INTID</Point>
       <Point>ISPAL</Point>
       <Point>PAGTI</Point>
-      <Point>BEDOK</Point>
       <Point>BONLO</Point>
       <Point>SAPIR</Point>
       <Point>SAMIB</Point>
