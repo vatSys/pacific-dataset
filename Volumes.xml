@@ -1250,12 +1250,6 @@
    <Volume Name="PKWATWR" LowerLimit="0" UpperLimit="2000">
     <Boundaries>PKWA_CTZ_D</Boundaries>
   </Volume>
-  <Volume Name="KZAK_E" LowerLimit="24500" UpperLimit="60000">
-    <Boundaries>KZAK_EAST</Boundaries>
-  </Volume>
-  <Volume Name="KZAK_W" LowerLimit="24500" UpperLimit="60000">
-    <Boundaries>KZAK_WEST</Boundaries>
-  </Volume>
   <Volume Name="NFFF" LowerLimit="0" UpperLimit="60000">
     <Boundaries>NFFF</Boundaries>
   </Volume>

@@ -1,95 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Sectors xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Sector FullName="Alice Springs" Frequency="128.850" Callsign="ML-ASP_CTR" Name="ASP" />
-  <Sector FullName="Alice Springs West" Frequency="131.800" Callsign="ML-ASW_CTR" Name="ASW" />
   <Sector FullName="Arafura" Frequency="133.700" Callsign="BN-ARA_CTR" Name="ARA" DisplayInSectorsWindow="False">
     <Volumes>ARA</Volumes>
   </Sector>
-  <Sector FullName="Armidale" Frequency="130.900" Callsign="BN-ARL_CTR" Name="ARL" />
-  <Sector FullName="Augusta" Frequency="127.050" Callsign="ML-AUG_CTR" Name="AUG" />
-  <Sector FullName="Barra" Frequency="123.800" Callsign="BN-BAR_CTR" Name="BAR" />
-  <Sector FullName="Benalla" Frequency="132.200" Callsign="ML-BLA_CTR" Name="BLA" />
-  <Sector FullName="Bindook" Frequency="129.800" Callsign="ML-BIK_CTR" Name="BIK" />
-  <Sector FullName="Bourke" Frequency="128.200" Callsign="ML-BKE_CTR" Name="BKE" />
-  <Sector FullName="Burnett" Frequency="123.000" Callsign="BN-BUR_CTR" Name="BUR" />
-  <Sector FullName="Carnarvon" Frequency="133.800" Callsign="BN-CVN_CTR" Name="CVN" />
-  <Sector FullName="Colombo" Frequency="124.900" Callsign="VCCF_CTR" Name="VCCF" />
-  <Sector FullName="Colombo Training" Frequency="124.900" Callsign="VCCF_T_CTR" Name="-" />
-  <Sector FullName="Cross" Frequency="135.800" Callsign="ML-CRS_CTR" Name="CRS" />
-  <Sector FullName="Downs" Frequency="135.600" Callsign="BN-DOS_CTR" Name="DOS" />
-  <Sector FullName="Eildon Weir" Frequency="123.750" Callsign="ML-ELW_CTR" Name="ELW" />
-  <Sector FullName="Esperance" Frequency="123.950" Callsign="ML-ESP_CTR" Name="ESP" />
-  <Sector FullName="Forest" Frequency="132.700" Callsign="ML-FOR_CTR" Name="FOR" />
-  <Sector FullName="Geraldton" Frequency="134.200" Callsign="ML-GEL_CTR" Name="GEL" />
-  <Sector FullName="Griffith" Frequency="122.750" Callsign="ML-GTH_CTR" Name="GTH" />
-  <Sector FullName="Grove" Frequency="133.800" Callsign="ML-GVE_CTR" Name="GVE" />
-  <Sector FullName="Huon" Frequency="122.600" Callsign="ML-HUO_CTR" Name="HUO" />
-  <Sector FullName="Hyden" Frequency="118.200" Callsign="ML-HYD_CTR" Name="HYD" />
-  <Sector FullName="Inverell" Frequency="134.200" Callsign="BN-INL_CTR" Name="INL" />
-  <Sector FullName="Isa" Frequency="125.200" Callsign="BN-ISA_CTR" Name="ISA" />
-  <Sector FullName="Jakarta " Frequency="132.300" Callsign="WIIF_CTR" Name="WIIF" />
-  <Sector FullName="Jakarta East" Frequency="120.900" Callsign="WIIF_E_CTR" Name="-" />
-  <Sector FullName="Jakarta Training" Frequency="132.300" Callsign="WIIF_T_CTR" Name="-" />
-  <Sector FullName="Jakarta West" Frequency="135.900" Callsign="WIIF_W_CTR" Name="-" />
-  <Sector FullName="Jarrah" Frequency="120.300" Callsign="ML-JAR_CTR" Name="JAR" />
-  <Sector FullName="Katomba" Frequency="133.500" Callsign="ML-KAT_CTR" Name="KAT" />
-  <Sector FullName="Kennedy" Frequency="120.150" Callsign="BN-KEN_CTR" Name="KEN" />
-  <Sector FullName="Keppel" Frequency="125.900" Callsign="BN-KPL_CTR" Name="KPL" />
-  <Sector FullName="Kimberley" Frequency="133.400" Callsign="BN-KIY_CTR" Name="KIY" />
-  <Sector FullName="Leeman" Frequency="122.400" Callsign="ML-LEA_CTR" Name="LEA" />
-  <Sector FullName="Maitland" Frequency="132.350" Callsign="BN-MLD_CTR" Name="MLD" />
-  <Sector FullName="Male" Frequency="123.900" Callsign="VRMF_CTR" Name="VRMF" />
-  <Sector FullName="Mauritius" Frequency="129.300" Callsign="FIMM_CTR" Name="FIMM" />
-  <Sector FullName="Meekatharra" Frequency="132.000" Callsign="ML-MEK_CTR" Name="MEK" />
-  <Sector FullName="Menzies" Frequency="134.300" Callsign="ML-MZI_CTR" Name="MZI" />
   <Sector FullName="Moresby Centre" Frequency="123.400" Callsign="AYPM_CTR" Name="AYPM">
     <Volumes>AYPM</Volumes>
   </Sector>
-  <Sector FullName="Mount" Frequency="133.700" Callsign="ML-MTK_CTR" Name="MTK" />
-  <Sector FullName="Mudgee" Frequency="133.000" Callsign="BN-MDE_CTR" Name="MDE" />
-  <Sector FullName="Mungo" Frequency="132.600" Callsign="ML-MUN_CTR" Name="MUN" />
   <Sector FullName="Nadi Centre" Frequency="120.900" Callsign="NFFN_CTR" Name="NFFN">
     <Volumes>NFFN</Volumes>
   </Sector>
-  <Sector FullName="Newman" Frequency="125.400" Callsign="ML-NEW_CTR" Name="NEW" />
-  <Sector FullName="Ocean" Frequency="128.600" Callsign="BN-OCN_CTR" Name="OCN">
-    <Volumes />
-  </Sector>
-  <Sector FullName="Onslow" Frequency="134.000" Callsign="ML-OLW_CTR" Name="OLW" />
-  <Sector FullName="Oxley" Frequency="128.500" Callsign="ML-OXL_CTR" Name="OXL" />
-  <Sector FullName="Paraburdoo" Frequency="133.500" Callsign="ML-PAR_CTR" Name="PAR" />
-  <Sector FullName="Pingelly" Frequency="133.900" Callsign="ML-PIY_CTR" Name="PIY" />
-  <Sector FullName="Port" Frequency="127.000" Callsign="ML-POT_CTR" Name="POT" />
-  <Sector FullName="Snowy" Frequency="124.000" Callsign="ML-SNO_CTR" Name="SNO" />
-  <Sector FullName="Straddy" Frequency="134.300" Callsign="BN-SDY_CTR" Name="SDY" />
-  <Sector FullName="Sturt" Frequency="134.400" Callsign="BN-STR_CTR" Name="STR" />
-  <Sector FullName="Swampy" Frequency="133.200" Callsign="BN-SWY_CTR" Name="SWY" />
-  <Sector FullName="Tabletop" Frequency="120.550" Callsign="BN-TBP_CTR" Name="TBP" />
-  <Sector FullName="Tailem Bend" Frequency="123.050" Callsign="ML-TBD_CTR" Name="TBD" />
-  <Sector FullName="Territory" Frequency="133.200" Callsign="BN-TRT_CTR" Name="TRT" />
   <Sector FullName="Tontouta Centre" Frequency="128.200" Callsign="NWWW_CTR" Name="NWWW">
     <Volumes>NWWW</Volumes>
   </Sector>
   <Sector FullName="Ujung Pandang" Frequency="128.100" Callsign="WAAF_CTR" Name="WAAF" DisplayInSectorsWindow="False">
     <Volumes>WAAF</Volumes>
   </Sector>
-  <Sector FullName="Ujung Pandang Bali" Frequency="120.700" Callsign="WAAF_B_CTR" Name="-" />
   <Sector FullName="Ujung Pandang East" Frequency="132.500" Callsign="WAAF_E_CTR" Name="WAAFE" DisplayInSectorsWindow="False">
     <Volumes>WAAF-E</Volumes>
   </Sector>
   <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_T_CTR" Name="WAAFT" DisplayInSectorsWindow="False">
     <Volumes>WAAF-E</Volumes>
   </Sector>
-  <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_X_CTR" Name="CTR" />
   <Sector FullName="Vila Centre" Frequency="120.700" Callsign="NVVV_CTR" Name="NVVV">
     <Volumes>NVVV</Volumes>
   </Sector>
-  <Sector FullName="Warburton" Frequency="124.900" Callsign="ML-WAR_CTR" Name="WAR" />
-  <Sector FullName="Warrego" Frequency="132.450" Callsign="BN-WEG_CTR" Name="WEG" />
-  <Sector FullName="Wollongong" Frequency="125.000" Callsign="ML-WOL_CTR" Name="WOL" />
-  <Sector FullName="Wonthaggi" Frequency="135.300" Callsign="ML-WON_CTR" Name="WON" />
-  <Sector FullName="Woomera" Frequency="132.900" Callsign="ML-WRA_CTR" Name="WRA" />
-  <Sector FullName="Yarrowee" Frequency="134.325" Callsign="ML-YWE_CTR" Name="YWE" />
   <Sector FullName="Auckland Oceanic" Frequency="129.000" Callsign="NZZO_FSS" Name="NZZO" DisplayInSectorsWindow="False">
     <Volumes>NZZO</Volumes>
   </Sector>
@@ -99,72 +33,43 @@
   <Sector FullName="Flinders Oceanic" Frequency="132.850" Callsign="BN-FLD_FSS" Name="FLD" DisplayInSectorsWindow="False">
     <Volumes>FLD</Volumes>
   </Sector>
-  <Sector FullName="Indian East Oceanic" Frequency="123.650" Callsign="ML-INE_FSS" Name="INE" />
-  <Sector FullName="Indian Oceanic" Frequency="129.250" Callsign="ML-IND_FSS" Name="IND" />
-  <Sector FullName="Indian South Oceanic" Frequency="123.200" Callsign="ML-INS_FSS" Name="INS" />
-  <Sector FullName="Johannesburg Oceanic" Frequency="120.850" Callsign="FAJO_FSS" Name="FAJO" />
   <Sector FullName="Lord Howe Oceanic" Frequency="124.950" Callsign="BN-HWE_FSS" Name="HWE" DisplayInSectorsWindow="False">
     <Volumes>HWE</Volumes>
   </Sector>
-  <Sector FullName="Mauritius" Frequency="133.050" Callsign="FIMM_FSS" Name="FIMM" />
-  <Sector FullName="McMurdo Oceanic" Frequency="128.700" Callsign="NZCM_FSS" Name="NZCM" />
   <Sector FullName="Nadi Oceanic" Frequency="123.600" Callsign="NFFF_FSS" Name="NFFF">
     <Volumes>NFFF</Volumes>
   </Sector>
   <Sector FullName="Oakland Oceanic" Frequency="129.400" Callsign="ZAK_FSS" Name="KZAK" DisplayInSectorsWindow="False">
-    <Volumes>KZAK_E,KZAK_W</Volumes>
+    <Volumes>KZAK-E,KZAK-W</Volumes>
   </Sector>
   <Sector FullName="Oakland Oceanic East" Frequency="131.175" Callsign="ZAK_E_FSS" Name="KZAKE" DisplayInSectorsWindow="False">
     <Volumes>KZAK-E</Volumes>
   </Sector>
   <Sector FullName="Oakland Oceanic East1" Frequency="130.800" Callsign="ZAK_E1_FSS" Name="KZAKE1" DisplayInSectorsWindow="False">
-    <Volumes>KZAK_E</Volumes>
+    <Volumes>KZAK-E</Volumes>
   </Sector>
   <Sector FullName="Oakland Oceanic West" Frequency="131.950" Callsign="ZAK_W_FSS" Name="KZAKW" DisplayInSectorsWindow="False">
-    <Volumes>KZAK_W</Volumes>
+    <Volumes>KZAK-W</Volumes>
   </Sector>
   <Sector FullName="Oakland Oceanic West1" Frequency="130.700" Callsign="ZAK_W1_FSS" Name="KZAKW1" DisplayInSectorsWindow="False">
-    <Volumes>KZAK_W</Volumes>
+    <Volumes>KZAK-W</Volumes>
   </Sector>
   <Sector FullName="Oakland Oceanic West2" Frequency="128.900" Callsign="ZAK_W2_FSS" Name="KZAKW2" DisplayInSectorsWindow="False">
-    <Volumes>KZAK_W</Volumes>
+    <Volumes>KZAK-W</Volumes>
   </Sector>
   <Sector FullName="SE Asia Upper" Frequency="135.350" Callsign="ASEA_FSS" Name="ASEA" DisplayInSectorsWindow="False">
     <Volumes>WAAF</Volumes>
   </Sector>
-  <Sector FullName="South Africa Upper" Frequency="134.575" Callsign="AFRS_FSS" Name="AFRS" />
   <Sector FullName="Tasman Oceanic" Frequency="124.650" Callsign="BN-TSN_FSS" Name="TSN" DisplayInSectorsWindow="False">
     <Volumes>TSN</Volumes>
     <ResponsibleSectors>COL,FLD,HWE</ResponsibleSectors>
   </Sector>
-  <Sector FullName="West Asia Upper" Frequency="135.400" Callsign="ASIA_W_FSS" Name="ASIAW" />
-  <Sector FullName="Adelaide Approach East" Frequency="118.200" Callsign="AD_DEP" Name="AAE" />
-  <Sector FullName="Adelaide Approach West" Frequency="124.200" Callsign="AD_APP" Name="AAW" />
-  <Sector FullName="Amberley Approach" Frequency="126.200" Callsign="AM_APP" Name="AMA" />
-  <Sector FullName="Brisbane Approach North" Frequency="124.700" Callsign="BN_APP" Name="BAN" />
-  <Sector FullName="Brisbane Approach South" Frequency="125.600" Callsign="BN-S_APP" Name="BAS" />
-  <Sector FullName="Brisbane Departures North" Frequency="133.450" Callsign="BN_DEP" Name="BDN" />
-  <Sector FullName="Brisbane Departures South" Frequency="118.450" Callsign="BN-S_DEP" Name="BDS" />
-  <Sector FullName="Brisbane Finals" Frequency="119.250" Callsign="BN-F_APP" Name="BN-FA" />
-  <Sector FullName="Cairns Approach 1" Frequency="118.400" Callsign="CS_APP" Name="CSA" />
-  <Sector FullName="Cairns Approach 2" Frequency="126.100" Callsign="CS_DEP" Name="CSD" />
-  <Sector FullName="Canberra Approach East" Frequency="124.500" Callsign="CB_APP" Name="CAE" />
-  <Sector FullName="Canberra Approach West" Frequency="125.900" Callsign="CB-W_APP" Name="CAW" />
-  <Sector FullName="Darwin Approach" Frequency="134.100" Callsign="DN_APP" Name="DNA" />
-  <Sector FullName="East Sale Approach" Frequency="123.300" Callsign="ES_APP" Name="ESA" />
-  <Sector FullName="Gold Coast Approach" Frequency="123.500" Callsign="CG_APP" Name="BAG" />
-  <Sector FullName="Hobart Approach" Frequency="125.550" Callsign="HB_APP" Name="HBA" />
   <Sector FullName="Jacksons Radar" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
     <Volumes>AYPYA</Volumes>
   </Sector>
   <Sector FullName="Kwaj Approach" Frequency="126.200" Callsign="PKWA_APP" Name="PKWAA">
     <Volumes>PKWAA</Volumes>
   </Sector>
-  <Sector FullName="Launceston Approach" Frequency="123.800" Callsign="LT_APP" Name="LTA" />
-  <Sector FullName="Mackay Approach" Frequency="125.650" Callsign="MK_APP" Name="MKA" />
-  <Sector FullName="Melbourne Approach East" Frequency="132.000" Callsign="ML_APP" Name="MAE" />
-  <Sector FullName="Melbourne Departures North" Frequency="118.900" Callsign="ML_DEP" Name="MDN" />
-  <Sector FullName="Melbourne Departures South" Frequency="129.400" Callsign="ML-S_DEP" Name="MDS" />
   <Sector FullName="Nadi Approach" Frequency="119.100" Callsign="NFFN_APP" Name="NFFNA">
     <Volumes>NFFNA</Volumes>
     <ResponsibleSectors>NFNAA</ResponsibleSectors>
@@ -175,111 +80,36 @@
   <Sector FullName="Nausori Approach" Frequency="119.700" Callsign="NFNA_APP" Name="NFNAA">
     <Volumes>NFNAA</Volumes>
   </Sector>
-  <Sector FullName="Nowra Approach" Frequency="123.500" Callsign="NW_APP" Name="NWA" />
-  <Sector FullName="Oakey Approach" Frequency="125.400" Callsign="OK_APP" Name="OKA" />
-  <Sector FullName="Pearce Approach" Frequency="130.200" Callsign="PE_APP" Name="PEA" />
-  <Sector FullName="Perth Approach" Frequency="123.600" Callsign="PH_APP" Name="PHA" />
-  <Sector FullName="Perth Departures" Frequency="118.700" Callsign="PH_DEP" Name="PHD" />
-  <Sector FullName="Rockhampton Approach" Frequency="123.750" Callsign="RK_APP" Name="RKA" />
-  <Sector FullName="Sydney Approach North" Frequency="124.400" Callsign="SY_APP" Name="SAN" />
-  <Sector FullName="Sydney Approach South" Frequency="128.300" Callsign="SY-S_APP" Name="SAS" />
-  <Sector FullName="Sydney Departures North" Frequency="123.000" Callsign="SY_DEP" Name="SDN" />
-  <Sector FullName="Sydney Departures South" Frequency="129.700" Callsign="SY-S_DEP" Name="SDS" />
-  <Sector FullName="Sydney Director East" Frequency="125.300" Callsign="SY-DE_APP" Name="SFE" />
-  <Sector FullName="Sydney Director West" Frequency="126.100" Callsign="SY-D_APP" Name="SFW" />
-  <Sector FullName="Tindal Approach" Frequency="120.950" Callsign="TN_APP" Name="TNA" />
   <Sector FullName="Tontouta Approach" Frequency="128.300" Callsign="NWWW_APP" Name="NWWWA">
     <Volumes>NWWWA</Volumes>
   </Sector>
-  <Sector FullName="Townsville Approach" Frequency="126.800" Callsign="TL_APP" Name="TLA" />
-  <Sector FullName="Williamtown Approach" Frequency="135.700" Callsign="WLM_APP" Name="WLM" />
-  <Sector FullName="Adelaide Clearance Delivery" Frequency="126.100" Callsign="AD_DEL" Name="AD COORD" />
-  <Sector FullName="Adelaide Surface Movement Control" Frequency="121.700" Callsign="AD_GND" Name="AD SMC" />
-  <Sector FullName="Adelaide Tower" Frequency="120.500" Callsign="AD_TWR" Name="AD ADC" />
-  <Sector FullName="Albury Surface Movement Control" Frequency="121.800" Callsign="AY_GND" Name="AY SMC" />
-  <Sector FullName="Albury Tower" Frequency="123.250" Callsign="AY_TWR" Name="AY ADC" />
-  <Sector FullName="Alice Springs Tower" Frequency="118.300" Callsign="AS_TWR" Name="AS ADC" />
-  <Sector FullName="Amberley Clearance Delivery" Frequency="134.600" Callsign="AM_DEL" Name="AM COORD" />
-  <Sector FullName="Amberley SMC" Frequency="129.350" Callsign="AM_GND" Name="AM SMC" />
-  <Sector FullName="Amberley Tower" Frequency="118.300" Callsign="AM_TWR" Name="AM ADC" />
-  <Sector FullName="Archerfield Surface Movement Control" Frequency="119.900" Callsign="AF_GND" Name="AF SMC" />
-  <Sector FullName="Archerfield Tower" Frequency="118.100" Callsign="AF_TWR" Name="AF ADC" />
-  <Sector FullName="Avalon Surface Movement Control" Frequency="129.300" Callsign="AV_GND" Name="AV SMC" />
-  <Sector FullName="Avalon Tower" Frequency="120.100" Callsign="AV_TWR" Name="AV ADC" />
-  <Sector FullName="Bankstown Surface Movement Control" Frequency="119.900" Callsign="BK_GND" Name="BK SMC" />
-  <Sector FullName="Bankstown Tower" Frequency="132.800" Callsign="BK_TWR" Name="BK ADC" />
-  <Sector FullName="Brisbane Clearance Delivery" Frequency="118.850" Callsign="BN_DEL" Name="BN COORD" />
-  <Sector FullName="Brisbane Surface Movement Control" Frequency="121.700" Callsign="BN_GND" Name="BN SMC" />
-  <Sector FullName="Brisbane Surface Movement Control North" Frequency="124.050" Callsign="BN-N_GND" Name="BN SMCN" />
-  <Sector FullName="Brisbane Surface Movement Control South" Frequency="122.250" Callsign="BN-S_GND" Name="BN SMCS" />
-  <Sector FullName="Brisbane Tower" Frequency="120.500" Callsign="BN_TWR" Name="BN ADC" />
-  <Sector FullName="Brisbane Tower West" Frequency="118.000" Callsign="BN-W_TWR" Name="BN ADCW" />
-  <Sector FullName="Broome Surface Movement Control" Frequency="121.700" Callsign="BRM_GND" Name="BRM SMC" />
-  <Sector FullName="Broome Tower" Frequency="126.000" Callsign="BRM_TWR" Name="BRM ADC" />
-  <Sector FullName="Bucholz SMC" Frequency="121.900" Callsign="PKWA_GND" Name="PKWA SMC" DisplayInHandoffWindow="False">
+  <Sector FullName="Bucholz SMC" Frequency="121.900" Callsign="PKWA_GND" Name="PKWAG" DisplayInHandoffWindow="False">
     <Volumes>PKWATWR</Volumes>
   </Sector>
   <Sector FullName="Bucholz Tower" Frequency="118.800" Callsign="PKWA_TWR" Name="PKWAT" DisplayInHandoffWindow="False">
     <Volumes>PKWATWR</Volumes>
   </Sector>
-  <Sector FullName="Cairns Clearance Delivery" Frequency="128.750" Callsign="CS_DEL" Name="CS COORD" />
-  <Sector FullName="Cairns Surface Movement Control" Frequency="121.700" Callsign="CS_GND" Name="CS SMC" />
-  <Sector FullName="Cairns Tower" Frequency="124.900" Callsign="CS_TWR" Name="CS ADC" />
-  <Sector FullName="Camden Surface Movement Control" Frequency="121.900" Callsign="CN_GND" Name="CN SMC" />
-  <Sector FullName="Camden Tower" Frequency="120.100" Callsign="CN_TWR" Name="CN ADC" />
-  <Sector FullName="Canberra Surface Movement Control" Frequency="121.700" Callsign="CB_GND" Name="CB SMC" />
-  <Sector FullName="Canberra Tower" Frequency="118.700" Callsign="CB_TWR" Name="CB ADC" />
-  <Sector FullName="Coffs Harbour Tower" Frequency="118.200" Callsign="CFS_TWR" Name="CFS ADC" />
-  <Sector FullName="Darwin Clearance Delivery" Frequency="126.800" Callsign="DN_DEL" Name="DN COORD" />
-  <Sector FullName="Darwin Surface Movement Control" Frequency="121.800" Callsign="DN_GND" Name="DN SMC" />
-  <Sector FullName="Darwin Tower" Frequency="133.100" Callsign="DN_TWR" Name="DN ADC" />
-  <Sector FullName="East Sale Clearance Delivery" Frequency="133.600" Callsign="ES_DEL" Name="ES COORD" />
-  <Sector FullName="East Sale Surface Movement Control" Frequency="127.250" Callsign="ES_GND" Name="ES SMC" />
-  <Sector FullName="East Sale Tower" Frequency="118.300" Callsign="ES_TWR" Name="ES ADC" />
-  <Sector FullName="Edinburgh Surface Movement Control" Frequency="134.100" Callsign="ED_GND" Name="ED SMC" />
-  <Sector FullName="Edinburgh Tower" Frequency="118.300" Callsign="ED_TWR" Name="ED ADC" />
-  <Sector FullName="Essendon Surface Movement Control" Frequency="121.900" Callsign="EN_GND" Name="EN SMC" />
-  <Sector FullName="Essendon Tower" Frequency="125.100" Callsign="EN_TWR" Name="EN ADC" />
-  <Sector FullName="Gingin Tower" Frequency="118.500" Callsign="GIG_TWR" Name="GIG ADC" />
-  <Sector FullName="Gold Coast Clearance Delivery" Frequency="128.750" Callsign="CG_DEL" Name="CG COORD" />
-  <Sector FullName="Gold Coast Surface Movement Control" Frequency="121.800" Callsign="CG_GND" Name="CG SMC" />
-  <Sector FullName="Gold Coast Tower" Frequency="118.700" Callsign="CG_TWR" Name="CG ADC" />
   <Sector FullName="Goroka Tower" Frequency="118.700" Callsign="AYGA_TWR" Name="AYGAT">
     <Volumes>AYGATWR</Volumes>
   </Sector>
   <Sector FullName="Hagen Tower" Frequency="120.500" Callsign="AYMH_TWR" Name="AYMHT">
     <Volumes>AYMHTWR</Volumes>
   </Sector>
-  <Sector FullName="Hamilton Island Tower" Frequency="118.700" Callsign="HM_TWR" Name="HM ADC" />
-  <Sector FullName="Hobart Surface Movement Control" Frequency="121.700" Callsign="HB_GND" Name="HB SMC" />
-  <Sector FullName="Hobart Tower" Frequency="118.100" Callsign="HB_TWR" Name="HB ADC" />
-  <Sector FullName="Jacksons Ground" Frequency="121.700" Callsign="AYPY_GND" Name="AYPY SMC" DisplayInHandoffWindow="False">
+  <Sector FullName="Jacksons Ground" Frequency="121.700" Callsign="AYPY_GND" Name="AYPYG" DisplayInHandoffWindow="False">
     <Volumes>AYPYTWR</Volumes>
   </Sector>
   <Sector FullName="Jacksons Tower" Frequency="118.100" Callsign="AYPY_TWR" Name="AYPYT" DisplayInHandoffWindow="False">
     <Volumes>AYPYTWR</Volumes>
   </Sector>
-  <Sector FullName="Jandakot Surface Movement Control" Frequency="124.300" Callsign="JT_GND" Name="JT SMC" />
-  <Sector FullName="Jandakot Tower" Frequency="118.100" Callsign="JT_TWR" Name="JT ADC" />
-  <Sector FullName="Karratha SMC" Frequency="123.550" Callsign="KA_GND" Name="KA SMC" />
-  <Sector FullName="Karratha Tower" Frequency="127.350" Callsign="KA_TWR" Name="KA ADC" />
-  <Sector FullName="Launceston Tower" Frequency="118.700" Callsign="LT_TWR" Name="LT ADC" />
   <Sector FullName="Lifou Tower" Frequency="118.500" Callsign="NWWL_TWR" Name="NWWLT">
     <Volumes>NWWLTWR</Volumes>
   </Sector>
-  <Sector FullName="Mackay SMC" Frequency="121.700" Callsign="MK_GND" Name="MK SMC" />
-  <Sector FullName="Mackay Tower" Frequency="124.500" Callsign="MK_TWR" Name="MK ADC" />
   <Sector FullName="Madang Tower" Frequency="118.100" Callsign="AYMD_TWR" Name="AYMDT">
     <Volumes>AYMDTWR</Volumes>
   </Sector>
-  <Sector FullName="Magenta Tower" Frequency="118.300" Callsign="NWWM_TWR" Name="NWWMT">
+  <Sector FullName="Magenta Tower" Frequency="118.300" Callsign="NWWM_TWR" Name="NWWM ADC">
     <Volumes>NWWMTWR</Volumes>
   </Sector>
-  <Sector FullName="Melbourne Clearance Delivery" Frequency="127.200" Callsign="ML_DEL" Name="ML COORD" />
-  <Sector FullName="Melbourne Surface Movement Control" Frequency="121.700" Callsign="ML_GND" Name="ML SMC" />
-  <Sector FullName="Melbourne Tower" Frequency="120.500" Callsign="ML_TWR" Name="ML ADC" />
-  <Sector FullName="Moorabbin Surface Movement Control" Frequency="134.250" Callsign="MB_GND" Name="MB SMC" />
-  <Sector FullName="Moorabbin Tower" Frequency="118.100" Callsign="MB_TWR" Name="MB ADC" />
   <Sector FullName="Nadi Tower" Frequency="118.100" Callsign="NFFN_TWR" Name="NFFNT" DisplayInHandoffWindow="False">
     <Volumes>NFFNTWR</Volumes>
   </Sector>
@@ -289,52 +119,13 @@
   <Sector FullName="Nausori Tower" Frequency="119.600" Callsign="NFNA_TWR" Name="NFNAT" DisplayInHandoffWindow="False">
     <Volumes>NFNATWR</Volumes>
   </Sector>
-  <Sector FullName="Nowra Clearance Delivery" Frequency="128.350" Callsign="NW_DEL" Name="NW COORD" />
-  <Sector FullName="Nowra Surface Movement Control" Frequency="135.850" Callsign="NW_GND" Name="NW SMC" />
-  <Sector FullName="Nowra Tower" Frequency="118.850" Callsign="NW_TWR" Name="NW ADC" />
-  <Sector FullName="Oakey Surface Movement Control" Frequency="121.900" Callsign="OK_GND" Name="OK SMC" />
-  <Sector FullName="Oakey Tower " Frequency="120.100" Callsign="OK_TWR" Name="OK ADC" />
-  <Sector FullName="Parafield Surface Movement Control" Frequency="119.900" Callsign="PF_GND" Name="PF SMC" />
-  <Sector FullName="Parafield Tower" Frequency="118.700" Callsign="PF_TWR" Name="PF ADC" />
-  <Sector FullName="Pearce Clearance Delivery" Frequency="134.100" Callsign="PE_DEL" Name="PE COORD" />
-  <Sector FullName="Pearce SMC" Frequency="127.250" Callsign="PE_GND" Name="PE SMC" />
-  <Sector FullName="Pearce Tower" Frequency="118.300" Callsign="PE_TWR" Name="PE ADC" />
-  <Sector FullName="Perth Clearance Delivery" Frequency="118.550" Callsign="PH_DEL" Name="PH COORD" />
-  <Sector FullName="Perth Surface Movement Control" Frequency="121.700" Callsign="PH_GND" Name="PH SMC" />
-  <Sector FullName="Perth Surface Movement Control East" Frequency="122.200" Callsign="PH-E_GND" Name="PH SMCE" />
-  <Sector FullName="Perth Tower" Frequency="127.400" Callsign="PH_TWR" Name="PH ADC" />
-  <Sector FullName="Richmond Surface Movement Control" Frequency="128.250" Callsign="RI_GND" Name="RI SMC" />
-  <Sector FullName="Richmond Tower" Frequency="135.500" Callsign="RI_TWR" Name="RI ADC" />
-  <Sector FullName="Rockhampton SMC" Frequency="121.800" Callsign="RK_GND" Name="RK SMC" />
-  <Sector FullName="Rockhampton Tower" Frequency="118.100" Callsign="RK_TWR" Name="RK ADC" />
-  <Sector FullName="Sunshine Coast Surface Movement Control" Frequency="121.100" Callsign="SU_GND" Name="SU SMC" />
-  <Sector FullName="Sunshine Coast Tower" Frequency="124.400" Callsign="SU_TWR" Name="SU ADC" />
-  <Sector FullName="Sydney Clearance Delivery" Frequency="133.800" Callsign="SY_DEL" Name="SY COORD" />
-  <Sector FullName="Sydney Surface Movement Control" Frequency="126.500" Callsign="SY_GND" Name="SY SMCW" />
-  <Sector FullName="Sydney Surface Movement Control East" Frequency="121.700" Callsign="SY-E_GND" Name="SY SMCE" />
-  <Sector FullName="Sydney Tower" Frequency="120.500" Callsign="SY_TWR" Name="SY ADCW" />
-  <Sector FullName="Sydney Tower East" Frequency="124.700" Callsign="SY-E_TWR" Name="SY ADCE" />
-  <Sector FullName="Tamworth Surface Movement Control" Frequency="121.900" Callsign="TW_GND" Name="TW SMC" />
-  <Sector FullName="Tamworth Tower" Frequency="119.400" Callsign="TW_TWR" Name="TW ADC" />
-  <Sector FullName="Tindal Clearance Delivery" Frequency="128.100" Callsign="TN_DEL" Name="TN COORD" />
-  <Sector FullName="Tindal Surface Movement Control" Frequency="135.850" Callsign="TN_GND" Name="TN SMC" />
-  <Sector FullName="Tindal Tower" Frequency="119.700" Callsign="TN_TWR" Name="TN ADC" />
   <Sector FullName="Tokua Tower" Frequency="118.200" Callsign="AYTK_TWR" Name="AYTKT">
     <Volumes>AYTKTWR</Volumes>
   </Sector>
   <Sector FullName="Tontouta Tower" Frequency="118.100" Callsign="NWWW_TWR" Name="NWWWT">
     <Volumes>NWWWTWR</Volumes>
   </Sector>
-  <Sector FullName="Townsville Clearance Delivery" Frequency="128.100" Callsign="TL_DEL" Name="TL COORD" />
-  <Sector FullName="Townsville Surface Movement Control" Frequency="121.800" Callsign="TL_GND" Name="TL SMC" />
-  <Sector FullName="Townsville Tower" Frequency="118.300" Callsign="TL_TWR" Name="TL ADC" />
   <Sector FullName="Vila Tower" Frequency="118.300" Callsign="NVVV_TWR" Name="NVVVT">
     <Volumes>NVVVTWR</Volumes>
-  </Sector>
-  <Sector FullName="Williamtown Clearance Delivery" Frequency="130.350" Callsign="WLM_DEL" Name="WLM COORD" />
-  <Sector FullName="Williamtown Surface Movement Control" Frequency="121.800" Callsign="WLM_GND" Name="WLM SMC" />
-  <Sector FullName="Williamtown Tower" Frequency="118.300" Callsign="WLM_TWR" Name="WLM ADC" />
-  <Sector FullName="Woomera Tower" Frequency="118.300" Callsign="WR_TWR" Name="WR ADC">
-    <Volumes />
   </Sector>
 </Sectors>
