@@ -453,7 +453,7 @@
     </Position>
     <Position Name="Magenta Tower" Type="ASD" DefaultCenter="-222047.0+1662815.0" DefaultRange="90" MagneticVariation="-12.5">
       <Sectors>
-        <Sector Name="NWWMT" />
+        <Sector Name="NWWM ADC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -507,7 +507,7 @@
     <Position Name="Jacksons Tower" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="90" MagneticVariation="-5.8">
       <Sectors>
         <Sector Name="AYPYT" />
-        <Sector Name="AYPY SMC" />
+        <Sector Name="AYPYG" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -565,6 +565,63 @@
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>
+
+    <Position Name="Nadi Ground" Type="ASMGCS" DefaultCenter="-17.756389+177.443611" DefaultRange="60" MagneticVariation="-12.5">
+      <Sectors>
+        <Sector Name="NFFNG" />
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Nadi/NFFN_COAST" />
+        <Map Name="Nadi/NFFN_TCU" />
+        <Map Name="Nadi/NFFN_RWY02" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NFFN" Frequency="125.5" />
+        <Window Airport="NFFN" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NFFN" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="6000" />
+      <ArrivalLists>
+        <Airport Name="NFFN" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Nadi Ground</Line>
+        <Line>ATIS available on 127.9</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+    </Position>
+
+    <Position Name="Nadi Delivery" Type="ASMGCS" DefaultCenter="-17.756389+177.443611" DefaultRange="60" MagneticVariation="-12.5">
+      <Sectors>
+        <Sector Name="NFFND" />
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Nadi/NFFN_COAST" />
+        <Map Name="Nadi/NFFN_TCU" />
+        <Map Name="Nadi/NFFN_RWY02" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NFFN" Frequency="124.5" />
+        <Window Airport="NFFN" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NFFN" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="6000" />
+      <ArrivalLists>
+        <Airport Name="NFFN" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Nadi Delivery</Line>
+        <Line>ATIS available on 127.9</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+    </Position>
+
     <Position Name="Nausori Tower" Type="ASD" DefaultCenter="-18.044722+178.559444" DefaultRange="60" MagneticVariation="-12.6">
       <Sectors>
         <Sector Name="NFNAT" />
@@ -595,7 +652,7 @@
     <Position Name="Bucholz Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="60" MagneticVariation="-7.6">
       <Sectors>
         <Sector Name="PKWAT" />
-        <Sector Name="PKWA SMC" />
+        <Sector Name="PKWAG" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />

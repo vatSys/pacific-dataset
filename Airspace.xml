@@ -126,6 +126,8 @@
         <SID Name="ECHO" />
         <SID Name="FOXTRO" />
         <SID Name="GOLF" />
+        <STAR Name="WFLG1A" />
+        <STAR Name="WFLG1B" />
       </Runway>
       <Runway Name="09" DataRunway="09">
         <SID Name="ALFA" />
@@ -4024,6 +4026,12 @@ NINIA
       <Transition Name="KALPO">KALPO</Transition>
       <Transition Name="TARON">TARON</Transition>
       <Route Runway="20">TEDUM/KALTA/LAREB/MOTKI</Route>
+    </STAR>
+    <STAR Name="WFLG1A" Airport="NFFN" Runways="02">
+      <Route Runway="02">BEDOK</Route>
+    </STAR>
+    <STAR Name="WFLG1B" Airport="NFFN" Runways="02">
+      <Route Runway="02">BEDOK</Route>
     </STAR>
     <STAR Name="IP1N" Airport="NWWM" Runways="35">
       <Route Runway="35">IP NDB/MISGA/MGA VOR</Route>
