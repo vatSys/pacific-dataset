@@ -564,58 +564,12 @@
         <Line>ATIS available on 127.9</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
-    </Position>
-
-    <Position Name="Nadi Ground" Type="ASMGCS" DefaultCenter="-17.756389+177.443611" DefaultRange="60" MagneticVariation="-12.5">
-      <Sectors>
-        <Sector Name="NFFNG" />
-      </Sectors>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Nadi/NFFN_COAST" />
-        <Map Name="Nadi/NFFN_TCU" />
-        <Map Name="Nadi/NFFN_RWY02" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="NFFN" Frequency="125.5" />
-        <Window Airport="NFFN" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NFFN" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="6000" />
-      <ArrivalLists>
-        <Airport Name="NFFN" />
-      </ArrivalLists>
-      <ControllerInfo>
+      <ControllerInfo Callsign="NFFN_GND">
         <Line>Nadi Ground</Line>
         <Line>ATIS available on 127.9</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
-    </Position>
-
-    <Position Name="Nadi Delivery" Type="ASMGCS" DefaultCenter="-17.756389+177.443611" DefaultRange="60" MagneticVariation="-12.5">
-      <Sectors>
-        <Sector Name="NFFND" />
-      </Sectors>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Nadi/NFFN_COAST" />
-        <Map Name="Nadi/NFFN_TCU" />
-        <Map Name="Nadi/NFFN_RWY02" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="NFFN" Frequency="124.5" />
-        <Window Airport="NFFN" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NFFN" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="6000" />
-      <ArrivalLists>
-        <Airport Name="NFFN" />
-      </ArrivalLists>
-      <ControllerInfo>
+      <ControllerInfo Callsign="NFFN_DEL">
         <Line>Nadi Delivery</Line>
         <Line>ATIS available on 127.9</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
