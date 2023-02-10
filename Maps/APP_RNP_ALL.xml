@@ -33,7 +33,11 @@
       <Point>AF29S</Point>
       <Point>WL600</Point>
       <Point>WL700</Point>
+      <Point>WW433</Point>
       <Point>WW435</Point>
+      <Point>WW700</Point>
+      <Point>WW701</Point>
+      <Point>WW702</Point>
       <Point>HOBLO</Point>
       <Point>CETMO</Point>
       <Point>FASRU</Point>
@@ -55,6 +59,7 @@
       <Point>FWL12</Point>
       <Point>FWL30</Point>
       <Point>FWW11</Point>
+      <Point>FWW29</Point>
       <Point>MAVTE</Point>
       <Point>WADRU</Point>
       <Point>YMDWI</Point>
@@ -73,6 +78,7 @@
       <Point>IWL12</Point>
       <Point>IWL30</Point>
       <Point>IWW11</Point>
+      <Point>IWW29</Point>
       <Point>TONBE</Point>
       <Point>DGOWA</Point>
       <Point>DGOWB</Point>
@@ -301,6 +307,7 @@
       <Point>FWL12</Point>
       <Point>FWL30</Point>
       <Point>FWW11</Point>
+      <Point>FWW29</Point>
       <Point>MAVTE</Point>
       <Point>WADRU</Point>
       <Point>DGOWF</Point>
@@ -368,6 +375,8 @@
       <Point>IWL12</Point>
       <Point>IWL30</Point>
       <Point>IWW11</Point>
+      <Point>IWW29</Point>
+      <Point>WW702</Point>
       <Point>TONBE</Point>
       <Point>DGOWI</Point>
       <Point>FNHNI</Point>
@@ -449,6 +458,9 @@
       <Point>WL600</Point>
       <Point>WL700</Point>
       <Point>WW435</Point>
+      <Point>WW433</Point>
+      <Point>WW700</Point>
+      <Point>WW701</Point>
       <Point>HOBLO</Point>
       <Point>CETMO</Point>
       <Point>FASRU</Point>
@@ -826,9 +838,11 @@
     <Line>WL600/IWL12</Line>
     <Line>IWL30/FWL30/-204642.290+1671436.211</Line>
     <Line>WL700/IWL30</Line>
-    <Line>IWW11/FWW11/MWW11/-220025.049+1661158.319</Line>
-    <Line>WW435/IWW11</Line>
     <Line>HOBLO/MAVTE/+084302.662+1674322.192</Line>
+    <Line>WW435/IWW11</Line>
+    <Line>WW433/IWW11</Line>
+    <Line>IWW11/FWW11/MWW11/-220025.049+1661158.319</Line>
+    <Line>WW700/WW701/WW702/IWW29/FWW29/MWW29/-220119.65+1661335.37</Line>
     <Line>CETMO/HOBLO</Line>
     <Line>FASRU/HOBLO</Line>
     <Line>TONBE/WADRU/+084322.238+1674425.699</Line>
