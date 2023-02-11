@@ -77,6 +77,7 @@
       <Point>IWL12</Point>
       <Point>IWL30</Point>
       <Point>IWW11</Point>
+      <Point>WW702</Point>
       <Point>IWW29</Point>
       <Point>TONBE</Point>
       <Point>DGOWA</Point>
@@ -374,6 +375,7 @@
       <Point>IWL12</Point>
       <Point>IWL30</Point>
       <Point>IWW11</Point>
+      <Point>WW702</Point>
       <Point>IWW29</Point>
       <Point>TONBE</Point>
       <Point>DGOWI</Point>
@@ -840,8 +842,8 @@
     <Line>WW433/IWW11</Line>
     <Line>WW435/IWW11</Line>
     <Line>WW702/IWW29/FWW29/MWW29/-220119.650+1661335.371</Line>
-    <Line>WW700/WW701/WW702/WW702</Line>
-    <Line>WW701/WW702/WW702</Line>
+    <Line>WW700/WW701/WW702</Line>
+    <Line>WW701/WW702</Line>
     <Line>HOBLO/MAVTE/+084302.662+1674322.192</Line>
     <Line>CETMO/HOBLO</Line>
     <Line>FASRU/HOBLO</Line>
