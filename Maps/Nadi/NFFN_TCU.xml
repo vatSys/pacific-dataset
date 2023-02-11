@@ -9,7 +9,7 @@
     <!--NFFN-->
     <Runway Name="02/20">
       <Threshold Name="02" Position="-17.772811+177.429108" />
-      <Threshold Name="20" Position="-17.750308+177.447319" />
+      <Threshold Name="20" Position="-17.750308+177.447233" />
     </Runway>
     <Runway Name="09/27">
       <Threshold Name="09" Position="-17.753278+177.436947" />
@@ -215,7 +215,7 @@
     <!--NFFN-->
     <Runway Name="02/20">
       <Threshold Name="02" Position="-17.772811+177.429108" ExtendedCentrelineTrack="217.5" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="1" />
-      <Threshold Name="20" Position="-17.750308+177.447319" ExtendedCentrelineTrack="37.5" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="20" Position="-17.750308+177.447233" ExtendedCentrelineTrack="37.5" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="5" />
     </Runway>
     <!--NFFN-->
     <Runway Name="09/27">

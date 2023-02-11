@@ -3,8 +3,8 @@
   <Map Type="System" Name="AYNZ_TCU" Priority="1" Center="-06.569222+146.728056">
     <!--AYNZ-->
     <Runway Name="09/27">
-      <Threshold Name="09" Position="-06.568861+146.715250" />
-      <Threshold Name="27" Position="-06.570778+146.737222" />
+      <Threshold Name="09" Position="-06.568911+146.715253" />
+      <Threshold Name="27" Position="-06.570814+146.737231" />
     </Runway>
     <!--Airway Routes-->
     <Line>
@@ -94,8 +94,8 @@
   <Map Type="System" Name="AYNZ_ALLRWYS" Priority="2" Center="-06.569222+146.728056">
     <!--AYNZ-->
     <Runway Name="09/27">
-      <Threshold Name="09" Position="-06.568861+146.715250" ExtendedCentrelineTrack="274.3" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
-      <Threshold Name="27" Position="-06.570778+146.737222" ExtendedCentrelineTrack="94.3" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="09" Position="-06.568911+146.715253" ExtendedCentrelineTrack="274.3" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="27" Position="-06.570814+146.737231" ExtendedCentrelineTrack="94.3" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
     </Runway>
   </Map>
 </Maps>

@@ -126,8 +126,6 @@
         <SID Name="ECHO" />
         <SID Name="FOXTRO" />
         <SID Name="GOLF" />
-        <STAR Name="WFLG1A" />
-        <STAR Name="WFLG1B" />
       </Runway>
       <Runway Name="09" DataRunway="09">
         <SID Name="ALFA" />
@@ -940,6 +938,12 @@ VATVO/
 LEMUP/
 LHR NDB
 </Airway>
+    <Airway Name="H530">
+IKERU/
+LUGLI/
+RUTAG/
+SAKTO
+</Airway>
     <Airway Name="H531">
 ALBUP/
 ODOLU/
@@ -991,6 +995,11 @@ EMPRA/
 STARF/
 PY VOR
 </Airway>
+    <Airway Name="H541">
+YXM VOR/
+MOR NDB/
+KIBAV
+</Airway>
     <Airway Name="H543">
 LARID/
 LUDGA/
@@ -1001,6 +1010,15 @@ ISKEG
 ASIXA/
 LAROT/
 EPKED
+</Airway>
+    <Airway Name="H545">
+PY VOR/
+UPSET/
+TEDED/
+MINEN/
+ONODO/
+EKUTA/
+KIETA
 </Airway>
     <Airway Name="H546">
 ASIXA/
@@ -1621,6 +1639,10 @@ SADIM/
 RUMUS/
 DUGAN
 </Airway>
+    <Airway Name="T17">
+TISTO/
+JPA VOR
+</Airway>
     <Airway Name="T272">
 MI NDB/
 NAVUA
@@ -1759,7 +1781,7 @@ NINIA
     <Point Name="ABVOM" Type="Fix">-292037.799+1681033.000</Point>
     <Point Name="ABVUB" Type="Fix">-083901.480+1604007.190</Point>
     <Point Name="ACASA" Type="Fix">+071717.171+1514752.739</Point>
-    <Point Name="ADBON" Type="Fix">+000000.101+1541342.000</Point>
+    <Point Name="ADBON" Type="Fix">+000000.000+1541342.000</Point>
     <Point Name="ADISN" Type="Fix">+040126.000-1752109.000</Point>
     <Point Name="ADKAD" Type="Fix">-220406.000+1682142.000</Point>
     <Point Name="ADKOS" Type="Fix">-443701.621+1665249.552</Point>
@@ -1774,7 +1796,6 @@ NINIA
     <Point Name="AF29N" Type="Fix">-174400.380+1683346.508</Point>
     <Point Name="AF29S" Type="Fix">-175221.079+1682910.849</Point>
     <Point Name="AFOYU" Type="Fix">+063925.859+1583506.191</Point>
-    <Point Name="AGAT" Type="Fix">-085223.678+1610041.198</Point>
     <Point Name="AGEDU" Type="Fix">-342844.101+1772930.480</Point>
     <Point Name="AGIRA" Type="Fix">-363509.892+1632933.421</Point>
     <Point Name="AGOLY" Type="Fix">+093003.578+1673520.720</Point>
@@ -1852,11 +1873,6 @@ NINIA
     <Point Name="AVLIX" Type="Fix">-063653.939+1475128.559</Point>
     <Point Name="AWIJU" Type="Fix">+092303.980+1672724.271</Point>
     <Point Name="AXTEN" Type="Fix">+064917.749+1584042.110</Point>
-    <Point Name="AYCH" Type="Fix">-060126.400+1445814.340</Point>
-    <Point Name="AYKI" Type="Fix">-060729.521+1411707.141</Point>
-    <Point Name="AYMN" Type="Fix">-060845.960+1433926.161</Point>
-    <Point Name="AYMS" Type="Fix">-104117.470+1525005.309</Point>
-    <Point Name="AYTA" Type="Fix">-055041.359+1425650.770</Point>
     <Point Name="AYUGO" Type="Fix">+053312.661+1630110.931</Point>
     <Point Name="BACAR" Type="Fix">+052115.210+1624509.140</Point>
     <Point Name="BADGR" Type="Fix">-374306.000+1452800.000</Point>
@@ -1956,7 +1972,7 @@ NINIA
     <Point Name="COSFI" Type="Fix">+084132.449+1675533.589</Point>
     <Point Name="COSLO" Type="Fix">+072602.940+1513715.899</Point>
     <Point Name="COWRY" Type="Fix">-073917.078+1483954.529</Point>
-    <Point Name="CUFFY" Type="Fix">-050000.000-1743904.601</Point>
+    <Point Name="CUFFY" Type="Fix">-050000.000-1743906.000</Point>
     <Point Name="CUNWI" Type="Fix">+051929.489+1625222.789</Point>
     <Point Name="CURCH" Type="Fix">+081735.000+1683908.000</Point>
     <Point Name="CUSOS" Type="Fix">+065920.710+1581614.570</Point>
@@ -2000,7 +2016,7 @@ NINIA
     <Point Name="DIPSO" Type="Fix">-335423.300+1520419.000</Point>
     <Point Name="DIVTA" Type="Fix">-170100.000+1791312.000</Point>
     <Point Name="DOGAM" Type="Fix">-084306.899+1403009.500</Point>
-    <Point Name="DOHRT" Type="Fix">+000000.101+1565000.000</Point>
+    <Point Name="DOHRT" Type="Fix">+000000.000+1565000.000</Point>
     <Point Name="DOLSI" Type="Fix">-250000.000+1744106.068</Point>
     <Point Name="DOMAX" Type="Fix">-153223.449-1754021.180</Point>
     <Point Name="DOMRA" Type="Fix">-094850.828+1483101.139</Point>
@@ -2045,6 +2061,7 @@ NINIA
     <Point Name="EKODA" Type="Fix">-430155.279+1672924.450</Point>
     <Point Name="EKOKU" Type="Fix">-161800.000+1465354.000</Point>
     <Point Name="EKOSA" Type="Fix">-085441.159+1604547.520</Point>
+    <Point Name="EKUTA" Type="Fix">-062654.000+1552536.000</Point>
     <Point Name="ELARA" Type="Fix">-160520.000+1780027.000</Point>
     <Point Name="ELDEK" Type="Fix">-203258.800+1491429.900</Point>
     <Point Name="ELDOG" Type="Fix">-180429.000-1781555.000</Point>
@@ -2141,6 +2158,8 @@ NINIA
     <Point Name="FWF25" Type="Fix">-141759.100-1775824.499</Point>
     <Point Name="FWL12" Type="Fix">-204304.102+1671043.702</Point>
     <Point Name="FWL30" Type="Fix">-204930.799+1671735.902</Point>
+    <Point Name="FWR13" Type="Fix">-212535.800+1675911.299</Point>
+    <Point Name="FWR31" Type="Fix">-213216.901+1680525.400</Point>
     <Point Name="FWU13" Type="Fix">-204248.398+1651213.799</Point>
     <Point Name="FWU31" Type="Fix">-205158.799+1651854.202</Point>
     <Point Name="FWV13" Type="Fix">-203442.200+1663125.601</Point>
@@ -2212,15 +2231,6 @@ NINIA
     <Point Name="GGFNH" Type="Fix">-080353.348+1593753.900</Point>
     <Point Name="GGFNI" Type="Fix">-075917.149+1593527.161</Point>
     <Point Name="GGFNM" Type="Fix">-080516.620+1593445.710</Point>
-    <Point Name="GGISA" Type="Fix">-095354.769+1594506.509</Point>
-    <Point Name="GGISF" Type="Fix">-095040.690+1595129.329</Point>
-    <Point Name="GGISI" Type="Fix">-095527.548+1594955.808</Point>
-    <Point Name="GGISM" Type="Fix">-094545.889+1595025.688</Point>
-    <Point Name="GGJEA" Type="Fix">-100036.310+1603839.221</Point>
-    <Point Name="GGJEF" Type="Fix">-095637.331+1602938.198</Point>
-    <Point Name="GGJEH" Type="Fix">-100220.692+1603411.302</Point>
-    <Point Name="GGJEI" Type="Fix">-095936.470+1603341.209</Point>
-    <Point Name="GGJEM" Type="Fix">-095338.119+1602532.261</Point>
     <Point Name="GGKN1" Type="Fix">-102837.441+1621910.718</Point>
     <Point Name="GGKN2" Type="Fix">-101458.492+1613136.829</Point>
     <Point Name="GGKNA" Type="Fix">-102022.150+1613724.960</Point>
@@ -2389,6 +2399,8 @@ NINIA
     <Point Name="IWF25" Type="Fix">-141731.301-1775447.599</Point>
     <Point Name="IWL12" Type="Fix">-204035.198+1670805.201</Point>
     <Point Name="IWL30" Type="Fix">-205159.501+1672014.701</Point>
+    <Point Name="IWR13" Type="Fix">-212257.000+1675643.400</Point>
+    <Point Name="IWR31" Type="Fix">-213455.700+1680753.602</Point>
     <Point Name="IWU13" Type="Fix">-203904.601+1650931.298</Point>
     <Point Name="IWU31" Type="Fix">-205436.500+1652248.698</Point>
     <Point Name="IWV13" Type="Fix">-203152.799+1662912.401</Point>
@@ -2422,7 +2434,6 @@ NINIA
     <Point Name="KABAR" Type="Fix">-161430.000+1782006.000</Point>
     <Point Name="KABIN" Type="Fix">-430903.661+1683308.078</Point>
     <Point Name="KABKA" Type="Fix">-414249.432+1700527.301</Point>
-    <Point Name="KABNA" Type="Fix">-060209.301+1402959.600</Point>
     <Point Name="KADAB" Type="Fix">-045800.000+1410000.000</Point>
     <Point Name="KADEN" Type="Fix">-265021.019-1790326.561</Point>
     <Point Name="KADKA" Type="Fix">-044723.730+1441506.368</Point>
@@ -2474,6 +2485,7 @@ NINIA
     <Point Name="KETUS" Type="Fix">-122913.000-1741652.000</Point>
     <Point Name="KIBAV" Type="Fix">-072542.000+1441454.000</Point>
     <Point Name="KIDIS" Type="Fix">+003433.071+1734044.299</Point>
+    <Point Name="KIETA" Type="Fix">-061822.039+1554340.822</Point>
     <Point Name="KIKEM" Type="Fix">-095254.000+1260724.000</Point>
     <Point Name="KILAM" Type="Fix">-082054.532+1570349.550</Point>
     <Point Name="KILAN" Type="Fix">-174416.000-1750000.000</Point>
@@ -2496,11 +2508,8 @@ NINIA
     <Point Name="KRASY" Type="Fix">+050000.000+1552700.000</Point>
     <Point Name="KRONK" Type="Fix">+092400.000+1541100.000</Point>
     <Point Name="KT402" Type="Fix">-060833.000+1400918.000</Point>
-    <Point Name="KT403" Type="Fix">-060724.802+1401302.500</Point>
+    <Point Name="KT403" Type="Fix">-060724.701+1401302.600</Point>
     <Point Name="KT404" Type="Fix">-060500.200+1402048.800</Point>
-    <Point Name="KT602" Type="Fix">-060303.000+1402707.000</Point>
-    <Point Name="KT603" Type="Fix">-060411.798+1402321.599</Point>
-    <Point Name="KT604" Type="Fix">-060636.698+1401536.900</Point>
     <Point Name="KUCEF" Type="Fix">+072555.189+1514919.031</Point>
     <Point Name="KUHEK" Type="Fix">+070611.351+1710434.370</Point>
     <Point Name="KUILA" Type="Fix">-174419.000+1772236.000</Point>
@@ -2625,12 +2634,14 @@ NINIA
     <Point Name="MG194" Type="Fix">-222520.251+1662501.470</Point>
     <Point Name="MICNO" Type="Fix">+072528.430+1522039.458</Point>
     <Point Name="MIDAT" Type="Fix">-402158.000+1630000.000</Point>
+    <Point Name="MIDIN" Type="Fix">-212943.199+1675010.201</Point>
     <Point Name="MIGAX" Type="Fix">-160143.500+1342644.900</Point>
     <Point Name="MIKAX" Type="Fix">-175716.582+1771656.881</Point>
     <Point Name="MIKEG" Type="Fix">-383544.800+1573204.700</Point>
     <Point Name="MIKIT" Type="Fix">-052231.822+1484624.809</Point>
     <Point Name="MILLA" Type="Fix">-381256.100+1455337.200</Point>
     <Point Name="MIMEP" Type="Fix">-090155.229+1473721.500</Point>
+    <Point Name="MINEN" Type="Fix">-074827.720+1523422.508</Point>
     <Point Name="MINET" Type="Fix">-295643.390+1704759.269</Point>
     <Point Name="MINIL" Type="Fix">-045426.000+1403749.000</Point>
     <Point Name="MISGA" Type="Fix">-222751.000+1670000.000</Point>
@@ -2773,6 +2784,8 @@ NINIA
     <Point Name="OMUBI" Type="Fix">-233815.400+1460405.800</Point>
     <Point Name="ONELU" Type="Fix">-225153.100+1444620.600</Point>
     <Point Name="ONIBA" Type="Fix">-205706.000+1642306.000</Point>
+    <Point Name="ONODO" Type="Fix">-070312.769+1540956.351</Point>
+    <Point Name="ONULU" Type="Fix">-205424.300+1670444.299</Point>
     <Point Name="OPARO" Type="Fix">-090230.559+1464851.772</Point>
     <Point Name="OPEKO" Type="Fix">-144242.700+1323757.800</Point>
     <Point Name="OPENI" Type="Fix">-023917.071+1763805.870</Point>
@@ -2819,7 +2832,7 @@ NINIA
     <Point Name="PEPIT" Type="Fix">-220706.100+1655818.800</Point>
     <Point Name="PESKY" Type="Fix">-170409.700+1462632.000</Point>
     <Point Name="PIKIN" Type="Fix">-180545.000+1785937.000</Point>
-    <Point Name="PIKOK" Type="Fix">+000000.101+1460830.000</Point>
+    <Point Name="PIKOK" Type="Fix">+000000.000+1460830.000</Point>
     <Point Name="PINKY" Type="Fix">-285704.208+1674634.500</Point>
     <Point Name="PINUR" Type="Fix">-055344.689+1454637.841</Point>
     <Point Name="PIPPA" Type="Fix">-144051.100+1501124.400</Point>
@@ -2895,12 +2908,14 @@ NINIA
     <Point Name="ROYOD" Type="Fix">+084509.259+1675013.000</Point>
     <Point Name="RUKVI" Type="Fix">-083503.710+1472442.592</Point>
     <Point Name="RUMAB" Type="Fix">-165836.000+1790954.000</Point>
+    <Point Name="RUMIS" Type="Fix">-094304.681+1472819.981</Point>
     <Point Name="RUMIX" Type="Fix">-270737.000+1630000.000</Point>
     <Point Name="RUMUS" Type="Fix">-293339.780+1715139.038</Point>
     <Point Name="RUNOD" Type="Fix">-360925.000+1630000.000</Point>
     <Point Name="RUPAS" Type="Fix">-103124.000+1630000.000</Point>
     <Point Name="RUPNO" Type="Fix">-084444.048+1481515.091</Point>
     <Point Name="RURAT" Type="Fix">-002117.431+1664849.658</Point>
+    <Point Name="RUTAG" Type="Fix">-082102.160+1462628.100</Point>
     <Point Name="RUTEB" Type="Fix">-170100.000+1793448.000</Point>
     <Point Name="RUTUS" Type="Fix">+000000.000+1484942.000</Point>
     <Point Name="SA732" Type="Fix">-134526.010+1674351.150</Point>
@@ -3186,16 +3201,16 @@ NINIA
     <Point Name="WINKY" Type="Fix">-271657.800+1523926.600</Point>
     <Point Name="WIROS" Type="Fix">+072902.648+1515205.290</Point>
     <Point Name="WL600" Type="Fix">-204304.300+1670527.000</Point>
-    <Point Name="WL610" Type="Fix">-205007.400+1671815.000</Point>
-    <Point Name="WL611" Type="Fix">-205302.299+1671509.601</Point>
-    <Point Name="WL612" Type="Fix">-204700.301+1670844.599</Point>
+    <Point Name="WL610" Type="Fix">-204738.602+1671536.299</Point>
     <Point Name="WL700" Type="Fix">-205428.800+1671736.398</Point>
-    <Point Name="WL710" Type="Fix">-204248.301+1671027.000</Point>
-    <Point Name="WL711" Type="Fix">-204543.000+1670721.500</Point>
-    <Point Name="WL712" Type="Fix">-205123.400+1671324.100</Point>
+    <Point Name="WL710" Type="Fix">-204517.201+1671305.498</Point>
     <Point Name="WODAY" Type="Fix">-285504.000+1552137.500</Point>
     <Point Name="WOLEK" Type="Fix">+084249.000+1731831.000</Point>
     <Point Name="WOZTI" Type="Fix">+071657.450+1704934.370</Point>
+    <Point Name="WR600" Type="Fix">-212515.398+1675353.700</Point>
+    <Point Name="WR610" Type="Fix">-213012.100+1680328.901</Point>
+    <Point Name="WR700" Type="Fix">-213714.300+1680503.901</Point>
+    <Point Name="WR710" Type="Fix">-212741.299+1680108.198</Point>
     <Point Name="WRENS" Type="Fix">+070707.601+1581623.390</Point>
     <Point Name="WU190" Type="Fix">-205415.700+1652938.501</Point>
     <Point Name="WU191" Type="Fix">-204310.801+1652132.900</Point>
@@ -3566,13 +3581,6 @@ NINIA
     <Point Name="WM35T" Type="Fix">-221547.452+1662822.649</Point>
     <Point Name="WW11T" Type="Fix">-220025.049+1661158.319</Point>
     <Point Name="WW29T" Type="Fix">-220119.650+1661335.371</Point>
-    <Point Name="AGGA" Type="Fix">-084209.511+1604054.109</Point>
-    <Point Name="AGGC" Type="Fix">-064243.150+1562346.298</Point>
-    <Point Name="AGGE" Type="Fix">-065926.581+1555308.779</Point>
-    <Point Name="AGGF" Type="Fix">-080626.701+1593437.610</Point>
-    <Point Name="AGGK" Type="Fix">-102657.368+1615353.149</Point>
-    <Point Name="AGGR" Type="Fix">-113301.850+1600348.100</Point>
-    <Point Name="AGGS" Type="Fix">-083442.341+1575232.408</Point>
     <Point Name="CICIA" Type="Fix">-174437.000-1792031.000</Point>
     <Point Name="COWBY" Type="Fix">-165652.321+1675404.180</Point>
     <Point Name="ERMNO" Type="Fix">-184932.279+1685211.680</Point>
@@ -3625,7 +3633,7 @@ NINIA
     <Point Name="FU" Type="Navaid" NavaidType="VOR" Frequency="113.300">-083128.481+1791151.079</Point>
     <Point Name="HN" Type="Navaid" NavaidType="VOR" Frequency="113.600">-092606.479+1600214.201</Point>
     <Point Name="HOI" Type="Navaid" NavaidType="VOR" Frequency="113.000">-131422.499-1761206.599</Point>
-    <Point Name="JPA" Type="Navaid" NavaidType="VOR" Frequency="116.200">-023442.190+1403100.000</Point>
+    <Point Name="JPA" Type="Navaid" NavaidType="VOR" Frequency="116.200">-023442.200+1403100.000</Point>
     <Point Name="KVG" Type="Navaid" NavaidType="VOR" Frequency="117.100">-023507.390+1504849.720</Point>
     <Point Name="LFU" Type="Navaid" NavaidType="VOR" Frequency="113.300">-204627.098+1671426.000</Point>
     <Point Name="LTO" Type="Navaid" NavaidType="VOR" Frequency="112.900">-220019.598+1661242.000</Point>
@@ -3658,74 +3666,74 @@ NINIA
   </Intersections>
   <SIDSTARs>
     <SID Name="ASTRO1" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY VOR/DOMRA/KALKO</Route>
-      <Route Runway="14R">PY VOR/DOMRA/KALKO</Route>
-      <Route Runway="32L">PY VOR/DOMRA/KALKO</Route>
-      <Route Runway="32R">PY VOR/DOMRA/KALKO</Route>
+      <Route Runway="14L">-092707.268+1471337.110/PY VOR/DOMRA/KALKO</Route>
+      <Route Runway="14R">-092641.032+1471309.149/PY VOR/DOMRA/KALKO</Route>
+      <Route Runway="32L">-092605.129+1471246.969/PY VOR/DOMRA/KALKO</Route>
+      <Route Runway="32R">-092551.179+1471250.069/PY VOR/DOMRA/KALKO</Route>
     </SID>
     <SID Name="ASTRO2" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY VOR/KAPKI</Route>
-      <Route Runway="14R">PY VOR/KAPKI</Route>
-      <Route Runway="32L">PY VOR/KAPKI</Route>
-      <Route Runway="32R">PY VOR/KAPKI</Route>
+      <Route Runway="14L">-092707.268+1471337.110/PY VOR/KAPKI</Route>
+      <Route Runway="14R">-092641.032+1471309.149/PY VOR/KAPKI</Route>
+      <Route Runway="32L">-092605.129+1471246.969/PY VOR/KAPKI</Route>
+      <Route Runway="32R">-092551.179+1471250.069/PY VOR/KAPKI</Route>
     </SID>
     <SID Name="GALLEY" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY VOR/SAKTO</Route>
-      <Route Runway="14R">PY VOR/SAKTO</Route>
-      <Route Runway="32L">PY VOR/SAKTO</Route>
-      <Route Runway="32R">PY VOR/SAKTO</Route>
+      <Route Runway="14L">-092707.268+1471337.110/PY VOR/SAKTO</Route>
+      <Route Runway="14R">-092641.032+1471309.149/PY VOR/SAKTO</Route>
+      <Route Runway="32L">-092605.129+1471246.969/PY VOR/SAKTO</Route>
+      <Route Runway="32R">-092551.179+1471250.069/PY VOR/SAKTO</Route>
     </SID>
     <SID Name="GUNKI1" Airport="AYPY" Runways="14L,32R">
-      <Route Runway="14L">RIRGO/GUNKI</Route>
-      <Route Runway="32R">ANLOB/BELUP/GUNKI</Route>
+      <Route Runway="14L">-092707.268+1471337.110/-092941.126+1471511.586/RIRGO/GUNKI</Route>
+      <Route Runway="32R">-092551.179+1471250.069/ANLOB/BELUP/GUNKI</Route>
     </SID>
     <SID Name="KOKODA" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY VOR/RUPNO</Route>
-      <Route Runway="14R">PY VOR/RUPNO</Route>
-      <Route Runway="32L">PY VOR/RUPNO</Route>
-      <Route Runway="32R">PY VOR/RUPNO</Route>
+      <Route Runway="14L">-092707.268+1471337.110/PY VOR/RUPNO</Route>
+      <Route Runway="14R">-092641.032+1471309.149/PY VOR/RUPNO</Route>
+      <Route Runway="32L">-092605.129+1471246.969/PY VOR/RUPNO</Route>
+      <Route Runway="32R">-092551.179+1471250.069/PY VOR/RUPNO</Route>
     </SID>
     <SID Name="LOTGU1" Airport="AYPY" Runways="14L,32R">
-      <Route Runway="14L">LOTGU</Route>
-      <Route Runway="32R">ANLOB/BELUP/TAVON/LOTGU</Route>
+      <Route Runway="14L">-092707.268+1471337.110/-092941.126+1471511.586/LOTGU</Route>
+      <Route Runway="32R">-092551.179+1471250.069/ANLOB/BELUP/TAVON/LOTGU</Route>
     </SID>
     <SID Name="NUPTA1" Airport="AYPY" Runways="14L,32R">
-      <Route Runway="14L">NUPTA</Route>
-      <Route Runway="32R">ANLOB/VEDNU/KAKRA/NUPTA</Route>
+      <Route Runway="14L">-092707.268+1471337.110/-093448.821+1471820.609/NUPTA</Route>
+      <Route Runway="32R">-092551.179+1471250.069/ANLOB/VEDNU/KAKRA/NUPTA</Route>
     </SID>
     <SID Name="ODOGA1" Airport="AYPY" Runways="14L,32R">
-      <Route Runway="14L">BODUX/KAKRA/LELID/ODOGA</Route>
-      <Route Runway="32R">ANLOB/LELID/ODOGA</Route>
+      <Route Runway="14L">-092707.268+1471337.110/-093540.101+1471852.122/BODUX/KAKRA/LELID/ODOGA</Route>
+      <Route Runway="32R">-092551.179+1471250.069/ANLOB/LELID/ODOGA</Route>
     </SID>
     <SID Name="RUKVI1" Airport="AYPY" Runways="14L,32R">
-      <Route Runway="14L">BODUX/KAKRA/OVPED/RUKVI</Route>
-      <Route Runway="32R">ANLOB/LELID/RUKVI</Route>
+      <Route Runway="14L">-092707.268+1471337.110/-093540.101+1471852.122/BODUX/KAKRA/OVPED/RUKVI</Route>
+      <Route Runway="32R">-092551.179+1471250.069/ANLOB/LELID/RUKVI</Route>
     </SID>
     <SID Name="STARF1" Airport="AYPY" Runways="14L,32R">
-      <Route Runway="14L">RIRGO/BELUP/STARF</Route>
-      <Route Runway="32R">ANLOB/STARF</Route>
+      <Route Runway="14L">-092707.268+1471337.110/-092941.126+1471511.586/RIRGO/BELUP/STARF</Route>
+      <Route Runway="32R">-092551.179+1471250.069/ANLOB/STARF</Route>
     </SID>
     <SID Name="TOMOM1" Airport="AYPY" Runways="14L,32R">
-      <Route Runway="14L">BODUX/VIGUV/UKDES/TOMOM</Route>
-      <Route Runway="32R">ANLOB/VEDNU/UKDES/TOMOM</Route>
+      <Route Runway="14L">-092707.268+1471337.110/-093540.101+1471852.122/BODUX/VIGUV/UKDES/TOMOM</Route>
+      <Route Runway="32R">-092551.179+1471250.069/ANLOB/VEDNU/UKDES/TOMOM</Route>
     </SID>
     <SID Name="UNSAM1" Airport="AYPY" Runways="14L,32R">
-      <Route Runway="14L">TAVON/UNSAM</Route>
-      <Route Runway="32R">ANLOB/BELUP/TAVON/UNSAM</Route>
+      <Route Runway="14L">-092707.268+1471337.110/-092941.126+1471511.586/TAVON/UNSAM</Route>
+      <Route Runway="32R">-092551.179+1471250.069/ANLOB/BELUP/TAVON/UNSAM</Route>
     </SID>
     <SID Name="ALFA" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02">NN VOR</Route>
-      <Route Runway="09">NN VOR</Route>
-      <Route Runway="20">NN VOR</Route>
-      <Route Runway="27">NN VOR</Route>
+      <Route Runway="02">-174501.109+1772650.039/-174358.640+1772735.193/-174340.878+1772736.042/-174324.896+1772727.859/-174314.599+1772712.641/-174306.162+1772359.077/-174301.295+1772341.390/-174249.040+1772328.218/-174232.309+1772322.696/NN VOR</Route>
+      <Route Runway="09">-174527.961+1772720.149/-174546.290+1772833.511/-174600.010+1772846.574/-174618.102+1772850.739/-174635.770+1772844.899/-174648.330+1772830.604/-174652.452+1772811.642/-174613.993+1772501.580/-174603.438+1772446.356/-174547.198+1772438.373/NN VOR</Route>
+      <Route Runway="20">-174622.120+1772544.789/-175030.754+1772232.214/-175036.844+1772213.837/-175033.420+1772154.712/-175021.392+1772139.910/-175003.950+1772133.359/NN VOR</Route>
+      <Route Runway="27">-174511.801+1772613.009/-174418.751+1772159.942/-174408.356+1772144.821/-174352.337+1772136.764/-174334.600+1772137.736/NN VOR</Route>
       <Transition Name="KABAR">KABAR</Transition>
       <Transition Name="TUTRI">TUTRI</Transition>
     </SID>
     <SID Name="CHARLI" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02">NN VOR</Route>
-      <Route Runway="09">NN VOR</Route>
-      <Route Runway="20">NN VOR</Route>
-      <Route Runway="27">NN VOR</Route>
+      <Route Runway="02">-174501.109+1772650.039/-174358.640+1772735.193/-174340.878+1772736.042/-174324.896+1772727.859/-174314.599+1772712.641/-174306.162+1772359.077/-174301.295+1772341.390/-174249.040+1772328.218/-174232.309+1772322.696/NN VOR</Route>
+      <Route Runway="09">-174527.961+1772720.149/-174546.290+1772833.511/-174600.010+1772846.574/-174618.102+1772850.739/-174635.770+1772844.899/-174648.330+1772830.604/-174652.452+1772811.642/-174613.993+1772501.580/-174603.438+1772446.356/-174547.198+1772438.373/NN VOR</Route>
+      <Route Runway="20">-174622.120+1772544.789/-175030.754+1772232.214/-175036.844+1772213.837/-175033.420+1772154.712/-175021.392+1772139.910/-175003.950+1772133.359/NN VOR</Route>
+      <Route Runway="27">-174511.801+1772613.009/-174418.751+1772159.942/-174408.356+1772144.821/-174352.337+1772136.764/-174334.600+1772137.736/NN VOR</Route>
       <Transition Name="BIDNA">BIDNA</Transition>
       <Transition Name="EXORA">EXORA</Transition>
       <Transition Name="GODAP">GODAP</Transition>
@@ -3737,10 +3745,10 @@ NINIA
       <Transition Name="PACKO">PACKO</Transition>
     </SID>
     <SID Name="DELTA" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02">VK NDB</Route>
-      <Route Runway="09">VK NDB</Route>
-      <Route Runway="20">VK NDB</Route>
-      <Route Runway="27">VK NDB</Route>
+      <Route Runway="02">-174501.109+1772650.039/-174358.640+1772735.193/-174340.878+1772736.042/-174324.896+1772727.859/-174314.599+1772712.641/-174306.162+1772359.077/-174310.177+1772340.374/-174322.424+1772326.151/-174339.745+1772320.073/-174357.677+1772323.708/VK NDB</Route>
+      <Route Runway="09">-174527.961+1772720.149/-174546.290+1772833.511/-174600.010+1772846.574/-174618.102+1772850.739/-174635.770+1772844.899/-174648.330+1772830.604/-174652.452+1772811.642/-174615.223+1772503.381/-174617.716+1772450.872/-174625.605+1772441.143/-174636.966+1772436.562/-174649.029+1772438.250/-174658.851+1772445.795/-174704.040+1772457.355/VK NDB</Route>
+      <Route Runway="20">-174622.120+1772544.789/-175030.385+1772232.777/-175036.686+1772215.535/-175023.689+1772101.553/-175015.425+1772044.347/-175000.163+1772033.661/-174941.869+1772032.266/-174925.298+1772040.527/VK NDB</Route>
+      <Route Runway="27">-174511.801+1772613.009/-174419.712+1772159.465/-174423.808+1772140.544/-174436.310+1772126.254/-174453.919+1772120.367/-174511.990+1772124.436/-174525.752+1772137.386/VK NDB</Route>
       <Transition Name="EXORA">EXORA</Transition>
       <Transition Name="GODAP">GODAP</Transition>
       <Transition Name="LUPLO">LUPLO</Transition>
@@ -3748,183 +3756,183 @@ NINIA
       <Transition Name="NAVUA">NAVUA</Transition>
     </SID>
     <SID Name="ECHO" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02">MI NDB</Route>
-      <Route Runway="09">MI NDB</Route>
-      <Route Runway="20">MI NDB</Route>
-      <Route Runway="27">MI NDB</Route>
-      <Transition Name="NA">NA VOR</Transition>
-      <Transition Name="NAVUA">NAVUA</Transition>
+      <Route Runway="02">-174501.109+1772650.039/-174358.193+1772735.333/-174339.738+1772735.776/-174323.504+1772726.553/-174313.761+1772710.091/-174313.080+1772650.727/-174321.633+1772633.555/MI NDB</Route>
+      <Route Runway="09">-174527.961+1772720.149/-174545.932+1772832.917/-174558.543+1772845.731/-174615.427+1772850.759/-174632.567+1772846.800/MI NDB</Route>
+      <Route Runway="20">-174622.120+1772544.789/-174713.924+1772505.257/MI NDB</Route>
+      <Route Runway="27">-174511.801+1772613.009/-174455.651+1772451.487/-174501.143+1772434.608/-174513.400+1772422.255/MI NDB</Route>
+      <Transition Name="NA">-175511.160+1772112.656/-175517.342+1772126.292/NA VOR</Transition>
+      <Transition Name="NAVUA">-175511.160+1772112.656/-175513.679+1772116.677/-175515.690+1772121.000/NAVUA</Transition>
     </SID>
     <SID Name="FOXTRO" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02">MI NDB/AGTOS</Route>
-      <Route Runway="09">MI NDB/AGTOS</Route>
-      <Route Runway="20">MI NDB/AGTOS</Route>
-      <Route Runway="27">MI NDB/AGTOS</Route>
+      <Route Runway="02">-174501.109+1772650.039/-174358.193+1772735.333/-174339.738+1772735.776/-174323.504+1772726.553/-174313.761+1772710.091/-174313.080+1772650.727/-174321.633+1772633.555/MI NDB/AGTOS</Route>
+      <Route Runway="09">-174527.961+1772720.149/-174545.932+1772832.917/-174558.543+1772845.731/-174615.427+1772850.759/-174632.567+1772846.800/MI NDB/AGTOS</Route>
+      <Route Runway="20">-174622.120+1772544.789/-174713.924+1772505.257/MI NDB/AGTOS</Route>
+      <Route Runway="27">-174511.801+1772613.009/-174455.651+1772451.487/-174501.143+1772434.608/-174513.400+1772422.255/MI NDB/AGTOS</Route>
     </SID>
     <SID Name="GOLF" Airport="NFFN" Runways="02,09,20,27">
-      <Route Runway="02" />
-      <Route Runway="09" />
-      <Route Runway="20" />
-      <Route Runway="27" />
+      <Route Runway="02">-174501.109+1772650.039/-174404.340+1772729.736/-174334.746+1772731.370/-174308.021+1772717.924/-174250.693+1772652.685/-174246.582+1772632.276</Route>
+      <Route Runway="09">-174527.961+1772720.149/-174546.587+1772826.048/-174609.599+1772847.653/-174639.797+1772854.374/-174709.177+1772844.428/-174729.951+1772820.449/-174736.613+1772748.794/-174735.269+1772737.969</Route>
+      <Route Runway="20">-174622.120+1772544.789/-174921.203+1772326.091</Route>
+      <Route Runway="27">-174511.801+1772613.009/-174438.039+1772344.494</Route>
       <Transition Name="ALBAB">ALBAB</Transition>
       <Transition Name="BEACH">BEACH</Transition>
       <Transition Name="TEPEK">TEPEK</Transition>
       <Transition Name="VIPOB">VIPOB</Transition>
     </SID>
     <SID Name="HOTEL" Airport="NFFN" Runways="20">
-      <Route Runway="20" />
-      <Transition Name="NAB598">NA VOR</Transition>
-      <Transition Name="NAQ271">NA VOR</Transition>
-      <Transition Name="NAVUA">NAVUA</Transition>
+      <Route Runway="20">-174622.120+1772544.789/-175014.986+1772248.663/-175044.377+1772246.911/-175111.020+1772300.066/-175128.490+1772324.959/-175132.577+1772355.588/-175122.294+1772424.569/-175108.551+1772439.453</Route>
+      <Transition Name="NAB598">-174919.959+1772603.546/-174158.034+1773145.485/NA VOR</Transition>
+      <Transition Name="NAQ271">-174919.959+1772603.546/-174737.435+1772722.927/NA VOR</Transition>
+      <Transition Name="NAVUA">-174843.759+1772631.570/-174825.264+1772655.053/-174819.431+1772724.901/NAVUA</Transition>
     </SID>
     <SID Name="ALPHA" Airport="NFNA" Runways="10,28">
-      <Route Runway="10">NAVUA</Route>
-      <Route Runway="28">NA VOR/NAVUA</Route>
+      <Route Runway="10">-180250.179+1783416.090/-180310.263+1783515.260/-180324.287+1783526.949/-180341.930+1783530.088/-180358.827+1783523.900/-180410.801+1783509.914/-180911.424+1782724.813/-180919.997+1782712.585/NAVUA</Route>
+      <Route Runway="28">-180227.211+1783307.081/-180203.262+1783203.143/-180203.262+1783203.143/-180120.397+1783042.000/-175951.223+1783019.485/-175833.028+1783109.875/-175811.620+1783243.652/-175859.535+1783405.881/-180028.712+1783428.392/NA VOR/-180613.547+1783013.382/NAVUA</Route>
     </SID>
     <SID Name="BRAVO" Airport="NFNA" Runways="10,28">
-      <Route Runway="10" />
-      <Route Runway="28" />
+      <Route Runway="10">-180250.179+1783416.090/-180310.263+1783515.260/-180311.782+1783535.079/-180258.880+1783550.333/-180234.574+1783602.548/-180205.926+1783611.673/-175622.716+1784045.544</Route>
+      <Route Runway="28">-180227.211+1783307.081/-180203.262+1783203.143/-180138.762+1783143.722/-180108.334+1783139.589/-180039.946+1783151.825/-180021.029+1783217.223/-180016.535+1783249.136/-175622.716+1784045.544</Route>
       <Transition Name="LB">LAVAV</Transition>
       <Transition Name="MT">MAMDU</Transition>
       <Transition Name="NFNS">NFNS</Transition>
     </SID>
     <SID Name="CHARLI" Airport="NFNA" Runways="10,28">
-      <Route Runway="10">NA VOR</Route>
-      <Route Runway="28">NA VOR</Route>
+      <Route Runway="10">-180250.179+1783416.090/-180310.263+1783515.260/-180311.782+1783535.079/-180258.880+1783550.333/-180240.630+1783557.288/-180221.432+1783554.270/-180205.913+1783542.005/-180157.816+1783523.452/-180159.090+1783503.082/NA VOR</Route>
+      <Route Runway="28">-180227.211+1783307.081/-180203.262+1783203.143/-180138.762+1783143.722/-180114.844+1783147.090/-180102.788+1783200.863/-180058.490+1783219.032/-180103.000+1783237.140/-180214.326+1783448.758/-180227.818+1783455.928/-180242.918+1783455.234/-180255.764+1783446.856/-180303.067+1783432.938/-180302.958+1783417.040/-180255.463+1783403.235/NA VOR</Route>
       <Transition Name="MI">MI NDB</Transition>
       <Transition Name="NN">NN VOR</Transition>
       <Transition Name="VK">VK NDB</Transition>
     </SID>
     <SID Name="DELTA" Airport="NFNA" Runways="10,28">
-      <Route Runway="10">ATOLL</Route>
-      <Route Runway="28">ATOLL</Route>
+      <Route Runway="10">-180250.179+1783416.090/-180310.263+1783515.260/-180311.782+1783535.079/-180258.880+1783550.333/-180246.705+1783557.845/ATOLL</Route>
+      <Route Runway="28">-180227.211+1783307.081/-180203.262+1783203.143/-180138.762+1783143.722/-180112.962+1783148.471/-180101.510+1783203.627/-180058.686+1783222.755/ATOLL</Route>
     </SID>
     <SID Name="ECHO" Airport="NFNA" Runways="10,28">
-      <Route Runway="10">SAPIR</Route>
-      <Route Runway="28">SAPIR</Route>
+      <Route Runway="10">-180250.179+1783416.090/-180310.263+1783515.260/SAPIR</Route>
+      <Route Runway="28">-180227.211+1783307.081/-180203.262+1783203.143/-180138.762+1783143.722/-180114.505+1783147.324/-180102.548+1783201.345/-180058.499+1783219.690/-180103.364+1783237.813/-180115.935+1783251.229/SAPIR</Route>
     </SID>
     <SID Name="FOXTRO" Airport="NFNA" Runways="10,28">
-      <Route Runway="10">ISTOS</Route>
-      <Route Runway="28">ISTOS</Route>
+      <Route Runway="10">-180250.179+1783416.090/-180310.263+1783515.260/-180323.055+1783526.343/-180339.756+1783530.211/-180356.269+1783525.530/-181540.036+1783146.449/ISTOS</Route>
+      <Route Runway="28">-180227.211+1783307.081/-180203.262+1783203.143/-180138.762+1783143.722/-180113.380+1783148.147/-180101.781+1783202.992/-180058.612+1783221.915/-180104.689+1783240.033/-180115.932+1783251.444/-180148.066+1783329.632/-180209.222+1783347.021/-180231.827+1783342.987/-181124.662+1783224.244/ISTOS</Route>
     </SID>
     <SID Name="GOLF" Airport="NFNA" Runways="28">
-      <Route Runway="28" />
+      <Route Runway="28">-180227.211+1783307.081/-180203.262+1783203.143/-180142.257+1783045.011</Route>
       <Transition Name="MI">MI NDB</Transition>
       <Transition Name="NN">NN VOR</Transition>
       <Transition Name="VK">VK NDB</Transition>
     </SID>
     <SID Name="EAST" Airport="NVVV" Runways="29">
-      <Route Runway="29">SOUTH/ZULU</Route>
+      <Route Runway="29">-174133.691+1681824.142/-174101.833+1681713.829/-174103.977+1681655.054/-174114.523+1681639.726/-174130.828+1681631.682/SOUTH/-174642.125+1681456.557/-174659.179+1681454.063/-174715.385+1681500.179/-174727.027+1681513.502/-174731.438+1681530.983/-174836.000+1681930.000/ZULU</Route>
     </SID>
     <SID Name="NORTH" Airport="NVVV" Runways="29">
-      <Route Runway="29">SOUTH</Route>
+      <Route Runway="29">-174133.691+1681824.142/-174101.833+1681713.829/-174103.977+1681655.054/-174114.523+1681639.726/-174130.828+1681631.682/SOUTH/-174641.534+1681455.815/-174651.527+1681441.638/-174654.299+1681424.240/-174649.246+1681407.418/-174451.869+1681042.356</Route>
     </SID>
     <SID Name="SOUTH" Airport="NVVV" Runways="11,29">
-      <Route Runway="11" />
-      <Route Runway="29">SOUTH</Route>
+      <Route Runway="11">-174213.219+1681942.139/-174310.816+1682136.385/-174325.978+1682145.615/-174343.498+1682146.224/-174537.212+1682036.830</Route>
+      <Route Runway="29">-174133.691+1681824.142/-174101.833+1681713.829/-174103.977+1681655.054/-174114.523+1681639.726/-174130.828+1681631.682/SOUTH</Route>
     </SID>
     <SID Name="VOR" Airport="NVVV" Runways="11">
-      <Route Runway="11" />
+      <Route Runway="11">-174213.219+1681942.139/-174452.075+1682337.179</Route>
     </SID>
     <SID Name="IP1A" Airport="NWWM" Runways="17">
-      <Route Runway="17">PIROG/NORAC/MISGA/IP NDB</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221649.784+1662825.064/-221714.732+1662836.155/-221901.291+1663102.518/PIROG/-221929.980+1664128.358/-222019.063+1664317.123/NORAC/MISGA/IP NDB</Route>
     </SID>
     <SID Name="IP2B" Airport="NWWM" Runways="35">
-      <Route Runway="35">PIROG/NORAC/MISGA/IP NDB</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-221911.555+1663542.625/PIROG/-222304.920+1664348.928/NORAC/MISGA/IP NDB</Route>
     </SID>
     <SID Name="IP1C" Airport="NWWM" Runways="17">
-      <Route Runway="17">NORAC/MISGA/IP NDB</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221649.095+1662824.946/-221712.419+1662834.467/NORAC/MISGA/IP NDB</Route>
     </SID>
     <SID Name="IP2F" Airport="NWWM" Runways="35">
-      <Route Runway="35">NORAC/MISGA/IP NDB</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-222112.561+1663651.379/NORAC/MISGA/IP NDB</Route>
     </SID>
     <SID Name="LTO3A" Airport="NWWM" Runways="17">
-      <Route Runway="17">MGA VOR/LTO VOR</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221632.671+1662824.099/-221640.765+1662824.206/MGA VOR/-221905.643+1662822.586/-221933.562+1662809.226/-221951.774+1662742.735/-221955.557+1662709.982/-221731.906+1662200.900/-221712.510+1662137.160/-221645.022+1662126.192/LTO VOR</Route>
     </SID>
     <SID Name="LTO4B" Airport="NWWM" Runways="35">
-      <Route Runway="35">LTO VOR</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221402.403+1662817.549/-221338.550+1662801.097/-221324.337+1662734.661/-221332.313+1662050.572/-221326.919+1662021.739/LTO VOR</Route>
     </SID>
     <SID Name="LU1D" Airport="NWWM" Runways="17">
-      <Route Runway="17">KAORI/LU NDB</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221649.784+1662825.064/-221714.732+1662836.155/-221901.291+1663102.518/-221905.094+1663537.575/-221835.500+1663631.841/-221745.733+1663704.612/KAORI/LU NDB</Route>
     </SID>
     <SID Name="LU2G" Airport="NWWM" Runways="35">
-      <Route Runway="35">KAORI/LU NDB</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-221600.671+1663354.243/KAORI/LU NDB</Route>
     </SID>
     <SID Name="MG1" Airport="NWWM" Runways="17">
-      <Route Runway="17" />
+      <Route Runway="17">-221547.452+1662822.649/-221720.571+1662901.735/-221701.351+1663004.474/-221927.077+1663531.148</Route>
     </SID>
     <SID Name="MR1A" Airport="NWWM" Runways="17">
-      <Route Runway="17">PIROG/KAORI/OUANA/MR NDB</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221649.784+1662825.064/-221714.732+1662836.155/-221901.291+1663102.518/PIROG/-221928.638+1664129.163/-221918.970+1664157.564/KAORI/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR2B" Airport="NWWM" Runways="35">
-      <Route Runway="35">PIROG/KAORI/OUANA/MR NDB</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-221911.555+1663542.625/PIROG/-221928.638+1664129.163/-221918.970+1664157.564/KAORI/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR1C" Airport="NWWM" Runways="17">
-      <Route Runway="17">NORAC/OUANA/MR NDB</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221649.095+1662824.946/-221712.419+1662834.467/NORAC/-222352.189+1664554.524/-222347.790+1664627.202/-222257.744+1664731.431/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR1D" Airport="NWWM" Runways="17">
-      <Route Runway="17">KAORI/OUANA/MR NDB</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221649.784+1662825.064/-221714.732+1662836.155/-221901.291+1663102.518/-221905.094+1663537.575/-221835.500+1663631.841/-221745.733+1663704.612/KAORI/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR2F" Airport="NWWM" Runways="35">
-      <Route Runway="35">NORAC/OUANA/MR NDB</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-222112.561+1663651.379/NORAC/-222352.189+1664554.524/-222347.790+1664627.202/-222257.744+1664731.431/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR2G" Airport="NWWM" Runways="35">
-      <Route Runway="35">KAORI/OUANA/MR NDB</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-221600.671+1663354.243/KAORI/OUANA/MR NDB</Route>
     </SID>
     <SID Name="SEP1A" Airport="NWWM" Runways="17">
-      <Route Runway="17">PIROG</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221649.784+1662825.064/-221714.732+1662836.155/-221901.291+1663102.518/PIROG</Route>
     </SID>
     <SID Name="GOPR3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">NW NDB/TOSAM/GOPRA</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220316.935+1661459.068/-220317.641+1661439.914/NW NDB/TOSAM/GOPRA</Route>
     </SID>
     <SID Name="GOPR3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">NW NDB/TOSAM/GOPRA</Route>
+      <Route Runway="29">-220025.049+1661158.319/NW NDB/TOSAM/GOPRA</Route>
     </SID>
     <SID Name="LTO3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">LTO VOR</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.475+1661516.926/-220233.446+1661525.570/-220250.423+1661525.842/-220803.155+1661205.235/-220839.361+1661125.861/-220853.851+1661032.608/-220843.115+1660938.330/-220809.740+1660856.115/-220721.777+1660836.139/-220630.788+1660843.218/LTO VOR</Route>
     </SID>
     <SID Name="LTO3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">LTO VOR</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215904.584+1660923.424/-215906.065+1660903.626/-215916.439+1660847.210/-220323.808+1660608.040/-220417.226+1660600.627/-220507.475+1660621.543/-220542.438+1660705.754/-220553.686+1660802.600/-220538.506+1660858.368/-220500.557+1660939.613/LTO VOR</Route>
     </SID>
     <SID Name="NISA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">BEDON/NISAS</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.793+1661517.231/-220234.475+1661525.841/-220252.068+1661525.395/-220307.359+1661516.003/-220316.694+1661459.907/-220310.303+1660637.769/BEDON/NISAS</Route>
     </SID>
     <SID Name="NISA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">BEDON/NISAS</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215904.584+1660923.424/-215906.065+1660903.626/-215916.439+1660847.210/BEDON/NISAS</Route>
     </SID>
     <SID Name="ONIB3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">NW NDB/TOSAM/ONIBA</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220316.935+1661459.068/-220317.641+1661439.914/NW NDB/TOSAM/ONIBA</Route>
     </SID>
     <SID Name="ONIB3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">NW NDB/TOSAM/ONIBA</Route>
+      <Route Runway="29">-220025.049+1661158.319/NW NDB/TOSAM/ONIBA</Route>
     </SID>
     <SID Name="POGO" Airport="NWWW" Runways="11,29">
-      <Route Runway="11">GIRAD/MAMIT</Route>
-      <Route Runway="29">GIRAD/MAMIT</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220228.342+1661529.969/-220303.694+1661550.804/-220343.952+1661552.337/GIRAD/-221600.501+1661614.710/MAMIT</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215933.342+1660838.410/-215951.805+1660839.894/-220007.139+1660851.084/GIRAD/-221600.501+1661614.710/MAMIT</Route>
     </SID>
     <SID Name="POXA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">SUDOV/POXAK</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.716+1661517.159/-220234.230+1661525.780/-220251.676+1661525.511/-220306.956+1661516.414/-220316.469+1661500.632/SUDOV/POXAK</Route>
     </SID>
     <SID Name="POXA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">SUDOV/POXAK</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215904.579+1660923.389/-215906.095+1660903.535/-215916.545+1660847.112/-215933.175+1660838.443/SUDOV/POXAK</Route>
     </SID>
     <SID Name="SCUB3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">GIRAD/BASSA/SCUBA</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220228.342+1661529.969/-220303.694+1661550.804/-220343.952+1661552.337/GIRAD/BASSA/SCUBA</Route>
     </SID>
     <SID Name="SCUB3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">BASSA/SCUBA</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215933.342+1660838.410/-215951.805+1660839.894/-220007.139+1660851.084/BASSA/SCUBA</Route>
     </SID>
     <SID Name="TEPA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">SAMID/TEPAM</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.876+1661517.308/-220234.748+1661525.907/-220252.497+1661525.265/-220307.797+1661515.542/-220316.925+1661459.104/-220317.651+1661439.959/-215942.160+1660809.258/SAMID/TEPAM</Route>
     </SID>
     <SID Name="TEPA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">SAMID/TEPAM</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215904.650+1660923.810/-215905.775+1660904.552/SAMID/TEPAM</Route>
     </SID>
     <SID Name="VIRA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">GIRAD/BASSA/VIRAR</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220228.342+1661529.969/-220303.694+1661550.804/-220343.952+1661552.337/GIRAD/BASSA/VIRAR</Route>
     </SID>
     <SID Name="VIRA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">BASSA/VIRAR</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215933.342+1660838.410/-215951.805+1660839.894/-220007.139+1660851.084/BASSA/VIRAR</Route>
     </SID>
     <STAR Name="GUGPU1" Airport="AYMH" Runways="08,12,26,30">
       <Route Runway="08">GUGPU/ESNON/YABAL/YMHEB</Route>
@@ -3950,10 +3958,10 @@ NINIA
       <Route Runway="32R">GUMBU/UGREK/SARAB/ISLOK</Route>
     </STAR>
     <STAR Name="HIRI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY VOR</Route>
-      <Route Runway="14R">PY VOR</Route>
-      <Route Runway="32L">PY VOR</Route>
-      <Route Runway="32R">PY VOR</Route>
+      <Route Runway="14L">-083458.852+1465623.660/PY VOR</Route>
+      <Route Runway="14R">-083458.852+1465623.660/PY VOR</Route>
+      <Route Runway="32L">-083458.852+1465623.660/PY VOR</Route>
+      <Route Runway="32R">-083458.852+1465623.660/PY VOR</Route>
     </STAR>
     <STAR Name="KOKODA" Airport="AYPY" Runways="14L,14R,32L,32R">
       <Route Runway="14L">RUPNO/PY VOR</Route>
@@ -3972,10 +3980,10 @@ NINIA
       <Route Runway="32R">LOTGU/UGOTO/SARAB/ISLOK</Route>
     </STAR>
     <STAR Name="MAGI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">PY VOR</Route>
-      <Route Runway="14R">PY VOR</Route>
-      <Route Runway="32L">PY VOR</Route>
-      <Route Runway="32R">PY VOR</Route>
+      <Route Runway="14L">-100526.220+1474525.585/PY VOR</Route>
+      <Route Runway="14R">-100526.220+1474525.585/PY VOR</Route>
+      <Route Runway="32L">-100526.220+1474525.585/PY VOR</Route>
+      <Route Runway="32R">-100526.220+1474525.585/PY VOR</Route>
     </STAR>
     <STAR Name="MUDOV1" Airport="AYPY" Runways="14L,32R">
       <Route Runway="14L">MUDOV/MIMEP/MEVOR/AKVAT/DAPLO/VIMIB</Route>
@@ -3996,10 +4004,10 @@ NINIA
       <Route Runway="32R">SAKTO/OPARO/POKUM/UGREK/SARAB/ISLOK</Route>
     </STAR>
     <STAR Name="TAVAI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">SHAOL/TESEM</Route>
-      <Route Runway="14R">SHAOL/TESEM</Route>
-      <Route Runway="32L">SHAOL/TESEM</Route>
-      <Route Runway="32R">SHAOL/TESEM</Route>
+      <Route Runway="14L">-102420.232+1465250.584/SHAOL/TESEM</Route>
+      <Route Runway="14R">-102420.232+1465250.584/SHAOL/TESEM</Route>
+      <Route Runway="32L">-102420.232+1465250.584/SHAOL/TESEM</Route>
+      <Route Runway="32R">-102420.232+1465250.584/SHAOL/TESEM</Route>
     </STAR>
     <STAR Name="UNSAM1" Airport="AYPY" Runways="14L,32R">
       <Route Runway="14L">UNSAM/ATSIM/ADLEV/DAPLO/VIMIB</Route>
@@ -4027,12 +4035,6 @@ NINIA
       <Transition Name="TARON">TARON</Transition>
       <Route Runway="20">TEDUM/KALTA/LAREB/MOTKI</Route>
     </STAR>
-    <STAR Name="WFLG1A" Airport="NFFN" Runways="02">
-      <Route Runway="02">BEDOK</Route>
-    </STAR>
-    <STAR Name="WFLG1B" Airport="NFFN" Runways="02">
-      <Route Runway="02">BEDOK</Route>
-    </STAR>
     <STAR Name="IP1N" Airport="NWWM" Runways="35">
       <Route Runway="35">IP NDB/MISGA/MGA VOR</Route>
     </STAR>
@@ -4043,16 +4045,16 @@ NINIA
       <Route Runway="35">KQ NDB/GIRAD/MGA VOR</Route>
     </STAR>
     <STAR Name="KQ1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">KQ NDB/LTO VOR/GIRAD/MAMIT</Route>
+      <Route Runway="35">KQ NDB/LTO VOR/GIRAD/-221600.659+1661613.879/MAMIT</Route>
     </STAR>
     <STAR Name="KQ1S" Airport="NWWM" Runways="35">
-      <Route Runway="35">KQ NDB/GIRAD/MAMIT</Route>
+      <Route Runway="35">KQ NDB/GIRAD/-221600.659+1661613.879/MAMIT</Route>
     </STAR>
     <STAR Name="KQ1T" Airport="NWWM" Runways="35">
-      <Route Runway="35">KQ NDB/LTO VOR/TIMDU/MGA VOR</Route>
+      <Route Runway="35">KQ NDB/LTO VOR/-220727.614+1661836.621/TIMDU/MGA VOR</Route>
     </STAR>
     <STAR Name="LTO1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">LTO VOR/GIRAD/MAMIT/MG194/MGA VOR</Route>
+      <Route Runway="35">LTO VOR/GIRAD/-221600.659+1661613.879/MAMIT/MG194/-222524.538+1662506.035/-222528.063+1662511.311/-222530.725+1662517.149/-222532.451+1662523.385/-222533.192+1662529.845/-222532.927+1662536.349/-222531.664+1662542.713/-222529.437+1662548.761/-222526.310+1662554.322/-222522.370+1662559.242/-222302.661+1662826.668/MGA VOR</Route>
     </STAR>
     <STAR Name="LU1N" Airport="NWWM" Runways="35">
       <Route Runway="35">LU NDB/GOSLA/MGA VOR</Route>
@@ -4064,7 +4066,7 @@ NINIA
       <Route Runway="35">OA NDB/OBOLI/MGA VOR</Route>
     </STAR>
     <STAR Name="TH1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">TH NDB/LTO VOR/GIRAD/MAMIT</Route>
+      <Route Runway="35">TH NDB/LTO VOR/GIRAD/-221600.659+1661613.879/MAMIT</Route>
     </STAR>
     <STAR Name="TH1T" Airport="NWWM" Runways="35">
       <Route Runway="35">TH NDB/LTO VOR/TIMDU/MGA VOR</Route>
@@ -4076,7 +4078,7 @@ NINIA
       <Route Runway="11">GOPRA/BASAR/LTO VOR</Route>
     </STAR>
     <STAR Name="GOPR2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">GOPRA/SARAM/TOSAM</Route>
+      <Route Runway="11">GOPRA/SARAM/-214254.681+1655323.970/-214508.460+1655119.324/-214734.929+1654932.452/TOSAM</Route>
     </STAR>
     <STAR Name="MESUS2" Airport="NWWW" Runways="11">
       <Route Runway="11">MESUS/ADORA/LTO VOR</Route>
@@ -4085,7 +4087,7 @@ NINIA
       <Route Runway="11">NIPOG/LECNA/DETIS/LTO VOR</Route>
     </STAR>
     <STAR Name="NIPO2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">NIPOG/LECNA/SARAM/TOSAM</Route>
+      <Route Runway="11">NIPOG/LECNA/SARAM/-214254.681+1655323.970/-214508.460+1655119.324/-214734.929+1654932.452/TOSAM</Route>
     </STAR>
     <STAR Name="NISAS2" Airport="NWWW" Runways="11">
       <Route Runway="11">NISAS/KOKOL/PEPIT/LTO VOR</Route>
@@ -4112,7 +4114,7 @@ NINIA
       <Route Runway="11">SCUBA/SONIT/ATSAR/LTO VOR</Route>
     </STAR>
     <STAR Name="SCUB2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">SCUBA/SONIT/ATSAR/PEPIT</Route>
+      <Route Runway="11">SCUBA/SONIT/ATSAR/-221518.911+1661229.067/-221506.568+1661001.197/-221433.487+1660737.096/-221340.439+1660520.152/-221228.676+1660313.568/-221059.873+1660120.310/-220916.114+1655943.028/-220719.829+1655823.985/PEPIT</Route>
     </STAR>
     <STAR Name="TEPAM2" Airport="NWWW" Runways="11">
       <Route Runway="11">TEPAM/SOTAL/SAMID/LTO VOR</Route>
@@ -4124,7 +4126,7 @@ NINIA
       <Route Runway="11">VIRAR/NULVI/LTO VOR</Route>
     </STAR>
     <STAR Name="VIRA2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">VIRAR/NULVI/PEPIT</Route>
+      <Route Runway="11">VIRAR/NULVI/-221518.911+1661229.067/-221506.568+1661001.197/-221433.487+1660737.096/-221340.439+1660520.152/-221228.676+1660313.568/-221059.873+1660120.310/-220916.114+1655943.028/-220719.829+1655823.985/PEPIT</Route>
     </STAR>
     <Approach Name="RNPA" Airport="AYMH" Runway="08">
       <Transition Name="YMHEA">YMHEA</Transition>
@@ -4154,7 +4156,7 @@ NINIA
     </Approach>
     <Approach Name="RNP-AR" Airport="NFFN" Runway="20">
       <Transition Name="MOTKI">MOTKI</Transition>
-      <Route>FN664/NIREV/FN581/FN812/FN20T</Route>
+      <Route>FN664/NIREV/FN581/FN812/-174501.109+1772650.039</Route>
     </Approach>
   </SIDSTARs>
   <Airports>
@@ -4174,13 +4176,13 @@ NINIA
       <Runway Name="11" Position="-111803.290+1594742.810" />
       <Runway Name="29" Position="-111811.812+1594803.010" />
     </Airport>
-    <Airport ICAO="AGGC" FullName="Choiseul" Position="-064243.319+1562346.298" Elevation="5">
+    <Airport ICAO="AGGC" FullName="Choiseul Bay" Position="-064243.319+1562346.298" Elevation="5">
       <Runway Name="13" Position="-064234.279+1562340.510" />
       <Runway Name="31" Position="-064252.351+1562352.091" />
     </Airport>
     <Airport ICAO="AGGE" FullName="Ballalae" Position="-065927.000+1555309.000" Elevation="6">
-      <Runway Name="04" Position="-065943.530+1555247.809" />
-      <Runway Name="22" Position="-065910.460+1555330.181" />
+      <Runway Name="05" Position="-065943.530+1555247.809" />
+      <Runway Name="23" Position="-065910.460+1555330.181" />
     </Airport>
     <Airport ICAO="AGGF" FullName="Maringe" Position="-080631.162+1593436.181" Elevation="9">
       <Runway Name="18" Position="-080611.491+1593439.299" />
@@ -4189,14 +4191,6 @@ NINIA
     <Airport ICAO="AGGH" FullName="Honiara Intl" Position="-092547.089+1600253.380" Elevation="34">
       <Runway Name="06" Position="-092555.060+1600242.659" />
       <Runway Name="24" Position="-092528.268+1600349.529" />
-    </Airport>
-    <Airport ICAO="AGGI" FullName="Babanakira" Position="-094451.940+1595022.780" Elevation="74">
-      <Runway Name="17" Position="-094441.000+1595022.268" />
-      <Runway Name="35" Position="-094502.891+1595023.291" />
-    </Airport>
-    <Airport ICAO="AGGJ" FullName="Avu Avu" Position="-095205.401+1602437.199" Elevation="27">
-      <Runway Name="14" Position="-095157.481+1602432.580" />
-      <Runway Name="32" Position="-095215.899+1602443.740" />
     </Airport>
     <Airport ICAO="AGGK" FullName="Kirakira" Position="-102630.000+1615348.000" Elevation="8">
       <Runway Name="10" Position="-102650.921+1615336.600" />
@@ -4258,10 +4252,6 @@ NINIA
       <Runway Name="12" Position="-081927.458+1604758.200" />
       <Runway Name="30" Position="-081944.108+1604819.840" />
     </Airport>
-    <Airport ICAO="AGRC" FullName="Ringi Cove" Position="-080706.000+1570830.000" Elevation="26">
-      <Runway Name="01" Position="-080750.290+1570829.270" />
-      <Runway Name="19" Position="-080711.708+1570840.808" />
-    </Airport>
     <Airport ICAO="ANYN" FullName="Nauru Intl" Position="-003240.920+1665501.679" Elevation="25">
       <Runway Name="12" Position="-003229.558+1665443.718" />
       <Runway Name="30" Position="-003311.048+1665532.459" />
@@ -4321,8 +4311,8 @@ NINIA
       <Runway Name="32" Position="-075801.801+1454625.500" />
     </Airport>
     <Airport ICAO="AYKV" FullName="Kavieng" Position="-023456.000+1504839.100" Elevation="15">
-      <Runway Name="12" Position="-023430.000+1504806.401" />
-      <Runway Name="30" Position="-023501.601+1504851.300" />
+      <Runway Name="12" Position="-023429.842+1504806.199" />
+      <Runway Name="30" Position="-023511.180+1504904.591" />
     </Airport>
     <Airport ICAO="AYKY" FullName="Kunaye" Position="-030237.741+1523745.419" Elevation="199">
       <Runway Name="12" Position="-030224.180+1523731.321" />
@@ -4355,14 +4345,14 @@ NINIA
       <Runway Name="26" Position="-104119.320+1525034.919" />
     </Airport>
     <Airport ICAO="AYNZ" FullName="Nadzab" Position="-063409.199+1464341.000" Elevation="238">
-      <Runway Name="09" Position="-063407.900+1464254.900" />
-      <Runway Name="27" Position="-063414.801+1464414.000" />
+      <Runway Name="09" Position="-063408.080+1464254.911" />
+      <Runway Name="27" Position="-063414.930+1464414.032" />
     </Airport>
     <Airport ICAO="AYPY" FullName="Jacksons" Position="-092625.000+1471307.000" Elevation="129">
-      <Runway Name="14L" Position="-092551.200+1471250.101" />
-      <Runway Name="32R" Position="-092707.402+1471337.099" />
-      <Runway Name="14R" Position="-092605.100+1471247.000" />
-      <Runway Name="32L" Position="-092641.000+1471309.098" />
+      <Runway Name="14L" Position="-092551.179+1471250.069" />
+      <Runway Name="32R" Position="-092707.268+1471337.110" />
+      <Runway Name="14R" Position="-092605.129+1471246.969" />
+      <Runway Name="32L" Position="-092641.032+1471309.149" />
     </Airport>
     <Airport ICAO="AYTA" FullName="Tari" Position="-055041.000+1425649.000" Elevation="5502">
       <Runway Name="14" Position="-055022.621+1425637.162" />
@@ -4402,7 +4392,7 @@ NINIA
     </Airport>
     <Airport ICAO="NFFN" FullName="Nadi Intl" Position="-174523.000+1772637.000" Elevation="59">
       <Runway Name="02" Position="-174622.120+1772544.789" />
-      <Runway Name="20" Position="-174501.109+1772650.348" />
+      <Runway Name="20" Position="-174501.109+1772650.039" />
       <Runway Name="09" Position="-174511.801+1772613.009" />
       <Runway Name="27" Position="-174527.961+1772720.149" />
     </Airport>
@@ -4417,10 +4407,6 @@ NINIA
     <Airport ICAO="NFKD" FullName="Kadavu" Position="-190329.000+1780926.000" Elevation="6">
       <Runway Name="16" Position="-190314.710+1780922.831" />
       <Runway Name="34" Position="-190342.142+1780927.770" />
-    </Airport>
-    <Airport ICAO="NFMA" FullName="Mana" Position="-174022.000+1770554.000" Elevation="16">
-      <Runway Name="13" Position="-174014.408+1770547.609" />
-      <Runway Name="31" Position="-174029.752+1770601.721" />
     </Airport>
     <Airport ICAO="NFMO" FullName="Moala" Position="-183402.000+1795704.000" Elevation="13">
       <Runway Name="15" Position="-183348.341+1795700.040" />
@@ -4727,16 +4713,16 @@ NINIA
       <Runway Name="27" Position="-054126.131+1392110.350" />
     </Airport>
     <Airport ICAO="WAKT" FullName="Tanah Merah" Position="-060546.000+1401800.000" Elevation="86">
-      <Runway Name="07" Position="-060553.120+1401756.580" />
-      <Runway Name="25" Position="-060542.889+1401829.390" />
+      <Runway Name="07" Position="-060553.189+1401756.760" />
+      <Runway Name="25" Position="-060539.660+1401840.252" />
     </Airport>
     <Airport ICAO="WAKY" FullName="Koroway Batu" Position="-051250.000+1400124.000" Elevation="340">
       <Runway Name="16" Position="-051227.450+1400057.510" />
       <Runway Name="34" Position="-051252.150+1400105.689" />
     </Airport>
-    <Airport ICAO="WAVD" FullName="Nop Goliat Dekai" Position="-045113.000+1392912.000" Elevation="329">
-      <Runway Name="07" Position="-045129.599+1392824.110" />
-      <Runway Name="25" Position="-045112.110+1392924.950" />
+    <Airport ICAO="WAVD" FullName="Nop Goliat Dekai" Position="-045113.000+1392912.000" Elevation="181">
+      <Runway Name="07" Position="-045131.399+1392817.839" />
+      <Runway Name="25" Position="-045108.971+1392935.840" />
     </Airport>
     <Airport ICAO="WAVE" FullName="Elelim" Position="-034707.541+1392303.440" Elevation="1487">
       <Runway Name="03" Position="-034721.469+1392257.929" />

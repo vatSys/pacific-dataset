@@ -33,7 +33,10 @@
       <Point>AF29S</Point>
       <Point>WL600</Point>
       <Point>WL700</Point>
+      <Point>WW433</Point>
       <Point>WW435</Point>
+      <Point>WW700</Point>
+      <Point>WW701</Point>
       <Point>HOBLO</Point>
       <Point>CETMO</Point>
       <Point>FASRU</Point>
@@ -55,6 +58,7 @@
       <Point>FWL12</Point>
       <Point>FWL30</Point>
       <Point>FWW11</Point>
+      <Point>FWW29</Point>
       <Point>MAVTE</Point>
       <Point>WADRU</Point>
       <Point>YMDWI</Point>
@@ -73,6 +77,7 @@
       <Point>IWL12</Point>
       <Point>IWL30</Point>
       <Point>IWW11</Point>
+      <Point>IWW29</Point>
       <Point>TONBE</Point>
       <Point>DGOWA</Point>
       <Point>DGOWB</Point>
@@ -123,12 +128,6 @@
       <Point>GGFNC</Point>
       <Point>GGFNF</Point>
       <Point>GGFNI</Point>
-      <Point>GGISA</Point>
-      <Point>GGISF</Point>
-      <Point>GGISI</Point>
-      <Point>GGJEA</Point>
-      <Point>GGJEF</Point>
-      <Point>GGJEI</Point>
       <Point>GGKNA</Point>
       <Point>GGKNC</Point>
       <Point>GGKNF</Point>
@@ -307,6 +306,7 @@
       <Point>FWL12</Point>
       <Point>FWL30</Point>
       <Point>FWW11</Point>
+      <Point>FWW29</Point>
       <Point>MAVTE</Point>
       <Point>WADRU</Point>
       <Point>DGOWF</Point>
@@ -320,8 +320,6 @@
       <Point>GGESF</Point>
       <Point>GGFEF</Point>
       <Point>GGFNF</Point>
-      <Point>GGISF</Point>
-      <Point>GGJEF</Point>
       <Point>GGKNF</Point>
       <Point>GGRWF</Point>
       <Point>GGYSF</Point>
@@ -376,6 +374,7 @@
       <Point>IWL12</Point>
       <Point>IWL30</Point>
       <Point>IWW11</Point>
+      <Point>IWW29</Point>
       <Point>TONBE</Point>
       <Point>DGOWI</Point>
       <Point>FNHNI</Point>
@@ -388,8 +387,6 @@
       <Point>GGESI</Point>
       <Point>GGFEI</Point>
       <Point>GGFNI</Point>
-      <Point>GGISI</Point>
-      <Point>GGJEI</Point>
       <Point>GGKNI</Point>
       <Point>GGRWI</Point>
       <Point>GGYSI</Point>
@@ -458,7 +455,10 @@
       <Point>AF29S</Point>
       <Point>WL600</Point>
       <Point>WL700</Point>
+      <Point>WW433</Point>
       <Point>WW435</Point>
+      <Point>WW700</Point>
+      <Point>WW701</Point>
       <Point>HOBLO</Point>
       <Point>CETMO</Point>
       <Point>FASRU</Point>
@@ -491,8 +491,6 @@
       <Point>GGFEG</Point>
       <Point>GGFNA</Point>
       <Point>GGFNC</Point>
-      <Point>GGISA</Point>
-      <Point>GGJEA</Point>
       <Point>GGKNA</Point>
       <Point>GGKNC</Point>
       <Point>GGRWB</Point>
@@ -632,12 +630,6 @@
     <Line>GGFNC/GGFNI</Line>
     <Line>GGFNI/GGFNF</Line>
     <Line>GGFNM/GGFNF</Line>
-    <Line>GGISA/GGISI</Line>
-    <Line>GGISI/GGISF</Line>
-    <Line>GGISM/GGISF</Line>
-    <Line>GGJEA/GGJEI</Line>
-    <Line>GGJEI/GGJEF</Line>
-    <Line>GGJEM/GGJEF</Line>
     <Line>GGKNA/GGKNI</Line>
     <Line>GGKNC/GGKNI</Line>
     <Line>GGKNI/GGKNF</Line>
@@ -811,15 +803,6 @@
     <Line>YMHEI/YMHEF/YMHEM</Line>
     <Line>YMHEA/YMHEI</Line>
     <Line>YMHEB/YMHEI</Line>
-    <Line>YMHEI/YMHEF/YMHEM</Line>
-    <Line>YMHEA/YMHEI</Line>
-    <Line>YMHEB/YMHEI</Line>
-    <Line>YMHEI/YMHEF/YMHEM</Line>
-    <Line>YMHEA/YMHEI</Line>
-    <Line>YMHEB/YMHEI</Line>
-    <Line>YMHEI/YMHEF/YMHEM</Line>
-    <Line>YMHEA/YMHEI</Line>
-    <Line>YMHEB/YMHEI</Line>
     <Line>YNZWI/YNZWF/YNZWM</Line>
     <Line>WESFI/YNZWI</Line>
     <Line>YNZWA/YNZWI</Line>
@@ -841,24 +824,28 @@
     <Line>FNAWA/FNAWI</Line>
     <Line>FNAWB/FNAWI</Line>
     <Line>FNAWC/FNAWI</Line>
-    <Line>IF11/FF11/MA11</Line>
+    <Line>IF11/FF11/MA11/-174133.691+1681824.142</Line>
     <Line>AF11N/IF11</Line>
     <Line>AF11S/IF11</Line>
     <Line>AF11W/IF11</Line>
-    <Line>IF29/FF29/MA29</Line>
+    <Line>IF29/FF29/MA29/-174213.219+1681942.139</Line>
     <Line>AF29E/IF29</Line>
     <Line>AF29N/IF29</Line>
     <Line>AF29S/IF29</Line>
-    <Line>IWL12/FWL12/NL12T</Line>
+    <Line>IWL12/FWL12/-204613.591+1671405.618</Line>
     <Line>WL600/IWL12</Line>
-    <Line>IWL30/FWL30/NL30T</Line>
+    <Line>IWL30/FWL30/-204642.290+1671436.211</Line>
     <Line>WL700/IWL30</Line>
-    <Line>IWW11/FWW11/MWW11</Line>
+    <Line>IWW11/FWW11/MWW11/-220025.049+1661158.319</Line>
+    <Line>WW433/IWW11</Line>
     <Line>WW435/IWW11</Line>
-    <Line>HOBLO/MAVTE/WA06T</Line>
+    <Line>WW702/IWW29/FWW29/MWW29/-220119.650+1661335.371</Line>
+    <Line>WW700/WW701/WW702/WW702</Line>
+    <Line>WW701/WW702/WW702</Line>
+    <Line>HOBLO/MAVTE/+084302.662+1674322.192</Line>
     <Line>CETMO/HOBLO</Line>
     <Line>FASRU/HOBLO</Line>
-    <Line>TONBE/WADRU/WA24T</Line>
+    <Line>TONBE/WADRU/+084322.238+1674425.699</Line>
     <Line>OBSOE/TONBE</Line>
     <Line>PAYPO/TONBE</Line>
   </Map>
