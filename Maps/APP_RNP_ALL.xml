@@ -31,8 +31,7 @@
       <Point>AF29E</Point>
       <Point>AF29N</Point>
       <Point>AF29S</Point>
-      <Point>WL600</Point>
-      <Point>WL700</Point>
+      <Point>ONULU</Point>
       <Point>WW433</Point>
       <Point>WW435</Point>
       <Point>WW700</Point>
@@ -75,7 +74,9 @@
       <Point>IF11</Point>
       <Point>IF29</Point>
       <Point>IWL12</Point>
+      <Point>WL600</Point>
       <Point>IWL30</Point>
+      <Point>WL700</Point>
       <Point>IWW11</Point>
       <Point>WW702</Point>
       <Point>IWW29</Point>
@@ -373,7 +374,9 @@
       <Point>IF11</Point>
       <Point>IF29</Point>
       <Point>IWL12</Point>
+      <Point>WL600</Point>
       <Point>IWL30</Point>
+      <Point>WL700</Point>
       <Point>IWW11</Point>
       <Point>WW702</Point>
       <Point>IWW29</Point>
@@ -455,8 +458,7 @@
       <Point>AF29E</Point>
       <Point>AF29N</Point>
       <Point>AF29S</Point>
-      <Point>WL600</Point>
-      <Point>WL700</Point>
+      <Point>ONULU</Point>
       <Point>WW433</Point>
       <Point>WW435</Point>
       <Point>WW700</Point>
@@ -835,8 +837,10 @@
     <Line>AF29N/IF29</Line>
     <Line>AF29S/IF29</Line>
     <Line>IWL12/FWL12/-204613.591+1671405.618</Line>
+    <Line>ONULU/WL600/IWL12</Line>
     <Line>WL600/IWL12</Line>
     <Line>IWL30/FWL30/-204642.290+1671436.211</Line>
+    <Line>ONULU/WL700/IWL30</Line>
     <Line>WL700/IWL30</Line>
     <Line>IWW11/FWW11/MWW11/-220025.049+1661158.319</Line>
     <Line>WW433/IWW11</Line>
