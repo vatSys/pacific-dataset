@@ -10,8 +10,6 @@
       <Point>AGGE</Point>
       <Point>AGGF</Point>
       <Point>AGGH</Point>
-      <Point>AGGI</Point>
-      <Point>AGGJ</Point>
       <Point>AGGK</Point>
       <Point>AGGL</Point>
       <Point>AGGM</Point>
@@ -27,7 +25,6 @@
       <Point>AGKG</Point>
       <Point>AGLM</Point>
       <Point>AGOB</Point>
-      <Point>AGRC</Point>
       <Point>ANYN</Point>
       <Point>AYBK</Point>
       <Point>AYBU</Point>
@@ -65,7 +62,6 @@
       <Point>NFFO</Point>
       <Point>NFKB</Point>
       <Point>NFKD</Point>
-      <Point>NFMA</Point>
       <Point>NFMO</Point>
       <Point>NFNA</Point>
       <Point>NFNB</Point>
@@ -158,8 +154,6 @@
       <Point>AGGE</Point>
       <Point>AGGF</Point>
       <Point>AGGH</Point>
-      <Point>AGGI</Point>
-      <Point>AGGJ</Point>
       <Point>AGGK</Point>
       <Point>AGGL</Point>
       <Point>AGGM</Point>
@@ -175,7 +169,6 @@
       <Point>AGKG</Point>
       <Point>AGLM</Point>
       <Point>AGOB</Point>
-      <Point>AGRC</Point>
       <Point>ANYN</Point>
       <Point>AYBK</Point>
       <Point>AYBU</Point>
@@ -213,7 +206,6 @@
       <Point>NFFO</Point>
       <Point>NFKB</Point>
       <Point>NFKD</Point>
-      <Point>NFMA</Point>
       <Point>NFMO</Point>
       <Point>NFNA</Point>
       <Point>NFNB</Point>
