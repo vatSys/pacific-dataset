@@ -72,18 +72,6 @@
     <Lat>-19.4549155555556</Lat>
     <Long>169.223338055556</Long>
   </Radar>
-  <Radar Name="Noumea La Tontouta" Type="ADSB" Elevation="220" MaxRange="250">
-    <Lat>-22.0233160998813</Lat>
-    <Long>166.204926591792</Long>
-  </Radar>
-  <Radar Name="Noumea Magenta" Type="ADSB" Elevation="76" MaxRange="250">
-    <Lat>-22.2599825891748</Lat>
-    <Long>166.471351857632</Long>
-  </Radar>
-  <Radar Name="Lifou Tower" Type="ADSB" Elevation="135" MaxRange="250">
-    <Lat>-20.7759765293339</Lat>
-    <Long>167.238820528073</Long>
-  </Radar>
   <Radar Name="Bucholz" Type="PRI" Elevation="30" MaxRange="150">
     <Lat>8.71806111111111</Lat>
     <Long>167.733210833333</Long>
@@ -139,10 +127,6 @@
   <Radar Name="Noumea" Type="SMR_ADSB" Elevation="51" MaxRange="5">
     <Lat>-22.0144444444444</Lat>
     <Long>166.213055555556</Long>
-  </Radar>
-  <Radar Name="Lifou" Type="SMR_ADSB" Elevation="95" MaxRange="5">
-    <Lat>-20.7744444444444</Lat>
-    <Long>167.239167000000</Long>
   </Radar>
   <Radar Name="Bucholz" Type="SMR_ADSB" Elevation="16" MaxRange="5">
     <Lat>8.72012194444445</Lat>
