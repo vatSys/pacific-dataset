@@ -450,6 +450,11 @@
         <Line>ATIS available on 126.2</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
+      <ControllerInfo Callsign="NWWW_GND">
+        <Line>Tontouta Ground</Line>
+        <Line>ATIS available on 126.2</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
     </Position>
     <Position Name="Magenta Tower" Type="ASD" DefaultCenter="-222047.0+1662815.0" DefaultRange="90" MagneticVariation="-12.5">
       <Sectors>
