@@ -259,7 +259,7 @@
   <Group Name="Procedural TWR">
     <Position Name="Goroka Tower" Type="ASD" DefaultCenter="-06.082600+145.391283" DefaultRange="80" MagneticVariation="-4.9">
       <Sectors>
-        <Sector Name="AYGAT" />
+        <Sector Name="AYGA ADC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -287,7 +287,7 @@
     </Position>
     <Position Name="Madang Tower" Type="ASD" DefaultCenter="-05.208300+145.787667" DefaultRange="80" MagneticVariation="-4.8">
       <Sectors>
-        <Sector Name="AYMDT" />
+        <Sector Name="AYMD ADC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -315,7 +315,7 @@
     </Position>
     <Position Name="Hagen Tower" Type="ASD" DefaultCenter="-05.827806+144.299528" DefaultRange="80" MagneticVariation="-4.6">
       <Sectors>
-        <Sector Name="AYMHT" />
+        <Sector Name="AYMH ADC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -343,7 +343,7 @@
     </Position>
     <Position Name="Tokua Tower" Type="ASD" DefaultCenter="-04.341028+152.379222" DefaultRange="80" MagneticVariation="-6.3">
       <Sectors>
-        <Sector Name="AYTKT" />
+        <Sector Name="AYTK ADC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -371,7 +371,7 @@
     </Position>
     <Position Name="Port Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="200" MagneticVariation="-11.6">
       <Sectors>
-        <Sector Name="NVVVT" />
+        <Sector Name="NVVV ADC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -398,7 +398,7 @@
     </Position>
     <Position Name="Nadzab Tower" Type="ASD" DefaultCenter="-06.569222+146.728056" DefaultRange="80" MagneticVariation="-5.3">
       <Sectors>
-        <Sector Name="AYNZT" />
+        <Sector Name="AYNZ ADC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -426,7 +426,8 @@
     </Position>
     <Position Name="Tontouta Tower" Type="ASD" DefaultCenter="-215926.0+1661013.0" DefaultRange="90" MagneticVariation="-12.5">
       <Sectors>
-        <Sector Name="NWWWT" />
+        <Sector Name="NWWW ADC" />
+        <Sector Name="NWWW SMC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -447,6 +448,11 @@
       </ArrivalLists>
       <ControllerInfo>
         <Line>Tontouta Tower</Line>
+        <Line>ATIS available on 126.2</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="NWWW_GND">
+        <Line>Tontouta Ground</Line>
         <Line>ATIS available on 126.2</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
@@ -481,7 +487,7 @@
     </Position>
     <Position Name="Lifou Tower" Type="ASD" DefaultCenter="-204624.0+1671420.0" DefaultRange="70" MagneticVariation="-12.2">
       <Sectors>
-        <Sector Name="NWWLT" />
+        <Sector Name="NWWL ADC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -506,8 +512,8 @@
   <Group Name="Radar TWR">
     <Position Name="Jacksons Tower" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="90" MagneticVariation="-5.8">
       <Sectors>
-        <Sector Name="AYPYT" />
-        <Sector Name="AYPYG" />
+        <Sector Name="AYPY ADC" />
+        <Sector Name="AYPY SMC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -540,7 +546,8 @@
     </Position>
     <Position Name="Nadi Tower" Type="ASD" DefaultCenter="-17.756389+177.443611" DefaultRange="60" MagneticVariation="-12.5">
       <Sectors>
-        <Sector Name="NFFNT" />
+        <Sector Name="NFFN ADC" />
+        <Sector Name="NFFN SMC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -578,7 +585,8 @@
 
     <Position Name="Nausori Tower" Type="ASD" DefaultCenter="-18.044722+178.559444" DefaultRange="60" MagneticVariation="-12.6">
       <Sectors>
-        <Sector Name="NFNAT" />
+        <Sector Name="NFNA ADC" />
+        <Sector Name="NFNA SMC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -602,11 +610,16 @@
         <Line>ATIS available on 128.5</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
+      <ControllerInfo Callsign="NFNA_GND">
+        <Line>Nausori Ground</Line>
+        <Line>ATIS available on 128.5</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
     </Position>
     <Position Name="Bucholz Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="60" MagneticVariation="-7.6">
       <Sectors>
-        <Sector Name="PKWAT" />
-        <Sector Name="PKWAG" />
+        <Sector Name="PKWA ADC" />
+        <Sector Name="PKWA SMC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
