@@ -50,8 +50,6 @@
   </Map>
   <Map Type="System2" Name="NWWW_VFR" Priority="1" Center="-22.014444+166.213056">
     <Symbol Type="HollowSquare">
-      <Point>UVIKI</Point>
-      <Point>VICTR</Point>
       <Point>Y</Point>
       <Point>S</Point>
       <Point>PD</Point>
@@ -70,11 +68,11 @@
       <Point>L</Point>
       <Point>R</Point>
       <Point>V</Point>
+      <Point>UVIKI</Point>
+      <Point>VICTR</Point>
       <Point>NO</Point>
     </Symbol>
     <Label HasLeader="True">
-      <Point>UVIKI</Point>
-      <Point>VICTR</Point>
       <Point>Y</Point>
       <Point>S</Point>
       <Point>PD</Point>
@@ -93,13 +91,13 @@
       <Point>L</Point>
       <Point>R</Point>
       <Point>V</Point>
+      <Point>UVIKI</Point>
+      <Point>VICTR</Point>
       <Point>NO</Point>
     </Label>
   </Map>
   <Map Type="System2" Name="NWWW_VFR_FULL_NAME" Priority="1" Center="-22.014444+166.213056">
     <Label HasLeader="True" LabelOrientation="SW">
-      <Point Name="TUVIKI">UVIKI</Point>
-      <Point Name="VICTOR">VICTR</Point>
       <Point Name="PUEN ISLAND">Y</Point>
       <Point Name="UITOÉ PENINSULA">S</Point>
       <Point Name="DUMBÉA BOATPASS">PD</Point>
@@ -118,6 +116,8 @@
       <Point Name="LA CROIX">L</Point>
       <Point Name="WATER TANK">R</Point>
       <Point Name="GOAT ISLAND">V</Point>
+      <Point Name="TUVIKI">UVIKI</Point>
+      <Point Name="VICTOR">VICTR</Point>
       <Point Name="NOUARÉ ISLET">NO</Point>
     </Label>
   </Map>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="NVVV_LOC" Priority="1" Center="-3740.4+14450.6">
+    <Line Pattern="Dotted">
+      -174115.931+1681937.699/
+	  DELTA
+	</Line>
+    <Symbol Type="HollowTriangle">
+		<Point>DELTA</Point>
+    </Symbol>
+  </Map>
+</Maps>
