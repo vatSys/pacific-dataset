@@ -3,12 +3,18 @@
   <Map Type="System" Name="TMA_LL_LABELS" Priority="2" Center="-07.0+166.0">
     <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
       <Point Name="C020">-0652.5267+14658.6697</Point>
+      <Point Name="C050">-0659.409+14704.5232</Point>
       <Point Name="C050">-0635.2351+14704.8182</Point>
       <Point Name="C050">-0635.1767+14617.5119</Point>
+      <Point Name="C080">-0706.6173+14710.4358</Point>
       <Point Name="C080">-0653.7632+14627.9076</Point>
+      <Point Name="C080">-0636.7154+14722.8414</Point>
+      <Point Name="C080">-0636.6597+14607.2665</Point>
       <Point Name="C100">-0655.9927+14638.2092</Point>
       <Point Name="C100">-0613.314+14628.0074</Point>
-      <Point Name="CSFC">-0640.2502+14635.0746</Point>
+      <Point Name="C130">-0715.0317+14632.5671</Point>
+      <Point Name="C130">-0635.7021+14557.4434</Point>
+      <Point Name="C150">-0617.215+14652.3346</Point>
       <Point Name="C015">-0948.4333+14659.2269</Point>
       <Point Name="C040">-0937.6463+14735.0249</Point>
       <Point Name="C050">-1002.8021+14652.326</Point>

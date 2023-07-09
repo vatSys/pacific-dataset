@@ -672,7 +672,7 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="AYNZ" Visible="true" />
       </Strips>
-      <CFL QuickLevel="6000" />
+      <CFL QuickLevel="24000" />
       <ArrivalLists>
         <Airport Name="AYNZ" />
       </ArrivalLists>

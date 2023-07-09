@@ -31,8 +31,8 @@
       <Point>YMDNA</Point>
       <Point>YMDNC</Point>
       <Point>YMDND</Point>
-      <Point>WESFI</Point>
       <Point>YNZWA</Point>
+      <Point>WESFI</Point>
       <Point>LARID</Point>
       <Point>YTKWA</Point>
       <Point>YTKWB</Point>
@@ -465,8 +465,8 @@
       <Point>YMDNA</Point>
       <Point>YMDNC</Point>
       <Point>YMDND</Point>
-      <Point>WESFI</Point>
       <Point>YNZWA</Point>
+      <Point>WESFI</Point>
       <Point>LARID</Point>
       <Point>YTKWA</Point>
       <Point>YTKWB</Point>
@@ -846,6 +846,7 @@
     <Line>YMDNC/YMDNI</Line>
     <Line>YMDND/YMDNI</Line>
     <Line>YNZWI/YNZWF/YNZWM</Line>
+    <Line>LARID/YNZWA/YNZWI</Line>
     <Line>WESFI/YNZWI</Line>
     <Line>YNZWA/YNZWI</Line>
     <Line>YNZEI/YNZEF/YNZEM</Line>
