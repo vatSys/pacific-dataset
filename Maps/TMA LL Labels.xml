@@ -2,6 +2,10 @@
 <Maps>
   <Map Type="System" Name="TMA_LL_LABELS" Priority="2" Center="-07.0+166.0">
     <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+      <Point Name="F SFC-200">-0608.8667+14532.5167</Point>
+      <Point Name="F SFC-200">-0520.85+14555.0833</Point>
+      <Point Name="F SFC-200">-0505.45+14537.0167</Point>
+      <Point Name="F SFC-200">-0541.5+14416.2833</Point>
       <Point Name="C020">-0652.5267+14658.6697</Point>
       <Point Name="C050">-0659.409+14704.5232</Point>
       <Point Name="C050">-0635.2351+14704.8182</Point>
@@ -25,6 +29,8 @@
       <Point Name="C120">-0842.2516+14714.7122</Point>
       <Point Name="C140">-0852.8341+14728.0501</Point>
       <Point Name="CSFC">-0916.4667+14714.55</Point>
+      <Point Name="F SFC-200">-0428.8167+15214.5167</Point>
+      <Point Name="F SFC-200">-0413.0833+15231.85</Point>
       <Point Name="C025">-1737.8731+17703.5946</Point>
       <Point Name="CSFC">-1749.2075+17729.453</Point>
       <Point Name="C025">-1821.7811+17825.1313</Point>

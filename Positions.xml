@@ -64,6 +64,7 @@
       <Line>Nadi Centre</Line>
       <Line>ATC feedback - helpdesk.vatpac.org</Line>
     </ControllerInfo>
+    <Transition Altitude="11000" />
   </Position>
   <Position Name="Port Vila CTR" Type="ASD" DefaultCenter="-16.620629+167.789198" DefaultRange="1200" VisibilityRange="400">
     <Sectors>
@@ -86,7 +87,7 @@
       <Window Type="State" State="Announced" Visible="true" />
       <Window Type="State" State="Preactive" Visible="true" />
     </Strips>
-    <CFL QuickLevel="10000" />
+    <CFL QuickLevel="9000" />
     <ArrivalLists>
       <Airport Name="NVVV" />
     </ArrivalLists>
@@ -94,6 +95,7 @@
       <Line>Vila Centre</Line>
       <Line>ATC feedback - helpdesk.vatpac.org</Line>
     </ControllerInfo>
+    <Transition Altitude="11000" />
   </Position>
   <Position Name="Tontouta CTR" Type="ASD" DefaultCenter="-19.000+166.200" DefaultRange="1300" VisibilityRange="400">
     <Sectors>
@@ -117,18 +119,28 @@
       <Window Type="State" State="Announced" Visible="true" />
       <Window Type="State" State="Preactive" Visible="true" />
     </Strips>
-    <CFL QuickLevel="10000" />
+    <CFL QuickLevel="11000" />
     <ArrivalLists>
       <Airport Name="NWWW" />
       <Airport Name="NWWM" />
       <Airport Name="NWWL" />
     </ArrivalLists>
     <ControllerInfo>
-      <Line>Tontouta Centre</Line>
+      <Line>Tontouta Control</Line>
       <Line>ATC feedback - helpdesk.vatpac.org</Line>
     </ControllerInfo>
+    <Transition Altitude="11000" />
   </Position>
-  <Position Name="AYPY" Type="ASMGCS" ASMGCSAirport="AYPY" DefaultCenter="-09.440278+147.218611" DefaultRange="2" MagneticVariation="-5.8" Rotation="127">
+  <Group Name="Class C">
+    <Position Name="AYNZ" Type="ASMGCS" ASMGCSAirport="AYNZ" DefaultCenter="-063409.199+1464341.000" DefaultRange="2" MagneticVariation="-5.3" Rotation="0.5">
+      <Maps>
+        <Map Name="Nadzab/ASMGCS_AYNZ_RWY" />
+        <Map Name="Nadzab/ASMGCS_AYNZ_APR" />
+        <Map Name="Nadzab/ASMGCS_AYNZ_TWY" />
+        <Map Name="Nadzab/ASMGCS_AYNZ_BLD" />
+      </Maps>
+    </Position>
+    <Position Name="AYPY" Type="ASMGCS" ASMGCSAirport="AYPY" DefaultCenter="-09.440278+147.218611" DefaultRange="2" MagneticVariation="-5.8" Rotation="127">
     <Maps>
       <Map Name="Port Moresby/ASMGCS_AYPY_RWY" />
       <Map Name="Port Moresby/ASMGCS_AYPY_APR" />
@@ -152,7 +164,9 @@
       <Map Name="Nadi/ASMGCS_NFNA_BLD" />
     </Maps>
   </Position>
-  <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.723056+167.731944" DefaultRange="2" MagneticVariation="-7.6" Rotation="205">
+  </Group>
+  <Group Name="Class D">
+    <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.723056+167.731944" DefaultRange="2" MagneticVariation="-7.6" Rotation="205">
     <Maps>
       <Map Name="Bucholz/ASMGCS_PKWA_RWY" />
       <Map Name="Bucholz/ASMGCS_PKWA_APR" />
@@ -160,39 +174,6 @@
       <Map Name="Bucholz/ASMGCS_PKWA_BLD" />
     </Maps>
   </Position>
-  <Group Name="Class D">
-    <Position Name="AYGA" Type="ASMGCS" ASMGCSAirport="AYGA" DefaultCenter="-06.083333+145.392500" DefaultRange="2" MagneticVariation="-4.9" Rotation="100">
-      <Maps>
-        <Map Name="Goroka/ASMGCS_AYGA_RWY" />
-        <Map Name="Goroka/ASMGCS_AYGA_APR" />
-        <Map Name="Goroka/ASMGCS_AYGA_TWY" />
-        <Map Name="Goroka/ASMGCS_AYGA_BLD" />
-      </Maps>
-    </Position>
-    <Position Name="AYMD" Type="ASMGCS" ASMGCSAirport="AYMD" DefaultCenter="-05.209444+145.788056" DefaultRange="1" MagneticVariation="-4.8" Rotation="20">
-      <Maps>
-        <Map Name="Madang/ASMGCS_AYMD_RWY" />
-        <Map Name="Madang/ASMGCS_AYMD_APR" />
-        <Map Name="Madang/ASMGCS_AYMD_TWY" />
-        <Map Name="Madang/ASMGCS_AYMD_BLD" />
-      </Maps>
-    </Position>
-    <Position Name="AYMH" Type="ASMGCS" ASMGCSAirport="AYMH" DefaultCenter="-05.827500+144.300000" DefaultRange="2" MagneticVariation="-4.6" Rotation="-27">
-      <Maps>
-        <Map Name="Mt Hagen/ASMGCS_AYMH_RWY" />
-        <Map Name="Mt Hagen/ASMGCS_AYMH_APR" />
-        <Map Name="Mt Hagen/ASMGCS_AYMH_TWY" />
-        <Map Name="Mt Hagen/ASMGCS_AYMH_BLD" />
-      </Maps>
-    </Position>
-    <Position Name="AYTK" Type="ASMGCS" ASMGCSAirport="AYTK" DefaultCenter="-04.341028+152.379222" DefaultRange="1" MagneticVariation="-6.3" Rotation="-10">
-      <Maps>
-        <Map Name="Tokua/ASMGCS_AYTK_RWY" />
-        <Map Name="Tokua/ASMGCS_AYTK_APR" />
-        <Map Name="Tokua/ASMGCS_AYTK_TWY" />
-        <Map Name="Tokua/ASMGCS_AYTK_BLD" />
-      </Maps>
-    </Position>
     <Position Name="NVVV" Type="ASMGCS" ASMGCSAirport="NVVV" DefaultCenter="-17.698889+168.316944" DefaultRange="2" MagneticVariation="-11.6" Rotation="164">
       <Maps>
         <Map Name="Port Vila/ASMGCS_NVVV_RWY" />
@@ -226,6 +207,40 @@
       </Maps>
     </Position>
   </Group>
+  <Group Name="Class F">
+      <Position Name="AYGA" Type="ASMGCS" ASMGCSAirport="AYGA" DefaultCenter="-06.083333+145.392500" DefaultRange="2" MagneticVariation="-4.9" Rotation="100">
+      <Maps>
+        <Map Name="Goroka/ASMGCS_AYGA_RWY" />
+        <Map Name="Goroka/ASMGCS_AYGA_APR" />
+        <Map Name="Goroka/ASMGCS_AYGA_TWY" />
+        <Map Name="Goroka/ASMGCS_AYGA_BLD" />
+      </Maps>
+    </Position>
+    <Position Name="AYMD" Type="ASMGCS" ASMGCSAirport="AYMD" DefaultCenter="-05.209444+145.788056" DefaultRange="1" MagneticVariation="-4.8" Rotation="20">
+      <Maps>
+        <Map Name="Madang/ASMGCS_AYMD_RWY" />
+        <Map Name="Madang/ASMGCS_AYMD_APR" />
+        <Map Name="Madang/ASMGCS_AYMD_TWY" />
+        <Map Name="Madang/ASMGCS_AYMD_BLD" />
+      </Maps>
+    </Position>
+    <Position Name="AYMH" Type="ASMGCS" ASMGCSAirport="AYMH" DefaultCenter="-05.827500+144.300000" DefaultRange="2" MagneticVariation="-4.6" Rotation="-27">
+      <Maps>
+        <Map Name="Mt Hagen/ASMGCS_AYMH_RWY" />
+        <Map Name="Mt Hagen/ASMGCS_AYMH_APR" />
+        <Map Name="Mt Hagen/ASMGCS_AYMH_TWY" />
+        <Map Name="Mt Hagen/ASMGCS_AYMH_BLD" />
+      </Maps>
+    </Position>
+    <Position Name="AYTK" Type="ASMGCS" ASMGCSAirport="AYTK" DefaultCenter="-04.341028+152.379222" DefaultRange="1" MagneticVariation="-6.3" Rotation="-10">
+      <Maps>
+        <Map Name="Tokua/ASMGCS_AYTK_RWY" />
+        <Map Name="Tokua/ASMGCS_AYTK_APR" />
+        <Map Name="Tokua/ASMGCS_AYTK_TWY" />
+        <Map Name="Tokua/ASMGCS_AYTK_BLD" />
+      </Maps>
+    </Position>
+  </Group>
   <Group Name="Oceanic">
     <Position Name="Nadi Oceanic" Type="ASD" DefaultCenter="-10.660683+178.585898" DefaultRange="4500" VisibilityRange="1000">
       <Sectors>
@@ -248,13 +263,14 @@
         <Window Type="State" State="Announced" Visible="true" />
         <Window Type="State" State="Preactive" Visible="true" />
       </Strips>
-      <CFL QuickLevel="20000" />
+      <CFL QuickLevel="24000" />
       <ControllerInfo>
         <Line>Nadi Radio</Line>
         <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
     </Position>
+    <Transition Altitude="11000" />
   </Group>
   <Group Name="Procedural TWR">
     <Position Name="Goroka Tower" Type="ASD" DefaultCenter="-06.082600+145.391283" DefaultRange="80" MagneticVariation="-4.9">
@@ -302,7 +318,7 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="AYMD" Visible="true" />
       </Strips>
-      <CFL QuickLevel="5000" />
+      <CFL QuickLevel="10000" />
       <ArrivalLists>
         <Airport Name="AYMD" />
       </ArrivalLists>
@@ -321,7 +337,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Mt Hagen/AYMH_COAST" />
         <Map Name="Mt Hagen/AYMH_TCU" />
-        <Map Name="Mt Hagen/AYMH_ALLRWYS" />
+        <Map Name="Mt Hagen/AYMH_RWY1208" />
       </Maps>
       <ATIS>
         <Editor Airport="AYMH" Frequency="128.4" />
@@ -358,7 +374,7 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="AYTK" Visible="true" />
       </Strips>
-      <CFL QuickLevel="5000" />
+      <CFL QuickLevel="10000" />
       <ArrivalLists>
         <Airport Name="AYTK" />
       </ArrivalLists>
@@ -378,6 +394,7 @@
         <Map Name="Port Vila/NVVV_COAST" />
         <Map Name="Port Vila/NVVV_TCU" />
         <Map Name="Port Vila/NVVV_RWY11" />
+        <Map Name="Port Vila/NVVV_LOC" />
       </Maps>
       <ATIS>
         <Editor Airport="NVVV" Frequency="126.4" />
@@ -395,6 +412,7 @@
         <Line>ATIS available on 126.4</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
+      <Transition Altitude="11000" />
     </Position>
     <Position Name="Nadzab Tower" Type="ASD" DefaultCenter="-06.569222+146.728056" DefaultRange="80" MagneticVariation="-5.3">
       <Sectors>
@@ -456,6 +474,7 @@
         <Line>ATIS available on 126.2</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
+      <Transition Altitude="11000" />
     </Position>
     <Position Name="Magenta Tower" Type="ASD" DefaultCenter="-222047.0+1662815.0" DefaultRange="90" MagneticVariation="-12.5">
       <Sectors>
@@ -484,6 +503,7 @@
         <Line>ATIS available on 126.6</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
+      <Transition Altitude="11000" />
     </Position>
     <Position Name="Lifou Tower" Type="ASD" DefaultCenter="-204624.0+1671420.0" DefaultRange="70" MagneticVariation="-12.2">
       <Sectors>
@@ -507,6 +527,7 @@
         <Line>Lifou Tower</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
+      <Transition Altitude="11000" />
     </Position>
   </Group>
   <Group Name="Radar TWR">
@@ -581,6 +602,7 @@
         <Line>ATIS available on 127.9</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
+      <Transition Altitude="11000" />
     </Position>
 
     <Position Name="Nausori Tower" Type="ASD" DefaultCenter="-18.044722+178.559444" DefaultRange="60" MagneticVariation="-12.6">
@@ -615,6 +637,7 @@
         <Line>ATIS available on 128.5</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
+      <Transition Altitude="11000" />
     </Position>
     <Position Name="Bucholz Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="60" MagneticVariation="-7.6">
       <Sectors>
@@ -648,7 +671,7 @@
         <Line>ATIS available on 119.5</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
-      <Transition Altitude="18000" />
+      <Transition Altitude="5500" />
     </Position>
   </Group>
   <Group Name="TCU">
@@ -754,6 +777,7 @@
         <Line>ATIS available on 128.5</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
+      <Transition Altitude="11000" />
     </Position>
     <Position Name="Noumea TCU" Type="ASD" DefaultCenter="-220245.0+1660915.0" DefaultRange="600" VisibilityRange="150" MagneticVariation="-12.5">
       <Sectors>
@@ -782,7 +806,7 @@
         <Window Type="ADEP" Beacon="NWWM" Visible="true" />
         <Window Type="ADEP" Beacon="NWWL" Visible="true" />
       </Strips>
-      <CFL QuickLevel="7000" />
+      <CFL QuickLevel="24000" />
       <ArrivalLists>
         <Airport Name="NWWW" />
         <Airport Name="NWWM" />
@@ -793,6 +817,7 @@
         <Line>ATIS available on 126.2</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
+      <Transition Altitude="11000" />
     </Position>
     <Position Name="Bucholz TCU" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="400" VisibilityRange="150" MagneticVariation="-7.6">
       <Sectors>
@@ -816,7 +841,7 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="PKWA" Visible="true" />
       </Strips>
-      <CFL QuickLevel="9000" />
+      <CFL QuickLevel="18000" />
       <ArrivalLists>
         <Airport Name="PKWA" />
       </ArrivalLists>
@@ -825,7 +850,7 @@
         <Line>ATIS available on 119.5</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
-      <Transition Altitude="18000" />
+      <Transition Altitude="5500" />
     </Position>
   </Group>
 </Positions>
