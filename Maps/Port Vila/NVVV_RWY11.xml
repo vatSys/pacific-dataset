@@ -21,11 +21,15 @@
       -174452.075+1682337.179
     </Line>
     <!--STARs-->
+    <Symbol Type="HollowTriangle">
+      <Point>DELTA</Point>
+    </Symbol>
   </Map>
   <Map Type="System" Name="NVVV_RWY11_NAMES" Priority="2" Center="-17.699325+168.319794">
     <Label>
       <Point>NIPOG</Point>
       <Point>LEDIT</Point>
+      <Point>DELTA</Point>
     </Label>
   </Map>
 </Maps>

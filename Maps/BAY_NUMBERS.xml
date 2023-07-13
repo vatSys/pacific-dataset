@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Ground_INF" Name="BAY_NUMBERS" Priority="0" Center="-2380.8+13390.1">
+        <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
+            <!--NOUMEA LA TONTOUTA (NWWW)-->
+            <!--APRON CHART 2306-->
+            <Point Name="D1">-22.0144607+166.2164381</Point>
+            <Point Name="D2">-22.0151025+166.2179567</Point>
+            <Point Name="P1">-22.0126655+166.2163441</Point>
+            <Point Name="P11">-22.0127194+166.2163848</Point>
+            <Point Name="P2">-22.013369+166.2158964</Point>
+            <Point Name="P21">-22.0134196+166.2159294</Point>
+            <Point Name="P3">-22.0141772+166.2165513</Point>
+            <Point Name="P4">-22.0145104+166.2171559</Point>
+            <Point Name="P5">-22.0147015+166.2179049</Point>
+            <Point Name="P51">-22.0146753+166.2177119</Point>
+            <Point Name="P52">-22.0146997+166.2179744</Point>
+            <Point Name="P63">-22.0151239+166.2178133</Point>
+            <Point Name="P64">-22.0152921+166.2179838</Point>
+            <Point Name="P65">-22.0154263+166.2182146</Point>
+            <Point Name="P7">-22.015867+166.2193264</Point>
+
+            <!--NADI (NFFN)-->
+            <!--APRON CHART 2306-->
+            <Point Name="1">-17.7527859+177.452737</Point>
+            <Point Name="10">-17.7536041+177.4498905</Point>
+            <Point Name="11">-17.7538482+177.4498245</Point>
+            <Point Name="12">-17.7540837+177.4497841</Point>
+            <Point Name="13">-17.7543325+177.4497229</Point>
+            <Point Name="14">-17.7545915+177.4499411</Point>
+            <Point Name="15">-17.7547019+177.4503896</Point>
+            <Point Name="16">-17.7548012+177.4508358</Point>
+            <Point Name="17">-17.7548836+177.45116</Point>
+            <Point Name="2A">-17.7526897+177.452326</Point>
+            <Point Name="2B">-17.752596+177.4522208</Point>
+            <Point Name="3">-17.7525225+177.4516744</Point>
+            <Point Name="4">-17.7516052+177.4512149</Point>
+            <Point Name="5L">-17.7514589+177.45058</Point>
+            <Point Name="5R">-17.7515813+177.4504822</Point>
+            <Point Name="6">-17.7513623+177.4502361</Point>
+            <Point Name="7">-17.7519545+177.4503916</Point>
+            <Point Name="8">-17.7526539+177.4502214</Point>
+            <Point Name="9">-17.7531121+177.4499025</Point>
+        </Label>
+    </Map>
+</Maps>

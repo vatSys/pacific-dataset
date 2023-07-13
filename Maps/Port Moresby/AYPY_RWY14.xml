@@ -92,15 +92,12 @@
     </Line>
     <Line>
       <!--Rwy14R ASTRO2-->
-      
     </Line>
     <Line>
       <!--Rwy14R GALLEY-->
-      
     </Line>
     <Line>
       <!--Rwy14R KOKODA-->
-      
     </Line>
     <!--STARs-->
     <Line>
@@ -193,7 +190,6 @@
     </Line>
     <Line>
       <!--Rwy14R ASTROL-->
-      
     </Line>
     <Line>
       <!--Rwy14R HIRI-->
@@ -205,7 +201,6 @@
     </Line>
     <Line>
       <!--Rwy14R LALOKI-->
-      
     </Line>
     <Line>
       <!--Rwy14R MAGI-->
@@ -213,11 +208,9 @@
     </Line>
     <Line>
       <!--Rwy14R PARER-->
-      
     </Line>
     <Line>
       <!--Rwy14R TAVAI-->
-      
     </Line>
     <Symbol Type="HollowTriangle">
       <Point>TESEM</Point>

@@ -606,7 +606,7 @@ NI NDB
 </Airway>
     <Airway Name="B598">
 DN VOR/
-UNTER/
+MASRA/
 IGOPO/
 IDELU/
 PEBTA/
@@ -748,7 +748,7 @@ TEPAM/
 MEPAB/
 PUGEL/
 LAMEK/
-PESKY/
+MUBNI/
 CS VOR
 </Airway>
     <Airway Name="G593">
@@ -1281,7 +1281,7 @@ VELMO
 TESAT/
 EVONN/
 GEROS/
-ERVON/
+REPUD/
 LEGAN/
 LUNBI
 </Airway>
@@ -1570,7 +1570,7 @@ MABRO/
 TOSAS/
 BENKI/
 EKOKU/
-SWALO/
+RUMKA/
 SWIFT/
 TL VOR
 </Airway>
@@ -2612,6 +2612,7 @@ NINIA
     <Point Name="MARLN" Type="Fix">-340205.000+1520402.100</Point>
     <Point Name="MARMA" Type="Fix">-175112.341+1682127.911</Point>
     <Point Name="MARTI" Type="Fix">+033000.000+1691630.000</Point>
+    <Point Name="MASRA" Type="Fix">-121337.400+1321513.300</Point>
     <Point Name="MATAV" Type="Fix">-131401.000-1762223.000</Point>
     <Point Name="MATER" Type="Fix">+012633.220+1731950.909</Point>
     <Point Name="MATGA" Type="Fix">-192933.569+1700454.008</Point>
@@ -2658,6 +2659,7 @@ NINIA
     <Point Name="MUBED" Type="Fix">-184429.000+1781648.000</Point>
     <Point Name="MUBEK" Type="Fix">-032616.141+1491117.722</Point>
     <Point Name="MUBIT" Type="Fix">+033000.000+1644006.000</Point>
+    <Point Name="MUBNI" Type="Fix">-170409.700+1462632.000</Point>
     <Point Name="MUDIX" Type="Fix">-060442.000+1452324.000</Point>
     <Point Name="MUDOV" Type="Fix">-085839.202+1475451.671</Point>
     <Point Name="MUGEN" Type="Fix">-315509.710+1702214.840</Point>
@@ -2871,6 +2873,7 @@ NINIA
     <Point Name="RENEB" Type="Fix">-432633.500+1681342.100</Point>
     <Point Name="REPOK" Type="Fix">-081336.419+1570213.988</Point>
     <Point Name="REPOL" Type="Fix">-250000.000-1771431.639</Point>
+    <Point Name="REPUD" Type="Fix">-354650.900+1580455.300</Point>
     <Point Name="RFN01" Type="Fix">-174449.240+1772859.689</Point>
     <Point Name="RFN02" Type="Fix">-174636.541+1772855.409</Point>
     <Point Name="RFN03" Type="Fix">-174641.131+1772848.068</Point>
@@ -2910,6 +2913,7 @@ NINIA
     <Point Name="RUMAB" Type="Fix">-165836.000+1790954.000</Point>
     <Point Name="RUMIS" Type="Fix">-094304.681+1472819.981</Point>
     <Point Name="RUMIX" Type="Fix">-270737.000+1630000.000</Point>
+    <Point Name="RUMKA" Type="Fix">-174712.500+1464939.300</Point>
     <Point Name="RUMUS" Type="Fix">-293339.780+1715139.038</Point>
     <Point Name="RUNOD" Type="Fix">-360925.000+1630000.000</Point>
     <Point Name="RUPAS" Type="Fix">-103124.000+1630000.000</Point>

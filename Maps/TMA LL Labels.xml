@@ -2,13 +2,23 @@
 <Maps>
   <Map Type="System" Name="TMA_LL_LABELS" Priority="2" Center="-07.0+166.0">
     <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+      <Point Name="F SFC-200">-0608.8667+14532.5167</Point>
+      <Point Name="F SFC-200">-0520.85+14555.0833</Point>
+      <Point Name="F SFC-200">-0505.45+14537.0167</Point>
+      <Point Name="F SFC-200">-0541.5+14416.2833</Point>
       <Point Name="C020">-0652.5267+14658.6697</Point>
+      <Point Name="C050">-0659.409+14704.5232</Point>
       <Point Name="C050">-0635.2351+14704.8182</Point>
       <Point Name="C050">-0635.1767+14617.5119</Point>
+      <Point Name="C080">-0706.6173+14710.4358</Point>
       <Point Name="C080">-0653.7632+14627.9076</Point>
+      <Point Name="C080">-0636.7154+14722.8414</Point>
+      <Point Name="C080">-0636.6597+14607.2665</Point>
       <Point Name="C100">-0655.9927+14638.2092</Point>
       <Point Name="C100">-0613.314+14628.0074</Point>
-      <Point Name="CSFC">-0640.2502+14635.0746</Point>
+      <Point Name="C130">-0715.0317+14632.5671</Point>
+      <Point Name="C130">-0635.7021+14557.4434</Point>
+      <Point Name="C150">-0617.215+14652.3346</Point>
       <Point Name="C015">-0948.4333+14659.2269</Point>
       <Point Name="C040">-0937.6463+14735.0249</Point>
       <Point Name="C050">-1002.8021+14652.326</Point>
@@ -19,6 +29,8 @@
       <Point Name="C120">-0842.2516+14714.7122</Point>
       <Point Name="C140">-0852.8341+14728.0501</Point>
       <Point Name="CSFC">-0916.4667+14714.55</Point>
+      <Point Name="F SFC-200">-0428.8167+15214.5167</Point>
+      <Point Name="F SFC-200">-0413.0833+15231.85</Point>
       <Point Name="C025">-1737.8731+17703.5946</Point>
       <Point Name="CSFC">-1749.2075+17729.453</Point>
       <Point Name="C025">-1821.7811+17825.1313</Point>
