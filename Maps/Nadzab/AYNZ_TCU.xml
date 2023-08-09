@@ -63,6 +63,9 @@
       AVLIX/
       TAXAD
     </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>LARID</Point>
+    </Symbol>
   </Map>
   <Map Type="System" Name="AYNZ_TCU_NAMES" Priority="2" Center="-06.569222+146.728056">
     <Label>
@@ -89,6 +92,7 @@
       <Point>UGTOK</Point>
       <Point>PINUR</Point>
       <Point>TAXAD</Point>
+      <Point>LARID</Point>
     </Label>
   </Map>
   <Map Type="System" Name="AYNZ_ALLRWYS" Priority="2" Center="-06.569222+146.728056">
