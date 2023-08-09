@@ -6,7 +6,7 @@
         <Departure Values="AYPY">
           <Rules>
             <Default>
-              <AssignSector Order="PYA"/>
+              <AssignSector Order="AYPYA, AYPM"/>
             </Default>
           </Rules>
         </Departure>
@@ -17,7 +17,7 @@
         <Departure Values="AYNZ">
           <Rules>
             <Default>
-              <AssignSector Order="NZA"/>
+              <AssignSector Order="AYNZA, AYPM"/>
             </Default>
           </Rules>
         </Departure>
@@ -28,7 +28,7 @@
         <Departure Values="AYGA">
           <Rules>
             <Default>
-              <AssignSector Order="AYPM"/>
+              <AssignSector Order="AYGA ADC, AYPM"/>
             </Default>
           </Rules>
         </Departure>
@@ -39,7 +39,7 @@
         <Departure Values="AYMD">
           <Rules>
             <Default>
-              <AssignSector Order="AYPM"/>
+              <AssignSector Order="AYMD ADC, AYPM"/>
             </Default>
           </Rules>
         </Departure>
@@ -50,7 +50,7 @@
         <Departure Values="AYMH">
           <Rules>
             <Default>
-              <AssignSector Order="AYPM"/>
+              <AssignSector Order="AYMH ADC, AYPM"/>
             </Default>
           </Rules>
         </Departure>
@@ -61,18 +61,7 @@
         <Departure Values="AYTK">
           <Rules>
             <Default>
-              <AssignSector Order="AYPM"/>
-            </Default>
-          </Rules>
-        </Departure>
-      </Rules>
-    </RuleSet>
-    <RuleSet Name="AYWK_DEPS">
-      <Rules>
-        <Departure Values="AYWK">
-          <Rules>
-            <Default>
-              <AssignSector Order="AYPM"/>
+              <AssignSector Order="AYTK ADC, AYPM"/>
             </Default>
           </Rules>
         </Departure>
@@ -105,7 +94,18 @@
         <Departure Values="NWWW,NWWM">
           <Rules>
             <Default>
-              <AssignSector Order="WWA"/>
+              <AssignSector Order="NWWWA"/>
+            </Default>
+          </Rules>
+        </Departure>
+      </Rules>
+    </RuleSet>
+    <RuleSet Name="NVVV_DEPS">
+      <Rules>
+        <Departure Values="NVVV">
+          <Rules>
+            <Default>
+              <AssignSector Order="NVVV ADC, NVVV"/>
             </Default>
           </Rules>
         </Departure>
@@ -116,7 +116,7 @@
         <Departure Values="PKWA">
           <Rules>
             <Default>
-              <AssignSector Order="WAA"/>
+              <AssignSector Order="PKWAA"/>
             </Default>
           </Rules>
         </Departure>
