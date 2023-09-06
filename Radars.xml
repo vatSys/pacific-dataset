@@ -8,6 +8,10 @@
     <Lat>-9.44388055555556</Lat>
     <Long>147.226391666667</Long>
   </Radar>
+  <Radar Name="Nadzab Tower" Type="ADSB" Elevation="240" MaxRange="250">
+    <Lat>-6.56922194444444</Lat>
+    <Long>146.728055555556</Long>
+  </Radar>
   <Radar Name="Mt Nauwein PNG" Type="ADSB" Elevation="4700" MaxRange="250">
     <Lat>-6.52627777777778</Lat>
     <Long>146.093055555556</Long>

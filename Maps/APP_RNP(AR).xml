@@ -3,23 +3,71 @@
   <Map Type="System2" Name="APP_RNP(AR)" Priority="0" Center="-07.0+166.0">
     <Label HasLeader="true">
       <Point>MOTKI</Point>
+      <Point>BONJU</Point>
+      <Point>ENZED</Point>
+      <Point>JOZEF</Point>
+      <Point>KASTN</Point>
+      <Point>KUSIN</Point>
+      <Point>OCKER</Point>
+      <Point>BRATA</Point>
+      <Point>ERTAP</Point>
+      <Point>MISSU</Point>
       <Point>NIREV</Point>
       <Point>FN664</Point>
+      <Point>NV504</Point>
+      <Point>NV508</Point>
     </Label>
     <Symbol Type="HollowStar">
       <Point>FN581</Point>
       <Point>FN812</Point>
+      <Point>NV500</Point>
+      <Point>NV564</Point>
+      <Point>NV544</Point>
+      <Point>NV588</Point>
+      <Point>NV506</Point>
+      <Point>DORTA</Point>
+      <Point>LAGUN</Point>
+      <Point>NV524</Point>
+      <Point>MARMA</Point>
+      <Point>NV516</Point>
+      <Point>NV528</Point>
+      <Point>NV530</Point>
+      <Point>NV520</Point>
     </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>MOTKI</Point>
+      <Point>BONJU</Point>
+      <Point>ENZED</Point>
+      <Point>JOZEF</Point>
+      <Point>KASTN</Point>
+      <Point>KUSIN</Point>
+      <Point>OCKER</Point>
+      <Point>BRATA</Point>
+      <Point>ERTAP</Point>
+      <Point>MISSU</Point>
     </Symbol>
     <Symbol Type="MalteseCross">
       <Point>NIREV</Point>
     </Symbol>
     <Symbol Type="SolidTriangle">
       <Point>FN664</Point>
+      <Point>NV504</Point>
+      <Point>NV508</Point>
     </Symbol>
     <Line>FN664/NIREV/FN581/FN812/-174501.109+1772650.039</Line>
     <Line>MOTKI/FN664</Line>
+    <Line>NV504/NV500/-174133.691+1681824.142</Line>
+    <Line>BONJU/NV564/NV504</Line>
+    <Line>ENZED/NV544/NV504</Line>
+    <Line>JOZEF/NV588/NV504</Line>
+    <Line>KASTN/NV506/NV504</Line>
+    <Line>KUSIN/DORTA/LAGUN/NV544</Line>
+    <Line>OCKER/NV524/NV506</Line>
+    <Line>NV508/-174213.219+1681942.139</Line>
+    <Line>BRATA/MARMA/NV508</Line>
+    <Line>ERTAP/MARMA</Line>
+    <Line>JOZEF/NV516/MARMA</Line>
+    <Line>DORTA/NV528/NV508</Line>
+    <Line>MISSU/NV530/NV520/MARMA</Line>
   </Map>
 </Maps>

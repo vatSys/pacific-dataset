@@ -403,9 +403,7 @@
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="NVVV" Visible="true" />
       </Strips>
-      <CFL QuickLevel="10000">
-        <AdditionalLevels>3400</AdditionalLevels>
-      </CFL>
+      <CFL QuickLevel="10000" />
       <ArrivalLists>
         <Airport Name="NVVV" />
       </ArrivalLists>
