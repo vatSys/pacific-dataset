@@ -442,40 +442,6 @@
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
-    <Position Name="Tontouta Tower" Type="ASD" DefaultCenter="-215926.0+1661013.0" DefaultRange="90" MagneticVariation="-12.5">
-      <Sectors>
-        <Sector Name="NWWW ADC" />
-        <Sector Name="NWWW SMC" />
-      </Sectors>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Noumea/NWWW_COAST" />
-        <Map Name="Noumea/NWWW_TCU" />
-        <Map Name="Noumea/NWWW_RWY11" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="NWWW" Frequency="126.2" />
-        <Window Airport="NWWW" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NWWW" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="6000" />
-      <ArrivalLists>
-        <Airport Name="NWWW" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Tontouta Tower</Line>
-        <Line>ATIS available on 126.2</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <ControllerInfo Callsign="NWWW_GND">
-        <Line>Tontouta Ground</Line>
-        <Line>ATIS available on 126.2</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="11000" />
-    </Position>
     <Position Name="Magenta Tower" Type="ASD" DefaultCenter="-222047.0+1662815.0" DefaultRange="90" MagneticVariation="-12.5">
       <Sectors>
         <Sector Name="NWWM ADC" />
@@ -604,7 +570,40 @@
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
-
+    <Position Name="Tontouta Tower" Type="ASD" DefaultCenter="-215926.0+1661013.0" DefaultRange="90" MagneticVariation="-12.5">
+      <Sectors>
+        <Sector Name="NWWW ADC" />
+        <Sector Name="NWWW SMC" />
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Noumea/NWWW_COAST" />
+        <Map Name="Noumea/NWWW_TCU" />
+        <Map Name="Noumea/NWWW_RWY11" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NWWW" Frequency="126.2" />
+        <Window Airport="NWWW" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NWWW" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="5000" />
+      <ArrivalLists>
+        <Airport Name="NWWW" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Tontouta Tower</Line>
+        <Line>ATIS available on 126.2</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="NWWW_GND">
+        <Line>Tontouta Ground</Line>
+        <Line>ATIS available on 126.2</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="11000" />
+    </Position>
     <Position Name="Nausori Tower" Type="ASD" DefaultCenter="-18.044722+178.559444" DefaultRange="60" MagneticVariation="-12.6">
       <Sectors>
         <Sector Name="NFNA ADC" />
