@@ -64,21 +64,6 @@
       NA VOR
     </Line>
     <Line>
-      <!--Rwy28 CHARLI.MI-->
-      NA VOR/
-      MI NDB
-    </Line>
-    <Line>
-      <!--Rwy28 CHARLI.NN-->
-      NA VOR/
-      NN VOR
-    </Line>
-    <Line>
-      <!--Rwy28 CHARLI.VK-->
-      NA VOR/
-      VK NDB
-    </Line>
-    <Line>
       <!--Rwy28 DELTA-->
       -180138.762+1783143.722/
       -180112.962+1783148.471/
@@ -154,12 +139,12 @@
       <Point>LAVAV</Point>
       <Point>MAMDU</Point>
       <Point>NFNS</Point>
-      <Point>MI NDB</Point>
-      <Point>NN VOR</Point>
-      <Point>VK NDB</Point>
       <Point>ATOLL</Point>
       <Point>SAPIR</Point>
       <Point>ISTOS</Point>
+      <Point>MI NDB</Point>
+      <Point>NN VOR</Point>
+      <Point>VK NDB</Point>
       <Point>AGTEM</Point>
       <Point>AGTOS</Point>
       <Point>AGTAG</Point>
