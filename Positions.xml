@@ -781,6 +781,7 @@
     <Position Name="Noumea TCU" Type="ASD" DefaultCenter="-220245.0+1660915.0" DefaultRange="600" VisibilityRange="150" MagneticVariation="-12.5">
       <Sectors>
         <Sector Name="NWWWA" />
+        <Sector Name="NWWWT" />
       </Sectors>
       <ManualVisibility>
         <Point>-2055.0+16551.0</Point>
@@ -813,6 +814,11 @@
       </ArrivalLists>
       <ControllerInfo>
         <Line>Tontouta Approach</Line>
+        <Line>ATIS available on 126.2</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="NWWW-T_APP">
+        <Line>Tontouta Approach (Terminal)</Line>
         <Line>ATIS available on 126.2</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
