@@ -70,10 +70,12 @@
     <Line Name="H527_0">KVG VOR.H527.LUNTO</Line>
     <Line Name="H528_0">VNO NDB.H528.DOTUB</Line>
     <Line Name="H529_0">PY VOR.H529.LHR NDB</Line>
+    <Line Name="H530_0">IKERU.H530.SAKTO</Line>
     <Line Name="H531_0">ALBUP.H531.KVG VOR</Line>
     <Line Name="H532_0">PY VOR.H532.KALKO</Line>
     <Line Name="H533_0">KALKO.H533.ESNIV</Line>
     <Line Name="H535_0">SAKTO.H535.LARID</Line>
+    <Line Name="H536_0">BELUP.H536.VNO NDB</Line>
     <Line Name="H537_0">EPKED.H537.MUDIX</Line>
     <Line Name="H538_0">EPKED.H538.AYMN</Line>
     <Line Name="H539_0">PASDU.H539.PY VOR</Line>
@@ -85,6 +87,7 @@
     <Line Name="H547_0">ASIXA.H547.PASDU</Line>
     <Line Name="H549_0">KALKO.H549.AYMS</Line>
     <Line Name="H651_0">AYMS.H651.KVG VOR</Line>
+    <Line Name="H652_0">DOTUB.H652.ESNIV</Line>
     <Line Name="H655_0">AVLIX.H655.KVG VOR</Line>
     <Line Name="H656_0">DOTUB.H656.KVG VOR</Line>
     <Line Name="H657_0">DOTUB.H657.LUNTO</Line>
@@ -145,9 +148,12 @@
     <Line Name="Q281_0">MI NDB.Q281.NAVUA</Line>
     <Line Name="Q289_0">VK NDB.Q289.NAVUA</Line>
     <Line Name="Q296_0">NN VOR.Q296.NAVUA</Line>
+    <Line Name="Q302_0">NA VOR.Q302.ONOLU</Line>
+    <Line Name="Q31_0">NA VOR.Q31.GUSMA</Line>
     <Line Name="Q310_0">NA VOR.Q310.TOMIK</Line>
     <Line Name="Q311_0">MI NDB.Q311.NAMLA</Line>
     <Line Name="Q343_0">NN VOR.Q343.RM NDB</Line>
+    <Line Name="Q35_0">NA VOR.Q35.AGSEK</Line>
     <Line Name="Q355_0">NN VOR.Q355.NFSW</Line>
     <Line Name="Q390_0">BEVNO.Q390.LATIT</Line>
     <Line Name="Q420_0">NA VOR.Q420.LINPA</Line>
@@ -524,16 +530,23 @@
       <Point>LAVUN</Point>
       <Point>COWRY</Point>
       <Point>LEMUP</Point>
+      <Point>LUGLI</Point>
+      <Point>RUTAG</Point>
       <Point>ODOLU</Point>
       <Point>MUBEK</Point>
       <Point>BICHI</Point>
       <Point>POXIT</Point>
+      <Point>BELUP</Point>
+      <Point>STARF</Point>
+      <Point>SNAPA</Point>
+      <Point>GUGPU</Point>
+      <Point>SLUMI</Point>
+      <Point>LUMMI</Point>
       <Point>ANULO</Point>
       <Point>UNTIS</Point>
       <Point>AYMN</Point>
       <Point>PASDU</Point>
       <Point>BOSVI</Point>
-      <Point>STARF</Point>
       <Point>LUDGA</Point>
       <Point>PELCA</Point>
       <Point>ISKEG</Point>
@@ -544,12 +557,12 @@
       <Point>EKUTA</Point>
       <Point>KIETA</Point>
       <Point>GUNKI</Point>
-      <Point>BELUP</Point>
       <Point>BOBEN</Point>
       <Point>SEKDI</Point>
       <Point>AYMS</Point>
       <Point>SOLOM</Point>
       <Point>JAQIN</Point>
+      <Point>OREMO</Point>
       <Point>MIKIT</Point>
       <Point>HIPEL</Point>
       <Point>PADLU</Point>
@@ -626,18 +639,20 @@
       <Point>NAMLA</Point>
       <Point>LAVAV</Point>
       <Point>NOVAT</Point>
+      <Point>ONOLU</Point>
+      <Point>MAKSO</Point>
+      <Point>LATIT</Point>
       <Point>RUTEB</Point>
       <Point>PAGBO</Point>
       <Point>PUNIX</Point>
       <Point>ALEBO</Point>
-      <Point>NFSW</Point>
-      <Point>LATIT</Point>
-      <Point>LINPA</Point>
-      <Point>LUNKI</Point>
-      <Point>NINIK</Point>
-      <Point>MAKSO</Point>
-      <Point>KAIBU</Point>
       <Point>MABTU</Point>
+      <Point>LUNKI</Point>
+      <Point>AGSEK</Point>
+      <Point>NFSW</Point>
+      <Point>LINPA</Point>
+      <Point>NINIK</Point>
+      <Point>KAIBU</Point>
       <Point>RUMAB</Point>
       <Point>SUSUI</Point>
       <Point>NFVB</Point>
@@ -737,7 +752,6 @@
       <Point>IGBED</Point>
       <Point>AGOXI</Point>
       <Point>SOVRO</Point>
-      <Point>AGSEK</Point>
       <Point>DIPSO</Point>
       <Point>RM NDB</Point>
       <Point>VK NDB</Point>
@@ -899,10 +913,12 @@
     <Line Name="H527_0">KVG VOR.H527.LUNTO</Line>
     <Line Name="H528_0">VNO NDB.H528.DOTUB</Line>
     <Line Name="H529_0">PY VOR.H529.LHR NDB</Line>
+    <Line Name="H530_0">IKERU.H530.SAKTO</Line>
     <Line Name="H531_0">ALBUP.H531.KVG VOR</Line>
     <Line Name="H532_0">PY VOR.H532.KALKO</Line>
     <Line Name="H533_0">KALKO.H533.ESNIV</Line>
     <Line Name="H535_0">SAKTO.H535.LARID</Line>
+    <Line Name="H536_0">BELUP.H536.VNO NDB</Line>
     <Line Name="H537_0">EPKED.H537.MUDIX</Line>
     <Line Name="H538_0">EPKED.H538.AYMN</Line>
     <Line Name="H539_0">PASDU.H539.PY VOR</Line>
@@ -914,6 +930,7 @@
     <Line Name="H547_0">ASIXA.H547.PASDU</Line>
     <Line Name="H549_0">KALKO.H549.AYMS</Line>
     <Line Name="H651_0">AYMS.H651.KVG VOR</Line>
+    <Line Name="H652_0">DOTUB.H652.ESNIV</Line>
     <Line Name="H655_0">AVLIX.H655.KVG VOR</Line>
     <Line Name="H656_0">DOTUB.H656.KVG VOR</Line>
     <Line Name="H657_0">DOTUB.H657.LUNTO</Line>
@@ -962,9 +979,12 @@
     <Line Name="Q281_0">MI NDB.Q281.NAVUA</Line>
     <Line Name="Q289_0">VK NDB.Q289.NAVUA</Line>
     <Line Name="Q296_0">NN VOR.Q296.NAVUA</Line>
+    <Line Name="Q302_0">NA VOR.Q302.ONOLU</Line>
+    <Line Name="Q31_0">NA VOR.Q31.GUSMA</Line>
     <Line Name="Q310_0">NA VOR.Q310.TOMIK</Line>
     <Line Name="Q311_0">MI NDB.Q311.NAMLA</Line>
     <Line Name="Q343_0">NN VOR.Q343.RM NDB</Line>
+    <Line Name="Q35_0">NA VOR.Q35.AGSEK</Line>
     <Line Name="Q355_0">NN VOR.Q355.NFSW</Line>
     <Line Name="Q390_0">BEVNO.Q390.LATIT</Line>
     <Line Name="Q420_0">NA VOR.Q420.LINPA</Line>
@@ -1273,18 +1293,25 @@
       <Point>LAVUN</Point>
       <Point>COWRY</Point>
       <Point>LEMUP</Point>
+      <Point>LUGLI</Point>
+      <Point>RUTAG</Point>
       <Point>ODOLU</Point>
       <Point>MUBEK</Point>
       <Point>KAPKI</Point>
       <Point>BICHI</Point>
       <Point>POXIT</Point>
+      <Point>BELUP</Point>
+      <Point>STARF</Point>
+      <Point>SNAPA</Point>
+      <Point>GUGPU</Point>
+      <Point>SLUMI</Point>
+      <Point>LUMMI</Point>
       <Point>ANULO</Point>
       <Point>UNTIS</Point>
       <Point>AYMN</Point>
       <Point>PASDU</Point>
       <Point>BOSVI</Point>
       <Point>EMPRA</Point>
-      <Point>STARF</Point>
       <Point>LUDGA</Point>
       <Point>PELCA</Point>
       <Point>ISKEG</Point>
@@ -1296,12 +1323,12 @@
       <Point>KIETA</Point>
       <Point>NOGOT</Point>
       <Point>GUNKI</Point>
-      <Point>BELUP</Point>
       <Point>BOBEN</Point>
       <Point>SEKDI</Point>
       <Point>AYMS</Point>
       <Point>SOLOM</Point>
       <Point>JAQIN</Point>
+      <Point>OREMO</Point>
       <Point>MIKIT</Point>
       <Point>HIPEL</Point>
       <Point>PADLU</Point>
@@ -1354,18 +1381,20 @@
       <Point>NAMLA</Point>
       <Point>LAVAV</Point>
       <Point>NOVAT</Point>
+      <Point>ONOLU</Point>
+      <Point>MAKSO</Point>
+      <Point>LATIT</Point>
       <Point>RUTEB</Point>
       <Point>PAGBO</Point>
       <Point>PUNIX</Point>
       <Point>ALEBO</Point>
-      <Point>NFSW</Point>
-      <Point>LATIT</Point>
-      <Point>LINPA</Point>
-      <Point>LUNKI</Point>
-      <Point>NINIK</Point>
-      <Point>MAKSO</Point>
-      <Point>KAIBU</Point>
       <Point>MABTU</Point>
+      <Point>LUNKI</Point>
+      <Point>AGSEK</Point>
+      <Point>NFSW</Point>
+      <Point>LINPA</Point>
+      <Point>NINIK</Point>
+      <Point>KAIBU</Point>
       <Point>RUMAB</Point>
       <Point>SUSUI</Point>
       <Point>NFVB</Point>
@@ -1456,7 +1485,6 @@
       <Point>PAKMI</Point>
       <Point>IGBED</Point>
       <Point>AGOXI</Point>
-      <Point>AGSEK</Point>
       <Point>RM NDB</Point>
       <Point>VK NDB</Point>
       <Point>NZ VOR</Point>
@@ -1750,18 +1778,25 @@
       <Point>LAVUN</Point>
       <Point>COWRY</Point>
       <Point>LEMUP</Point>
+      <Point>LUGLI</Point>
+      <Point>RUTAG</Point>
       <Point>ODOLU</Point>
       <Point>MUBEK</Point>
       <Point>KAPKI</Point>
       <Point>BICHI</Point>
       <Point>POXIT</Point>
+      <Point>BELUP</Point>
+      <Point>STARF</Point>
+      <Point>SNAPA</Point>
+      <Point>GUGPU</Point>
+      <Point>SLUMI</Point>
+      <Point>LUMMI</Point>
       <Point>ANULO</Point>
       <Point>UNTIS</Point>
       <Point>AYMN</Point>
       <Point>PASDU</Point>
       <Point>BOSVI</Point>
       <Point>EMPRA</Point>
-      <Point>STARF</Point>
       <Point>LUDGA</Point>
       <Point>PELCA</Point>
       <Point>ISKEG</Point>
@@ -1773,12 +1808,12 @@
       <Point>KIETA</Point>
       <Point>NOGOT</Point>
       <Point>GUNKI</Point>
-      <Point>BELUP</Point>
       <Point>BOBEN</Point>
       <Point>SEKDI</Point>
       <Point>AYMS</Point>
       <Point>SOLOM</Point>
       <Point>JAQIN</Point>
+      <Point>OREMO</Point>
       <Point>MIKIT</Point>
       <Point>HIPEL</Point>
       <Point>PADLU</Point>
@@ -1831,18 +1866,20 @@
       <Point>NAMLA</Point>
       <Point>LAVAV</Point>
       <Point>NOVAT</Point>
+      <Point>ONOLU</Point>
+      <Point>MAKSO</Point>
+      <Point>LATIT</Point>
       <Point>RUTEB</Point>
       <Point>PAGBO</Point>
       <Point>PUNIX</Point>
       <Point>ALEBO</Point>
-      <Point>NFSW</Point>
-      <Point>LATIT</Point>
-      <Point>LINPA</Point>
-      <Point>LUNKI</Point>
-      <Point>NINIK</Point>
-      <Point>MAKSO</Point>
-      <Point>KAIBU</Point>
       <Point>MABTU</Point>
+      <Point>LUNKI</Point>
+      <Point>AGSEK</Point>
+      <Point>NFSW</Point>
+      <Point>LINPA</Point>
+      <Point>NINIK</Point>
+      <Point>KAIBU</Point>
       <Point>RUMAB</Point>
       <Point>SUSUI</Point>
       <Point>NFVB</Point>
@@ -1931,7 +1968,6 @@
       <Point>PAKMI</Point>
       <Point>IGBED</Point>
       <Point>AGOXI</Point>
-      <Point>AGSEK</Point>
       <Point>RM NDB</Point>
       <Point>VK NDB</Point>
       <Point>NZ VOR</Point>
@@ -2297,16 +2333,23 @@
       <Point>LAVUN</Point>
       <Point>COWRY</Point>
       <Point>LEMUP</Point>
+      <Point>LUGLI</Point>
+      <Point>RUTAG</Point>
       <Point>ODOLU</Point>
       <Point>MUBEK</Point>
       <Point>BICHI</Point>
       <Point>POXIT</Point>
+      <Point>BELUP</Point>
+      <Point>STARF</Point>
+      <Point>SNAPA</Point>
+      <Point>GUGPU</Point>
+      <Point>SLUMI</Point>
+      <Point>LUMMI</Point>
       <Point>ANULO</Point>
       <Point>UNTIS</Point>
       <Point>AYMN</Point>
       <Point>PASDU</Point>
       <Point>BOSVI</Point>
-      <Point>STARF</Point>
       <Point>LUDGA</Point>
       <Point>PELCA</Point>
       <Point>ISKEG</Point>
@@ -2317,12 +2360,12 @@
       <Point>EKUTA</Point>
       <Point>KIETA</Point>
       <Point>GUNKI</Point>
-      <Point>BELUP</Point>
       <Point>BOBEN</Point>
       <Point>SEKDI</Point>
       <Point>AYMS</Point>
       <Point>SOLOM</Point>
       <Point>JAQIN</Point>
+      <Point>OREMO</Point>
       <Point>MIKIT</Point>
       <Point>HIPEL</Point>
       <Point>PADLU</Point>
@@ -2399,18 +2442,20 @@
       <Point>NAMLA</Point>
       <Point>LAVAV</Point>
       <Point>NOVAT</Point>
+      <Point>ONOLU</Point>
+      <Point>MAKSO</Point>
+      <Point>LATIT</Point>
       <Point>RUTEB</Point>
       <Point>PAGBO</Point>
       <Point>PUNIX</Point>
       <Point>ALEBO</Point>
-      <Point>NFSW</Point>
-      <Point>LATIT</Point>
-      <Point>LINPA</Point>
-      <Point>LUNKI</Point>
-      <Point>NINIK</Point>
-      <Point>MAKSO</Point>
-      <Point>KAIBU</Point>
       <Point>MABTU</Point>
+      <Point>LUNKI</Point>
+      <Point>AGSEK</Point>
+      <Point>NFSW</Point>
+      <Point>LINPA</Point>
+      <Point>NINIK</Point>
+      <Point>KAIBU</Point>
       <Point>RUMAB</Point>
       <Point>SUSUI</Point>
       <Point>NFVB</Point>
@@ -2508,7 +2553,6 @@
       <Point>IGBED</Point>
       <Point>AGOXI</Point>
       <Point>SOVRO</Point>
-      <Point>AGSEK</Point>
       <Point>DIPSO</Point>
       <Point>RM NDB</Point>
       <Point>VK NDB</Point>
