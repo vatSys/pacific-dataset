@@ -939,7 +939,12 @@ VATVO/
 LEMUP/
 LHR NDB
 </Airway>
-    <Airway Name="H530" />
+    <Airway Name="H530">
+IKERU/
+LUGLI/
+RUTAG/
+SAKTO
+</Airway>
     <Airway Name="H531">
 ALBUP/
 ODOLU/
@@ -962,7 +967,17 @@ SAKTO/
 POXIT/
 LARID
 </Airway>
-    <Airway Name="H536" />
+    <Airway Name="H536">
+BELUP/
+STARF/
+SNAPA/
+EPKED/
+GUGPU/
+IKERU/
+SLUMI/
+LUMMI/
+VNO NDB
+</Airway>
     <Airway Name="H537">
 EPKED/
 ANULO/
@@ -1030,7 +1045,13 @@ JAQIN/
 ESNIV/
 KVG VOR
 </Airway>
-    <Airway Name="H652" />
+    <Airway Name="H652">
+DOTUB/
+ISMAR/
+OREMO/
+LEMUP/
+ESNIV
+</Airway>
     <Airway Name="H655">
 AVLIX/
 MIKIT/
@@ -1398,8 +1419,16 @@ NAVUA
 NN VOR/
 NAVUA
 </Airway>
-    <Airway Name="Q302" />
-    <Airway Name="Q31" />
+    <Airway Name="Q302">
+NA VOR/
+ONOLU
+</Airway>
+    <Airway Name="Q31">
+NA VOR/
+MAKSO/
+LATIT/
+GUSMA
+</Airway>
     <Airway Name="Q310">
 NA VOR/
 RUTEB/
@@ -1417,7 +1446,12 @@ PUNIX/
 ALEBO/
 RM NDB
 </Airway>
-    <Airway Name="Q35" />
+    <Airway Name="Q35">
+NA VOR/
+MABTU/
+LUNKI/
+AGSEK
+</Airway>
     <Airway Name="Q355">
 NN VOR/
 NFSW

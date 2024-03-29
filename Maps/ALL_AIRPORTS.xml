@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
-  <Map Type="System2" Name="ALL_AIRPORTS" Priority="2" Center="-07.0+166.0">
+  <Map Type="System2" Name="ALL_CERT_AIRPORTS" Priority="2" Center="-07.0+166.0">
     <Label HasLeader="true" LabelOrientation="NW">
       <Point>AGAR</Point>
       <Point>AGAT</Point>
@@ -289,6 +289,5 @@
       <Point>WAVM</Point>
       <Point>XN55</Point>
     </Symbol>
-    <Symbol Type="Circle" />
   </Map>
 </Maps>
