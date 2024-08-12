@@ -1,5 +1,18 @@
-# vatsys-dataset
-Default profile dataset for vatSys
+# Eurocat Pacific Dataset
+This is the default profile dataset for vatSys.
+
+## Aeronautical Information Management
+Scheduled AIRAC updates to the dataset occur once every six months (AIRAC's 2X06 and 2X12).
+
+The VATPAC AIS Team may issue intermediate AIRAC Updates as required.
+
+### Community Update Submissions
+
+Community members may contribute to the dataset by making a pull request to the relevant AIRAC draft branch. These requests must be submitted **two weeks** before the designated AIRAC Effective Date to be considered for integration. AIRAC Effective Dates can be found [here](https://www.nm.eurocontrol.int/RAD/common/airac_dates.html).
+
+Pull requests to the master branch will not be approved.
+
+# Data Preparation
 
 **`Profile.xml` must be updated for each release**
 
