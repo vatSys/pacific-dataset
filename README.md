@@ -1,6 +1,4 @@
 # Eurocat Pacific Dataset
-This is the default profile dataset for vatSys.
-
 ## Aeronautical Information Management
 Scheduled AIRAC updates to the dataset occur once every six months (AIRAC's 2X06 and 2X12).
 
