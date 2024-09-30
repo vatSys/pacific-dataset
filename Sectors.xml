@@ -67,9 +67,6 @@
   <Sector FullName="Jacksons Radar" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
     <Volumes>AYPYA</Volumes>
   </Sector>
-  <Sector FullName="Kwaj Approach" Frequency="126.200" Callsign="PKWA_APP" Name="PKWAA">
-    <Volumes>PKWAA</Volumes>
-  </Sector>
   <Sector FullName="Nadi Approach" Frequency="119.100" Callsign="NFFN_APP" Name="NFFNA">
     <Volumes>NFFNA</Volumes>
     <ResponsibleSectors>NFNAA</ResponsibleSectors>
@@ -90,7 +87,7 @@
     <Volumes>PKWATWR</Volumes>
   </Sector>
   <Sector FullName="Bucholz Tower" Frequency="118.800" Callsign="PKWA_TWR" Name="PKWA ADC" DisplayInHandoffWindow="False">
-    <Volumes>PKWATWR</Volumes>
+    <Volumes>PKWATWR,PKWAA</Volumes>
   </Sector>
   <Sector FullName="Goroka Tower" Frequency="118.700" Callsign="AYGA_TWR" Name="AYGA ADC">
     <Volumes>AYGATWR</Volumes>

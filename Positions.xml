@@ -638,7 +638,7 @@
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
-    <Position Name="Bucholz Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="60" MagneticVariation="-7.6">
+    <Position Name="Bucholz Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="400" MagneticVariation="-7.6">
       <Sectors>
         <Sector Name="PKWA ADC" />
         <Sector Name="PKWA SMC" />
@@ -823,39 +823,6 @@
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
-    </Position>
-    <Position Name="Bucholz TCU" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="400" VisibilityRange="150" MagneticVariation="-7.6">
-      <Sectors>
-        <Sector Name="PKWAA" />
-      </Sectors>
-      <ManualVisibility>
-        <Point>+0843.0+16744.0</Point>
-        <Point>+0843.0+16852.0</Point>
-        <Point>+0828.0+16635.0</Point>
-      </ManualVisibility>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Bucholz/PKWA_COAST" />
-        <Map Name="Bucholz/PKWA_TCU" />
-        <Map Name="Bucholz/PKWA_ALLRWYS" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="PKWA" Frequency="119.5" />
-        <Window Airport="PKWA" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="PKWA" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="18000" />
-      <ArrivalLists>
-        <Airport Name="PKWA" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Kwaj Approach</Line>
-        <Line>ATIS available on 119.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="5500" />
     </Position>
   </Group>
 </Positions>
