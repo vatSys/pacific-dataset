@@ -6,9 +6,11 @@ The VATPAC AIS Team may issue intermediate AIRAC Updates as required.
 
 ### Community Update Submissions
 
-Community members may contribute to the dataset by making a pull request to the relevant AIRAC draft branch. These requests must be submitted **two weeks** before the designated AIRAC Effective Date to be considered for integration. AIRAC Effective Dates can be found [here](https://www.nm.eurocontrol.int/RAD/common/airac_dates.html).
+Non-AIS Staff/Community members may contribute to the dataset by making a pull request to the relevant AIRAC draft branch. These requests must be submitted **two weeks** before the designated AIRAC Effective Date to be considered for integration. AIRAC Effective Dates can be found [here](https://www.nm.eurocontrol.int/RAD/common/airac_dates.html).
 
 Pull requests to the master branch will not be approved.
+
+**Note:** Major changes (E.g. TCU/ENR/Aerodrome changes) must be discussed with the AIS team directly as an [issue](https://github.com/vatSys/pacific-dataset/issues) before submitting a pull request.
 
 # Data Preparation
 
