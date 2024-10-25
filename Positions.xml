@@ -4,7 +4,7 @@
     <Sectors>
       <Sector Name="AYPM" />
       <!--WORLDFIGHT-->
-      <Sector Name="AYPW" />
+      <Sector Name="AYPE" />
     </Sectors>
     <ManualVisibility>
       <Point>-0432.0+14435.0</Point>

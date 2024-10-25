@@ -86,7 +86,7 @@
 -04.833333+160.000000/
 +00.000000+160.000000/
 +00.000000+141.000000</Boundary>
-<Boundary Name="AYPM-W">
+<Boundary Name="AYPM-E">
 -12.000000+148.573333/
 -12.000000+155.000000/
 -09.396389+155.000000/
@@ -1276,8 +1276,8 @@
     <Boundaries>AYPM</Boundaries>
   </Volume>
   <!--WORLDFLIGHT-->
-  <Volume Name="AYPW" LowerLimit="0" UpperLimit="60000">
-    <Boundaries>AYPM-W</Boundaries>
+  <Volume Name="AYPE" LowerLimit="0" UpperLimit="60000">
+    <Boundaries>AYPM-E</Boundaries>
   </Volume>
    <Volume Name="AYPYA" LowerLimit="0" UpperLimit="15000">
     <Boundaries>AYPY_PORT_MORESBY_TMA</Boundaries>

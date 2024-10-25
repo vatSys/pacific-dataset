@@ -8,8 +8,8 @@
     <ResponsibleSectors>AYPM-W</ResponsibleSectors>
   </Sector>
   <!--WORLDFLIGHT-->
-  <Sector FullName="Moresby Centre" Frequency="125.600" Callsign="AYPW_CTR" Name="AYPW">
-    <Volumes>AYPW</Volumes>
+  <Sector FullName="Moresby Centre" Frequency="125.600" Callsign="AYPE_CTR" Name="AYPE">
+    <Volumes>AYPE</Volumes>
   </Sector>
   <Sector FullName="Nadi Centre" Frequency="120.900" Callsign="NFFN_CTR" Name="NFFN">
     <Volumes>NFFN</Volumes>
@@ -73,7 +73,7 @@
     <Volumes>AYPYA</Volumes>
   </Sector>
 <!--WORLDFIGHT-->
-  <Sector FullName="Jacksons Radar (West)" Frequency="127.800" Callsign="AYPY_DEP" Name="AYPYD">
+  <Sector FullName="Jacksons Radar (East)" Frequency="124.100" Callsign="AYPY_DEP" Name="AYPYD">
     <Volumes>AYPYA</Volumes>
   </Sector>
   <Sector FullName="Kwaj Approach" Frequency="126.200" Callsign="PKWA_APP" Name="PKWAA">
