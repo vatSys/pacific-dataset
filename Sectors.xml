@@ -3,7 +3,7 @@
   <Sector FullName="Arafura" Frequency="133.700" Callsign="BN-ARA_CTR" Name="ARA" DisplayInSectorsWindow="False">
     <Volumes>ARA</Volumes>
   </Sector>
-  <Sector FullName="Moresby Centre" Frequency="123.400" Callsign="AYPM_CTR" Name="AYPM">
+  <Sector FullName="Moresby Centre (West)" Frequency="123.400" Callsign="AYPM_CTR" Name="AYPM">
     <Volumes>AYPM</Volumes>
     <ResponsibleSectors>AYPM-W</ResponsibleSectors>
   </Sector>
