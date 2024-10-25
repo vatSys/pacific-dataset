@@ -717,6 +717,7 @@
     <Position Name="Moresby TCU" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="250" VisibilityRange="100" MagneticVariation="-5.8">
       <Sectors>
         <Sector Name="AYPYA" />
+        <Sector Name="AYPYD" />
       </Sectors>
       <ManualVisibility>
         <Point>-0927.0+14713.0</Point>

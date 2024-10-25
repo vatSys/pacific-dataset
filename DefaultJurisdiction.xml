@@ -6,7 +6,7 @@
         <Departure Values="AYPY">
           <Rules>
             <Default>
-              <AssignSector Order="AYPYA, AYPM"/>
+              <AssignSector Order="AYPYD, AYPYA, AYPM"/>
             </Default>
           </Rules>
         </Departure>

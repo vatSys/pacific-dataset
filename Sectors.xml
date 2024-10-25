@@ -72,6 +72,10 @@
   <Sector FullName="Jacksons Radar" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
     <Volumes>AYPYA</Volumes>
   </Sector>
+<!--WORLDFIGHT-->
+  <Sector FullName="Jacksons Radar (West)" Frequency="127.800" Callsign="AYPY_DEP" Name="AYPYD">
+    <Volumes>AYPYA</Volumes>
+  </Sector>
   <Sector FullName="Kwaj Approach" Frequency="126.200" Callsign="PKWA_APP" Name="PKWAA">
     <Volumes>PKWAA</Volumes>
   </Sector>
