@@ -5,6 +5,11 @@
   </Sector>
   <Sector FullName="Moresby Centre" Frequency="123.400" Callsign="AYPM_CTR" Name="AYPM">
     <Volumes>AYPM</Volumes>
+    <ResponsibleSectors>AYPM-W</ResponsibleSectors>
+  </Sector>
+  <!--WORLDFLIGHT-->
+  <Sector FullName="Moresby Centre" Frequency="125.600" Callsign="AYPW_CTR" Name="AYPW">
+    <Volumes>AYPW</Volumes>
   </Sector>
   <Sector FullName="Nadi Centre" Frequency="120.900" Callsign="NFFN_CTR" Name="NFFN">
     <Volumes>NFFN</Volumes>
