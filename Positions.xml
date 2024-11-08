@@ -3,6 +3,8 @@
   <Position Name="Morseby CTR" Type="ASD" DefaultCenter="-05.577645+151.101063" DefaultRange="2200">
     <Sectors>
       <Sector Name="AYPM" />
+      <!--WORLDFIGHT-->
+      <Sector Name="AYPE" />
     </Sectors>
     <ManualVisibility>
       <Point>-0432.0+14435.0</Point>
@@ -501,6 +503,8 @@
       <Sectors>
         <Sector Name="AYPY ADC" />
         <Sector Name="AYPY SMC" />
+        <!--WORLDFLIGHT-->
+        <Sector Name="AYPY ACD" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
@@ -526,6 +530,11 @@
       </ControllerInfo>
       <ControllerInfo Callsign="AYPY_GND">
         <Line>Jacksons Ground</Line>
+        <Line>ATIS available on 128.0</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="AYPY_DEL">
+        <Line>Jacksons Delivery</Line>
         <Line>ATIS available on 128.0</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
@@ -708,6 +717,7 @@
     <Position Name="Moresby TCU" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="250" VisibilityRange="100" MagneticVariation="-5.8">
       <Sectors>
         <Sector Name="AYPYA" />
+        <Sector Name="AYPYD" />
       </Sectors>
       <ManualVisibility>
         <Point>-0927.0+14713.0</Point>
