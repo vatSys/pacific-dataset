@@ -110,15 +110,6 @@
       TOSAS/
       MABRO
     </Line>
-    <!--WORLDFLIGHT-->
-    <Line Pattern="Dotted" Width="1.7">
-      -084401.0961+1464638.4924/
-      -100856.8435+1474002.4353
-    </Line>
-    <Label HasLeader="False" Alignment="Center">
-      <Point Name="APP">-093332.6301+1465116.611</Point>
-      <Point Name="DEP">-090934.3618+1472716.7432</Point>
-    </Label>
   </Map>
   <Map Type="System2" Name="AYPY_VFR" Priority="1" Center="-09.440278+147.218611">
     <Symbol Type="HollowSquare">
