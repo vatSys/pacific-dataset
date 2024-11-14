@@ -7,10 +7,6 @@
     <Volumes>AYPM</Volumes>
     <ResponsibleSectors>AYPM-W</ResponsibleSectors>
   </Sector>
-  <!--WORLDFLIGHT-->
-  <Sector FullName="Moresby Centre" Frequency="125.600" Callsign="AYPE_CTR" Name="AYPE">
-    <Volumes>AYPE</Volumes>
-  </Sector>
   <Sector FullName="Nadi Centre" Frequency="120.900" Callsign="NFFN_CTR" Name="NFFN">
     <Volumes>NFFN</Volumes>
   </Sector>
@@ -72,10 +68,6 @@
   <Sector FullName="Jacksons Radar" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
     <Volumes>AYPYA</Volumes>
   </Sector>
-<!--WORLDFIGHT-->
-  <Sector FullName="Jacksons Radar (East)" Frequency="124.100" Callsign="AYPY_DEP" Name="AYPYD">
-    <Volumes>AYPYA</Volumes>
-  </Sector>
   <Sector FullName="Kwaj Approach" Frequency="126.200" Callsign="PKWA_APP" Name="PKWAA">
     <Volumes>PKWAA</Volumes>
   </Sector>
@@ -111,10 +103,6 @@
     <Volumes>AYPYTWR</Volumes>
   </Sector>
   <Sector FullName="Jacksons Tower" Frequency="118.100" Callsign="AYPY_TWR" Name="AYPY ADC" DisplayInHandoffWindow="False">
-    <Volumes>AYPYTWR</Volumes>
-  </Sector>
-  <!--WORLDFLIGHT-->
-   <Sector FullName="Jacksons Delivery" Frequency="124.400" Callsign="AYPY_DEL" Name="AYPY ACD" DisplayInHandoffWindow="False">
     <Volumes>AYPYTWR</Volumes>
   </Sector>
   <Sector FullName="Lifou Tower" Frequency="118.500" Callsign="NWWL_TWR" Name="NWWL ADC">

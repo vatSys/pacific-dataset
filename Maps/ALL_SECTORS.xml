@@ -177,14 +177,13 @@
 -094839.000+1313025.000/
 -081924.000+1302716.000/
 -072338.000+1334000.000</Line>
-<!--WORLDFIGHT-->
-<Line Name="WF SPLIT">
+<!--<Line Name="WF SPLIT">
 -09.396389+155.000000/
 -09.441945+147.219167/
--12.000000+147.184445</Line>
-<Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+-12.000000+147.184445</Line>-->
+<!--<Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
     <Point Name="AYPE 125.60">-104323.6087+1482922.5366</Point>
-    <Point Name="AYPM 123.40">-104416.4323+1453608.1519</Point>
+    <Point Name="AYPM 123.40">-104416.4323+1453608.1519</Point>-->
 </Label> 
   </Map>
 </Maps>

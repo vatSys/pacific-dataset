@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Volumes>
- <!--<Boundary Name="AYPM">
+ <Boundary Name="AYPM">
 +000000.000+1410000.000/
 -061603.000+1410021.000/
 -061955.000+1410021.000/
@@ -58,8 +58,8 @@
 -044960.000+1590000.000/
 -044960.000+1600000.000/
 +000000.000+1600000.000/
-+000000.000+1410000.000</Boundary>-->
-<Boundary Name="AYPM">
++000000.000+1410000.000</Boundary>
+<!--<Boundary Name="AYPM">
 +00.000000+141.000000/
 -06.316667+141.000000/
 -06.333333+140.950000/
@@ -92,7 +92,7 @@
 -09.396389+155.000000/
 -09.441945+147.219167/
 -12.000000+147.184445/
--12.000000+148.573333</Boundary>
+-12.000000+148.573333</Boundary>-->
   <Boundary Name="KZAK_EAST">
     +560000.000-1530000.000/
     +533000.000-1600000.000/
@@ -1275,10 +1275,9 @@
    <Volume Name="AYPM" LowerLimit="0" UpperLimit="60000">
     <Boundaries>AYPM</Boundaries>
   </Volume>
-  <!--WORLDFLIGHT-->
-  <Volume Name="AYPE" LowerLimit="0" UpperLimit="60000">
+  <!--<Volume Name="AYPE" LowerLimit="0" UpperLimit="60000">
     <Boundaries>AYPM-E</Boundaries>
-  </Volume>
+  </Volume>-->
    <Volume Name="AYPYA" LowerLimit="0" UpperLimit="15000">
     <Boundaries>AYPY_PORT_MORESBY_TMA</Boundaries>
   </Volume>
