@@ -621,7 +621,7 @@
         <Map Name="Nadi/NFNA_RWY10" />
       </Maps>
       <ATIS>
-        <Editor Airport="NFFA" Frequency="128.5" />
+        <Editor Airport="NFNA" Frequency="128.5" />
         <Window Airport="NFNA" />
       </ATIS>
       <Strips Mode="Beacon" Sort="Alpha">
