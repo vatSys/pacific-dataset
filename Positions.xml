@@ -29,7 +29,7 @@
       <Airport Name="AYNZ" />
     </ArrivalLists>
     <ControllerInfo>
-      <Line>Morseby Control</Line>
+      <Line>Moresby Control</Line>
       <Line>ATC feedback - helpdesk.vatpac.org</Line>
     </ControllerInfo>
     <Transition Altitude="20000" />
