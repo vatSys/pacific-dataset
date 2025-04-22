@@ -568,11 +568,6 @@
         <Line>ATIS available on 127.9</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
-      <ControllerInfo Callsign="NFFN_DEL">
-        <Line>Nadi Delivery</Line>
-        <Line>ATIS available on 127.9</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
     <Position Name="Tontouta Tower" Type="ASD" DefaultCenter="-215926.0+1661013.0" DefaultRange="90" MagneticVariation="-12.5">
