@@ -352,7 +352,7 @@
       </ArrivalLists>
       <ControllerInfo>
         <Line>Hagen Tower</Line>
-        <Line>ATIS available on 128.4</Line>
+        <Line>ATIS available on 128.9</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -380,7 +380,7 @@
       </ArrivalLists>
       <ControllerInfo>
         <Line>Tokua Tower</Line>
-        <Line>ATIS available on 128.0</Line>
+        <Line>ATIS available on 128.3</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -437,7 +437,7 @@
       </ArrivalLists>
       <ControllerInfo>
         <Line>Nadzab Tower</Line>
-        <Line>ATIS available on 128.6</Line>
+        <Line>ATIS available on 128.1</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -700,7 +700,7 @@
       </ArrivalLists>
       <ControllerInfo>
         <Line>Nadzab Approach</Line>
-        <Line>ATIS available on 128.6</Line>
+        <Line>ATIS available on 128.1</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
