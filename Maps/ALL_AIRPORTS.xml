@@ -101,6 +101,9 @@
       <Point>NVVF</Point>
       <Point>NVVV</Point>
       <Point>NVVW</Point>
+	  <Point>NWHT</Point>
+	  <Point>NWHN</Point>
+	  <Point>NWHH</Point>
       <Point>NWWA</Point>
       <Point>NWWB</Point>
       <Point>NWWC</Point>
@@ -245,6 +248,9 @@
       <Point>NVVF</Point>
       <Point>NVVV</Point>
       <Point>NVVW</Point>
+	  <Point>NWHT</Point>
+	  <Point>NWHN</Point>
+	  <Point>NWHH</Point>
       <Point>NWWA</Point>
       <Point>NWWB</Point>
       <Point>NWWC</Point>
