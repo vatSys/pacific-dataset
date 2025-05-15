@@ -824,11 +824,6 @@
         <Line>ATIS available on 126.2</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
-      <ControllerInfo Callsign="NWWW-T_APP">
-        <Line>Tontouta Approach (Terminal)</Line>
-        <Line>ATIS available on 126.2</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
     <Position Name="Bucholz TCU" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="400" VisibilityRange="150" MagneticVariation="-7.6">
