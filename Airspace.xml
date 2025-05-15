@@ -4539,6 +4539,7 @@ NINIA
       <Runway Name="08" Position="-131417.992-1761232.152" />
       <Runway Name="26" Position="-131417.902-1761124.562" />
     </Airport>
+	
     <Airport ICAO="NVSA" FullName="Mota Lava" Position="-134007.000+1674246.000" Elevation="88">
       <Runway Name="14" Position="-133944.212+1674232.630" />
       <Runway Name="32" Position="-134009.592+1674249.331" />
@@ -4547,7 +4548,8 @@ NINIA
       <Runway Name="16" Position="-135059.122+1673211.710" />
       <Runway Name="34" Position="-135121.622+1673217.048" />
     </Airport>
-    <Airport ICAO="NVSE" FullName="Sangafa" Position="-170536.000+1682000.000" Elevation="7">
+	<Airport ICAO="NVSD" FullName="Torres" Position="-131939.600+1663815.600" />
+    <Airport ICAO="NVSE" FullName="Emae" Position="-170536.000+1682000.000" Elevation="7">
       <Runway Name="14" Position="-170500.499+1682018.218" />
       <Runway Name="32" Position="-170529.371+1682033.601" />
     </Airport>
@@ -4559,6 +4561,11 @@ NINIA
       <Runway Name="04" Position="-151830.060+1675752.459" />
       <Runway Name="22" Position="-151804.630+1675823.498" />
     </Airport>
+	<Airport ICAO="NVSH" FullName="Sara" Position="-152816.900+1680909.700" />
+	<Airport ICAO="NVSI" FullName="Paama" Position="-162555.100+1681407.700" />
+	<Airport ICAO="NVSL" FullName="Lamap" Position="-162725.900+1674942.500" />
+	<Airport ICAO="NVSM" FullName="Lamen Bay" Position="-163512.500+1680937.5" />
+	<Airport ICAO="NVSN" FullName="Maewo" Position="-145948.300+1680450.900" />
     <Airport ICAO="NVSO" FullName="Lonorore" Position="-155156.329+1681018.401" Elevation="39">
       <Runway Name="15" Position="-155137.822+1681010.942" />
       <Runway Name="33" Position="-155214.851+1681025.871" />
@@ -4567,14 +4574,27 @@ NINIA
       <Runway Name="13" Position="-160428.420+1672347.980" />
       <Runway Name="31" Position="-160452.162+1672408.471" />
     </Airport>
+	<Airport ICAO="NVSQ" FullName="Gaua" Position="-141310.800+1673516.800" />
+	<Airport ICAO="NVSR" FullName="Redcliff" Position="-152818.0+1675008.000" />
     <Airport ICAO="NVSS" FullName="Santo" Position="-153020.761+1671316.889" Elevation="184">
       <Runway Name="12" Position="-152955.889+1671245.421" />
       <Runway Name="30" Position="-153037.000+1671337.441" />
     </Airport>
+	<Airport ICAO="NVST" FullName="Tongoa" Position="-165328.000+1683305.000" />
+	<Airport ICAO="NVSU" FullName="Ulei" Position="-161946.900+1681803.200" />
+	<Airport ICAO="NVSV" FullName="Valesdir" Position="-164746.000+1681037.000" />
+	<Airport ICAO="NVSW" FullName="Walaha" Position="-152441.400+1674128.200" />
+	<Airport ICAO="NVSX" FullName="South West Bay" Position="-162901.100+1672643.500" />
+	<Airport ICAO="NVSZ" FullName="North West Santo (Laymoli)" Position="-145254.000+1663329.000" />
+	<Airport ICAO="NVVA" FullName="Aneityum" Position="-201456.400+1694615.600" />
+	<Airport ICAO="NVVB" FullName="Aniwa" Position="-191424.000+1693618.000" />
+	<Airport ICAO="NVVD" FullName="Dillons Bay" Position="-184610.000+1690005.000" />
     <Airport ICAO="NVVF" FullName="Futuna" Position="-193054.410+1701352.460" Elevation="93">
       <Runway Name="14" Position="-193048.211+1701350.750" />
       <Runway Name="32" Position="-193105.009+1701359.830" />
     </Airport>
+	<Airport ICAO="NVVI" FullName="Ipota" Position="-185122.800+1691658.800" />
+	<Airport ICAO="NVVQ" FullName="Quoin Hill" Position="-173224.000+1682631.200" />
     <Airport ICAO="NVVV" FullName="Port Vila" Position="-174157.570+1681911.258" Elevation="70">
       <Runway Name="11" Position="-174133.691+1681824.142" />
       <Runway Name="29" Position="-174213.219+1681942.139" />

@@ -90,15 +90,34 @@
       <Point>NGTU</Point>
       <Point>NLWF</Point>
       <Point>NLWW</Point>
-      <Point>NVSA</Point>
+	  <Point>NVSA</Point>
       <Point>NVSC</Point>
+	  <Point>NVSD</Point>
       <Point>NVSE</Point>
       <Point>NVSF</Point>
       <Point>NVSG</Point>
+	  <Point>NVSH</Point>
+	  <Point>NVSI</Point>
+	  <Point>NVSL</Point>
+	  <Point>NVSM</Point>
+	  <Point>NVSN</Point>
       <Point>NVSO</Point>
       <Point>NVSP</Point>
-      <Point>NVSS</Point>
-      <Point>NVVF</Point>
+      <Point>NVSQ</Point>
+      <Point>NVSR</Point>
+	  <Point>NVSS</Point>
+	  <Point>NVST</Point>
+	  <Point>NVSU</Point>
+	  <Point>NVSV</Point>
+      <Point>NVSW</Point>
+      <Point>NVSX</Point>
+      <Point>NVSZ</Point>
+      <Point>NVVA</Point>
+      <Point>NVVB</Point>
+      <Point>NVVD</Point>
+	  <Point>NVVF</Point>
+      <Point>NVVI</Point>
+	  <Point>NVVQ</Point>
       <Point>NVVV</Point>
       <Point>NVVW</Point>
       <Point>NWWA</Point>
@@ -234,15 +253,34 @@
       <Point>NGTU</Point>
       <Point>NLWF</Point>
       <Point>NLWW</Point>
-      <Point>NVSA</Point>
+	  <Point>NVSA</Point>
       <Point>NVSC</Point>
+	  <Point>NVSD</Point>
       <Point>NVSE</Point>
       <Point>NVSF</Point>
       <Point>NVSG</Point>
+	  <Point>NVSH</Point>
+	  <Point>NVSI</Point>
+	  <Point>NVSL</Point>
+	  <Point>NVSM</Point>
+	  <Point>NVSN</Point>
       <Point>NVSO</Point>
       <Point>NVSP</Point>
-      <Point>NVSS</Point>
-      <Point>NVVF</Point>
+      <Point>NVSQ</Point>
+      <Point>NVSR</Point>
+	  <Point>NVSS</Point>
+	  <Point>NVST</Point>
+	  <Point>NVSU</Point>
+	  <Point>NVSV</Point>
+      <Point>NVSW</Point>
+      <Point>NVSX</Point>
+      <Point>NVSZ</Point>
+      <Point>NVVA</Point>
+      <Point>NVVB</Point>
+      <Point>NVVD</Point>
+	  <Point>NVVF</Point>
+      <Point>NVVI</Point>
+	  <Point>NVVQ</Point>
       <Point>NVVV</Point>
       <Point>NVVW</Point>
       <Point>NWWA</Point>
