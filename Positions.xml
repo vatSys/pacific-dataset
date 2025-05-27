@@ -29,7 +29,7 @@
       <Airport Name="AYNZ" />
     </ArrivalLists>
     <ControllerInfo>
-      <Line>Morseby Control</Line>
+      <Line>Moresby Control</Line>
       <Line>ATC feedback - helpdesk.vatpac.org</Line>
     </ControllerInfo>
     <Transition Altitude="20000" />
@@ -385,10 +385,16 @@
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
-    <Position Name="Port Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="200" MagneticVariation="-11.6">
+    <Position Name="Port Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="200" MagneticVariation="-11.6" VisibilityRange="50">
       <Sectors>
         <Sector Name="NVVV ADC" />
       </Sectors>
+      <ManualVisibility>
+        <Point>-17.372500+168.372778</Point>
+        <Point>-17.768056+168.659167</Point>
+        <Point>-18.034167+168.264722</Point>
+        <Point>-17.657778+167.968889</Point>
+    </ManualVisibility>
       <Maps>
         <Map Name="ALL_CTA" />
         <Map Name="Port Vila/NVVV_COAST" />
@@ -815,11 +821,6 @@
       </ArrivalLists>
       <ControllerInfo>
         <Line>Tontouta Approach</Line>
-        <Line>ATIS available on 126.2</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <ControllerInfo Callsign="NWWW-T_APP">
-        <Line>Tontouta Approach (Terminal)</Line>
         <Line>ATIS available on 126.2</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>

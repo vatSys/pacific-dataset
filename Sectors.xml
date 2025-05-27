@@ -84,9 +84,9 @@
   <Sector FullName="Tontouta Approach (South)" Frequency="128.300" Callsign="NWWW_APP" Name="NWWWA">
     <Volumes>NWWWA</Volumes>
   </Sector>
-  <Sector FullName="Tontouta Approach (Terminal)" Frequency="119.700" Callsign="NWWW-T_APP" Name="NWWWT">
+  <!--<Sector FullName="Tontouta Approach (Terminal)" Frequency="119.700" Callsign="NWWW-T_APP" Name="NWWWT">
     <Volumes>NWWWA</Volumes>
-  </Sector>
+  </Sector>-->
   <Sector FullName="Bucholz SMC" Frequency="121.900" Callsign="PKWA_GND" Name="PKWA SMC" DisplayInHandoffWindow="False">
     <Volumes>PKWATWR</Volumes>
   </Sector>
