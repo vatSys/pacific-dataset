@@ -4583,9 +4583,6 @@ NINIA
       <Runway Name="15" Position="-192659.521+1691317.429" />
       <Runway Name="33" Position="-192736.569+1691333.982" />
     </Airport>
-	<Airport ICAO="NWHT" FullName="Dumbea CHT" Position="-221231.000+1662710.000" Elevation="72" />
-	<Airport ICAO="NWHN" FullName="Kone CHN" Position="-210555.000+1645318.000" Elevation="69" />
-	<Airport ICAO="NWHH" FullName="Noumea Meridien" Position="-221844.000+1662654.000" Elevation="10" />
     <Airport ICAO="NWWA" FullName="Tiga" Position="-210546.000+1674814.000" Elevation="125">
       <Runway Name="16" Position="-210529.659+1674810.732" />
       <Runway Name="34" Position="-210601.750+1674816.301" />
