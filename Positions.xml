@@ -148,7 +148,9 @@
       <Map Name="Port Moresby/ASMGCS_AYPY_BLD" />
     </Maps>
   </Position>
-  <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.761944+177.440556" DefaultRange="2" MagneticVariation="-12.5" Rotation="65">
+  </Group>
+  <Group Name="Class D">
+    <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.761944+177.440556" DefaultRange="2" MagneticVariation="-12.5" Rotation="65">
     <Maps>
       <Map Name="Nadi/ASMGCS_NFFN_RWY" />
       <Map Name="Nadi/ASMGCS_NFFN_APR" />
@@ -164,8 +166,6 @@
       <Map Name="Nadi/ASMGCS_NFNA_BLD" />
     </Maps>
   </Position>
-  </Group>
-  <Group Name="Class D">
     <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.723056+167.731944" DefaultRange="2" MagneticVariation="-7.6" Rotation="205">
     <Maps>
       <Map Name="Bucholz/ASMGCS_PKWA_RWY" />
