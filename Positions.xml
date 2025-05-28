@@ -551,7 +551,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Nadi/NFFN_COAST" />
         <Map Name="Nadi/NFFN_TCU" />
-        <Map Name="Nadi/NFFN_RWY02" />
+        <Map Name="Nadi/NFFN_RWY02A20D" />
       </Maps>
       <ATIS>
         <Editor Airport="NFFN" Frequency="127.9" />
