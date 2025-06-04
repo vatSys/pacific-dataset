@@ -28,13 +28,13 @@
   <Sector FullName="Auckland Oceanic" Frequency="129.000" Callsign="NZZO_FSS" Name="NZZO" DisplayInSectorsWindow="False">
     <Volumes>NZZO</Volumes>
   </Sector>
-  <Sector FullName="Coral Oceanic" Frequency="133.150" Callsign="BN-COL_FSS" Name="COL" DisplayInSectorsWindow="False">
+  <Sector FullName="Coral Oceanic" Frequency="133.150" Callsign="BN-COL_FSS" Name="YCOL" DisplayInSectorsWindow="False">
     <Volumes>COL</Volumes>
   </Sector>
-  <Sector FullName="Flinders Oceanic" Frequency="132.850" Callsign="BN-FLD_FSS" Name="FLD" DisplayInSectorsWindow="False">
+  <Sector FullName="Flinders Oceanic" Frequency="132.850" Callsign="BN-FLD_FSS" Name="YFLD" DisplayInSectorsWindow="False">
     <Volumes>FLD</Volumes>
   </Sector>
-  <Sector FullName="Lord Howe Oceanic" Frequency="124.950" Callsign="BN-HWE_FSS" Name="HWE" DisplayInSectorsWindow="False">
+  <Sector FullName="Lord Howe Oceanic" Frequency="124.950" Callsign="BN-HWE_FSS" Name="YHWE" DisplayInSectorsWindow="False">
     <Volumes>HWE</Volumes>
   </Sector>
   <Sector FullName="Nadi Oceanic" Frequency="123.600" Callsign="NFFF_FSS" Name="NFFF">
@@ -61,9 +61,21 @@
   <Sector FullName="SE Asia Upper" Frequency="135.350" Callsign="ASEA_FSS" Name="ASEA" DisplayInSectorsWindow="False">
     <Volumes>WAAF</Volumes>
   </Sector>
-  <Sector FullName="Tasman Oceanic" Frequency="124.650" Callsign="BN-TSN_FSS" Name="TSN" DisplayInSectorsWindow="False">
+  <Sector FullName="Tasman Oceanic" Frequency="124.650" Callsign="BN-TSN_FSS" Name="YTSN" DisplayInSectorsWindow="False">
     <Volumes>TSN</Volumes>
     <ResponsibleSectors>COL,FLD,HWE</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="Kennedy" Frequency="120.150" Callsign="BN-KEN_CTR" Name="YKEN" DisplayInSectorsWindow="False">
+    <Volumes>WILLIS</Volumes>
+  </Sector>
+  <Sector FullName="Willis" Frequency="127.600" Callsign="BN-WIL_CTR" Name="YWIL" DisplayInSectorsWindow="False">
+    <Volumes>WILLIS</Volumes>
+  </Sector>
+  <Sector FullName="Arafura" Frequency="133.700" Callsign="BN-ARA_CTR" Name="YARA" DisplayInSectorsWindow="False">
+    <Volumes>ARAFURA</Volumes>
+  </Sector>
+  <Sector FullName="Isa" Frequency="125.700" Callsign="BN-ISA_CTR" Name="YISA" DisplayInSectorsWindow="False">
+    <Volumes>ARAFURA</Volumes>
   </Sector>
   <Sector FullName="Jacksons Radar" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
     <Volumes>AYPYA</Volumes>
