@@ -1218,6 +1218,27 @@
     -030000.000+1102300.000/
     +011300.000+1133500.000
   </Boundary>
+  <Boundary Name="WILLIS">
+    -142518.000+1450511.000/
+    -120000.000+1444211.000/
+    -120000.000+1483424.000/
+    -160959.000+1510621.000/
+    -165817.000+1510431.000/
+    -165130.000+1472840.000/
+    -144419.000+1470850.000/
+    -144052.678+1470208.800/
+    -142957.202+1463736.560/
+    -142316.043+1461130.942/
+    -142101.000+1454438.000/
+    -142316.043+1451745.058/
+    -142518.000+1450511.000
+  </Boundary>
+  <Volume Name="WIlLIS" LowerLimit="0" UpperLimit="60000">
+    <Boundaries>WILLIS</Boundaries>
+  </Volume>
+  <Volume Name="ARAFURA" LowerLimit="0" UpperLimit="60000">
+    <Boundaries>ARAFURA</Boundaries>
+  </Volume>
   <Volume Name="NFFN" LowerLimit="0" UpperLimit="60000">
     <Boundaries>NADI_CTA</Boundaries>
   </Volume>
