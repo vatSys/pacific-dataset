@@ -81,7 +81,7 @@
   <Sector FullName="Nausori Approach" Frequency="119.700" Callsign="NFNA_APP" Name="NFNAA">
     <Volumes>NFNAA</Volumes>
   </Sector>
-  <Sector FullName="Tontouta Approach (South)" Frequency="128.300" Callsign="NWWW_APP" Name="NWWWA">
+  <Sector FullName="Tontouta Approach" Frequency="128.300" Callsign="NWWW_APP" Name="NWWWA">
     <Volumes>NWWWA</Volumes>
   </Sector>
   <!--<Sector FullName="Tontouta Approach (Terminal)" Frequency="119.700" Callsign="NWWW-T_APP" Name="NWWWT">
@@ -105,9 +105,9 @@
   <Sector FullName="Jacksons Tower" Frequency="118.100" Callsign="AYPY_TWR" Name="AYPY ADC" DisplayInHandoffWindow="False">
     <Volumes>AYPYTWR</Volumes>
   </Sector>
-  <Sector FullName="Lifou Tower" Frequency="118.500" Callsign="NWWL_TWR" Name="NWWL ADC">
+  <!--<Sector FullName="Lifou Tower" Frequency="118.500" Callsign="NWWL_TWR" Name="NWWL ADC">
     <Volumes>NWWLTWR</Volumes>
-  </Sector>
+  </Sector>-->
   <Sector FullName="Madang Tower" Frequency="118.100" Callsign="AYMD_TWR" Name="AYMD ADC">
     <Volumes>AYMDTWR</Volumes>
   </Sector>
