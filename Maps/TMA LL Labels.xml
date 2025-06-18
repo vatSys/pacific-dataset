@@ -31,10 +31,10 @@
       <Point Name="CSFC">-0916.4667+14714.55</Point>
       <Point Name="F SFC-200">-0428.8167+15214.5167</Point>
       <Point Name="F SFC-200">-0413.0833+15231.85</Point>
-      <Point Name="C025">-1737.8731+17703.5946</Point>
-      <Point Name="CSFC">-1749.2075+17729.453</Point>
-      <Point Name="C025">-1821.7811+17825.1313</Point>
-      <Point Name="CSFC">-1804.2173+17828.6542</Point>
+      <Point Name="D025">-1737.8731+17703.5946</Point>
+      <Point Name="DSFC">-1749.2075+17729.453</Point>
+      <Point Name="D025">-1821.7811+17825.1313</Point>
+      <Point Name="DSFC">-1804.2173+17828.6542</Point>
       <Point Name="D015">-2240.0+16707.0</Point>
       <Point Name="D035">-1727.0+16850.0</Point>
       <Point Name="D065">-2310.0+16715.0</Point>
