@@ -1,250 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Position Name="Morseby CTR" Type="ASD" DefaultCenter="-05.577645+151.101063" DefaultRange="2200">
-    <Sectors>
-      <Sector Name="AYPM" />
-    </Sectors>
-    <ManualVisibility>
-      <Point>-0432.0+14435.0</Point>
-      <Point>-0211.0+15440.0</Point>
-      <Point>-1004.0+14948.0</Point>
-    </ManualVisibility>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="ALL_SECTORS" />
-      <Map Name="ALL_NAVAIDS" />
-      <Map Name="COAST_ALL" />
-      <Map Name="ALL_ROUTES_HIGH" />
-      <Map Name="ALL_POINTS_HIGH" />
-      <Map Name="FIR_BDRY" />
-    </Maps>
-    <Strips Mode="State" Sort="Time">
-      <Window Type="State" State="Jurisdiction" Visible="true" />
-      <Window Type="State" State="Announced" Visible="true" />
-      <Window Type="State" State="Preactive" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="9000" />
-    <ArrivalLists>
-      <Airport Name="AYPY" />
-      <Airport Name="AYNZ" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Moresby Control</Line>
-      <Line>ATC feedback - helpdesk.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="20000" />
-  </Position>
-  <Position Name="Nadi CTR" Type="ASD" DefaultCenter="-17.749037+178.325786" DefaultRange="1200" VisibilityRange="300">
-    <Sectors>
-      <Sector Name="NFFN" />
-    </Sectors>
-    <ManualVisibility>
-      <Point>-1745.0+17820.0</Point>
-    </ManualVisibility>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="ALL_SECTORS" />
-      <Map Name="ALL_NAVAIDS" />
-      <Map Name="COAST_ALL" />
-      <Map Name="ALL_ROUTES_HIGH" />
-      <Map Name="ALL_POINTS_HIGH" />
-      <Map Name="FIR_BDRY" />
-    </Maps>
-    <Strips Mode="State" Sort="Time">
-      <Window Type="State" State="Jurisdiction" Visible="true" />
-      <Window Type="State" State="Announced" Visible="true" />
-      <Window Type="State" State="Preactive" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="9000" />
-    <ArrivalLists>
-      <Airport Name="NFFN" />
-      <Airport Name="NFFA" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Nadi Centre</Line>
-      <Line>ATC feedback - helpdesk.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="11000" />
-  </Position>
-  <Position Name="Port Vila CTR" Type="ASD" DefaultCenter="-16.620629+167.789198" DefaultRange="1200" VisibilityRange="400">
-    <Sectors>
-      <Sector Name="NVVV" />
-    </Sectors>
-    <ManualVisibility>
-      <Point>-1634.0+16748.0</Point>
-    </ManualVisibility>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="ALL_SECTORS" />
-      <Map Name="ALL_NAVAIDS" />
-      <Map Name="COAST_ALL" />
-      <Map Name="ALL_ROUTES_HIGH" />
-      <Map Name="ALL_POINTS_HIGH" />
-      <Map Name="FIR_BDRY" />
-    </Maps>
-    <Strips Mode="State" Sort="Time">
-      <Window Type="State" State="Jurisdiction" Visible="true" />
-      <Window Type="State" State="Announced" Visible="true" />
-      <Window Type="State" State="Preactive" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="9000" />
-    <ArrivalLists>
-      <Airport Name="NVVV" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Vila Centre</Line>
-      <Line>ATC feedback - helpdesk.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="11000" />
-  </Position>
-  <Position Name="Tontouta CTR" Type="ASD" DefaultCenter="-19.000+166.200" DefaultRange="1300" VisibilityRange="400">
-    <Sectors>
-      <Sector Name="NWWW" />
-    </Sectors>
-    <ManualVisibility>
-      <Point>-2147.0+16701.0</Point>
-      <Point>-1553.0+16516.0</Point>
-    </ManualVisibility>
-    <Maps>
-      <Map Name="ALL_CTA" />
-      <Map Name="ALL_SECTORS" />
-      <Map Name="ALL_NAVAIDS" />
-      <Map Name="COAST_ALL" />
-      <Map Name="ALL_ROUTES_HIGH" />
-      <Map Name="ALL_POINTS_HIGH" />
-      <Map Name="FIR_BDRY" />
-    </Maps>
-    <Strips Mode="State" Sort="Time">
-      <Window Type="State" State="Jurisdiction" Visible="true" />
-      <Window Type="State" State="Announced" Visible="true" />
-      <Window Type="State" State="Preactive" Visible="true" />
-    </Strips>
-    <CFL QuickLevel="11000" />
-    <ArrivalLists>
-      <Airport Name="NWWW" />
-      <Airport Name="NWWM" />
-      <Airport Name="NWWL" />
-    </ArrivalLists>
-    <ControllerInfo>
-      <Line>Tontouta Control</Line>
-      <Line>ATC feedback - helpdesk.vatpac.org</Line>
-    </ControllerInfo>
-    <Transition Altitude="11000" />
-  </Position>
-  <Group Name="Class C">
-    <Position Name="AYNZ" Type="ASMGCS" ASMGCSAirport="AYNZ" DefaultCenter="-063409.199+1464341.000" DefaultRange="2" MagneticVariation="-5.3" Rotation="0.5">
-      <Maps>
-        <Map Name="Nadzab/ASMGCS_AYNZ_RWY" />
-        <Map Name="Nadzab/ASMGCS_AYNZ_APR" />
-        <Map Name="Nadzab/ASMGCS_AYNZ_TWY" />
-        <Map Name="Nadzab/ASMGCS_AYNZ_BLD" />
-      </Maps>
-    </Position>
-    <Position Name="AYPY" Type="ASMGCS" ASMGCSAirport="AYPY" DefaultCenter="-09.440278+147.218611" DefaultRange="2" MagneticVariation="-5.8" Rotation="127">
-    <Maps>
-      <Map Name="Port Moresby/ASMGCS_AYPY_RWY" />
-      <Map Name="Port Moresby/ASMGCS_AYPY_APR" />
-      <Map Name="Port Moresby/ASMGCS_AYPY_TWY" />
-      <Map Name="Port Moresby/ASMGCS_AYPY_BLD" />
-    </Maps>
-  </Position>
-  </Group>
-  <Group Name="Class D">
-    <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.761944+177.440556" DefaultRange="2" MagneticVariation="-12.5" Rotation="65">
-    <Maps>
-      <Map Name="Nadi/ASMGCS_NFFN_RWY" />
-      <Map Name="Nadi/ASMGCS_NFFN_APR" />
-      <Map Name="Nadi/ASMGCS_NFFN_TWY" />
-      <Map Name="Nadi/ASMGCS_NFFN_BLD" />
-    </Maps>
-  </Position>
-  <Position Name="NFNA" Type="ASMGCS" ASMGCSAirport="NFNA" DefaultCenter="-18.045000+178.558611" DefaultRange="2" MagneticVariation="-12.6" Rotation="-7">
-    <Maps>
-      <Map Name="Nadi/ASMGCS_NFNA_RWY" />
-      <Map Name="Nadi/ASMGCS_NFNA_APR" />
-      <Map Name="Nadi/ASMGCS_NFNA_TWY" />
-      <Map Name="Nadi/ASMGCS_NFNA_BLD" />
-    </Maps>
-  </Position>
-    <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.723056+167.731944" DefaultRange="2" MagneticVariation="-7.6" Rotation="205">
-    <Maps>
-      <Map Name="Bucholz/ASMGCS_PKWA_RWY" />
-      <Map Name="Bucholz/ASMGCS_PKWA_APR" />
-      <Map Name="Bucholz/ASMGCS_PKWA_TWY" />
-      <Map Name="Bucholz/ASMGCS_PKWA_BLD" />
-    </Maps>
-  </Position>
-    <Position Name="NVVV" Type="ASMGCS" ASMGCSAirport="NVVV" DefaultCenter="-17.698889+168.316944" DefaultRange="2" MagneticVariation="-11.6" Rotation="164">
-      <Maps>
-        <Map Name="Port Vila/ASMGCS_NVVV_RWY" />
-        <Map Name="Port Vila/ASMGCS_NVVV_APR" />
-        <Map Name="Port Vila/ASMGCS_NVVV_TWY" />
-        <Map Name="Port Vila/ASMGCS_NVVV_BLD" />
-      </Maps>
-    </Position>
-    <Position Name="NWWM" Type="ASMGCS" ASMGCSAirport="NWWM" DefaultCenter="-22.257778+166.472222" DefaultRange="1" MagneticVariation="-12.5" Rotation="-76">
-      <Maps>
-        <Map Name="Noumea/ASMGCS_NWWM_RWY" />
-        <Map Name="Noumea/ASMGCS_NWWM_APR" />
-        <Map Name="Noumea/ASMGCS_NWWM_TWY" />
-        <Map Name="Noumea/ASMGCS_NWWM_BLD" />
-      </Maps>
-    </Position>
-    <Position Name="NWWW" Type="ASMGCS" ASMGCSAirport="NWWW" DefaultCenter="-22.014167+166.212778" DefaultRange="2" MagneticVariation="-12.4" Rotation="161">
-      <Maps>
-        <Map Name="Noumea/ASMGCS_NWWW_RWY" />
-        <Map Name="Noumea/ASMGCS_NWWW_APR" />
-        <Map Name="Noumea/ASMGCS_NWWW_TWY" />
-        <Map Name="Noumea/ASMGCS_NWWW_BLD" />
-      </Maps>
-    </Position>
-    <Position Name="NWWL" Type="ASMGCS" ASMGCSAirport="NWWL" DefaultCenter="-20.774444+167.239167" DefaultRange="1" MagneticVariation="-12.2" Rotation="-33">
-      <Maps>
-        <Map Name="Noumea/ASMGCS_NWWL_RWY" />
-        <Map Name="Noumea/ASMGCS_NWWL_APR" />
-        <Map Name="Noumea/ASMGCS_NWWL_TWY" />
-        <Map Name="Noumea/ASMGCS_NWWL_BLD" />
-      </Maps>
-    </Position>
-  </Group>
-  <Group Name="Class F">
-      <Position Name="AYGA" Type="ASMGCS" ASMGCSAirport="AYGA" DefaultCenter="-06.083333+145.392500" DefaultRange="2" MagneticVariation="-4.9" Rotation="100">
-      <Maps>
-        <Map Name="Goroka/ASMGCS_AYGA_RWY" />
-        <Map Name="Goroka/ASMGCS_AYGA_APR" />
-        <Map Name="Goroka/ASMGCS_AYGA_TWY" />
-        <Map Name="Goroka/ASMGCS_AYGA_BLD" />
-      </Maps>
-    </Position>
-    <Position Name="AYMD" Type="ASMGCS" ASMGCSAirport="AYMD" DefaultCenter="-05.209444+145.788056" DefaultRange="1" MagneticVariation="-4.8" Rotation="20">
-      <Maps>
-        <Map Name="Madang/ASMGCS_AYMD_RWY" />
-        <Map Name="Madang/ASMGCS_AYMD_APR" />
-        <Map Name="Madang/ASMGCS_AYMD_TWY" />
-        <Map Name="Madang/ASMGCS_AYMD_BLD" />
-      </Maps>
-    </Position>
-    <Position Name="AYMH" Type="ASMGCS" ASMGCSAirport="AYMH" DefaultCenter="-05.827500+144.300000" DefaultRange="2" MagneticVariation="-4.6" Rotation="-27">
-      <Maps>
-        <Map Name="Mt Hagen/ASMGCS_AYMH_RWY" />
-        <Map Name="Mt Hagen/ASMGCS_AYMH_APR" />
-        <Map Name="Mt Hagen/ASMGCS_AYMH_TWY" />
-        <Map Name="Mt Hagen/ASMGCS_AYMH_BLD" />
-      </Maps>
-    </Position>
-    <Position Name="AYTK" Type="ASMGCS" ASMGCSAirport="AYTK" DefaultCenter="-04.341028+152.379222" DefaultRange="1" MagneticVariation="-6.3" Rotation="-10">
-      <Maps>
-        <Map Name="Tokua/ASMGCS_AYTK_RWY" />
-        <Map Name="Tokua/ASMGCS_AYTK_APR" />
-        <Map Name="Tokua/ASMGCS_AYTK_TWY" />
-        <Map Name="Tokua/ASMGCS_AYTK_BLD" />
-      </Maps>
-    </Position>
-  </Group>
+
   <Group Name="Oceanic">
     <Position Name="Nadi Oceanic" Type="ASD" DefaultCenter="-10.660683+178.585898" DefaultRange="4500" VisibilityRange="1000">
       <Sectors>
         <Sector Name="NFFF" />
+		<Sector Name="NWWW" />
+        <Sector Name="NVVV" />
       </Sectors>
       <ManualVisibility>
         <Point>-0707.0+17542.0</Point>
@@ -269,10 +31,575 @@
         <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
         <Line>ATC feedback - helpdesk.vatpac.org</Line>
       </ControllerInfo>
-    </Position>
     <Transition Altitude="11000" />
+	</Position>
+  </Group>
+  <Group Name="Enroute">
+    <Position Name="Moresby" Type="ASD" DefaultCenter="-05.577645+151.101063" DefaultRange="2200">
+		<Sectors>
+		  <Sector Name="AYPM" />
+		  <Sector Name="AYPYA" />
+		  <Sector Name="AYNZA" />
+		</Sectors>
+		<ManualVisibility>
+		  <Point>-0432.0+14435.0</Point>
+		  <Point>-0211.0+15440.0</Point>
+		  <Point>-1004.0+14948.0</Point>
+		</ManualVisibility>
+		<Maps>
+		  <Map Name="ALL_CTA" />
+		  <Map Name="ALL_SECTORS" />
+		  <Map Name="ALL_NAVAIDS" />
+		  <Map Name="COAST_ALL" />
+		  <Map Name="ALL_ROUTES_HIGH" />
+		  <Map Name="ALL_POINTS_HIGH" />
+		  <Map Name="FIR_BDRY" />
+		</Maps>
+		<Strips Mode="State" Sort="Time">
+		  <Window Type="State" State="Jurisdiction" Visible="true" />
+		  <Window Type="State" State="Announced" Visible="true" />
+		  <Window Type="State" State="Preactive" Visible="true" />
+		</Strips>
+		<CFL QuickLevel="14000" />
+		<ArrivalLists>
+		  <Airport Name="AYPY" />
+		  <Airport Name="AYNZ" />
+		</ArrivalLists>
+		<ControllerInfo>
+		  <Line>Moresby Control</Line>
+		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
+		</ControllerInfo>
+		<Transition Altitude="20000" />
+    </Position>
+    <Position Name="Tontouta" Type="ASD" DefaultCenter="-19.000+166.200" DefaultRange="1300" VisibilityRange="400">
+		<Sectors>
+		  <Sector Name="NWWW" />
+		  <Sector Name="NWWWA" />
+		</Sectors>
+		<ManualVisibility>
+		  <Point>-2147.0+16701.0</Point>
+		  <Point>-1553.0+16516.0</Point>
+		</ManualVisibility>
+		<Maps>
+		  <Map Name="ALL_CTA" />
+		  <Map Name="ALL_SECTORS" />
+		  <Map Name="ALL_NAVAIDS" />
+		  <Map Name="COAST_ALL" />
+		  <Map Name="ALL_ROUTES_HIGH" />
+		  <Map Name="ALL_POINTS_HIGH" />
+		  <Map Name="FIR_BDRY" />
+		</Maps>
+		<Strips Mode="State" Sort="Time">
+		  <Window Type="State" State="Jurisdiction" Visible="true" />
+		  <Window Type="State" State="Announced" Visible="true" />
+		  <Window Type="State" State="Preactive" Visible="true" />
+		</Strips>
+		<CFL QuickLevel="10000" />
+		<ArrivalLists>
+		  <Airport Name="NWWW" />
+		  <Airport Name="NWWM" />
+		</ArrivalLists>
+		<ControllerInfo>
+		  <Line>Tontouta Control</Line>
+		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
+		</ControllerInfo>
+		<Transition Altitude="11000" />
+    </Position>
+    <Position Name="Nadi (Domestic)" Type="ASD" DefaultCenter="-17.749037+178.325786" DefaultRange="1200" VisibilityRange="300">
+		<Sectors>
+		  <Sector Name="NFFN" />
+		  <Sector Name="NFFNA" />
+		  <Sector Name="NFNAA" />
+		</Sectors>
+		<ManualVisibility>
+		  <Point>-1745.0+17820.0</Point>
+		</ManualVisibility>
+		<Maps>
+		  <Map Name="ALL_CTA" />
+		  <Map Name="ALL_SECTORS" />
+		  <Map Name="ALL_NAVAIDS" />
+		  <Map Name="COAST_ALL" />
+		  <Map Name="ALL_ROUTES_HIGH" />
+		  <Map Name="ALL_POINTS_HIGH" />
+		  <Map Name="FIR_BDRY" />
+		</Maps>
+		<Strips Mode="State" Sort="Time">
+		  <Window Type="State" State="Jurisdiction" Visible="true" />
+		  <Window Type="State" State="Announced" Visible="true" />
+		  <Window Type="State" State="Preactive" Visible="true" />
+		</Strips>
+		<CFL QuickLevel="7000" />
+		<ArrivalLists>
+		  <Airport Name="NFFN" />
+		  <Airport Name="NFFA" />
+		</ArrivalLists>
+		<ControllerInfo>
+		  <Line>Nadi Control</Line>
+		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
+		</ControllerInfo>
+		<Transition Altitude="11000" />
+    </Position>
+    <Position Name="Vila" Type="ASD" DefaultCenter="-16.620629+167.789198" DefaultRange="1200" VisibilityRange="400">
+		<Sectors>
+		  <Sector Name="NVVV" />
+		</Sectors>
+		<ManualVisibility>
+		  <Point>-1634.0+16748.0</Point>
+		</ManualVisibility>
+		<Maps>
+		  <Map Name="ALL_CTA" />
+		  <Map Name="ALL_SECTORS" />
+		  <Map Name="ALL_NAVAIDS" />
+		  <Map Name="COAST_ALL" />
+		  <Map Name="ALL_ROUTES_HIGH" />
+		  <Map Name="ALL_POINTS_HIGH" />
+		  <Map Name="FIR_BDRY" />
+		</Maps>
+		<Strips Mode="State" Sort="Time">
+		  <Window Type="State" State="Jurisdiction" Visible="true" />
+		  <Window Type="State" State="Announced" Visible="true" />
+		  <Window Type="State" State="Preactive" Visible="true" />
+		</Strips>
+		<CFL QuickLevel="10000" />
+		<ArrivalLists>
+		  <Airport Name="NVVV" />
+		</ArrivalLists>
+		<ControllerInfo>
+		  <Line>Vila Centre</Line>
+		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
+		</ControllerInfo>
+		<Transition Altitude="11000" />
+	</Position>
+  </Group>
+  <Group Name="TCU">
+    <Position Name="Nadzab TCU" Type="ASD" DefaultCenter="-06.569222+146.728056" DefaultRange="200" MagneticVariation="-5.3">
+      <Sectors>
+        <Sector Name="AYNZA" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>-0634.0+14643.0</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Nadzab/AYNZ_COAST" />
+        <Map Name="Nadzab/AYNZ_TCU" />
+        <Map Name="Nadzab/AYNZ_ALLRWYS" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="AYNZ" Frequency="128.6" />
+        <Window Airport="AYNZ" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="AYNZ" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="24000" />
+      <ArrivalLists>
+        <Airport Name="AYNZ" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Nadzab Approach</Line>
+        <Line>ATIS available on 128.1</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="20000" />
+    </Position>
+    <Position Name="Moresby TCU" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="250" VisibilityRange="100" MagneticVariation="-5.8">
+      <Sectors>
+        <Sector Name="AYPYA" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>-0927.0+14713.0</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Port Moresby/AYPY_COAST" />
+        <Map Name="Port Moresby/AYPY_TCU" />
+        <Map Name="Port Moresby/AYPY_RWY14" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="AYPY" Frequency="128.0" />
+        <Window Airport="AYPY" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="AYPY" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="15000" />
+      <ArrivalLists>
+        <Airport Name="AYPY" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Jacksons Radar</Line>
+        <Line>ATIS available on 128.0</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="20000" />
+    </Position>
+	<Position Name="Nadi TCU" Type="ASD" DefaultCenter="-17.761944+177.440556" DefaultRange="300" MagneticVariation="-12.5">
+      <Sectors>
+        <Sector Name="NFFNA" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>-1744.0+17722.0</Point>
+        <Point>-1757.0+17819.0</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Nadi/NFFN_COAST" />
+        <Map Name="Nadi/NFFN_TCU" />
+        <Map Name="Nadi/NFFN_RWY02A20D" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NFFN" Frequency="127.9" />
+        <Window Airport="NFFN" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NFFN" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="24000" />
+      <ArrivalLists>
+        <Airport Name="NFFN" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Nadi Approach</Line>
+        <Line>ATIS available on 127.9</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="11000" />
+    </Position>
+	<Position Name="Nausori TCU" Type="ASD" DefaultCenter="-18.045000+178.558611" DefaultRange="300" MagneticVariation="-12.5">
+      <Sectors>
+        <Sector Name="NFNAA" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>-1744.0+17722.0</Point>
+        <Point>-1757.0+17819.0</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Nadi/NFFN_COAST" />
+        <Map Name="Nadi/NFFN_TCU" />
+        <Map Name="Nadi/NFNA_RWY10" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NFNA" Frequency="128.5" />
+        <Window Airport="NFNA" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NFNA" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="24000" />
+      <ArrivalLists>
+        <Airport Name="NFNA" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Nausori Approach</Line>
+        <Line>ATIS available on 128.5</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="11000" />
+    </Position>
+    <Position Name="Tontouta TCU" Type="ASD" DefaultCenter="-220245.0+1660915.0" DefaultRange="600" VisibilityRange="150" MagneticVariation="-12.5">
+      <Sectors>
+        <Sector Name="NWWWA" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>-2055.0+16551.0</Point>
+        <Point>-2112.0+16751.0</Point>
+        <Point>-2213.0+16418.0</Point>
+        <Point>-2319.0+16641.0</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Noumea/NWWW_COAST" />
+        <Map Name="Noumea/NWWW_TCU" />
+        <Map Name="Noumea/NWWW_RWY11A29D" />
+        <Map Name="Noumea/NWWM_RWY35A17D" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NWWW" Frequency="126.2" />
+        <Window Airport="NWWW" />
+        <Window Airport="NWWM" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NWWW" Visible="true" />
+        <Window Type="ADEP" Beacon="NWWM" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="24000" />
+      <ArrivalLists>
+        <Airport Name="NWWW" />
+        <Airport Name="NWWM" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Tontouta Approach</Line>
+        <Line>ATIS available on 126.2</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="11000" />
+    </Position>
+  </Group>
+  <Group Name="Class C TWR">
+   <Position Name="Jacksons Tower" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="90" MagneticVariation="-5.8">
+      <Sectors>
+        <Sector Name="AYPY ADC" />
+        <Sector Name="AYPY SMC" />
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Port Moresby/AYPY_COAST" />
+        <Map Name="Port Moresby/AYPY_TCU" />
+        <Map Name="Port Moresby/AYPY_RWY14" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="AYPY" Frequency="128.0" />
+        <Window Airport="AYPY" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="AYPY" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="5000" />
+      <ArrivalLists>
+        <Airport Name="AYPY" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Jacksons Tower</Line>
+        <Line>ATIS available on 128.0</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="AYPY_GND">
+        <Line>Jacksons Ground</Line>
+        <Line>ATIS available on 128.0</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="20000" />
+    </Position>
+  </Group>
+  <Group Name="Class D TWR">	
+    <Position Name="Nadi Tower" Type="ASD" DefaultCenter="-17.756389+177.443611" DefaultRange="60" MagneticVariation="-12.5">
+      <Sectors>
+        <Sector Name="NFFN ADC" />
+        <Sector Name="NFFN SMC" />
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Nadi/NFFN_COAST" />
+        <Map Name="Nadi/NFFN_TCU" />
+        <Map Name="Nadi/NFFN_RWY02A20D" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NFFN" Frequency="127.9" />
+        <Window Airport="NFFN" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NFFN" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="6000" />
+      <ArrivalLists>
+        <Airport Name="NFFN" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Nadi Tower</Line>
+        <Line>ATIS available on 127.9</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="NFFN_GND">
+        <Line>Nadi Ground</Line>
+        <Line>ATIS available on 127.9</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="11000" />
+    </Position>
+    <Position Name="Tontouta Tower" Type="ASD" DefaultCenter="-215926.0+1661013.0" DefaultRange="90" MagneticVariation="-12.5">
+      <Sectors>
+        <Sector Name="NWWW ADC" />
+        <Sector Name="NWWW SMC" />
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Noumea/NWWW_COAST" />
+        <Map Name="Noumea/NWWW_TCU" />
+        <Map Name="Noumea/NWWW_RWY11A29D" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NWWW" Frequency="126.2" />
+        <Window Airport="NWWW" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NWWW" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="6000" />
+      <ArrivalLists>
+        <Airport Name="NWWW" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Tontouta Tower</Line>
+        <Line>ATIS available on 126.2</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="NWWW_GND">
+        <Line>Tontouta Ground</Line>
+        <Line>ATIS available on 126.2</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="11000" />
+    </Position>
+    <Position Name="Nausori Tower" Type="ASD" DefaultCenter="-18.044722+178.559444" DefaultRange="60" MagneticVariation="-12.6">
+      <Sectors>
+        <Sector Name="NFNA ADC" />
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Nadi/NFFN_COAST" />
+        <Map Name="Nadi/NFFN_TCU" />
+        <Map Name="Nadi/NFNA_RWY10" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NFNA" Frequency="128.5" />
+        <Window Airport="NFNA" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NFNA" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="4000" />
+      <ArrivalLists>
+        <Airport Name="NFNA" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Nausori Tower</Line>
+        <Line>ATIS available on 128.5</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="11000" />
+    </Position>
+    <Position Name="Bucholz Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="60" MagneticVariation="-7.6">
+      <Sectors>
+        <Sector Name="PKWA ADC" />
+        <Sector Name="PKWA SMC" />
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Bucholz/PKWA_COAST" />
+        <Map Name="Bucholz/PKWA_TCU" />
+        <Map Name="Bucholz/PKWA_ALLRWYS" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="PKWA" Frequency="119.5" />
+        <Window Airport="PKWA" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="PKWA" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="5000" />
+      <ArrivalLists>
+        <Airport Name="PKWA" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Bucholz Tower</Line>
+        <Line>ATIS available on 119.5</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <ControllerInfo Callsign="PKWA_GND">
+        <Line>Bucholz Ground</Line>
+        <Line>ATIS available on 119.5</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="5500" />
+    </Position>
+	<Position Name="Magenta Tower" Type="ASD" DefaultCenter="-222047.0+1662815.0" DefaultRange="90" MagneticVariation="-12.5">
+      <Sectors>
+        <Sector Name="NWWM ADC" />
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Noumea/NWWW_COAST" />
+        <Map Name="Noumea/NWWW_TCU" />
+        <Map Name="Noumea/NWWM_RWY35A17D" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NWWM" Frequency="126.6" />
+        <Window Airport="NWWM" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NWWM" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="5000" />
+      <ArrivalLists>
+        <Airport Name="NWWM" />
+        <Airport Name="NWWM" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Magenta Tower</Line>
+        <Line>ATIS available on 126.6</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="11000" />
+    </Position>
   </Group>
   <Group Name="Procedural TWR">
+    <Position Name="Nadzab Tower" Type="ASD" DefaultCenter="-06.569222+146.728056" DefaultRange="80" MagneticVariation="-5.3">
+      <Sectors>
+        <Sector Name="AYNZ ADC" />
+      </Sectors>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Nadzab/AYNZ_COAST" />
+        <Map Name="Nadzab/AYNZ_TCU" />
+        <Map Name="Nadzab/AYNZ_ALLRWYS" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="AYNZ" Frequency="128.6" />
+        <Window Airport="AYNZ" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="AYNZ" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="5000" />
+      <ArrivalLists>
+        <Airport Name="AYNZ" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Nadzab Tower</Line>
+        <Line>ATIS available on 128.1</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="20000" />
+    </Position>
+	<Position Name="Port Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="200" MagneticVariation="-11.6" VisibilityRange="50">
+      <Sectors>
+        <Sector Name="NVVV ADC" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>-17.372500+168.372778</Point>
+        <Point>-17.768056+168.659167</Point>
+        <Point>-18.034167+168.264722</Point>
+        <Point>-17.657778+167.968889</Point>
+    </ManualVisibility>
+      <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="Port Vila/NVVV_COAST" />
+        <Map Name="Port Vila/NVVV_TCU" />
+        <Map Name="Port Vila/NVVV_RWY11" />
+        <Map Name="Port Vila/NVVV_LOC" />
+      </Maps>
+      <ATIS>
+        <Editor Airport="NVVV" Frequency="126.4" />
+        <Window Airport="NVVV" />
+      </ATIS>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="NVVV" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ArrivalLists>
+        <Airport Name="NVVV" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Vila Tower</Line>
+        <Line>ATIS available on 126.4</Line>
+        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+      </ControllerInfo>
+      <Transition Altitude="11000" />
+    </Position>
+  </Group>
+  <Group Name="Class F TWR">
     <Position Name="Goroka Tower" Type="ASD" DefaultCenter="-06.082600+145.391283" DefaultRange="80" MagneticVariation="-4.9">
       <Sectors>
         <Sector Name="AYGA ADC" />
@@ -301,7 +628,7 @@
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
-    <Position Name="Madang Tower" Type="ASD" DefaultCenter="-05.208300+145.787667" DefaultRange="80" MagneticVariation="-4.8">
+    <Position Name="Madang Tower" Type="ASD" DefaultCenter="-05.208300+145.787667" DefaultRange="120" MagneticVariation="-4.8">
       <Sectors>
         <Sector Name="AYMD ADC" />
       </Sectors>
@@ -357,7 +684,7 @@
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
-    <Position Name="Tokua Tower" Type="ASD" DefaultCenter="-04.341028+152.379222" DefaultRange="80" MagneticVariation="-6.3">
+    <Position Name="Tokua Tower" Type="ASD" DefaultCenter="-04.341028+152.379222" DefaultRange="100" MagneticVariation="-6.3">
       <Sectors>
         <Sector Name="AYTK ADC" />
       </Sectors>
@@ -368,13 +695,15 @@
         <Map Name="Tokua/AYTK_ALLRWYS" />
       </Maps>
       <ATIS>
-        <Editor Airport="AYTK" Frequency="128.0" />
+        <Editor Airport="AYTK" Frequency="128.3" />
         <Window Airport="AYTK" />
       </ATIS>
       <Strips Mode="Beacon" Sort="Alpha">
         <Window Type="ADEP" Beacon="AYTK" Visible="true" />
       </Strips>
-      <CFL QuickLevel="10000" />
+      <CFL QuickLevel="20000">
+        <AdditionalLevels>4300</AdditionalLevels>
+      </CFL>
       <ArrivalLists>
         <Airport Name="AYTK" />
       </ArrivalLists>
@@ -385,479 +714,118 @@
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
-    <Position Name="Port Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="200" MagneticVariation="-11.6" VisibilityRange="50">
-      <Sectors>
-        <Sector Name="NVVV ADC" />
-      </Sectors>
-      <ManualVisibility>
-        <Point>-17.372500+168.372778</Point>
-        <Point>-17.768056+168.659167</Point>
-        <Point>-18.034167+168.264722</Point>
-        <Point>-17.657778+167.968889</Point>
-    </ManualVisibility>
+  </Group>
+  
+  
+<!--                                              -->
+<!--                                              -->
+<!--                   ASMGCS                     -->
+<!--                                              -->
+<!--                                              -->
+<!--                                              -->
+<!--                                              -->
+
+
+  <Group Name="Class C">
+    <Position Name="AYNZ" Type="ASMGCS" ASMGCSAirport="AYNZ" DefaultCenter="-063409.199+1464341.000" DefaultRange="2" MagneticVariation="-5.3" Rotation="0.5">
       <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Port Vila/NVVV_COAST" />
-        <Map Name="Port Vila/NVVV_TCU" />
-        <Map Name="Port Vila/NVVV_RWY11" />
-        <Map Name="Port Vila/NVVV_LOC" />
+        <Map Name="Nadzab/ASMGCS_AYNZ_RWY" />
+        <Map Name="Nadzab/ASMGCS_AYNZ_APR" />
+        <Map Name="Nadzab/ASMGCS_AYNZ_TWY" />
+        <Map Name="Nadzab/ASMGCS_AYNZ_BLD" />
       </Maps>
-      <ATIS>
-        <Editor Airport="NVVV" Frequency="126.4" />
-        <Window Airport="NVVV" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NVVV" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="10000" />
-      <ArrivalLists>
-        <Airport Name="NVVV" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Vila Tower</Line>
-        <Line>ATIS available on 126.4</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="11000" />
     </Position>
-    <Position Name="Nadzab Tower" Type="ASD" DefaultCenter="-06.569222+146.728056" DefaultRange="80" MagneticVariation="-5.3">
-      <Sectors>
-        <Sector Name="AYNZ ADC" />
-      </Sectors>
+    <Position Name="AYPY" Type="ASMGCS" ASMGCSAirport="AYPY" DefaultCenter="-09.440278+147.218611" DefaultRange="2" MagneticVariation="-5.8" Rotation="127">
+    <Maps>
+      <Map Name="Port Moresby/ASMGCS_AYPY_RWY" />
+      <Map Name="Port Moresby/ASMGCS_AYPY_APR" />
+      <Map Name="Port Moresby/ASMGCS_AYPY_TWY" />
+      <Map Name="Port Moresby/ASMGCS_AYPY_BLD" />
+    </Maps>
+  </Position>
+  </Group>
+  <Group Name="Class D">
+    <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.723056+167.731944" DefaultRange="2" MagneticVariation="-7.6" Rotation="205">
+    <Maps>
+      <Map Name="Bucholz/ASMGCS_PKWA_RWY" />
+      <Map Name="Bucholz/ASMGCS_PKWA_APR" />
+      <Map Name="Bucholz/ASMGCS_PKWA_TWY" />
+      <Map Name="Bucholz/ASMGCS_PKWA_BLD" />
+    </Maps>
+  </Position>
+    <Position Name="NVVV" Type="ASMGCS" ASMGCSAirport="NVVV" DefaultCenter="-17.698889+168.316944" DefaultRange="2" MagneticVariation="-11.6" Rotation="164">
       <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Nadzab/AYNZ_COAST" />
-        <Map Name="Nadzab/AYNZ_TCU" />
-        <Map Name="Nadzab/AYNZ_ALLRWYS" />
+        <Map Name="Port Vila/ASMGCS_NVVV_RWY" />
+        <Map Name="Port Vila/ASMGCS_NVVV_APR" />
+        <Map Name="Port Vila/ASMGCS_NVVV_TWY" />
+        <Map Name="Port Vila/ASMGCS_NVVV_BLD" />
       </Maps>
-      <ATIS>
-        <Editor Airport="AYNZ" Frequency="128.6" />
-        <Window Airport="AYNZ" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYNZ" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="6000" />
-      <ArrivalLists>
-        <Airport Name="AYNZ" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Nadzab Tower</Line>
-        <Line>ATIS available on 128.1</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="20000" />
     </Position>
-    <Position Name="Magenta Tower" Type="ASD" DefaultCenter="-222047.0+1662815.0" DefaultRange="90" MagneticVariation="-12.5">
-      <Sectors>
-        <Sector Name="NWWM ADC" />
-      </Sectors>
+    <Position Name="NWWM" Type="ASMGCS" ASMGCSAirport="NWWM" DefaultCenter="-22.257778+166.472222" DefaultRange="1" MagneticVariation="-12.5" Rotation="-76">
       <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Noumea/NWWW_COAST" />
-        <Map Name="Noumea/NWWW_TCU" />
-        <Map Name="Noumea/NWWM_RWY17" />
+        <Map Name="Noumea/ASMGCS_NWWM_RWY" />
+        <Map Name="Noumea/ASMGCS_NWWM_APR" />
+        <Map Name="Noumea/ASMGCS_NWWM_TWY" />
+        <Map Name="Noumea/ASMGCS_NWWM_BLD" />
       </Maps>
-      <ATIS>
-        <Editor Airport="NWWM" Frequency="126.6" />
-        <Window Airport="NWWM" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NWWM" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="5000" />
-      <ArrivalLists>
-        <Airport Name="NWWM" />
-        <Airport Name="NWWM" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Magenta Tower</Line>
-        <Line>ATIS available on 126.6</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="11000" />
     </Position>
-    <Position Name="Lifou Tower" Type="ASD" DefaultCenter="-204624.0+1671420.0" DefaultRange="70" MagneticVariation="-12.2">
-      <Sectors>
-        <Sector Name="NWWL ADC" />
-      </Sectors>
+    <Position Name="NWWW" Type="ASMGCS" ASMGCSAirport="NWWW" DefaultCenter="-22.014167+166.212778" DefaultRange="2" MagneticVariation="-12.4" Rotation="161">
       <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Noumea/NWWW_COAST" />
-        <Map Name="Noumea/NWWW_TCU" />
-        <Map Name="Noumea/NWWL_RWY12" />
+        <Map Name="Noumea/ASMGCS_NWWW_RWY" />
+        <Map Name="Noumea/ASMGCS_NWWW_APR" />
+        <Map Name="Noumea/ASMGCS_NWWW_TWY" />
+        <Map Name="Noumea/ASMGCS_NWWW_BLD" />
       </Maps>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NWWM" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="6000" />
-      <ArrivalLists>
-        <Airport Name="NWWL" />
-        <Airport Name="NWWL" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Lifou Tower</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="11000" />
+    </Position>
+    <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.761944+177.440556" DefaultRange="2" MagneticVariation="-12.5" Rotation="65">
+    <Maps>
+      <Map Name="Nadi/ASMGCS_NFFN_RWY" />
+      <Map Name="Nadi/ASMGCS_NFFN_APR" />
+      <Map Name="Nadi/ASMGCS_NFFN_TWY" />
+      <Map Name="Nadi/ASMGCS_NFFN_BLD" />
+    </Maps>
+    </Position>
+    <Position Name="NFNA" Type="ASMGCS" ASMGCSAirport="NFNA" DefaultCenter="-18.045000+178.558611" DefaultRange="2" MagneticVariation="-12.6" Rotation="-7">
+    <Maps>
+      <Map Name="Nadi/ASMGCS_NFNA_RWY" />
+      <Map Name="Nadi/ASMGCS_NFNA_APR" />
+      <Map Name="Nadi/ASMGCS_NFNA_TWY" />
+      <Map Name="Nadi/ASMGCS_NFNA_BLD" />
+    </Maps>
     </Position>
   </Group>
-  <Group Name="Radar TWR">
-    <Position Name="Jacksons Tower" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="90" MagneticVariation="-5.8">
-      <Sectors>
-        <Sector Name="AYPY ADC" />
-        <Sector Name="AYPY SMC" />
-      </Sectors>
+  <Group Name="Class F">
+      <Position Name="AYGA" Type="ASMGCS" ASMGCSAirport="AYGA" DefaultCenter="-06.083333+145.392500" DefaultRange="2" MagneticVariation="-4.9" Rotation="100">
       <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Port Moresby/AYPY_COAST" />
-        <Map Name="Port Moresby/AYPY_TCU" />
-        <Map Name="Port Moresby/AYPY_RWY14" />
+        <Map Name="Goroka/ASMGCS_AYGA_RWY" />
+        <Map Name="Goroka/ASMGCS_AYGA_APR" />
+        <Map Name="Goroka/ASMGCS_AYGA_TWY" />
+        <Map Name="Goroka/ASMGCS_AYGA_BLD" />
       </Maps>
-      <ATIS>
-        <Editor Airport="AYPY" Frequency="128.0" />
-        <Window Airport="AYPY" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYPY" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="15000" />
-      <ArrivalLists>
-        <Airport Name="AYPY" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Jacksons Tower</Line>
-        <Line>ATIS available on 128.0</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <ControllerInfo Callsign="AYPY_GND">
-        <Line>Jacksons Ground</Line>
-        <Line>ATIS available on 128.0</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <ControllerInfo Callsign="AYPY_DEL">
-        <Line>Jacksons Delivery</Line>
-        <Line>ATIS available on 128.0</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="20000" />
     </Position>
-    <Position Name="Nadi Tower" Type="ASD" DefaultCenter="-17.756389+177.443611" DefaultRange="60" MagneticVariation="-12.5">
-      <Sectors>
-        <Sector Name="NFFN ADC" />
-        <Sector Name="NFFN SMC" />
-      </Sectors>
+    <Position Name="AYMD" Type="ASMGCS" ASMGCSAirport="AYMD" DefaultCenter="-05.209444+145.788056" DefaultRange="1" MagneticVariation="-4.8" Rotation="20">
       <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Nadi/NFFN_COAST" />
-        <Map Name="Nadi/NFFN_TCU" />
-        <Map Name="Nadi/NFFN_RWY02A20D" />
+        <Map Name="Madang/ASMGCS_AYMD_RWY" />
+        <Map Name="Madang/ASMGCS_AYMD_APR" />
+        <Map Name="Madang/ASMGCS_AYMD_TWY" />
+        <Map Name="Madang/ASMGCS_AYMD_BLD" />
       </Maps>
-      <ATIS>
-        <Editor Airport="NFFN" Frequency="127.9" />
-        <Window Airport="NFFN" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NFFN" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="6000" />
-      <ArrivalLists>
-        <Airport Name="NFFN" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Nadi Tower</Line>
-        <Line>ATIS available on 127.9</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <ControllerInfo Callsign="NFFN_GND">
-        <Line>Nadi Ground</Line>
-        <Line>ATIS available on 127.9</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="11000" />
     </Position>
-    <Position Name="Tontouta Tower" Type="ASD" DefaultCenter="-215926.0+1661013.0" DefaultRange="90" MagneticVariation="-12.5">
-      <Sectors>
-        <Sector Name="NWWW ADC" />
-        <Sector Name="NWWW SMC" />
-      </Sectors>
+    <Position Name="AYMH" Type="ASMGCS" ASMGCSAirport="AYMH" DefaultCenter="-05.827500+144.300000" DefaultRange="2" MagneticVariation="-4.6" Rotation="-27">
       <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Noumea/NWWW_COAST" />
-        <Map Name="Noumea/NWWW_TCU" />
-        <Map Name="Noumea/NWWW_RWY11" />
+        <Map Name="Mt Hagen/ASMGCS_AYMH_RWY" />
+        <Map Name="Mt Hagen/ASMGCS_AYMH_APR" />
+        <Map Name="Mt Hagen/ASMGCS_AYMH_TWY" />
+        <Map Name="Mt Hagen/ASMGCS_AYMH_BLD" />
       </Maps>
-      <ATIS>
-        <Editor Airport="NWWW" Frequency="126.2" />
-        <Window Airport="NWWW" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NWWW" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="5000" />
-      <ArrivalLists>
-        <Airport Name="NWWW" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Tontouta Tower</Line>
-        <Line>ATIS available on 126.2</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <ControllerInfo Callsign="NWWW_GND">
-        <Line>Tontouta Ground</Line>
-        <Line>ATIS available on 126.2</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="11000" />
     </Position>
-    <Position Name="Nausori Tower" Type="ASD" DefaultCenter="-18.044722+178.559444" DefaultRange="60" MagneticVariation="-12.6">
-      <Sectors>
-        <Sector Name="NFNA ADC" />
-        <Sector Name="NFNA SMC" />
-      </Sectors>
+    <Position Name="AYTK" Type="ASMGCS" ASMGCSAirport="AYTK" DefaultCenter="-04.341028+152.379222" DefaultRange="1" MagneticVariation="-6.3" Rotation="-10">
       <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Nadi/NFFN_COAST" />
-        <Map Name="Nadi/NFFN_TCU" />
-        <Map Name="Nadi/NFNA_RWY10" />
+        <Map Name="Tokua/ASMGCS_AYTK_RWY" />
+        <Map Name="Tokua/ASMGCS_AYTK_APR" />
+        <Map Name="Tokua/ASMGCS_AYTK_TWY" />
+        <Map Name="Tokua/ASMGCS_AYTK_BLD" />
       </Maps>
-      <ATIS>
-        <Editor Airport="NFNA" Frequency="128.5" />
-        <Window Airport="NFNA" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NFNA" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="6000" />
-      <ArrivalLists>
-        <Airport Name="NFNA" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Nausori Tower</Line>
-        <Line>ATIS available on 128.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <ControllerInfo Callsign="NFNA_GND">
-        <Line>Nausori Ground</Line>
-        <Line>ATIS available on 128.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="11000" />
-    </Position>
-    <Position Name="Bucholz Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="60" MagneticVariation="-7.6">
-      <Sectors>
-        <Sector Name="PKWA ADC" />
-        <Sector Name="PKWA SMC" />
-      </Sectors>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Bucholz/PKWA_COAST" />
-        <Map Name="Bucholz/PKWA_TCU" />
-        <Map Name="Bucholz/PKWA_ALLRWYS" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="PKWA" Frequency="119.5" />
-        <Window Airport="PKWA" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="PKWA" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="5000" />
-      <ArrivalLists>
-        <Airport Name="PKWA" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Bucholz Tower</Line>
-        <Line>ATIS available on 119.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <ControllerInfo Callsign="PKWA_GND">
-        <Line>Bucholz Ground</Line>
-        <Line>ATIS available on 119.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="5500" />
-    </Position>
-  </Group>
-  <Group Name="TCU">
-    <Position Name="Nadzab TCU" Type="ASD" DefaultCenter="-06.569222+146.728056" DefaultRange="200" MagneticVariation="-5.3">
-      <Sectors>
-        <Sector Name="AYNZA" />
-      </Sectors>
-      <ManualVisibility>
-        <Point>-0634.0+14643.0</Point>
-      </ManualVisibility>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Nadzab/AYNZ_COAST" />
-        <Map Name="Nadzab/AYNZ_TCU" />
-        <Map Name="Nadzab/AYNZ_ALLRWYS" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="AYNZ" Frequency="128.6" />
-        <Window Airport="AYNZ" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYNZ" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="24000" />
-      <ArrivalLists>
-        <Airport Name="AYNZ" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Nadzab Approach</Line>
-        <Line>ATIS available on 128.1</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="20000" />
-    </Position>
-    <Position Name="Moresby TCU" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="250" VisibilityRange="100" MagneticVariation="-5.8">
-      <Sectors>
-        <Sector Name="AYPYA" />
-        <Sector Name="AYPYD" />
-      </Sectors>
-      <ManualVisibility>
-        <Point>-0927.0+14713.0</Point>
-      </ManualVisibility>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Port Moresby/AYPY_COAST" />
-        <Map Name="Port Moresby/AYPY_TCU" />
-        <Map Name="Port Moresby/AYPY_RWY14" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="AYPY" Frequency="128.0" />
-        <Window Airport="AYPY" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYPY" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="15000" />
-      <ArrivalLists>
-        <Airport Name="AYPY" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Jacksons Radar</Line>
-        <Line>ATIS available on 128.0</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="20000" />
-    </Position>
-    <Position Name="Nadi TCU" Type="ASD" DefaultCenter="-17.903026+177.984746" DefaultRange="300" MagneticVariation="-12.5">
-      <Sectors>
-        <Sector Name="NFFNA" />
-        <Sector Name="NFNAA" />
-      </Sectors>
-      <ManualVisibility>
-        <Point>-1744.0+17722.0</Point>
-        <Point>-1757.0+17819.0</Point>
-      </ManualVisibility>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Nadi/NFFN_COAST" />
-        <Map Name="Nadi/NFFN_TCU" />
-        <Map Name="Nadi/NFFN_RWY02" />
-        <Map Name="Nadi/NFNA_RWY10" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="NFFN" Frequency="127.9" />
-        <Window Airport="NFFN" />
-        <Window Airport="NFNA" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NFFN" Visible="true" />
-        <Window Type="ADEP" Beacon="NFNA" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="20000" />
-      <ArrivalLists>
-        <Airport Name="NFFN" />
-        <Airport Name="NFNA" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Nadi Approach</Line>
-        <Line>ATIS available on 127.9</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <ControllerInfo Callsign="NFNA_APP">
-        <Line>Nausori Approach</Line>
-        <Line>ATIS available on 128.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="11000" />
-    </Position>
-    <Position Name="Noumea TCU" Type="ASD" DefaultCenter="-220245.0+1660915.0" DefaultRange="600" VisibilityRange="150" MagneticVariation="-12.5">
-      <Sectors>
-        <Sector Name="NWWWA" />
-        <Sector Name="NWWWT" />
-      </Sectors>
-      <ManualVisibility>
-        <Point>-2055.0+16551.0</Point>
-        <Point>-2112.0+16751.0</Point>
-        <Point>-2213.0+16418.0</Point>
-        <Point>-2319.0+16641.0</Point>
-      </ManualVisibility>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Noumea/NWWW_COAST" />
-        <Map Name="Noumea/NWWW_TCU" />
-        <Map Name="Noumea/NWWW_RWY11" />
-        <Map Name="Noumea/NWWM_RWY17" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="NWWW" Frequency="126.2" />
-        <Window Airport="NWWW" />
-        <Window Airport="NWWM" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NWWW" Visible="true" />
-        <Window Type="ADEP" Beacon="NWWM" Visible="true" />
-        <Window Type="ADEP" Beacon="NWWL" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="24000" />
-      <ArrivalLists>
-        <Airport Name="NWWW" />
-        <Airport Name="NWWM" />
-        <Airport Name="NWWL" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Tontouta Approach</Line>
-        <Line>ATIS available on 126.2</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="11000" />
-    </Position>
-    <Position Name="Bucholz TCU" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="400" VisibilityRange="150" MagneticVariation="-7.6">
-      <Sectors>
-        <Sector Name="PKWAA" />
-      </Sectors>
-      <ManualVisibility>
-        <Point>+0843.0+16744.0</Point>
-        <Point>+0843.0+16852.0</Point>
-        <Point>+0828.0+16635.0</Point>
-      </ManualVisibility>
-      <Maps>
-        <Map Name="ALL_CTA" />
-        <Map Name="Bucholz/PKWA_COAST" />
-        <Map Name="Bucholz/PKWA_TCU" />
-        <Map Name="Bucholz/PKWA_ALLRWYS" />
-      </Maps>
-      <ATIS>
-        <Editor Airport="PKWA" Frequency="119.5" />
-        <Window Airport="PKWA" />
-      </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="PKWA" Visible="true" />
-      </Strips>
-      <CFL QuickLevel="18000" />
-      <ArrivalLists>
-        <Airport Name="PKWA" />
-      </ArrivalLists>
-      <ControllerInfo>
-        <Line>Kwaj Approach</Line>
-        <Line>ATIS available on 119.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
-      </ControllerInfo>
-      <Transition Altitude="5500" />
     </Position>
   </Group>
 </Positions>

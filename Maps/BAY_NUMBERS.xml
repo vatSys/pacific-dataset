@@ -73,6 +73,16 @@
 			<Point Name="26">-0926.689+14712.938</Point>
 			<Point Name="27">-0926.514+14712.824</Point>
 			<Point Name="28">-0926.490+14712.809</Point>
+			
+			<!-- TOKUA (AYTK) -->
+			<!-- PNG AIP 17 APRIL 2025 -->
+			<Point Name="1">-042033.720+1522238.880</Point>
+			<Point Name="2">-042033.280+1522237.460</Point>
+			<Point Name="3">-042032.840+1522236.020</Point>
+			<Point Name="4">-042032.260+1522234.870</Point>
+			<Point Name="5">-042031.860+1522233.380</Point>
+			<Point Name="6">-042031.630+1522232.170</Point>
+			<Point Name="7">-042031.210+1522230.300</Point>
         </Label>
     </Map>
 </Maps>

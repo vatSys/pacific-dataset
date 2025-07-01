@@ -113,18 +113,85 @@
   </Map>
   <Map Type="System2" Name="AYPY_VFR" Priority="1" Center="-09.440278+147.218611">
     <Symbol Type="HollowSquare">
-      <Point>SFI</Point>
-      <Point>SHL</Point>
+      <Point>GAR</Point>
+      <Point>FAI</Point>
+      <Point>HOM</Point>
+      <Point>SIR</Point>
+      <Point>GAP</Point>
+      <Point>AROA</Point>
+      <Point>GAE</Point>
+      <Point>RES</Point>
+      <Point>BOH</Point>
+      <Point>MLA</Point>
+      <Point>BRW</Point>
+	  <Point>TUB</Point>
+	  <Point>-09.035579+147.701098</Point>
+	  <Point>-09.178144+147.602741</Point>
     </Symbol>
     <Label HasLeader="True">
-      <Point>SFI</Point>
-      <Point>SHL</Point>
+      <Point>GAR</Point>
+      <Point>FAI</Point>
+      <Point>HOM</Point>
+      <Point>SIR</Point>
+      <Point>GAP</Point>
+      <Point>AROA</Point>
+      <Point>GAE</Point>
+      <Point>RES</Point>
+      <Point>BOH</Point>
+      <Point>MLA</Point>
+      <Point>BRW</Point>
+	  <Point>TUB</Point>
+	  <Point Name="FALSE GAP">-09.035579+147.701098</Point>
+	  <Point Name="MANARI">-09.178144+147.602741</Point>
     </Label>
+	<Label HasLeader="True" LabelOrientation="NW">
+      <Point Name="VFR BRAVO">-09.110936+147.250850</Point>
+	  <Point Name="VFR GOLF">AYKQ</Point>
+	  <Point Name="VFR INDIA">-08.82105+146.54096</Point>
+	  <Point Name="VFR SIERRA">AROA</Point>
+	  <Point Name="VFR ROMEO">-09.80862+147.67986</Point>
+	</Label>
+	<!-- VFR ROUTE SIERRA -->
+	<Line Pattern="Dotted">
+      -09.436293+147.122881/FAI/GAE/AROA
+    </Line>
+	<!-- VFR ROUTE INDIA -->
+	<Line Pattern="Dotted">
+      -09.436293+147.122881/FAI/-09.419938+147.041834/BOH/RES/-08.82105+146.54096
+    </Line>
+	<!-- VFR ROUTE KOKODA GAP -->
+	<Line Pattern="Dotted">
+	  -09.060525+147.734805/GAP/-09.076814+147.733971/-09.084592+147.732581/-09.091638+147.731654/-09.100788+147.728781/-09.108749+147.725723/-09.116983+147.724240/-09.124761+147.720997/-09.132172+147.716827
+    </Line>
+	<!-- VFR ROUTE GOLF -->
+	<Line Pattern="Dotted">
+      -09.389311+147.292756/AYKQ
+    </Line>
+	<!-- VFR ROUTE BRAVO -->
+	<Line Pattern="Dotted">
+      -09.3900427+147.2476961/-09.110936+147.250850
+    </Line>
+		<!-- VFR ROUTE ROMEO -->
+	<Line Pattern="Dotted">
+      -09.469886+147.295110/-09.80862+147.67986
+    </Line>
   </Map>
   <Map Type="System2" Name="AYPY_VFR_FULL_NAME" Priority="1" Center="-09.440278+147.218611">
     <Label HasLeader="True" LabelOrientation="SW">
-      <Point Name="STARFISH">SFI</Point>
-      <Point Name="SHOAL">SHL</Point>
+      <Point Name="GAIRE">GAR</Point>
+      <Point Name="FAIRFAX">FAI</Point>
+      <Point Name="HOMBROM BLUFF">HOM</Point>
+      <Point Name="SIRINUMU">SIR</Point>
+      <Point Name="KOKODA GAP">GAP</Point>
+      <Point Name="AROA">AROA</Point>
+      <Point Name="GALLEY">GAE</Point>
+      <Point Name="REDSCAR HEAD">RES</Point>
+      <Point Name="BOERA HEAD">BOH</Point>
+      <Point Name="MT LAWES">MLA</Point>
+      <Point Name="BROWN RIVER BRIDGE">BRW</Point>
+	  <Point Name="TUBUSEREIA">TUB</Point>
+	  <Point Name="FALSE GAP">-09.035579+147.701098</Point>
+	  <Point Name="MANARI">-09.178144+147.602741</Point>
     </Label>
   </Map>
   <Map Type="System" Name="AYPY_ALLRWYS" Priority="2" Center="-09.440278+147.218611">

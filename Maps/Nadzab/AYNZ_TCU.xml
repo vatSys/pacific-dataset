@@ -95,6 +95,79 @@
       <Point>LARID</Point>
     </Label>
   </Map>
+  <Map Type="System2" Name="AYNZ_VFR" Priority="1" Center="-06.569222+146.728056">
+    <Symbol Type="HollowSquare">
+      <Point>SAL</Point>
+      <Point>LSN</Point>
+      <Point>SUG</Point>
+      <Point>IGB</Point>
+      <Point>TMN</Point>
+      <Point>PES</Point>
+      <Point>LWA</Point>
+      <Point>JCN</Point>
+      <Point>RUM</Point>
+      <Point>SIG</Point>
+      <Point>KGG</Point>
+      <Point>MKB</Point>
+    </Symbol>
+    <Label HasLeader="True">
+      <Point>SAL</Point>
+      <Point>LSN</Point>
+      <Point>SUG</Point>
+      <Point>IGB</Point>
+      <Point>TMN</Point>
+      <Point>PES</Point>
+      <Point>LWA</Point>
+      <Point>JCN</Point>
+      <Point>RUM</Point>
+      <Point>SIG</Point>
+      <Point>KGG</Point>
+      <Point>MKB</Point>
+    </Label>
+	<Label HasLeader="True" LabelOrientation="NW">
+      <Point Name="VFR ALPHA">IGB</Point>
+	  <Point Name="VFR MIKE">-064201.000+1465628.000</Point>
+	  <Point Name="THE WAMPIT">-06.7178+146.7263</Point>
+	  <Point Name="VFR TANGO">-06.657565+146.682987</Point>
+	  <Point Name="VFR WHISKEY">PES</Point>
+	 </Label>
+	<!-- VFR ROUTE ALPHA -->
+	<Line Pattern="Dotted">
+      -06.524268+146.797053/IGB
+    </Line>
+	<!-- VFR ROUTE MIKE -->
+	<Line Pattern="Dotted">
+      -063707.000+1464556.000/-064012.000+1464816.000/-064201.000+1465628.000
+    </Line>
+	<!-- VFR ROUTE THE WAMPIT -->
+	<Line Pattern="Dotted">
+      -06.7178+146.7263/-06.7483+146.6780/-06.7677+146.6604/-06.7857+146.6463/-06.8032+146.6333/TMN
+    </Line>
+	<!-- VFR ROUTE TANGO -->
+	<Line Pattern="Dotted">
+	  -06.655106+146.686900/TMN
+    </Line>
+	<!-- VFR ROUTE WHISKEY -->
+	<Line Pattern="Dotted">
+	  -06.599958+146.650924/PES
+    </Line>
+  </Map>
+  <Map Type="System2" Name="AYNZ_VFR_FULL_NAME" Priority="1" Center="-06.569222+146.728056">
+    <Label HasLeader="True" LabelOrientation="SW">
+      <Point Name="SALAMAUA">SAL</Point>
+      <Point Name="LOWER SNAKE GAP">LSN</Point>
+      <Point Name="SUGAR LOAF">SUG</Point>
+      <Point Name="IGAM BARRACKS">IGB</Point>
+      <Point Name="TIMINI">TMN</Point>
+      <Point Name="PESEN">PES</Point>
+      <Point Name="LAKE WANUM">LWA</Point>
+      <Point Name="JUNCTION">JCN</Point>
+      <Point Name="RUMION">RUM</Point>
+      <Point Name="SAIDOR GAP">SIG</Point>
+      <Point Name="KISENGANG GAP">KGG</Point>
+      <Point Name="MARKHAM BRIDGE">MKB</Point>
+    </Label>
+  </Map>
   <Map Type="System" Name="AYNZ_ALLRWYS" Priority="2" Center="-06.569222+146.728056">
     <!--AYNZ-->
     <Runway Name="09/27">
