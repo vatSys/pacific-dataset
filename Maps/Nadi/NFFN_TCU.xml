@@ -232,10 +232,12 @@
     <Label HasLeader="True" LabelOrientation="NW">
       <Point Name="VICTOR">-173531.000+1772944.000</Point>
 	  <Point Name="TIVUA HELO">-173649.000+1772051.000</Point>
-	  <Point Name="KADAVULAILAI HELO">-174000.000+1771822.000</Point>
     </Label>
 	<Label HasLeader="True" LabelOrientation="W">
 	  <Point Name="TURTLE">-174538.200+1772547.200</Point>
+	</Label>
+	<Label HasLeader="True" LabelOrientation="SW">
+	  <Point Name="KADAVULAILAI HELO">-174000.000+1771822.000</Point>
 	</Label>
 
     <!-- TURTLE -->
