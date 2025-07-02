@@ -232,8 +232,6 @@
     <Label HasLeader="True" LabelOrientation="NW">
       <Point Name="VICTOR">-173531.000+1772944.000</Point>
 	  <Point Name="TIVUA HELO">-173649.000+1772051.000</Point>
-	</Label>
-	<Label HasLeader="True" LabelOrientation="NE">
 	  <Point Name="KADAVULAILAI HELO">-174000.000+1771822.000</Point>
     </Label>
 	<Label HasLeader="True" LabelOrientation="W">
@@ -303,7 +301,6 @@
 		<Point>-173840.000+1783457.000</Point> <!-- Tailevu Point -->
 		<Point>-174409.000+1772709.000</Point> <!-- The Bridge -->
 		<Point>-173649.000+1772051.000</Point> <!-- Tivua Island -->
-		<Point>-174538.200+1772547.200</Point> <!-- Turtle Airways Base -->
 		<Point>-174026.000-1784907.000</Point> <!-- Tuvuca -->
 		<Point>-160730.000-1795700.000</Point> <!-- Udu Point -->
 		<Point>-182215.000-1791614.000</Point> <!-- Vanuavatu -->
@@ -366,7 +363,6 @@
 		<Point Name="TAILEVU POINT" Type="Fix">-173840.000+1783457.000</Point>
 		<Point Name="THE BRIDGE" Type="Fix">-174409.000+1772709.000</Point>
 		<Point Name="TIVUA ISLAND" Type="Fix">-173649.000+1772051.000</Point>
-		<Point Name="TURTLE AIRWAYS BASE" Type="Fix">-174538.200+1772547.200</Point>
 		<Point Name="TUVUCA" Type="Fix">-174026.000-1784907.000</Point>
 		<Point Name="UDU POINT" Type="Fix">-160730.000-1795700.000</Point>
 		<Point Name="VANUAVATU" Type="Fix">-182215.000-1791614.000</Point>
