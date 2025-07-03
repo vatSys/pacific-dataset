@@ -6,10 +6,9 @@
       <Point Name="A195">-2235.0+16930.0</Point>
       <Point Name="A195">-2136.0+16650.0</Point>
       <Point Name="A195">-1840.0+16520.0</Point>
-      <Point Name="A200">-1934.8047+17931.4298</Point>
-      <Point Name="A200">-1657.8205+17622.9694</Point>
-      <Point Name="A200">-1617.3838+17825.7665</Point>
-      <Point Name="A245">-2430.0+16850.0</Point>
+      <Point Name="A200">-062435.0+1764515.0</Point>
+      <Point Name="A200">-143536.0+1735855.0</Point>
+      <Point Name="A200">-2430.0+16850.0</Point>
       <Point Name="A245">-1435.0+16850.0</Point>
       <Point Name="A245">-1150.4179+14607.9888</Point>
       <Point Name="C065">-1911.7015+17936.2098</Point>
@@ -22,6 +21,7 @@
       <Point Name="C200">-1121.8347+14618.6274</Point>
       <Point Name="D095">-2215.0+16930.0</Point>
       <Point Name="D095">-1820.0+16520.0</Point>
+	  <Point Name="D095">-150000.0+1735855.0</Point>
     </Label>
   </Map>
 </Maps>
