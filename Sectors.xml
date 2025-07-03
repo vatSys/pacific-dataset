@@ -60,10 +60,10 @@
 
   
   <!-- Marshall Islands -->
-  <Sector FullName="Bucholz Tower" Frequency="118.800" Callsign="PKWA_TWR" Name="PKWA ADC" DisplayInHandoffWindow="False">
+  <Sector FullName="Bucholz Tower" Frequency="126.200" Callsign="KWA_TWR" Name="PKWA ADC" DisplayInHandoffWindow="False">
     <Volumes>PKWATWR</Volumes>
   </Sector>
-  <Sector FullName="Bucholz SMC" Frequency="121.900" Callsign="PKWA_GND" Name="PKWA SMC" DisplayInHandoffWindow="False">
+  <Sector FullName="Bucholz SMC" Frequency="121.900" Callsign="KWA_GND" Name="PKWA SMC" DisplayInHandoffWindow="False">
     <Volumes>PKWATWR</Volumes>
   </Sector>
   
