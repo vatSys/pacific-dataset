@@ -315,7 +315,7 @@ PNI NDB/
 AXTEN/
 UKS NDB/
 STEFF/
-RASON
+NDJ NDB
 </Airway>
     <Airway Name="A346">
 OVRON/
@@ -914,7 +914,7 @@ RENEB
 </Airway>
     <Airway Name="H422">
 RUPNO/
-LUKTI/
+APOMU/
 YALOL/
 AKBOK/
 LUNTO
@@ -1015,7 +1015,7 @@ PY VOR
 </Airway>
     <Airway Name="H541">
 YXM VOR/
-MOR NDB/
+KASVA/
 KIBAV
 </Airway>
     <Airway Name="H543">
@@ -1134,6 +1134,30 @@ IKERU/
 ATGAP/
 DOTUB
 </Airway>
+    <Airway Name="H668">
+ASIXA/
+IGPIS/
+KASVA/
+KRARI/
+DOTUB
+</Airway>
+    <Airway Name="H669">
+OKT NDB/
+OLBOR/
+DOTUB
+</Airway>
+    <Airway Name="H670">
+PASDU/
+OKOMM/
+CHAMB/
+DOTUB
+</Airway>
+    <Airway Name="H671">
+VNO NDB/
+TAVUK/
+LEBOK/
+KASVA
+</Airway>
     <Airway Name="H672">
 PASDU/
 OKT NDB/
@@ -1159,7 +1183,7 @@ IKERU
     <Airway Name="H776">
 PASDU/
 OBLAM/
-MOR NDB
+KASVA
 </Airway>
     <Airway Name="H777">
 ASIXA/
@@ -1178,6 +1202,12 @@ KANTU/
 PINUR/
 ALBUP
 </Airway>
+    <Airway Name="H780">
+AVLIX/
+GIZAR/
+TEKEE/
+MOE NDB
+</Airway>
     <Airway Name="H781">
 AVLIX/
 BORBO/
@@ -1188,7 +1218,7 @@ KIBAV/
 IKERU
 </Airway>
     <Airway Name="H783">
-MOR NDB/
+KASVA/
 ESKEL/
 IKERU
 </Airway>
@@ -1198,10 +1228,14 @@ YABAL/
 KADKA/
 DOTUB
 </Airway>
+    <Airway Name="H785">
+ALBUP/
+GIZAR
+</Airway>
     <Airway Name="H786">
 OKT NDB/
 IDSUT/
-MOR NDB/
+KASVA/
 BETLA/
 EPKED
 </Airway>
@@ -1229,6 +1263,16 @@ EPKED/
 KIBAV/
 NODAR/
 OKT NDB
+</Airway>
+    <Airway Name="H792">
+KIBAV/
+SAPRI
+</Airway>
+    <Airway Name="H793">
+PY VOR/
+MORBE/
+PELCA/
+AVLIX
 </Airway>
     <Airway Name="H795">
 TEDED/
@@ -1641,7 +1685,7 @@ PNI NDB/
 TRADD/
 HAVNU/
 LOOIS/
-RASON/
+NDJ NDB/
 CURCH/
 MAJ NDB
 </Airway>
@@ -1879,6 +1923,7 @@ NINIA
     <Point Name="APILI" Type="Fix">-174926.720+1771346.391</Point>
     <Point Name="APISO" Type="Fix">-120000.000+1473623.800</Point>
     <Point Name="APITA" Type="Fix">-092658.229+1600004.979</Point>
+    <Point Name="APOMU" Type="Fix">-080004.388+1494325.410</Point>
     <Point Name="APUKA" Type="Fix">-120000.000+1445739.600</Point>
     <Point Name="ARAGI" Type="Fix">-154142.241+1671956.910</Point>
     <Point Name="ARAWE" Type="Fix">-060617.258+1485955.658</Point>
@@ -2121,7 +2166,6 @@ NINIA
     <Point Name="ENZED" Type="Fix">-175253.152+1681720.800</Point>
     <Point Name="EPKED" Type="Fix">-075745.292+1454642.179</Point>
     <Point Name="ERTAP" Type="Fix">-175605.719+1681800.500</Point>
-    <Point Name="ERVON" Type="Fix">-354650.900+1580455.300</Point>
     <Point Name="ERVOS" Type="Fix">-093948.391+1610122.811</Point>
     <Point Name="ESBAN" Type="Fix">-152427.608+1671344.288</Point>
     <Point Name="ESDOX" Type="Fix">-183149.030-1765849.631</Point>
@@ -2506,6 +2550,7 @@ NINIA
     <Point Name="KASKU" Type="Fix">+002518.480+1700000.000</Point>
     <Point Name="KASTN" Type="Fix">-173811.749+1680807.631</Point>
     <Point Name="KASTO" Type="Fix">-085121.460+1603933.761</Point>
+    <Point Name="KASVA" Type="Fix">-062146.321+1431515.059</Point>
     <Point Name="KATHZ" Type="Fix">+061236.000+1590405.000</Point>
     <Point Name="KAUPA" Type="Fix">-083539.300+1790056.419</Point>
     <Point Name="KAVLE" Type="Fix">+054405.000+1602619.000</Point>
@@ -2613,7 +2658,6 @@ NINIA
     <Point Name="LOWEY" Type="Fix">+072548.000+1650333.000</Point>
     <Point Name="LUDGA" Type="Fix">-065706.289+1472602.389</Point>
     <Point Name="LUGLI" Type="Fix">-073458.778+1454710.021</Point>
-    <Point Name="LUKTI" Type="Fix">-080004.388+1494325.410</Point>
     <Point Name="LUMMI" Type="Fix">-032801.639+1420259.240</Point>
     <Point Name="LUNBI" Type="Fix">-371525.060+1703924.541</Point>
     <Point Name="LUNKI" Type="Fix">-165048.000+1783936.000</Point>
@@ -2679,7 +2723,6 @@ NINIA
     <Point Name="MIKAX" Type="Fix">-175716.582+1771656.881</Point>
     <Point Name="MIKEG" Type="Fix">-383544.800+1573204.700</Point>
     <Point Name="MIKIT" Type="Fix">-052231.822+1484624.809</Point>
-    <Point Name="MILLA" Type="Fix">-381256.100+1455337.200</Point>
     <Point Name="MIMEP" Type="Fix">-090155.229+1473721.500</Point>
     <Point Name="MINEN" Type="Fix">-074827.720+1523422.508</Point>
     <Point Name="MINET" Type="Fix">-295643.390+1704759.269</Point>
@@ -2825,7 +2868,6 @@ NINIA
     <Point Name="OMKAP" Type="Fix">-090039.240+1475155.552</Point>
     <Point Name="OMKIN" Type="Fix">-422452.000+1630000.000</Point>
     <Point Name="OMUBI" Type="Fix">-233815.400+1460405.800</Point>
-    <Point Name="ONELU" Type="Fix">-225153.100+1444620.600</Point>
     <Point Name="ONIBA" Type="Fix">-205706.000+1642306.000</Point>
     <Point Name="ONODO" Type="Fix">-070312.769+1540956.351</Point>
     <Point Name="ONULU" Type="Fix">-205424.300+1670444.299</Point>
@@ -2874,7 +2916,6 @@ NINIA
     <Point Name="PECOB" Type="Fix">-430942.700+1505613.100</Point>
     <Point Name="PELCA" Type="Fix">-070622.849+1474444.729</Point>
     <Point Name="PEPIT" Type="Fix">-220706.100+1655818.800</Point>
-    <Point Name="PESKY" Type="Fix">-170409.700+1462632.000</Point>
     <Point Name="PIKIN" Type="Fix">-180545.000+1785937.000</Point>
     <Point Name="PIKOK" Type="Fix">+000000.000+1460830.000</Point>
     <Point Name="PINKY" Type="Fix">-285704.208+1674634.500</Point>
@@ -3062,7 +3103,6 @@ NINIA
     <Point Name="SUPRA" Type="Fix">-425505.639+1663255.961</Point>
     <Point Name="SUSEK" Type="Fix">-105058.751+1654014.599</Point>
     <Point Name="SUSUI" Type="Fix">-172114.000-1791711.000</Point>
-    <Point Name="SWALO" Type="Fix">-174712.500+1464939.300</Point>
     <Point Name="TAFAO" Type="Fix">-083905.130+1790437.672</Point>
     <Point Name="TAGOD" Type="Fix">-395430.000+1350000.000</Point>
     <Point Name="TALPA" Type="Fix">-072953.311+1521613.501</Point>
@@ -3165,7 +3205,6 @@ NINIA
     <Point Name="UNGWI" Type="Fix">-061033.920+1410646.951</Point>
     <Point Name="UNGWM" Type="Fix">-060736.671+1411636.541</Point>
     <Point Name="UNSAM" Type="Fix">-101548.780+1470325.711</Point>
-    <Point Name="UNTER" Type="Fix">-121337.400+1321513.300</Point>
     <Point Name="UNTET" Type="Fix">-401101.619+1634403.509</Point>
     <Point Name="UNTIS" Type="Fix">-065947.789+1443849.049</Point>
     <Point Name="UNVAT" Type="Fix">-254809.900+1495346.500</Point>
@@ -3220,7 +3259,6 @@ NINIA
     <Point Name="VW729" Type="Fix">-192525.331+1691236.788</Point>
     <Point Name="VW837" Type="Fix">-192026.621+1691156.569</Point>
     <Point Name="WADRU" Type="Fix">+084442.000+1674844.510</Point>
-    <Point Name="WAREN" Type="Fix">-380100.000+1451842.000</Point>
     <Point Name="WAVKI" Type="Fix">+051946.222+1624316.039</Point>
     <Point Name="WAVUR" Type="Fix">+084408.182+1673641.170</Point>
     <Point Name="WD354" Type="Fix">-210543.800+1651107.501</Point>
@@ -3572,10 +3610,10 @@ NINIA
     <Point Name="MG" Type="Navaid" NavaidType="NDB" Frequency="394.000">-221611.600+1662823.099</Point>
     <Point Name="MI" Type="Navaid" NavaidType="NDB" Frequency="364.000">-175359.000+1771932.000</Point>
     <Point Name="MOE" Type="Navaid" NavaidType="NDB" Frequency="212.000">-020342.000+1472536.000</Point>
-    <Point Name="MOR" Type="Navaid" NavaidType="NDB" Frequency="1642.00">-062146.321+1431515.059</Point>
     <Point Name="MR" Type="Navaid" NavaidType="NDB" Frequency="388.000">-212853.800+1680208.902</Point>
     <Point Name="MUD" Type="Navaid" NavaidType="NDB" Frequency="400.000">-081951.870+1571517.662</Point>
     <Point Name="NA" Type="Navaid" NavaidType="NDB" Frequency="307.000">-180250.791+1783332.821</Point>
+    <Point Name="NDJ" Type="Navaid" NavaidType="NDB" Frequency="000.000">+084315.150+1674339.922</Point>
     <Point Name="NF" Type="Navaid" NavaidType="NDB" Frequency="260.000">-290026.100+1675515.000</Point>
     <Point Name="NI" Type="Navaid" NavaidType="NDB" Frequency="355.000">-003232.719+1665504.469</Point>
     <Point Name="NO" Type="Navaid" NavaidType="NDB" Frequency="330.000">-180053.000+1782804.000</Point>
@@ -3732,7 +3770,6 @@ NINIA
     <Point Name="MKE" Type="Navaid" NavaidType="VOR" Frequency="115.800">-083121.389+1402501.600</Point>
     <Point Name="ML" Type="Navaid" NavaidType="VOR" Frequency="000.000">-373936.500+1445031.200</Point>
     <Point Name="MOE" Type="Navaid" NavaidType="VOR" Frequency="113.500">-020342.000+1472536.000</Point>
-    <Point Name="MOR" Type="Navaid" NavaidType="VOR" Frequency="114.600">-062146.321+1431515.059</Point>
     <Point Name="MUD" Type="Navaid" NavaidType="VOR" Frequency="113.800">-081951.870+1571517.662</Point>
     <Point Name="NA" Type="Navaid" NavaidType="VOR" Frequency="112.200">-180232.291+1783343.009</Point>
     <Point Name="NF" Type="Navaid" NavaidType="VOR" Frequency="112.400">-290250.399+1675555.801</Point>
@@ -5270,10 +5307,12 @@ NINIA
       <Runway Name="09" Position="+065906.490+1581202.549" />
       <Runway Name="27" Position="+065906.180+1581308.090" />
     </Airport>
+    <Airport ICAO="PTRO" FullName="Palau Intl" Position="+072200.000+1343242.000" Elevation="177" />
     <Airport ICAO="PTSA" FullName="Kosrae" Position="+052125.099+1625730.200" Elevation="12">
       <Runway Name="05" Position="+052109.029+1625706.660" />
       <Runway Name="23" Position="+052141.191+1625753.708" />
     </Airport>
+    <Airport ICAO="PTYA" FullName="Yap Intl" Position="+092954.000-1380454.000" Elevation="91" />
     <Airport ICAO="TT02" FullName="Ulithi" Position="+100111.708+1394723.100" Elevation="16">
       <Runway Name="09" Position="+100111.960+1394708.160" />
       <Runway Name="27" Position="+100111.842+1394738.152" />
