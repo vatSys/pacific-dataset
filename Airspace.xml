@@ -315,7 +315,7 @@ PNI NDB/
 AXTEN/
 UKS NDB/
 STEFF/
-NDJ NDB
+RASON
 </Airway>
     <Airway Name="A346">
 OVRON/
@@ -1685,7 +1685,7 @@ PNI NDB/
 TRADD/
 HAVNU/
 LOOIS/
-NDJ NDB/
+RASON/
 CURCH/
 MAJ NDB
 </Airway>
@@ -3613,7 +3613,6 @@ NINIA
     <Point Name="MR" Type="Navaid" NavaidType="NDB" Frequency="388.000">-212853.800+1680208.902</Point>
     <Point Name="MUD" Type="Navaid" NavaidType="NDB" Frequency="400.000">-081951.870+1571517.662</Point>
     <Point Name="NA" Type="Navaid" NavaidType="NDB" Frequency="307.000">-180250.791+1783332.821</Point>
-    <Point Name="NDJ" Type="Navaid" NavaidType="NDB" Frequency="000.000">+084315.150+1674339.922</Point>
     <Point Name="NF" Type="Navaid" NavaidType="NDB" Frequency="260.000">-290026.100+1675515.000</Point>
     <Point Name="NI" Type="Navaid" NavaidType="NDB" Frequency="355.000">-003232.719+1665504.469</Point>
     <Point Name="NO" Type="Navaid" NavaidType="NDB" Frequency="330.000">-180053.000+1782804.000</Point>

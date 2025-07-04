@@ -3,7 +3,7 @@
   <Map Type="System" Name="ALL_ROUTES_HIGH" Priority="1" Center="-23.700+133.870">
     <Line Name="A215_0">PY VOR.A215.MKE VOR</Line>
     <Line Name="A216_0">CS VOR.A216.HOOVR</Line>
-    <Line Name="A222_0">KRONK.A222.NDJ NDB</Line>
+    <Line Name="A222_0">KRONK.A222.RASON</Line>
     <Line Name="A346_0">OVRON.A346.SALAG</Line>
     <Line Name="A464_0">UPLAR.A464.KIKEM</Line>
     <Line Name="A577_0">MI NDB.A577.AGTOS</Line>
@@ -256,6 +256,7 @@
       <Point>ADUFO</Point>
       <Point>AXTEN</Point>
       <Point>STEFF</Point>
+      <Point>RASON</Point>
       <Point>ELDEK</Point>
       <Point>LEEAM</Point>
       <Point>VEMLA</Point>
@@ -738,7 +739,6 @@
       <Point>CS VOR</Point>
       <Point>PNI NDB</Point>
       <Point>UKS NDB</Point>
-      <Point>NDJ NDB</Point>
       <Point>OVRON</Point>
       <Point>UNVAT</Point>
       <Point>IKUMA</Point>
@@ -1467,6 +1467,7 @@
       <Point>DAKAM</Point>
       <Point>GUNSS</Point>
       <Point>LOOIS</Point>
+      <Point>RASON</Point>
       <Point>CURCH</Point>
       <Point>ENDAL</Point>
       <Point>GIZO</Point>
@@ -1554,7 +1555,6 @@
       <Point>BIRUQ</Point>
       <Point>TRADD</Point>
       <Point>HAVNU</Point>
-      <Point>NDJ NDB</Point>
       <Point>AVBAP</Point>
       <Point>GUREB</Point>
       <Point>IDVUM</Point>
@@ -1962,6 +1962,7 @@
       <Point>DAKAM</Point>
       <Point>GUNSS</Point>
       <Point>LOOIS</Point>
+      <Point>RASON</Point>
       <Point>CURCH</Point>
       <Point>ENDAL</Point>
       <Point>GIZO</Point>
@@ -2047,7 +2048,6 @@
       <Point>BIRUQ</Point>
       <Point>TRADD</Point>
       <Point>HAVNU</Point>
-      <Point>NDJ NDB</Point>
       <Point>AVBAP</Point>
       <Point>GUREB</Point>
       <Point>IDVUM</Point>
@@ -2103,6 +2103,7 @@
       <Point>ADUFO</Point>
       <Point>AXTEN</Point>
       <Point>STEFF</Point>
+      <Point>RASON</Point>
       <Point>ELDEK</Point>
       <Point>LEEAM</Point>
       <Point>VEMLA</Point>
@@ -2583,7 +2584,6 @@
       <Point>CS VOR</Point>
       <Point>PNI NDB</Point>
       <Point>UKS NDB</Point>
-      <Point>NDJ NDB</Point>
       <Point>OVRON</Point>
       <Point>UNVAT</Point>
       <Point>IKUMA</Point>
