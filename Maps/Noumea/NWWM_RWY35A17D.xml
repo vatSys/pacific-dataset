@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="NWWM_RWY35A17D" Priority="1" Center="-22.258333+166.472778">
+    <!--NWWM-->
+    <Runway Name="17/35">
+      <Threshold Name="17" Position="-22.253983+166.472706" />
+      <Threshold Name="35" Position="-22.263181+166.472958" ExtendedCentrelineTrack="179.5" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy17 IP1A-->
+      -221547.452+1662822.649/
+      -221649.784+1662825.064/
+      -221714.732+1662836.155/
+      -221901.291+1663102.518/
+      PIROG/
+      -221929.980+1664128.358/
+      -222019.063+1664317.123/
+      NORAC/
+      MISGA/
+      IP NDB
+    </Line>
+    <Line>
+      <!--Rwy17 IP1C-->
+      -221547.452+1662822.649/
+      -221649.095+1662824.946/
+      -221712.419+1662834.467/
+      NORAC
+    </Line>
+    <Line>
+      <!--Rwy17 LTO3A-->
+      -221547.452+1662822.649/
+      -221632.671+1662824.099/
+      -221640.765+1662824.206/
+      MGA VOR/
+      -221905.643+1662822.586/
+      -221933.562+1662809.226/
+      -221951.774+1662742.735/
+      -221955.557+1662709.982/
+      -221731.906+1662200.900/
+      -221712.510+1662137.160/
+      -221645.022+1662126.192/
+      LTO VOR
+    </Line>
+    <Line>
+      <!--Rwy17 LU1D-->
+      -221901.291+1663102.518/
+      -221905.094+1663537.575/
+      -221835.500+1663631.841/
+      -221745.733+1663704.612/
+      KAORI/
+      LU NDB
+    </Line>
+    <Line>
+      <!--Rwy17 MG1-->
+      -221547.452+1662822.649/
+      -221720.571+1662901.735/
+      -221701.351+1663004.474/
+      -221927.077+1663531.148
+    </Line>
+    <Line>
+      <!--Rwy17 MR1A-->
+      PIROG/
+      -221928.638+1664129.163/
+      -221918.970+1664157.564/
+      KAORI/
+      OUANA/
+      MR NDB
+    </Line>
+    <Line>
+      <!--Rwy17 MR1C-->
+      NORAC/
+      -222352.189+1664554.524/
+      -222347.790+1664627.202/
+      -222257.744+1664731.431/
+      OUANA
+    </Line>
+    <Line>
+      <!--Rwy17 MR1D-->
+    </Line>
+    <Line>
+      <!--Rwy17 SEP1A-->
+    </Line>
+    <!--STARs-->
+    <Line>
+      <!--Rwy35 IP1N-->
+      IP NDB/
+      MISGA
+    </Line>
+    <Line>
+      <!--Rwy35 IP1R-->
+      IP NDB/
+      NEMID/
+      REDIK
+    </Line>
+    <Line>
+      <!--Rwy35 KQ1M-->
+      KQ NDB/
+      GIRAD
+    </Line>
+    <Line>
+      <!--Rwy35 KQ1N-->
+      KQ NDB/
+      LTO VOR/
+      GIRAD/
+      -221600.659+1661613.879/
+      MAMIT
+    </Line>
+    <Line>
+      <!--Rwy35 KQ1S-->
+    </Line>
+    <Line>
+      <!--Rwy35 KQ1T-->
+      LTO VOR/
+      -220727.614+1661836.621/
+      TIMDU
+    </Line>
+    <Line>
+      <!--Rwy35 LTO1N-->
+      MAMIT/
+      MG194/
+      -222524.538+1662506.035/
+      -222528.063+1662511.311/
+      -222530.725+1662517.149/
+      -222532.451+1662523.385/
+      -222533.192+1662529.845/
+      -222532.927+1662536.349/
+      -222531.664+1662542.713/
+      -222529.437+1662548.761/
+      -222526.310+1662554.322/
+      -222522.370+1662559.242/
+      -222302.661+1662826.668
+    </Line>
+    <Line>
+      <!--Rwy35 LU1N-->
+      LU NDB/
+      GOSLA
+    </Line>
+    <Line>
+      <!--Rwy35 MR1N-->
+      MR NDB/
+      KAORI
+    </Line>
+    <Line>
+      <!--Rwy35 OA1N-->
+      OA NDB/
+      OBOLI
+    </Line>
+    <Line>
+      <!--Rwy35 TH1N-->
+      TH NDB/
+      LTO VOR
+    </Line>
+    <Line>
+      <!--Rwy35 TH1T-->
+      LTO VOR/
+      TIMDU
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>REDIK</Point>
+      <Point>MAMIT</Point>
+    </Symbol>
+    <Symbol Type="Circle">
+      <Point>IP NDB</Point>
+      <Point>LTO VOR</Point>
+      <Point>LU NDB</Point>
+      <Point>MR NDB</Point>
+      <Point>KQ NDB</Point>
+      <Point>OA NDB</Point>
+      <Point>TH NDB</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>PIROG</Point>
+      <Point>NORAC</Point>
+      <Point>MISGA</Point>
+      <Point>KAORI</Point>
+      <Point>OUANA</Point>
+      <Point>NEMID</Point>
+      <Point>GIRAD</Point>
+      <Point>TIMDU</Point>
+      <Point>MG194</Point>
+      <Point>GOSLA</Point>
+      <Point>OBOLI</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="NWWM_RWY35A17D_NAMES" Priority="2" Center="-22.258333+166.472778">
+    <Label>
+      <Point>PIROG</Point>
+      <Point>NORAC</Point>
+      <Point>MISGA</Point>
+      <Point>IP NDB</Point>
+      <Point>MGA VOR</Point>
+      <Point>LTO VOR</Point>
+      <Point>KAORI</Point>
+      <Point>LU NDB</Point>
+      <Point>OUANA</Point>
+      <Point>MR NDB</Point>
+      <Point>NEMID</Point>
+      <Point>REDIK</Point>
+      <Point>KQ NDB</Point>
+      <Point>GIRAD</Point>
+      <Point>MAMIT</Point>
+      <Point>TIMDU</Point>
+      <Point>MG194</Point>
+      <Point>GOSLA</Point>
+      <Point>OA NDB</Point>
+      <Point>OBOLI</Point>
+      <Point>TH NDB</Point>
+      <Point>TEBUR</Point>
+      <Point>NISAS</Point>
+      <Point>ADKAD</Point>
+      <Point>BAVAP</Point>
+      <Point>PULON</Point>
+      <Point>ELSAX</Point>
+      <Point>BODEG</Point>
+      <Point>ONIBA</Point>
+      <Point>NIPOG</Point>
+      <Point>LEDIT</Point>
+      <Point>TEPAM</Point>
+      <Point>MEPAB</Point>
+    </Label>
+  </Map>
+</Maps>

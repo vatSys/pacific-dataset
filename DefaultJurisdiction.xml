@@ -6,7 +6,7 @@
         <Departure Values="AYPY">
           <Rules>
             <Default>
-              <AssignSector Order="AYPYD, AYPYA, AYPM"/>
+              <AssignSector Order="AYPYA, AYPM"/>
             </Default>
           </Rules>
         </Departure>
@@ -72,7 +72,7 @@
         <Departure Values="NFFN">
           <Rules>
             <Default>
-              <AssignSector Order="FNA"/>
+              <AssignSector Order="NFFNA,NFFN"/>
             </Default>
           </Rules>
         </Departure>
@@ -83,7 +83,7 @@
         <Departure Values="NFNA">
           <Rules>
             <Default>
-              <AssignSector Order="NAA"/>
+              <AssignSector Order="NFNAA,NFFN"/>
             </Default>
           </Rules>
         </Departure>
@@ -94,7 +94,7 @@
         <Departure Values="NWWW,NWWM">
           <Rules>
             <Default>
-              <AssignSector Order="NWWWA"/>
+              <AssignSector Order="NWWWA,NWWW"/>
             </Default>
           </Rules>
         </Departure>
@@ -106,17 +106,6 @@
           <Rules>
             <Default>
               <AssignSector Order="NVVV ADC, NVVV"/>
-            </Default>
-          </Rules>
-        </Departure>
-      </Rules>
-    </RuleSet>
-    <RuleSet Name="PKWA_DEPS">
-      <Rules>
-        <Departure Values="PKWA">
-          <Rules>
-            <Default>
-              <AssignSector Order="PKWAA"/>
             </Default>
           </Rules>
         </Departure>

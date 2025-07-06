@@ -11,6 +11,40 @@
       <Threshold Name="30" Position="-05.833375+144.307781" />
     </Runway>
   </Map>
+  <Map Type="System2" Name="AYMH_VFR" Priority="1" Center="-05.823017+144.290958">
+    <Symbol Type="HollowSquare">
+      <Point>BYG</Point>
+      <Point>TMG</Point>
+      <Point>KRE</Point>
+      <Point>WUG</Point>
+      <Point>-05.578559+144.307076</Point>
+      <Point>-05.707127+144.545139</Point>
+      <Point>-05.642086+144.437243</Point>
+      <Point>-05.622520+144.308195</Point>
+    </Symbol>
+    <Label HasLeader="True">
+      <Point>BYG</Point>
+      <Point>TMG</Point>
+      <Point>KRE</Point>
+      <Point>WUG</Point>
+      <Point Name="RULNI GAP">-05.578559+144.307076</Point>
+      <Point Name="KIMIL GAP">-05.707127+144.545139</Point>
+      <Point Name="TEMEARNE">-05.642086+144.437243</Point>
+      <Point Name="MUGU GAP">-05.622520+144.308195</Point>
+    </Label>
+  </Map>
+  <Map Type="System2" Name="AYMH_VFR_FULL_NAME" Priority="1" Center="-05.823017+144.290958">
+    <Label HasLeader="True" LabelOrientation="SW">
+      <Point Name="BAIYER GAP">BYG</Point>
+      <Point Name="TOMBA GAP">TMG</Point>
+      <Point Name="KUTA RIDGE">KRE</Point>
+      <Point Name="WURUP GAP">WUG</Point>
+      <Point Name="RULNI GAP">-05.578559+144.307076</Point>
+      <Point Name="KIMIL GAP">-05.707127+144.545139</Point>
+      <Point Name="TEMEARNE">-05.642086+144.437243</Point>
+      <Point Name="MUGU GAP">-05.622520+144.308195</Point>
+    </Label>
+  </Map>
   <Map Type="System" Name="AYMH_ALLRWYS" Priority="2" Center="-05.828333+144.300833">
     <!--AYMH-->
     <Runway Name="08/26">

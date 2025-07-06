@@ -7,6 +7,19 @@
       <Threshold Name="25" Position="-05.207028+145.794111" />
     </Runway>
   </Map>
+  <Map Type="System2" Name="AYMD_VFR" Priority="1" Center="-05.208333+145.787667">
+    <Symbol Type="HollowSquare">
+	  <Point>SGY</Point>
+    </Symbol>
+    <Label HasLeader="True">
+	  <Point>SGY</Point>
+    </Label>
+  </Map>
+  <Map Type="System2" Name="AYMD_VFR_FULL_NAME" Priority="1" Center="-05.208333+145.787667">
+    <Label HasLeader="True" LabelOrientation="SW">
+	  <Point Name="SHAGGY RIDGE GAP">SGY</Point>
+	</Label>
+  </Map>
   <Map Type="System" Name="AYMD_ALLRWYS" Priority="2" Center="-05.208333+145.787667">
     <!--AYMD-->
     <Runway Name="07/25">

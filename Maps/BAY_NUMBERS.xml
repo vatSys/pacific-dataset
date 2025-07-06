@@ -41,6 +41,48 @@
             <Point Name="7">-17.7519545+177.4503916</Point>
             <Point Name="8">-17.7526539+177.4502214</Point>
             <Point Name="9">-17.7531121+177.4499025</Point>
+			
+			<!--PORT MORESBY (AYPY)-->
+            <!--APRON CHART 1928-->
+            <Point Name="1">-0926.345+14712.738</Point>
+			<Point Name="2">-0926.329+14712.719</Point>
+			<Point Name="3">-0926.297+14712.702</Point>
+			<Point Name="4">-0926.268+14712.684</Point>
+			<Point Name="5">-0926.246+14712.660</Point>
+			<Point Name="6">-0926.219+14712.664</Point>
+			<Point Name="7">-0926.201+14712.687</Point>
+			<Point Name="8">-0926.186+14712.709</Point>
+			<Point Name="9">-0926.163+14712.701</Point>
+			<Point Name="10">-0926.182+14712.679</Point>
+			<Point Name="11">-092611.3+1471239.7</Point>
+			<Point Name="12">-0926.207+14712.648</Point>
+			<Point Name="13">-0926.155+14712.623</Point>
+			<Point Name="14">-0926.140+14712.641</Point>
+			<Point Name="15">-0926.129+14712.656</Point>
+			<Point Name="16">-0926.118+14712.670</Point>
+			<Point Name="17">-0926.093+14712.660</Point>
+			<Point Name="18">-0926.106+14712.641</Point>
+			<Point Name="19">-0926.118+14712.623</Point>
+			<Point Name="20">-0926.131+14712.602</Point>
+			<Point Name="21A">-0926.928+14713.114</Point>
+			<Point Name="21B">-0926.904+14713.093</Point>
+			<Point Name="22">-0926.830+14713.023</Point>
+			<Point Name="23">-0926.795+14713.002</Point>
+			<Point Name="24">-0926.760+14712.980</Point>
+			<Point Name="25">-0926.724+14712.959</Point>
+			<Point Name="26">-0926.689+14712.938</Point>
+			<Point Name="27">-0926.514+14712.824</Point>
+			<Point Name="28">-0926.490+14712.809</Point>
+			
+			<!-- TOKUA (AYTK) -->
+			<!-- PNG AIP 17 APRIL 2025 -->
+			<Point Name="1">-042033.720+1522238.880</Point>
+			<Point Name="2">-042033.280+1522237.460</Point>
+			<Point Name="3">-042032.840+1522236.020</Point>
+			<Point Name="4">-042032.260+1522234.870</Point>
+			<Point Name="5">-042031.860+1522233.380</Point>
+			<Point Name="6">-042031.630+1522232.170</Point>
+			<Point Name="7">-042031.210+1522230.300</Point>
         </Label>
     </Map>
 </Maps>
