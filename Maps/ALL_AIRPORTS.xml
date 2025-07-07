@@ -725,12 +725,17 @@
 		<Point>AYZZ</Point>
 
 		<!-- Fiji -->
+		<Point>NFBC</Point>
 		<Point>NFCI</Point>
+		<Point>NFCS</Point>
 		<Point>NFFO</Point>
+		<Point>NFGO</Point>
 		<Point>NFKB</Point>
 		<Point>NFKD</Point>
+		<Point>NFMA</Point>
 		<Point>NFMO</Point>
 		<Point>NFNB</Point>
+		<Point>NFND</Point>
 		<Point>NFNG</Point>
 		<Point>NFNK</Point>
 		<Point>NFNL</Point>
@@ -739,8 +744,10 @@
 		<Point>NFNS</Point>
 		<Point>NFNW</Point>
 		<Point>NFOL</Point>
+		<Point>NFRS</Point>
 		<Point>NFSW</Point>
 		<Point>NFTO</Point>
+		<Point>NFUL</Point>
 		<Point>NFVB</Point>
 		<Point>NFVL</Point>
 		
@@ -751,6 +758,8 @@
 		<Point>NGTE</Point>
 		<Point>NGTR</Point>
 		<Point>NGTU</Point>
+		<Point>PCIS</Point>
+		<Point>PLCH</Point>
 		
 		<!-- Vanuatu -->
 		<Point>NVSA</Point>
@@ -1277,12 +1286,17 @@
 		<Point>AYZZ</Point>
 
 		<!-- Fiji -->
+		<Point>NFBC</Point>
 		<Point>NFCI</Point>
+		<Point>NFCS</Point>
 		<Point>NFFO</Point>
+		<Point>NFGO</Point>
 		<Point>NFKB</Point>
 		<Point>NFKD</Point>
+		<Point>NFMA</Point>
 		<Point>NFMO</Point>
 		<Point>NFNB</Point>
+		<Point>NFND</Point>
 		<Point>NFNG</Point>
 		<Point>NFNK</Point>
 		<Point>NFNL</Point>
@@ -1291,8 +1305,10 @@
 		<Point>NFNS</Point>
 		<Point>NFNW</Point>
 		<Point>NFOL</Point>
+		<Point>NFRS</Point>
 		<Point>NFSW</Point>
 		<Point>NFTO</Point>
+		<Point>NFUL</Point>
 		<Point>NFVB</Point>
 		<Point>NFVL</Point>
 		
@@ -1303,6 +1319,8 @@
 		<Point>NGTE</Point>
 		<Point>NGTR</Point>
 		<Point>NGTU</Point>
+		<Point>PCIS</Point>
+		<Point>PLCH</Point>
 		
 		<!-- Vanuatu -->
 		<Point>NVSA</Point>

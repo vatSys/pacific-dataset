@@ -131,7 +131,7 @@
 		<CFL QuickLevel="7000" />
 		<ArrivalLists>
 		  <Airport Name="NFFN" />
-		  <Airport Name="NFFA" />
+		  <Airport Name="NFNA" />
 		</ArrivalLists>
 		<ControllerInfo>
 		  <Line>Nadi Control</Line>

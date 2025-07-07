@@ -5031,10 +5031,12 @@ NINIA
     <Airport ICAO="AYZW" FullName="Siawi" Position="-040339.600+1412511.280" />
     <Airport ICAO="AYZY" FullName="Yilui" Position="-035546.200+1421217.280" />
     <Airport ICAO="AYZZ" FullName="Zuebak" Position="-061837.080+1463328.080" />
+    <Airport ICAO="NFBC" FullName="Beachcomber Island" Position="-173913.381+1771520.977" />
     <Airport ICAO="NFCI" FullName="Cicia" Position="-174437.000-1792031.000" Elevation="13">
       <Runway Name="17" Position="-174421.930-1792030.080" />
       <Runway Name="35" Position="-174451.490-1792032.392" />
     </Airport>
+    <Airport ICAO="NFCS" FullName="Castaway Island" Position="-174400.390+1770736.296" />
     <Airport ICAO="NFFN" FullName="Nadi Intl" Position="-174523.000+1772637.000" Elevation="59">
       <Runway Name="02" Position="-174622.120+1772544.789" />
       <Runway Name="20" Position="-174501.109+1772650.039" />
@@ -5053,6 +5055,7 @@ NINIA
       <Runway Name="16" Position="-190314.710+1780922.831" />
       <Runway Name="34" Position="-190342.142+1780927.770" />
     </Airport>
+    <Airport ICAO="NFMA" FullName="Mana Island" Position="-174022.322+1770555.032" Elevation="22" />
     <Airport ICAO="NFMO" FullName="Moala" Position="-183402.000+1795704.000" Elevation="13">
       <Runway Name="15" Position="-183348.341+1795700.040" />
       <Runway Name="33" Position="-183413.289+1795708.611" />
@@ -5105,6 +5108,7 @@ NINIA
       <Runway Name="15" Position="-203918.720-1784431.402" />
       <Runway Name="33" Position="-203945.270-1784424.331" />
     </Airport>
+    <Airport ICAO="NFRS" FullName="Treasure Island" Position="-173918.689+1771555.814" />
     <Airport ICAO="NFSW" FullName="Yasawa" Position="-164534.000+1773245.000" Elevation="100">
       <Runway Name="12" Position="-164527.292+1773237.979" />
       <Runway Name="30" Position="-164541.620+1773253.138" />
@@ -5113,6 +5117,7 @@ NINIA
       <Runway Name="08" Position="-153414.160-1753805.752" />
       <Runway Name="26" Position="-153414.189-1753730.220" />
     </Airport>
+    <Airport ICAO="NFUL" FullName="Nanuyalevu" Position="-165755.823+1772210.119" />
     <Airport ICAO="NFVB" FullName="Vanuabalavu" Position="-171442.000-1785733.000" Elevation="156">
       <Runway Name="11" Position="-171435.599-1785743.330" />
       <Runway Name="29" Position="-171448.412-1785722.680" />
@@ -5286,6 +5291,7 @@ NINIA
       <Runway Name="11" Position="-213104.649+1655804.501" />
       <Runway Name="29" Position="-213121.788+1655832.261" />
     </Airport>
+    <Airport ICAO="PCIS" FullName="Canton Island-Topham" Position="-024605.007-1714237.770" Elevation="9" />
     <Airport ICAO="PKMJ" FullName="Marshall Is Intl" Position="+070353.899+1711619.301" Elevation="7">
       <Runway Name="07" Position="+070344.561+1711541.141" />
       <Runway Name="25" Position="+070403.281+1711657.461" />
@@ -5298,6 +5304,8 @@ NINIA
       <Runway Name="06" Position="+084302.662+1674322.192" />
       <Runway Name="24" Position="+084322.238+1674425.699" />
     </Airport>
+    <Airport ICAO="PLCH" FullName="Christmas Island (Kiribati)" Position="+015928.201-1572131.201" Elevation="9" />
+    <Airport ICAO="PLFA" FullName="Tabuaeran (Fanning) Island" Position="+035357.064-1592319.528" Elevation="9" />
     <Airport ICAO="PTKK" FullName="Chuuk Intl" Position="+072742.811+1515034.861" Elevation="10">
       <Runway Name="04" Position="+072722.090+1515013.358" />
       <Runway Name="22" Position="+072803.529+1515056.360" />
