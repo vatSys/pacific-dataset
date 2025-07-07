@@ -11,17 +11,17 @@
       <Point Name="A200">-2430.0+16850.0</Point>
       <Point Name="A245">-1435.0+16850.0</Point>
       <Point Name="A245">-1150.4179+14607.9888</Point>
-      <Point Name="C065">-1911.7015+17936.2098</Point>
-      <Point Name="C065">-1725.4966+17616.2486</Point>
-      <Point Name="C065">-1634.7862+17822.9677</Point>
       <Point Name="C090">-1025.7775+14643.4073</Point>
       <Point Name="C110">-0957.8631+14807.2334</Point>
       <Point Name="C150">-1054.4249+14634.4984</Point>
       <Point Name="C150">-0804.9716+14747.8224</Point>
       <Point Name="C200">-1121.8347+14618.6274</Point>
+      <Point Name="D065">-1911.7015+17936.2098</Point>
+      <Point Name="D065">-1725.4966+17616.2486</Point>
+      <Point Name="D065">-1634.7862+17822.9677</Point>
       <Point Name="D095">-2215.0+16930.0</Point>
       <Point Name="D095">-1820.0+16520.0</Point>
-	  <Point Name="D095">-150000.0+1735855.0</Point>
+      <Point Name="D095">-150000.0+1735855.0</Point>
     </Label>
   </Map>
 </Maps>
