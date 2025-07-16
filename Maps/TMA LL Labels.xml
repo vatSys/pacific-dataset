@@ -62,6 +62,11 @@
       <Point Name="E012">+0841.7237+16654.1656</Point>
       <Point Name="ESFC">+0843.4525+16738.9867</Point>
       <Point Name="ESFC">+0843.974+16750.6507</Point>
+	  <Point Name="B100">-013000.000+1403000.000</Point>
+      <Point Name="B100">-091800.000+1402400.000</Point>
+      <Point Name="CSFC">-022000.000+1403000.000</Point>
+      <Point Name="CSFC">-085000.000+1402400.000</Point>
+      <Point Name="CSFC">-085000.000+1402400.000</Point>
     </Label>
   </Map>
 </Maps>
