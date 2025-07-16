@@ -761,15 +761,25 @@
 		<Point>NFVL</Point>
 		
 		<!-- Gilbert Islands - Kiribati, Tuvalu -->
+		<Point>NGAB</Point>
+		<Point>NGBR</Point>
+		<Point>NGKT</Point>
 		<Point>NGMA</Point>
 		<Point>NGMK</Point>
+		<Point>NGMN</Point>
 		<Point>NGNU</Point>
+		<Point>NGON</Point>
 		<Point>NGTE</Point>
+		<Point>NGTM</Point>
+		<Point>NGTO</Point>
 		<Point>NGTR</Point>
+		<Point>NGTS</Point>
 		<Point>NGTU</Point>
+		<Point>NGUK</Point>
 		<Point>PCIS</Point>
 		<Point>PLCH</Point>
 		<Point>PLFA</Point>
+		<Point>PLWN</Point>
 		
 		<!-- Vanuatu -->
 		<Point>NVSA</Point>
@@ -1332,15 +1342,25 @@
 		<Point>NFVL</Point>
 		
 		<!-- Gilbert Islands - Kiribati, Tuvalu -->
+		<Point>NGAB</Point>
+		<Point>NGBR</Point>
+		<Point>NGKT</Point>
 		<Point>NGMA</Point>
 		<Point>NGMK</Point>
+		<Point>NGMN</Point>
 		<Point>NGNU</Point>
+		<Point>NGON</Point>
 		<Point>NGTE</Point>
+		<Point>NGTM</Point>
+		<Point>NGTO</Point>
 		<Point>NGTR</Point>
+		<Point>NGTS</Point>
 		<Point>NGTU</Point>
+		<Point>NGUK</Point>
 		<Point>PCIS</Point>
 		<Point>PLCH</Point>
 		<Point>PLFA</Point>
+		<Point>PLWN</Point>
 		
 		<!-- Vanuatu -->
 		<Point>NVSA</Point>
