@@ -760,6 +760,7 @@
 		<Point>NGTU</Point>
 		<Point>PCIS</Point>
 		<Point>PLCH</Point>
+		<Point>PLFA</Point>
 		
 		<!-- Vanuatu -->
 		<Point>NVSA</Point>
@@ -1321,6 +1322,7 @@
 		<Point>NGTU</Point>
 		<Point>PCIS</Point>
 		<Point>PLCH</Point>
+		<Point>PLFA</Point>
 		
 		<!-- Vanuatu -->
 		<Point>NVSA</Point>
