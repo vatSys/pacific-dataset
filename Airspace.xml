@@ -4340,6 +4340,7 @@ NINIA
     </Approach>
   </SIDSTARs>
   <Airports>
+    <Airport ICAO="AGAF" FullName="Afutara" Position="-091127.853+1605657.456" Elevation="20"/>
     <Airport ICAO="AGAR" FullName="Arona" Position="-095138.000+1615848.000" Elevation="15">
       <Runway Name="11" Position="-095130.870+1615834.140" />
       <Runway Name="29" Position="-095145.461+1615859.189" />
@@ -4348,6 +4349,8 @@ NINIA
       <Runway Name="13" Position="-085213.231+1610032.249" />
       <Runway Name="31" Position="-085234.270+1610050.000" />
     </Airport>
+    <Airport ICAO="AGBT" FullName="Betuna Pvt" Position="-083340.364+1580709.204" Elevation="20"/>
+    <Airport ICAO="AGEV" FullName="Vella-La-Vella Pvt" Position="-073432.153+1563549.594" Elevation="120"/>
     <Airport ICAO="AGGA" FullName="Auki" Position="-084219.739+1604054.210" Elevation="11">
       <Runway Name="18" Position="-084154.010+1604056.539" />
       <Runway Name="36" Position="-084224.559+1604052.079" />
@@ -4372,6 +4375,7 @@ NINIA
       <Runway Name="06" Position="-092555.060+1600242.659" />
       <Runway Name="24" Position="-092528.268+1600349.529" />
     </Airport>
+    <Airport ICAO="AGGI" FullName="Babanakira" Position="-094447.806+1595022.447" Elevation="70"/>
     <Airport ICAO="AGGK" FullName="Kirakira" Position="-102630.000+1615348.000" Elevation="8">
       <Runway Name="10" Position="-102650.921+1615336.600" />
       <Runway Name="28" Position="-102705.659+1615413.500" />
@@ -4396,6 +4400,7 @@ NINIA
       <Runway Name="12" Position="-093821.221+1612520.888" />
       <Runway Name="30" Position="-093836.881+1612541.549" />
     </Airport>
+    <Airport ICAO="AGGQ" FullName="Ontong Java" Position="-053054.210+1593141.393" Elevation="5"/>
     <Airport ICAO="AGGR" FullName="Rennell/Tingoa" Position="-113236.000+1600342.000" Elevation="94">
       <Runway Name="12" Position="-113255.259+1600339.380" />
       <Runway Name="30" Position="-113308.759+1600356.830" />
@@ -4424,6 +4429,7 @@ NINIA
       <Runway Name="14" Position="-071936.559+1573458.609" />
       <Runway Name="32" Position="-071959.092+1573511.130" />
     </Airport>
+    <Airport ICAO="AGKU" FullName="Kukudu" Position="-080136.673+1565653.913" Elevation="20"/>
     <Airport ICAO="AGLM" FullName="Lomlom" Position="-101748.599+1661938.521" Elevation="6">
       <Runway Name="10" Position="-101727.229+1661910.711" />
       <Runway Name="28" Position="-101738.209+1661941.689" />
@@ -4432,6 +4438,9 @@ NINIA
       <Runway Name="12" Position="-081927.458+1604758.200" />
       <Runway Name="30" Position="-081944.108+1604819.840" />
     </Airport>
+    <Airport ICAO="AGOK" FullName="Gatokae Pvt" Position="-084418.414+1581208.908" Elevation="29"/>
+    <Airport ICAO="AGRC" FullName="Ringicove Pvt" Position="-080730.413+1570835.356" Elevation="26"/>
+    <Airport ICAO="AGRM" FullName="Ramata Pvt" Position="-081006.366+1573834.064" Elevation="50"/>
     <Airport ICAO="ANYN" FullName="Nauru Intl" Position="-003240.920+1665501.679" Elevation="25">
       <Runway Name="12" Position="-003229.558+1665443.718" />
       <Runway Name="30" Position="-003311.048+1665532.459" />
@@ -5320,7 +5329,7 @@ NINIA
       <Runway Name="05" Position="+052109.029+1625706.660" />
       <Runway Name="23" Position="+052141.191+1625753.708" />
     </Airport>
-    <Airport ICAO="PTYA" FullName="Yap Intl" Position="+092954.000-1380454.000" Elevation="91" />
+    <Airport ICAO="PTYA" FullName="Yap Intl" Position="+092954.000+1380454.000" Elevation="91" />
     <Airport ICAO="TT02" FullName="Ulithi" Position="+100111.708+1394723.100" Elevation="16">
       <Runway Name="09" Position="+100111.960+1394708.160" />
       <Runway Name="27" Position="+100111.842+1394738.152" />

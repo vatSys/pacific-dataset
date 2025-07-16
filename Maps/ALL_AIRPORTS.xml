@@ -236,10 +236,14 @@
   <Map Type="System2" Name="ALL_MINOR_AIRPORTS" Priority="2" Center="-07.0+166.0">
     <Label HasLeader="true" LabelOrientation="NW">
 		<!-- Solomon Islands -->
+		<Point>AGAF</Point>
 		<Point>AGAR</Point>
 		<Point>AGAT</Point>
+		<Point>AGBT</Point>
+		<Point>AGEV</Point>
 		<Point>AGGA</Point>
 		<Point>AGGE</Point>
+		<Point>AGGI</Point>
 		<Point>AGGK</Point>
 		<Point>AGGN</Point>
 		<Point>AGGS</Point>
@@ -249,13 +253,18 @@
 		<Point>AGGF</Point>
 		<Point>AGGO</Point>
 		<Point>AGGP</Point>
+		<Point>AGGQ</Point>
 		<Point>AGGR</Point>
 		<Point>AGGT</Point>
 		<Point>AGGU</Point>
 		<Point>AGGV</Point>
 		<Point>AGKG</Point>
+		<Point>AGKU</Point>
 		<Point>AGLM</Point>
 		<Point>AGOB</Point>
+		<Point>AGOB</Point>
+		<Point>AGRC</Point>
+		<Point>AGRM</Point>
 		
 		<!-- Papua New Guinea -->
 		<Point>AYAA</Point>
@@ -798,10 +807,14 @@
     </Label>
     <Symbol Type="DashedCircle">
 		<!-- Solomon Islands -->
+		<Point>AGAF</Point>
 		<Point>AGAR</Point>
 		<Point>AGAT</Point>
+		<Point>AGBT</Point>
+		<Point>AGEV</Point>
 		<Point>AGGA</Point>
 		<Point>AGGE</Point>
+		<Point>AGGI</Point>
 		<Point>AGGK</Point>
 		<Point>AGGN</Point>
 		<Point>AGGS</Point>
@@ -811,13 +824,18 @@
 		<Point>AGGF</Point>
 		<Point>AGGO</Point>
 		<Point>AGGP</Point>
+		<Point>AGGQ</Point>
 		<Point>AGGR</Point>
 		<Point>AGGT</Point>
 		<Point>AGGU</Point>
 		<Point>AGGV</Point>
 		<Point>AGKG</Point>
+		<Point>AGKU</Point>
 		<Point>AGLM</Point>
 		<Point>AGOB</Point>
+		<Point>AGOB</Point>
+		<Point>AGRC</Point>
+		<Point>AGRM</Point>
 		
 		<!-- Papua New Guinea -->
 		<Point>AYAA</Point>
