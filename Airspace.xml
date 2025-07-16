@@ -5178,6 +5178,7 @@ NINIA
       <Runway Name="16" Position="-135059.122+1673211.710" />
       <Runway Name="34" Position="-135121.622+1673217.048" />
     </Airport>
+    <Airport ICAO="NVSD" FullName="Torres" Position="-131940.041+1663816.292" Elevation="482" />
     <Airport ICAO="NVSE" FullName="Sangafa" Position="-170536.000+1682000.000" Elevation="7">
       <Runway Name="14" Position="-170500.499+1682018.218" />
       <Runway Name="32" Position="-170529.371+1682033.601" />
