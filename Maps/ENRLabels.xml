@@ -22,6 +22,11 @@
       <Point Name="D095">-2215.0+16930.0</Point>
       <Point Name="D095">-1820.0+16520.0</Point>
       <Point Name="D095">-150000.0+1735855.0</Point>
+      <Point Name="A245">-051100.000+1404000.000</Point>
+	  <Point Name="A245">-014224.000+1412500.000</Point>
+	  <Point Name="A245">-074640.800+1412400.000</Point>
+	  <Point Name="A245">-030000.000+1550000.000</Point>
+	  <Point Name="A245">-070000.000+1483000.000</Point>
     </Label>
   </Map>
 </Maps>
