@@ -92,28 +92,10 @@
 		<Point>PTYA</Point>
 		<Point>TT02</Point>
 		
-		<!-- Indonesia -->
-		<Point>WAJG</Point>
+		<!-- Indonesia & Timor-Leste -->
 		<Point>WAJJ</Point>
-		<Point>WAJK</Point>
-		<Point>WAJL</Point>
-		<Point>WAJM</Point>
-		<Point>WAJO</Point>
-		<Point>WAJR</Point>
-		<Point>WAJS</Point>
-		<Point>WAJU</Point>
-		<Point>WAKD</Point>
-		<Point>WAKE</Point>
 		<Point>WAKK</Point>
-		<Point>WAKL</Point>
-		<Point>WAKO</Point>
-		<Point>WAKP</Point>
-		<Point>WAKQ</Point>
-		<Point>WAKT</Point>
-		<Point>WAKY</Point>
-		<Point>WAVD</Point>
-		<Point>WAVE</Point>
-		<Point>WAVM</Point>
+		<Point>WPDL</Point>
 		<Point>XN55</Point>
 	</Label>
 	<Symbol Type="Reticle">
@@ -208,28 +190,10 @@
 		<Point>PTYA</Point>
 		<Point>TT02</Point>
 		
-		<!-- Indonesia -->
-		<Point>WAJG</Point>
+		<!-- Indonesia & Timor-Leste -->
 		<Point>WAJJ</Point>
-		<Point>WAJK</Point>
-		<Point>WAJL</Point>
-		<Point>WAJM</Point>
-		<Point>WAJO</Point>
-		<Point>WAJR</Point>
-		<Point>WAJS</Point>
-		<Point>WAJU</Point>
-		<Point>WAKD</Point>
-		<Point>WAKE</Point>
 		<Point>WAKK</Point>
-		<Point>WAKL</Point>
-		<Point>WAKO</Point>
-		<Point>WAKP</Point>
-		<Point>WAKQ</Point>
-		<Point>WAKT</Point>
-		<Point>WAKY</Point>
-		<Point>WAVD</Point>
-		<Point>WAVE</Point>
-		<Point>WAVM</Point>
+		<Point>WPDL</Point>
 		<Point>XN55</Point>
     </Symbol>
   </Map>
@@ -814,6 +778,35 @@
 		<Point>NWHN</Point>
 		<Point>NWHH</Point>
 		<Point>NWWX</Point>
+		
+		<!--- Indonesia and Timor-Leste -->
+		<Point>WAJG</Point>
+		<Point>WAJK</Point>
+		<Point>WAJL</Point>
+		<Point>WAJM</Point>
+		<Point>WAJO</Point>
+		<Point>WAJR</Point>
+		<Point>WAJS</Point>
+		<Point>WAJU</Point>
+		<Point>WAKD</Point>
+		<Point>WAKE</Point>
+		<Point>WAKL</Point>
+		<Point>WAKO</Point>
+		<Point>WAKP</Point>
+		<Point>WAKQ</Point>
+		<Point>WAKT</Point>
+		<Point>WAKY</Point>
+		<Point>WAVD</Point>
+		<Point>WAVE</Point>
+		<Point>WAVM</Point>
+		<Point>WPAT</Point>
+		<Point>WPEC</Point>
+		<Point>WPFL</Point>
+		<Point>WPMN</Point>
+		<Point>WPOC</Point>
+		<Point>WPSM</Point>
+		<Point>WPDB</Point>
+		<Point>WPVQ</Point>
     </Label>
     <Symbol Type="DashedCircle">
 		<!-- Solomon Islands -->
@@ -1395,6 +1388,35 @@
 		<Point>NWHN</Point>
 		<Point>NWHH</Point>
 		<Point>NWWX</Point>
+		
+		<!--- Indonesia and Timor-Leste -->
+		<Point>WAJG</Point>
+		<Point>WAJK</Point>
+		<Point>WAJL</Point>
+		<Point>WAJM</Point>
+		<Point>WAJO</Point>
+		<Point>WAJR</Point>
+		<Point>WAJS</Point>
+		<Point>WAJU</Point>
+		<Point>WAKD</Point>
+		<Point>WAKE</Point>
+		<Point>WAKL</Point>
+		<Point>WAKO</Point>
+		<Point>WAKP</Point>
+		<Point>WAKQ</Point>
+		<Point>WAKT</Point>
+		<Point>WAKY</Point>
+		<Point>WAVD</Point>
+		<Point>WAVE</Point>
+		<Point>WAVM</Point>
+		<Point>WPAT</Point>
+		<Point>WPEC</Point>
+		<Point>WPFL</Point>
+		<Point>WPMN</Point>
+		<Point>WPOC</Point>
+		<Point>WPSM</Point>
+		<Point>WPDB</Point>
+		<Point>WPVQ</Point>
     </Symbol>
   </Map>
 </Maps>
