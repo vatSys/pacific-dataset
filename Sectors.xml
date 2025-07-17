@@ -142,14 +142,14 @@
   <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_T_CTR" Name="WAAFT" DisplayInSectorsWindow="False" DisplayInHandoffWindow="False">
     <Volumes>WAAF-E</Volumes>
   </Sector>
-  <Sector FullName="Sentani Tower" Frequency="118.100" Callsign="WAJJ_TWR" Name="WAJJ ADC" DisplayInSectorsWindow="True">
+  <Sector FullName="Sentani Tower" Frequency="118.100" Callsign="WAJJ_TWR" Name="WAJJ ADC" DisplayInSectorsWindow="False">
     <Volumes>WAJJTWR</Volumes>
   </Sector>
-  <Sector FullName="Jayapura Radar" Frequency="119.100" Callsign="WAJJ_APP" Name="WAJJA" DisplayInSectorsWindow="True">
+  <Sector FullName="Jayapura Radar" Frequency="119.100" Callsign="WAJJ_APP" Name="WAJJA" DisplayInSectorsWindow="False">
     <Volumes>WAJJA</Volumes>
 	<ResponsibleSectors>WAJJTWR</ResponsibleSectors>
   </Sector>
-  <Sector FullName="Mopah Approach" Frequency="122.200" Callsign="WAKK_APP" Name="WAKKA" DisplayInSectorsWindow="True">
+  <Sector FullName="Mopah Approach" Frequency="122.200" Callsign="WAKK_APP" Name="WAKKA" DisplayInSectorsWindow="False">
     <Volumes>WAKKA</Volumes>
   </Sector>
   <Sector FullName="Auckland Oceanic" Frequency="129.000" Callsign="NZZO_FSS" Name="NZZO" DisplayInSectorsWindow="False">
