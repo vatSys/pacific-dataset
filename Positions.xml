@@ -353,9 +353,7 @@
         <Editor Airport="AYPY" Frequency="128.0" />
         <Window Airport="AYPY" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYPY" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="5000" />
       <ArrivalLists>
         <Airport Name="AYPY" />
@@ -389,9 +387,7 @@
         <Editor Airport="NFFN" Frequency="127.9" />
         <Window Airport="NFFN" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NFFN" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="6000" />
       <ArrivalLists>
         <Airport Name="NFFN" />
@@ -423,9 +419,7 @@
         <Editor Airport="NWWW" Frequency="126.2" />
         <Window Airport="NWWW" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NWWW" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="6000" />
       <ArrivalLists>
         <Airport Name="NWWW" />
@@ -456,9 +450,7 @@
         <Editor Airport="NFNA" Frequency="128.5" />
         <Window Airport="NFNA" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NFNA" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="4000" />
       <ArrivalLists>
         <Airport Name="NFNA" />
@@ -485,9 +477,7 @@
         <Editor Airport="PKWA" Frequency="119.5" />
         <Window Airport="PKWA" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="PKWA" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="5000" />
       <ArrivalLists>
         <Airport Name="PKWA" />
@@ -518,9 +508,7 @@
         <Editor Airport="NWWM" Frequency="126.6" />
         <Window Airport="NWWM" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NWWM" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="5000" />
       <ArrivalLists>
         <Airport Name="NWWM" />
@@ -549,9 +537,7 @@
         <Editor Airport="AYNZ" Frequency="128.6" />
         <Window Airport="AYNZ" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYNZ" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="5000" />
       <ArrivalLists>
         <Airport Name="AYNZ" />
@@ -584,9 +570,7 @@
         <Editor Airport="NVVV" Frequency="126.4" />
         <Window Airport="NVVV" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="NVVV" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="9000" />
       <ArrivalLists>
         <Airport Name="NVVV" />
@@ -614,9 +598,7 @@
         <Editor Airport="AYGA" Frequency="134.0" />
         <Window Airport="AYGA" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYGA" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="10000" />
       <ArrivalLists>
         <Airport Name="AYGA" />
@@ -642,9 +624,7 @@
         <Editor Airport="AYMD" Frequency="127.8" />
         <Window Airport="AYMD" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYMD" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="10000" />
       <ArrivalLists>
         <Airport Name="AYMD" />
@@ -670,9 +650,7 @@
         <Editor Airport="AYMH" Frequency="128.4" />
         <Window Airport="AYMH" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYMH" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="10000" />
       <ArrivalLists>
         <Airport Name="AYMH" />
@@ -698,9 +676,7 @@
         <Editor Airport="AYTK" Frequency="128.3" />
         <Window Airport="AYTK" />
       </ATIS>
-      <Strips Mode="Beacon" Sort="Alpha">
-        <Window Type="ADEP" Beacon="AYTK" Visible="true" />
-      </Strips>
+      <Strips Mode="Beacon" Sort="Time"/>
       <CFL QuickLevel="20000">
         <AdditionalLevels>4300</AdditionalLevels>
       </CFL>
