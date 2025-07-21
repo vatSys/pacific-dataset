@@ -37,7 +37,7 @@
     <Volumes>NFFF</Volumes>
 	<ResponsibleSectors>NWWW,NVVV</ResponsibleSectors>
   </Sector>
-  <Sector FullName="Nadi Centre" Frequency="120.900" Callsign="NFFN_CTR" Name="NFFN">
+  <Sector FullName="Nadi Centre" Frequency="120.100" Callsign="NFFN_CTR" Name="NFFN">
     <Volumes>NFFN</Volumes>
   </Sector>
   <Sector FullName="Nadi Approach" Frequency="119.100" Callsign="NFFN_APP" Name="NFFNA">
