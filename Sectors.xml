@@ -3,7 +3,6 @@
   <!-- PNG -->
   <Sector FullName="Moresby Control" Frequency="123.400" Callsign="AYPM_CTR" Name="AYPM">
     <Volumes>AYPM</Volumes>
-    <ResponsibleSectors>AYPM-W</ResponsibleSectors>
   </Sector>
   <Sector FullName="Jacksons Radar" Frequency="125.800" Callsign="AYPY_APP" Name="AYPYA">
     <Volumes>AYPYA</Volumes>
@@ -38,7 +37,7 @@
     <Volumes>NFFF</Volumes>
 	<ResponsibleSectors>NWWW,NVVV</ResponsibleSectors>
   </Sector>
-  <Sector FullName="Nadi Centre" Frequency="120.900" Callsign="NFFN_CTR" Name="NFFN">
+  <Sector FullName="Nadi Centre" Frequency="120.100" Callsign="NFFN_CTR" Name="NFFN">
     <Volumes>NFFN</Volumes>
   </Sector>
   <Sector FullName="Nadi Approach" Frequency="119.100" Callsign="NFFN_APP" Name="NFFNA">
@@ -127,38 +126,57 @@
   <Sector FullName="Willis" Frequency="127.600" Callsign="BN-WIL_CTR" Name="WIL" DisplayInSectorsWindow="False">
     <Volumes>WIL</Volumes>
   </Sector>
-
+  <Sector FullName="Ujung Pandang" Frequency="128.100" Callsign="WAAF_CTR" Name="WAAF" DisplayInSectorsWindow="False">
+    <Volumes>WAAF</Volumes>
+	<ResponsibleSectors>WAAF-PA,WAAF-AN,WAJJA,WAKKA</ResponsibleSectors>
+  </Sector>
+  <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_T_CTR" Name="WAAF-T" DisplayInSectorsWindow="False" DisplayInHandoffWindow="False">
+    <Volumes>WAAF</Volumes>
+  </Sector>
+  <Sector FullName="Ujung Pandang (Ambon) Control" Frequency="132.350" Callsign="WAAF_AN_CTR" Name="WAAF-AN" DisplayInSectorsWindow="True">
+    <Volumes>WAAF-AN</Volumes>
+  </Sector>
+  <Sector FullName="Ujung Pandang (Papua) Control" Frequency="133.100" Callsign="WAAF_PA_CTR" Name="WAAF-PA" DisplayInSectorsWindow="True">
+    <Volumes>WAAF-PA,WAJJA,WAKKA</Volumes>
+  </Sector>
+  <Sector FullName="Sentani Tower" Frequency="118.100" Callsign="WAJJ_TWR" Name="WAJJ ADC" DisplayInSectorsWindow="False">
+    <Volumes>WAJJTWR</Volumes>
+  </Sector>
+  <Sector FullName="Jayapura Radar" Frequency="119.100" Callsign="WAJJ_APP" Name="WAJJA" DisplayInSectorsWindow="False">
+    <Volumes>WAJJA</Volumes>
+  </Sector>
+  <Sector FullName="Mopah Approach" Frequency="122.200" Callsign="WAKK_APP" Name="WAKKA" DisplayInSectorsWindow="False">
+    <Volumes>WAKKA</Volumes>
+  </Sector>
   <Sector FullName="Faleolo" Frequency="128.100" Callsign="NSFA_CTR" Name="NSFA" DisplayInSectorsWindow="False">
     <Volumes>NSFA-E,NSFA-W</Volumes>
   </Sector>
-  <Sector FullName="Ujung Pandang" Frequency="128.100" Callsign="WAAF_CTR" Name="WAAF" DisplayInSectorsWindow="False">
-    <Volumes>WAAF</Volumes>
-  </Sector>
-  <Sector FullName="Ujung Pandang East" Frequency="132.500" Callsign="WAAF_E_CTR" Name="WAAFE" DisplayInSectorsWindow="False">
-    <Volumes>WAAF-E</Volumes>
-  </Sector>
-  <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_T_CTR" Name="WAAFT" DisplayInSectorsWindow="False" DisplayInHandoffWindow="False">
-    <Volumes>WAAF-E</Volumes>
-  </Sector>
-  <Sector FullName="Auckland Oceanic" Frequency="129.000" Callsign="NZZO_FSS" Name="NZZO" DisplayInSectorsWindow="False">
+  <Sector FullName="Auckland Radio" Frequency="129.000" Callsign="NZZO_FSS" Name="NZZO" DisplayInSectorsWindow="False">
     <Volumes>NZZO</Volumes>
+	<ResponsibleSectors>NZZOT</ResponsibleSectors>
   </Sector>
-  <Sector FullName="Oakland Oceanic" Frequency="129.400" Callsign="ZAK_FSS" Name="KZAK" DisplayInSectorsWindow="False">
+  <Sector FullName="Auckland (Tasman) Radio" Frequency="129.500" Callsign="NZZO-TSN_FSS" Name="NZZOT" DisplayInSectorsWindow="False">
+    <Volumes>NZZO-TSN</Volumes>
+  </Sector>
+  <Sector FullName="San Francisco Radio" Frequency="131.950" Callsign="ZAK_FSS" Name="KZAK" DisplayInSectorsWindow="False">
     <Volumes>KZAK-E,KZAK-W</Volumes>
   </Sector>
-  <Sector FullName="Oakland Oceanic East" Frequency="131.175" Callsign="ZAK_E_FSS" Name="KZAKE" DisplayInSectorsWindow="False">
+  <Sector FullName="San Francisco (East) Radio" Frequency="131.950" Callsign="ZAK_E_FSS" Name="KZAKE" DisplayInSectorsWindow="False">
     <Volumes>KZAK-E</Volumes>
   </Sector>
-  <Sector FullName="Oakland Oceanic East1" Frequency="130.800" Callsign="ZAK_E1_FSS" Name="KZKE1" DisplayInSectorsWindow="False">
+  <Sector FullName="San Francisco (West) Radio" Frequency="131.950" Callsign="ZAK_W_FSS" Name="KZAKW" DisplayInSectorsWindow="False">
+    <Volumes>KZAK-W</Volumes>
+  </Sector>
+    <Sector FullName="San Francisco (OC3) Radio" Frequency="131.950" Callsign="ZAK_3_FSS" Name="KZAK3" DisplayInSectorsWindow="False">
+    <Volumes>KZAK-W</Volumes>
+  </Sector>
+    <Sector FullName="San Francisco (OC5) Radio" Frequency="131.950" Callsign="ZAK_5_FSS" Name="KZAK5" DisplayInSectorsWindow="False">
     <Volumes>KZAK-E</Volumes>
   </Sector>
-  <Sector FullName="Oakland Oceanic West" Frequency="131.950" Callsign="ZAK_W_FSS" Name="KZAKW" DisplayInSectorsWindow="False">
-    <Volumes>KZAK-W</Volumes>
+    <Sector FullName="San Francisco (OC6) Radio" Frequency="131.950" Callsign="ZAK_6_FSS" Name="KZAK6" DisplayInSectorsWindow="False">
+    <Volumes>KZAK-E</Volumes>
   </Sector>
-  <Sector FullName="Oakland Oceanic West1" Frequency="130.700" Callsign="ZAK_W1_FSS" Name="KZKW1" DisplayInSectorsWindow="False">
-    <Volumes>KZAK-W</Volumes>
-  </Sector>
-  <Sector FullName="Oakland Oceanic West2" Frequency="128.900" Callsign="ZAK_W2_FSS" Name="KZKW2" DisplayInSectorsWindow="False">
+    <Sector FullName="San Francisco (OC9) Radio" Frequency="131.950" Callsign="ZAK_9_FSS" Name="KZAK9" DisplayInSectorsWindow="False">
     <Volumes>KZAK-W</Volumes>
   </Sector>
   <Sector FullName="SE Asia Upper" Frequency="135.350" Callsign="ASEA_FSS" Name="ASEA" DisplayInSectorsWindow="False">
