@@ -19,7 +19,7 @@
     </Label>
   </Map>
   <Map Type="System" Name="LOWER_SECTOR_FREQS" Priority="1">
-    <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+      <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
 	  <Point Name="(KZAK_O3)">-013700.000-1710000.000</Point>
 	  <Point Name="(KZAK_O5)">+020000.000+1500000.000</Point>
 	  <Point Name="(KZAK_O6)">+055000.000+1675050.000</Point>
