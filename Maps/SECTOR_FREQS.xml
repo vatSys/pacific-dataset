@@ -2,32 +2,32 @@
 <Maps>
   <Map Type="System2" Name="UPPER_SECTOR_FREQS" Priority="1">
     <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
-	  <Point Name="AYPM 123.4">-092020.000+1512000.000</Point>
-	  <Point Name="NFFN 120.9">-193300.000+1780000.000</Point>
-	  <Point Name="NFFF 123.6">-181500.000+1724500.000</Point>
-	  <Point Name="NWWW 128.2">-191520.000+1653030.000</Point>
-	  <Point Name="NVVV 120.7">-161700.000+1673541.000</Point>
-	  <Point Name="TSN 124.65">-191000.000+1580000.000</Point>
+      <Point Name="AYPM 123.4">-092020.000+1512000.000</Point>
+      <Point Name="NFFN 120.9">-193300.000+1780000.000</Point>
+      <Point Name="NFFF 123.6">-181500.000+1724500.000</Point>
+      <Point Name="NWWW 128.2">-191520.000+1653030.000</Point>
+      <Point Name="NVVV 120.7">-161700.000+1673541.000</Point>
+      <Point Name="TSN 124.65">-191000.000+1580000.000</Point>
       <Point Name="ISA 125.7">-124505.018+1384036.707</Point>
       <Point Name="KEN 120.15">-133000.000+1473415.000</Point>
-	  <Point Name="NZZO 129.0">-265000.000+1732500.000</Point>
-	  <Point Name="NZZO 129.0">-103000.000+1715000.000</Point>
-	  <Point Name="KZAK 131.95">+070830.000+1765045.000</Point>
-	  <Point Name="KZAK 131.95">-000500.000-1710000.000</Point>
-	  <Point Name="KZAK 131.95">+032000.000+1500000.000</Point>  
-	  <Point Name="WAAF 128.1">-043050.000+1375400.000</Point>
+      <Point Name="NZZO 129.0">-265000.000+1732500.000</Point>
+      <Point Name="NZZO 129.0">-103000.000+1715000.000</Point>
+      <Point Name="KZAK 131.95">+070830.000+1765045.000</Point>
+      <Point Name="KZAK 131.95">-000500.000-1710000.000</Point>
+      <Point Name="KZAK 131.95">+032000.000+1500000.000</Point>  
+      <Point Name="WAAF 128.1">-043050.000+1375400.000</Point>
     </Label>
   </Map>
   <Map Type="System" Name="LOWER_SECTOR_FREQS" Priority="1">
       <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
-	  <Point Name="(KZAK_O3)">-013700.000-1710000.000</Point>
-	  <Point Name="(KZAK_O5)">+020000.000+1500000.000</Point>
-	  <Point Name="(KZAK_O6)">+055000.000+1675050.000</Point>
-	  <Point Name="(KZAK_O9)">+044500.000-1774300.000</Point>
-	  <Point Name="(WAAF-PA 133.1)">-050500.000+1380030.000</Point>
-	  <Point Name="(WAAF-AN 132.35)">-060805.000+1274200.000</Point>
+      <Point Name="(KZAK_O3)">-013700.000-1710000.000</Point>
+      <Point Name="(KZAK_O5)">+020000.000+1500000.000</Point>
+      <Point Name="(KZAK_O6)">+055000.000+1675050.000</Point>
+      <Point Name="(KZAK_O9)">+044500.000-1774300.000</Point>
+      <Point Name="(WAAF-PA 133.1)">-050500.000+1380030.000</Point>
+      <Point Name="(WAAF-AN 132.35)">-060805.000+1274200.000</Point>
       <Point Name="(COL 133.15)">-153555.148+1541534.767</Point>
-	  <Point Name="(HWE 124.95)">-290727.162+1591519.306</Point>
+      <Point Name="(HWE 124.95)">-290727.162+1591519.306</Point>
       <Point Name="(FLD 132.85)">-224551.262+1564423.467</Point>
       <Point Name="(ARA 133.7)">-122105.018+1384036.707</Point>
       <Point Name="(WIL 127.6)">-140315.000+1473415.000</Point>
