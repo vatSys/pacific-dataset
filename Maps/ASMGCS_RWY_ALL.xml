@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_INF" Name="ASMGCS_RWY_ALL" Priority="0" Center="-07.0+166.0" CustomColourName="VeryLightGrey">
+    <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+      <Point Name="14L">-092551.179+1471250.069</Point>
+      <Point Name="32R">-092707.268+1471337.110</Point>
+      <Point Name="14R">-092605.129+1471246.969</Point>
+      <Point Name="32L">-092641.032+1471309.149</Point>
+      <Point Name="09">-063408.080+1464254.911</Point>
+      <Point Name="27">-063414.930+1464414.032</Point>
+      <Point Name="17L">-060429.341+1452330.059</Point>
+      <Point Name="35R">-060513.790+1452333.929</Point>
+      <Point Name="17R">-060431.390+1452326.340</Point>
+      <Point Name="35L">-060532.791+1452331.762</Point>
+      <Point Name="07">-051237.400+1454653.400</Point>
+      <Point Name="25">-051225.301+1454738.800</Point>
+      <Point Name="08">-054934.799+1441734.300</Point>
+      <Point Name="26">-054931.699+1441809.839</Point>
+      <Point Name="12">-054922.861+1441727.449</Point>
+      <Point Name="30">-055000.150+1441828.012</Point>
+      <Point Name="10">-042017.880+1522220.140</Point>
+      <Point Name="28">-042033.630+1522313.711</Point>
+      <Point Name="02">-174622.120+1772544.789</Point>
+      <Point Name="20">-174501.109+1772650.039</Point>
+      <Point Name="09">-174511.801+1772613.009</Point>
+      <Point Name="27">-174527.961+1772720.149</Point>
+      <Point Name="10">-180227.211+1783307.081</Point>
+      <Point Name="28">-180250.179+1783416.090</Point>
+      <Point Name="11">-174133.691+1681824.142</Point>
+      <Point Name="29">-174213.219+1681942.139</Point>
+      <Point Name="17">-221514.339+1662821.742</Point>
+      <Point Name="35">-221547.452+1662822.649</Point>
+      <Point Name="11">-220025.049+1661158.319</Point>
+      <Point Name="29">-220119.650+1661335.371</Point>
+      <Point Name="06">+084302.662+1674322.192</Point>
+      <Point Name="24">+084322.238+1674425.699</Point>
+    </Label>
+  </Map>
+</Maps>
