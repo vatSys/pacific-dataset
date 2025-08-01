@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Airspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SystemRunways>
-    <Airport Name="AGGH">
-      <Runway Name="06" DataRunway="06">
-        <STAR Name="BIKS1A" ApproachName="RNP" />
-        <STAR Name="DASA1A" ApproachName="RNP" />
-        <STAR Name="DASA1B" ApproachName="RNP" />
-        <STAR Name="PAKM1A" ApproachName="RNP" />
-        <STAR Name="VAKR1A" ApproachName="RNP" />
-      </Runway>
-      <Runway Name="24" DataRunway="24">
-        <STAR Name="BIKS1D" ApproachName="RNP" />
-        <STAR Name="DASA1D" ApproachName="RNP" />
-        <STAR Name="PAKM1D" ApproachName="RNP" />
-        <STAR Name="VAKR1D" ApproachName="RNP" />
-      </Runway>
-    </Airport>
     <Airport Name="AYGA">
       <Runway Name="17L" DataRunway="17L" />
       <Runway Name="17R" DataRunway="17R" />
@@ -203,10 +188,6 @@
         <SID Name="NORTH" />
         <SID Name="SOUTH" />
       </Runway>
-    </Airport>
-    <Airport Name="NWWL">
-      <Runway Name="12" DataRunway="12" />
-      <Runway Name="30" DataRunway="30" />
     </Airport>
     <Airport Name="NWWM">
       <Runway Name="17" DataRunway="17">
@@ -606,8 +587,6 @@ NUTTI/
 HUTEL
 </Airway>
     <Airway Name="B589">
-TEDED/
-KAPKI/
 PY VOR/
 UPSET/
 TEDED/
@@ -2486,6 +2465,7 @@ DIL VOR
     <Point Name="HAREN" Type="Fix">+101356.000+1505624.000</Point>
     <Point Name="HARTE" Type="Fix">+074552.000+1554118.000</Point>
     <Point Name="HARVS" Type="Fix">-254259.900+1560400.500</Point>
+    <Point Name="HASUT" Type="Fix">-171414.000-1792956.000</Point>
     <Point Name="HATHO" Type="Fix">+090104.000+1663628.000</Point>
     <Point Name="HAVNU" Type="Fix">+070440.552+1584144.650</Point>
     <Point Name="HEBUK" Type="Fix">+070304.000+1570147.000</Point>
@@ -2804,6 +2784,7 @@ DIL VOR
     <Point Name="MATUA" Type="Fix">-171655.000+1782110.000</Point>
     <Point Name="MAVTE" Type="Fix">+084142.749+1673903.409</Point>
     <Point Name="MAYUI" Type="Fix">-044103.311+1442549.238</Point>
+    <Point Name="MEBKO" Type="Fix">-175018.000+1773926.000</Point>
     <Point Name="MEKAD" Type="Fix">-132350.200+1524201.800</Point>
     <Point Name="MEKUL" Type="Fix">-193738.600+1691648.821</Point>
     <Point Name="MEMEK" Type="Fix">-092410.912+1594747.720</Point>
@@ -4208,33 +4189,6 @@ DIL VOR
     <SID Name="VIRA3W" Airport="NWWW" Runways="29">
       <Route Runway="29">-220025.049+1661158.319/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215933.342+1660838.410/-215951.805+1660839.894/-220007.139+1660851.084/BASSA/VIRAR</Route>
     </SID>
-    <STAR Name="BIKS1A" Airport="AGGH" Runways="06">
-      <Route Runway="06">BIKSU/DALTA/APEXI</Route>
-    </STAR>
-    <STAR Name="BIKS1D" Airport="AGGH" Runways="24">
-      <Route Runway="24">BIKSU/MOSVI/GOSNA</Route>
-    </STAR>
-    <STAR Name="DASA1A" Airport="AGGH" Runways="06">
-      <Route Runway="06">DASSA/KOPAU</Route>
-    </STAR>
-    <STAR Name="DASA1B" Airport="AGGH" Runways="06">
-      <Route Runway="06">DASSA/TAVIN/DALTA/APEXI</Route>
-    </STAR>
-    <STAR Name="DASA1D" Airport="AGGH" Runways="24">
-      <Route Runway="24">DASSA/TAVIN/EKOBU</Route>
-    </STAR>
-    <STAR Name="PAKM1A" Airport="AGGH" Runways="06">
-      <Route Runway="06">PAKMI/KOPAU</Route>
-    </STAR>
-    <STAR Name="PAKM1D" Airport="AGGH" Runways="24">
-      <Route Runway="24">PAKMI/LARUT/DABIM</Route>
-    </STAR>
-    <STAR Name="VAKR1A" Airport="AGGH" Runways="06">
-      <Route Runway="06">VAKRO/DALTA/APEXI</Route>
-    </STAR>
-    <STAR Name="VAKR1D" Airport="AGGH" Runways="24">
-      <Route Runway="24">VAKRO/GOSNA</Route>
-    </STAR>
     <STAR Name="GUGPU1" Airport="AYMH" Runways="08,12,26,30">
       <Route Runway="08">GUGPU/ESNON/YABAL/YMHEB</Route>
       <Route Runway="12">GUGPU/ESNON/YABAL/YMHEB</Route>
@@ -4429,16 +4383,6 @@ DIL VOR
     <STAR Name="VIRA2A" Airport="NWWW" Runways="11">
       <Route Runway="11">VIRAR/NULVI/-221518.911+1661229.067/-221506.568+1661001.197/-221433.487+1660737.096/-221340.439+1660520.152/-221228.676+1660313.568/-221059.873+1660120.310/-220916.114+1655943.028/-220719.829+1655823.985/PEPIT</Route>
     </STAR>
-    <Approach Name="RNP" Airport="AGGH" Runway="06">
-      <Transition Name="APEXI">APEXI</Transition>
-      <Transition Name="KOPAU">KOPAU</Transition>
-      <Route>GH401/GH536/-092555.060+1600242.659</Route>
-    </Approach>
-    <Approach Name="RNP" Airport="AGGH" Runway="24">
-      <Transition Name="DABIM">DABIM</Transition>
-      <Transition Name="EKOBU">EKOBU</Transition>
-      <Route>GOSNA/GH549/-092528.268+1600349.529</Route>
-    </Approach>
     <Approach Name="RNPA" Airport="AYMH" Runway="08">
       <Transition Name="YMHEA">YMHEA</Transition>
       <Transition Name="YMHEB">YMHEB</Transition>
@@ -5087,6 +5031,7 @@ DIL VOR
     </Airport>
     <Airport ICAO="AYVO" FullName="Tonu" Position="-064059.880+1532700.000" />
     <Airport ICAO="AYVP" FullName="Woposali" Position="-063929.520+1441738.040" />
+    <Airport ICAO="AYVV" FullName="Vivigani" Position="-091823.000+1501912.000" />
     <Airport ICAO="AYVW" FullName="Wuvulu" Position="-014413.920+1425012.480" />
     <Airport ICAO="AYVY" FullName="Yembi Yembi" Position="-042819.200+1430854.240" />
     <Airport ICAO="AYWA" FullName="Asinuwa" Position="-070141.520+1454610.920" />
