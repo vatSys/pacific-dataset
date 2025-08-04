@@ -15,6 +15,7 @@
       <Maps>
         <Map Name="ALL_CTA" />
         <Map Name="ALL_SECTORS" />
+		<Map Name="NEIGHBOUR_SUBSECTORS" />
         <Map Name="COAST_ALL" />
         <Map Name="ALL_ROUTES_HIGH" />
         <Map Name="ALL_POINTS_HIGH" />
@@ -49,6 +50,7 @@
 		<Maps>
 		  <Map Name="ALL_CTA" />
 		  <Map Name="ALL_SECTORS" />
+		  <Map Name="NEIGHBOUR_SUBSECTORS" />
 		  <Map Name="ALL_NAVAIDS" />
 		  <Map Name="COAST_ALL" />
 		  <Map Name="ALL_ROUTES_HIGH" />
@@ -131,7 +133,7 @@
 		<CFL QuickLevel="7000" />
 		<ArrivalLists>
 		  <Airport Name="NFFN" />
-		  <Airport Name="NFFA" />
+		  <Airport Name="NFNA" />
 		</ArrivalLists>
 		<ControllerInfo>
 		  <Line>Nadi Control</Line>
