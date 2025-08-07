@@ -3518,7 +3518,7 @@ DIL VOR
     <Point Name="YJBSA" Type="Fix">-054759.170+1513806.060</Point>
     <Point Name="YJBSB" Type="Fix">-055410.870+1513437.590</Point>
     <Point Name="YJBSC" Type="Fix">-055042.060+1512826.430</Point>
-    <Point Name="YJBSD" Type="Fix">-054430.400+1513154.940</Point>
+    <Point Name="YJBSF" Type="Fix">-054430.400+1513154.940</Point>
     <Point Name="YJBSI" Type="Fix">-054920.640+1513316.260</Point>
     <Point Name="YKAND" Type="Fix">-082502.010+1505359.708</Point>
     <Point Name="YKANE" Type="Fix">-081927.008+1505525.709</Point>
