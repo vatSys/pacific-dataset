@@ -484,7 +484,12 @@
 	  <Point>IGLUN</Point>
 	  <Point>NODAG</Point>
 	  <Point>VIMIT</Point>
-	  <Point>IGAPA</Point>
+	  <Point>YGASA</Point>
+	  <Point>YGASI</Point>
+	  <Point>YGASF</Point>
+	  <Point>YGASG</Point>
+	  <Point>YGASY</Point>
+	  <Point>YGASZ</Point>
     </Label>
     <Symbol Type="MalteseCross">
       <Point>FNNSF</Point>
@@ -604,6 +609,8 @@
 	  <Point>FASPO</Point>
 	  <Point>NL483</Point>
 	  <Point>FRF07</Point>
+	  <Point>YGASY</Point>
+	  <Point>YGASZ</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>FNNSI</Point>
@@ -726,6 +733,9 @@
 	  <Point>UCOLE</Point>
 	  <Point>KALEL</Point>
 	  <Point>ENTAN</Point>
+	  <Point>YGASI</Point>
+	  <Point>YGASF</Point>
+	  <Point>YGASG</Point>
     </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>YGNWD</Point>
@@ -971,6 +981,7 @@
 	  <Point>NODAG</Point>
 	  <Point>VIMIT</Point>
 	  <Point>IGAPA</Point>
+	  <Point>YGASA</Point>
     </Symbol>
     <Line>DGOWA/DGOWI</Line>
     <Line>DGOWB/DGOWI</Line>
@@ -1375,5 +1386,10 @@
 	<Line>HOMQY/UCOLE</Line>
 	<Line>CEYJE/UCOLE</Line>
 	<Line>UCOLE/UDEXE/+072803.529+1515056.360</Line>
+	<Line>YGASA/YGASI</Line>
+	<Line>YGASI/YGASF/YGASG</Line>
+	<Line>YGASG/YGASY</Line>
+	<Line>YGASG/YGASZ</Line>
+	
   </Map>
 </Maps>

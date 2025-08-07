@@ -3,7 +3,9 @@
   <SystemRunways>
     <Airport Name="AYGA">
       <Runway Name="17L" DataRunway="17L" />
-      <Runway Name="17R" DataRunway="17R" />
+      <Runway Name="17R" DataRunway="17R">
+        <SID Name="TOMER1" Default="True" />
+      </Runway>
       <Runway Name="35L" DataRunway="35L" />
       <Runway Name="35R" DataRunway="35R" />
     </Airport>
@@ -1980,6 +1982,7 @@ DIL VOR
     <Point Name="ARTOP" Type="Fix">-005241.000+1800000.000</Point>
     <Point Name="ARURA" Type="Fix">-023545.121+1764000.300</Point>
     <Point Name="ASAGU" Type="Fix">-002739.910+1664633.960</Point>
+    <Point Name="ASEVO" Type="Fix">-085401.580+1474532.640</Point>
     <Point Name="ASIXA" Type="Fix">-090426.501+1431244.798</Point>
     <Point Name="ATELO" Type="Fix">-042456.000+1390525.000</Point>
     <Point Name="ATGAP" Type="Fix">-045209.401+1440210.021</Point>
@@ -2817,6 +2820,7 @@ DIL VOR
     <Point Name="MOKIN" Type="Fix">-062412.000+1533312.000</Point>
     <Point Name="MOLSI" Type="Fix">-153939.380+1680121.968</Point>
     <Point Name="MOMTA" Type="Fix">-300000.000+1794329.089</Point>
+    <Point Name="MONDO" Type="Fix">-060938.400+1452353.280</Point>
     <Point Name="MORBE" Type="Fix">-074256.761+1473630.841</Point>
     <Point Name="MORNA" Type="Fix">-030000.000+1651000.000</Point>
     <Point Name="MOSVI" Type="Fix">-084847.048+1603623.749</Point>
@@ -2939,6 +2943,7 @@ DIL VOR
     <Point Name="ODONU" Type="Fix">-083021.960+1252908.090</Point>
     <Point Name="OGEVE" Type="Fix">+070120.791+1710555.190</Point>
     <Point Name="OHAFU" Type="Fix">+070005.198+1582458.961</Point>
+    <Point Name="OKEMU" Type="Fix">-061500.180+1452650.580</Point>
     <Point Name="OKOLE" Type="Fix">+060400.000+1503100.000</Point>
     <Point Name="OKOMM" Type="Fix">-050601.631+1421504.889</Point>
     <Point Name="OKTUX" Type="Fix">-041800.922+1470415.712</Point>
@@ -3264,6 +3269,7 @@ DIL VOR
     <Point Name="TOKAS" Type="Fix">-194233.300+1691754.211</Point>
     <Point Name="TOLUS" Type="Fix">-151517.000+1775544.000</Point>
     <Point Name="TOMAR" Type="Fix">-410814.482+1630000.000</Point>
+    <Point Name="TOMER" Type="Fix">-061756.190+1454329.560</Point>
     <Point Name="TOMIK" Type="Fix">-163827.000-1795823.000</Point>
     <Point Name="TOMOM" Type="Fix">-090420.251+1474631.141</Point>
     <Point Name="TONBE" Type="Fix">+084638.392+1675502.431</Point>
@@ -3315,6 +3321,7 @@ DIL VOR
     <Point Name="UNTIS" Type="Fix">-065947.789+1443849.049</Point>
     <Point Name="UNVAT" Type="Fix">-254809.900+1495346.500</Point>
     <Point Name="UNVUN" Type="Fix">-070013.900+1393917.600</Point>
+    <Point Name="UPDEL" Type="Fix">-090618.550+1474338.220</Point>
     <Point Name="UPDIX" Type="Fix">-023254.359+1700000.000</Point>
     <Point Name="UPLAR" Type="Fix">-353355.220+1710535.290</Point>
     <Point Name="UPNUM" Type="Fix">-060642.000+1401600.000</Point>
@@ -3468,6 +3475,13 @@ DIL VOR
     <Point Name="YDUSM" Type="Fix">-090528.849+1431244.629</Point>
     <Point Name="YEBFO" Type="Fix">+065714.558+1582907.649</Point>
     <Point Name="YETNI" Type="Fix">+071759.572+1514421.671</Point>
+    <Point Name="YGASA" Type="Fix">-062837.960+1453014.880</Point>
+    <Point Name="YGASF" Type="Fix">-061507.330+1452422.160</Point>
+    <Point Name="YGASG" Type="Fix">-061337.070+1452413.890</Point>
+    <Point Name="YGASH" Type="Fix">-061504.590+1453042.120</Point>
+    <Point Name="YGASI" Type="Fix">-061950.250+1452446.980</Point>
+    <Point Name="YGASY" Type="Fix">-060831.440+1452347.440</Point>
+    <Point Name="YGASZ" Type="Fix">-060918.600+1452351.580</Point>
     <Point Name="YGNWD" Type="Fix">-102141.051+1495756.009</Point>
     <Point Name="YGNWF" Type="Fix">-101702.738+1501015.751</Point>
     <Point Name="YGNWH" Type="Fix">-102218.869+1502523.081</Point>
@@ -3500,6 +3514,12 @@ DIL VOR
     <Point Name="YHKWH" Type="Fix">-052026.711+1502423.152</Point>
     <Point Name="YHKWI" Type="Fix">-052012.739+1501610.340</Point>
     <Point Name="YHKWM" Type="Fix">-052639.340+1502310.162</Point>
+    <Point Name="YJB34" Type="Fix">-053932.720+1513031.570</Point>
+    <Point Name="YJBSA" Type="Fix">-054759.170+1513806.060</Point>
+    <Point Name="YJBSB" Type="Fix">-055410.870+1513437.590</Point>
+    <Point Name="YJBSC" Type="Fix">-055042.060+1512826.430</Point>
+    <Point Name="YJBSD" Type="Fix">-054430.400+1513154.940</Point>
+    <Point Name="YJBSI" Type="Fix">-054920.640+1513316.260</Point>
     <Point Name="YKAND" Type="Fix">-082502.010+1505359.708</Point>
     <Point Name="YKANE" Type="Fix">-081927.008+1505525.709</Point>
     <Point Name="YKANF" Type="Fix">-082704.252+1510200.211</Point>
@@ -3514,6 +3534,19 @@ DIL VOR
     <Point Name="YKASH" Type="Fix">-082655.410+1510152.568</Point>
     <Point Name="YKASI" Type="Fix">-083825.530+1511148.660</Point>
     <Point Name="YKASM" Type="Fix">-083043.988+1510509.920</Point>
+    <Point Name="YKC17" Type="Fix">-061112.220+1493250.130</Point>
+    <Point Name="YKC35" Type="Fix">-061156.380+1493256.970</Point>
+    <Point Name="YKCND" Type="Fix">-060028.820+1492624.180</Point>
+    <Point Name="YKCNE" Type="Fix">-055629.450+1493033.450</Point>
+    <Point Name="YKCNF" Type="Fix">-060625.230+1493205.680</Point>
+    <Point Name="YKCNH" Type="Fix">-061510.530+1493327.050</Point>
+    <Point Name="YKCNI" Type="Fix">-060127.340+1493119.560</Point>
+    <Point Name="YKCSA" Type="Fix">-062229.970+1493921.690</Point>
+    <Point Name="YKCSB" Type="Fix">-062629.400+1493512.280</Point>
+    <Point Name="YKCSC" Type="Fix">-062356.790+1493002.080</Point>
+    <Point Name="YKCSF" Type="Fix">-061633.630+1493339.930</Point>
+    <Point Name="YKCSH" Type="Fix">-060758.070+1493220.060</Point>
+    <Point Name="YKCSI" Type="Fix">-062131.520+1493426.100</Point>
     <Point Name="YKIEA" Type="Fix">-094743.901+1433719.499</Point>
     <Point Name="YKIEB" Type="Fix">-095329.299+1433736.098</Point>
     <Point Name="YKIEC" Type="Fix">-095542.701+1433214.399</Point>
@@ -3542,6 +3575,12 @@ DIL VOR
     <Point Name="YKMSH" Type="Fix">-080034.430+1454211.048</Point>
     <Point Name="YKMSI" Type="Fix">-080803.361+1454822.651</Point>
     <Point Name="YKMSM" Type="Fix">-075839.490+1454651.179</Point>
+    <Point Name="YKONA" Type="Fix">-083738.300+1474426.630</Point>
+    <Point Name="YKONF" Type="Fix">-084604.040+1473923.790</Point>
+    <Point Name="YKONI" Type="Fix">-083828.210+1473823.280</Point>
+    <Point Name="YKONM" Type="Fix">-085133.400+1474338.150</Point>
+    <Point Name="YKONX" Type="Fix">-085550.300+1475051.390</Point>
+    <Point Name="YKONY" Type="Fix">-085559.580+1465655.000</Point>
     <Point Name="YKVED" Type="Fix">-023759.902+1510114.430</Point>
     <Point Name="YKVEE" Type="Fix">-024345.739+1510114.160</Point>
     <Point Name="YKVEF" Type="Fix">-023759.480+1505303.311</Point>
@@ -3556,6 +3595,20 @@ DIL VOR
     <Point Name="YKVNH" Type="Fix">-023723.149+1505211.820</Point>
     <Point Name="YKVNI" Type="Fix">-022838.629+1503948.578</Point>
     <Point Name="YKVNM" Type="Fix">-023429.989+1504806.419</Point>
+    <Point Name="YKW15" Type="Fix">-075819.350+1424910.680</Point>
+    <Point Name="YKW33" Type="Fix">-075850.980+1424928.420</Point>
+    <Point Name="YKWND" Type="Fix">-075037.290+1423926.140</Point>
+    <Point Name="YKWNE" Type="Fix">-074525.960+1424157.050</Point>
+    <Point Name="YKWNF" Type="Fix">-075412.170+1424652.030</Point>
+    <Point Name="YKWNG" Type="Fix">-074600.840+1424741.940</Point>
+    <Point Name="YKWNH" Type="Fix">-080057.190+1425039.240</Point>
+    <Point Name="YKWNI" Type="Fix">-074949.070+1424424.510</Point>
+    <Point Name="YKWSA" Type="Fix">-080633.020+1425913.450</Point>
+    <Point Name="YKWSB" Type="Fix">-081144.400+1425642.620</Point>
+    <Point Name="YKWSC" Type="Fix">-081109.600+1425057.310</Point>
+    <Point Name="YKWSF" Type="Fix">-080258.310+1425147.220</Point>
+    <Point Name="YKWSH" Type="Fix">-075613.130+1424759.870</Point>
+    <Point Name="YKWSI" Type="Fix">-080721.360+1425414.890</Point>
     <Point Name="YKYEA" Type="Fix">-030612.398+1524841.400</Point>
     <Point Name="YKYEB" Type="Fix">-031318.649+1524850.310</Point>
     <Point Name="YKYEC" Type="Fix">-031327.581+1524146.230</Point>
@@ -3643,6 +3696,13 @@ DIL VOR
     <Point Name="YTBSF" Type="Fix">-052842.031+1412200.620</Point>
     <Point Name="YTBSI" Type="Fix">-053248.401+1412453.978</Point>
     <Point Name="YTBSM" Type="Fix">-052435.640+1411907.309</Point>
+    <Point Name="YTESB" Type="Fix">-052433.780+1415249.760</Point>
+    <Point Name="YTESC" Type="Fix">-053236.420+1413633.260</Point>
+    <Point Name="YTESF" Type="Fix">-051538.250+1414443.310</Point>
+    <Point Name="YTESH" Type="Fix">-050302.140+1413150.970</Point>
+    <Point Name="YTESI" Type="Fix">-052050.890+1414927.250</Point>
+    <Point Name="YTESM" Type="Fix">-050812.800+1413758.940</Point>
+    <Point Name="YTESZ" Type="Fix">-051335.300+1414251.670</Point>
     <Point Name="YTKSD" Type="Fix">-041737.432+1523433.269</Point>
     <Point Name="YTKSF" Type="Fix">-042159.209+1522803.299</Point>
     <Point Name="YTKSG" Type="Fix">-042911.422+1523109.480</Point>
@@ -3902,6 +3962,12 @@ DIL VOR
     <Point Name="YXM" Type="Navaid" NavaidType="VOR" Frequency="113.700">-060319.789+1425222.051</Point>
   </Intersections>
   <SIDSTARs>
+    <SID Name="TOMER1" Airport="AYGA" Runways="17R">
+      <Route Runway="17R">-060532.791+1452331.762/MONDO/OKEMU</Route>
+      <Transition Name="MUDIX">-061644.927+1453644.501/-061659.359+1453715.641/-061727.368+1453735.322/-061801.405+1453738.277/-061832.351+1453723.713/-061851.913+1453655.533/-061854.850+1453621.288/-061840.373+1453550.154/-061818.300+1453533.025/MUDIX</Transition>
+      <Transition Name="MUKIK">TOMER/MUKIK</Transition>
+      <Transition Name="OMBOG">TOMER/OMBOG</Transition>
+    </SID>
     <SID Name="ASTRO1" Airport="AYPY" Runways="14L,14R,32L,32R">
       <Route Runway="14L">-092707.268+1471337.110/PY VOR/DOMRA/KALKO</Route>
       <Route Runway="14R">-092641.032+1471309.149/PY VOR/DOMRA/KALKO</Route>
