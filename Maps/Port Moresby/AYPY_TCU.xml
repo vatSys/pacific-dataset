@@ -194,6 +194,57 @@
 	  <Point Name="MANARI">-09.178144+147.602741</Point>
     </Label>
   </Map>
+  <Map Type="System2" Name="AYPY_SDC" Priority="1" CustomColourName="PaleVioletRed" Center="-09.440278+147.218611">
+    <Label HasLeader="False">
+	  <Point Name="41">PY010113</Point>
+	  <Point Name="43">PY010146</Point>
+	  <Point Name="44">PY039050</Point>
+	  <Point Name="45">PY055050</Point>
+	  <Point Name="46">PY077050</Point>
+	  <Point Name="47">PY081043</Point>
+	  <Point Name="48">PY106050</Point>
+	  <Point Name="49">PY127050</Point>
+	  <Point Name="51">PY141050</Point>
+	  <Point Name="53">PY162050</Point>
+	  <Point Name="54">PY171050</Point>
+	  <Point Name="55">PY183050</Point>
+	  <Point Name="56">PY190050</Point>
+	  <Point Name="57">PY256050</Point>
+	  <Point Name="58">PY276050</Point>
+	  <Point Name="59">PY294043</Point>
+	  <Point Name="61">PY291021</Point>
+	  <Point Name="63">PY304050</Point>
+	  <Point Name="64">PY010113</Point>
+	  <Point Name="64">PY310050</Point>
+	  <Point Name="65">PY322046</Point>
+	  <Point Name="66">PY328050</Point>
+	  <Point Name="67">PY351050</Point>
+	  <Point Name="68">PY356050</Point>
+    </Label>
+	<Line Pattern="Dotted">PY VOR/MORBE/LARID/NZ VOR</Line><!-- SDC 41 -->
+	<Line Pattern="Dotted">PY VOR/PELCA/LARID/NZ VOR</Line><!-- SDC 43 -->
+	<Line Pattern="Dotted">PY VOR/COWRY</Line><!-- SDC 44 -->
+	<Line Pattern="Dotted">PY VOR/RUPNO</Line><!-- SDC 45 -->
+	<Line Pattern="Dotted">PY VOR/UPSET/TEDED</Line><!-- SDC 46 -->
+	<Line Pattern="Dotted">PY VOR/ENTOG/RUPNO</Line><!-- SDC 47 -->
+	<Line Pattern="Dotted">PY VOR/DOMRA/KALKO</Line><!-- SDC 48 -->
+	<Line Pattern="Dotted">PY VOR/KAPKI</Line><!-- SDC 49 -->
+	<Line Pattern="Dotted">PY VOR/DUKUB</Line><!-- SDC 51 -->
+	<Line Pattern="Dotted">PY VOR/VIPAM</Line><!-- SDC 53 -->
+	<Line Pattern="Dotted">PY VOR/APISO</Line><!-- SDC 54 -->
+	<Line Pattern="Dotted">PY VOR/MABRO</Line><!-- SDC 55 -->
+	<Line Pattern="Dotted">PY VOR/LENAK</Line><!-- SDC 56 -->
+	<Line Pattern="Dotted">PY VOR/ESKIM/POSOX/HID NDB</Line><!-- SDC 57 -->
+	<Line Pattern="Dotted">PY VOR/NOGOT/ASIXA</Line><!-- SDC 58 -->
+	<Line Pattern="Dotted">PY VOR/GUNKI/EPKED</Line><!-- SDC 59 -->
+	<Line Pattern="Dotted">PY VOR/BELUP/STARF</Line><!-- SDC 61 -->
+	<Line Pattern="Dotted">PY VOR/EMPRA/KIBAV</Line><!-- SDC 63 -->
+	<Line Pattern="Dotted">PY VOR/STARF/EPKED</Line><!-- SDC 64 -->
+	<Line Pattern="Dotted">PY VOR/STARF/SAKTO</Line><!-- SDC 65 -->
+	<Line Pattern="Dotted">PY VOR/SAKTO</Line><!-- SDC 66 -->
+	<Line Pattern="Dotted">PY VOR/NZ VOR</Line><!-- SDC 67 -->
+	<Line Pattern="Dotted">PY VOR/LARID/NZ VOR</Line><!-- SDC 68 -->
+  </Map>
   <Map Type="System" Name="AYPY_ALLRWYS" Priority="2" Center="-09.440278+147.218611">
     <!--AYPY-->
     <Runway Name="14L/32R">
