@@ -37,8 +37,8 @@
     <Volumes>NFFF</Volumes>
 	<ResponsibleSectors>NWWW,NVVV</ResponsibleSectors>
   </Sector>
-  <Sector FullName="Nadi Centre" Frequency="120.100" Callsign="NFFN_CTR" Name="NFFN">
-    <Volumes>NFFN</Volumes>
+  <Sector FullName="Nadi Control" Frequency="120.100" Callsign="NFFJ_CTR" Name="NFFJ">
+    <Volumes>NFFJ</Volumes>
   </Sector>
   <Sector FullName="Nadi Approach" Frequency="119.100" Callsign="NFFN_APP" Name="NFFNA">
     <Volumes>NFFNA</Volumes>
@@ -99,8 +99,8 @@
   </Sector>
   
   <!-- Vanuatu -->
-  <Sector FullName="Vila Centre" Frequency="120.700" Callsign="NVVV_CTR" Name="NVVV">
-    <Volumes>NVVV</Volumes>
+  <Sector FullName="Vila Tower (Approach)" Frequency="120.700" Callsign="NVVV_APP" Name="NVVVA">
+    <Volumes>NVVVA</Volumes>
   </Sector>
   <Sector FullName="Vila Tower" Frequency="118.300" Callsign="NVVV_TWR" Name="NVVV ADC">
     <Volumes>NVVVTWR</Volumes>

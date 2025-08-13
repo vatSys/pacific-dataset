@@ -112,7 +112,7 @@
     </Position>
     <Position Name="Nadi (Domestic)" Type="ASD" DefaultCenter="-17.749037+178.325786" DefaultRange="1200" VisibilityRange="300">
 		<Sectors>
-		  <Sector Name="NFFN" />
+		  <Sector Name="NFFJ" />
 		  <Sector Name="NFFNA" />
 		  <Sector Name="NFNAA" />
 		</Sectors>
@@ -145,38 +145,6 @@
 		</ControllerInfo>
 		<Transition Altitude="11000" />
     </Position>
-    <Position Name="Vila" Type="ASD" DefaultCenter="-16.620629+167.789198" DefaultRange="1200" VisibilityRange="400">
-		<Sectors>
-		  <Sector Name="NVVV" />
-		</Sectors>
-		<ManualVisibility>
-		  <Point>-1634.0+16748.0</Point>
-		</ManualVisibility>
-		<Maps>
-		  <Map Name="ALL_CTA" />
-		  <Map Name="ALL_SECTORS" />
-		  <Map Name="UPPER_SECTOR_FREQS" />
-		  <Map Name="ALL_NAVAIDS" />
-		  <Map Name="COAST_ALL" />
-		  <Map Name="ALL_ROUTES_HIGH" />
-		  <Map Name="ALL_POINTS_HIGH" />
-		  <Map Name="FIR_BDRY" />
-		</Maps>
-		<Strips Mode="State" Sort="Time">
-		  <Window Type="State" State="Jurisdiction" Visible="true" />
-		  <Window Type="State" State="Announced" Visible="true" />
-		  <Window Type="State" State="Preactive" Visible="true" />
-		</Strips>
-		<CFL QuickLevel="10000" />
-		<ArrivalLists>
-		  <Airport Name="NVVV" />
-		</ArrivalLists>
-		<ControllerInfo>
-		  <Line>Vila Centre</Line>
-		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
-		</ControllerInfo>
-		<Transition Altitude="11000" />
-	</Position>
   </Group>
   <Group Name="TCU">
     <Position Name="Nadzab TCU" Type="ASD" DefaultCenter="-06.569222+146.728056" DefaultRange="200" MagneticVariation="-5.3">
@@ -343,6 +311,40 @@
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
+	<Position Name="Vila TCU" Type="ASD" DefaultCenter="-16.620629+167.789198" DefaultRange="1200" VisibilityRange="400" MagneticVariation="-12">
+		<Sectors>
+		  <Sector Name="NVVVA" />
+		</Sectors>
+		<ManualVisibility>
+		  <Point>-160825.000+1681544.000</Point>
+		  <Point>-184521.000+1693355.000</Point>
+		  <Point>-140950.000+1692457.000</Point>
+		  <Point>-142438.000+1653510.000</Point>
+		</ManualVisibility>
+		<Maps>
+		  <Map Name="ALL_CTA" />
+		  <Map Name="ALL_SECTORS" />
+		  <Map Name="ALL_NAVAIDS" />
+		  <Map Name="COAST_ALL" />
+		  <Map Name="ALL_ROUTES_HIGH" />
+		  <Map Name="ALL_POINTS_HIGH" />
+		  <Map Name="FIR_BDRY" />
+		</Maps>
+		<Strips Mode="State" Sort="Time">
+		  <Window Type="State" State="Jurisdiction" Visible="true" />
+		  <Window Type="State" State="Announced" Visible="true" />
+		  <Window Type="State" State="Preactive" Visible="true" />
+		</Strips>
+		<CFL QuickLevel="10000" />
+		<ArrivalLists>
+		  <Airport Name="NVVV" />
+		</ArrivalLists>
+		<ControllerInfo>
+		  <Line>Vila Tower</Line>
+		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
+		</ControllerInfo>
+		<Transition Altitude="11000" />
+	</Position>
   </Group>
   <Group Name="Class C TWR">
    <Position Name="Jacksons Tower" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="90" MagneticVariation="-5.8">

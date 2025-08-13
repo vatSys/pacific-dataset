@@ -1409,7 +1409,7 @@
   <Volume Name="NFFF" LowerLimit="0" UpperLimit="60000">
     <Boundaries>NFFF</Boundaries>
   </Volume>
-  <Volume Name="NFFN" LowerLimit="0" UpperLimit="60000">
+  <Volume Name="NFFJ" LowerLimit="0" UpperLimit="60000">
     <Boundaries>NADI_CTA</Boundaries>
   </Volume>
   
@@ -1447,7 +1447,7 @@
   </Volume>
   
   <!--		 Vanuatu	-->
-  <Volume Name="NVVV" LowerLimit="0" UpperLimit="60000">
+  <Volume Name="NVVVA" LowerLimit="0" UpperLimit="24000">
     <Boundaries>NVVV_CTA</Boundaries>
   </Volume>
   <Volume Name="NVVVTWR" LowerLimit="0" UpperLimit="9500">
