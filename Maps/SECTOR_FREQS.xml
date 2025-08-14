@@ -11,7 +11,7 @@
       <Point Name="ISA 125.7">-124505.018+1384036.707</Point>
       <Point Name="KEN 120.15">-133000.000+1473415.000</Point>
       <Point Name="NZZO 129.0">-265000.000+1732500.000</Point>
-      <Point Name="NZZO 129.0">-103000.000+1715000.000</Point>
+      <Point Name="NZZO 129.0">-103000.000-1715000.000</Point>
       <Point Name="KZAK 131.95">+070830.000+1765045.000</Point>
       <Point Name="KZAK 131.95">-000500.000-1710000.000</Point>
       <Point Name="KZAK 131.95">+032000.000+1500000.000</Point>  
