@@ -35,7 +35,6 @@
   <!-- Fiji -->
   <Sector FullName="Nadi Oceanic" Frequency="123.600" Callsign="NFFF_FSS" Name="NFFF">
     <Volumes>NFFF</Volumes>
-	<ResponsibleSectors>NWWW,NVVV</ResponsibleSectors>
   </Sector>
   <Sector FullName="Nadi Control" Frequency="120.100" Callsign="NFFJ_CTR" Name="NFFJ">
     <Volumes>NFFJ</Volumes>
@@ -66,11 +65,7 @@
     <Volumes>PKWATWR</Volumes>
   </Sector>
   
-  <!-- New Caledonia -->
-  <Sector FullName="Tontouta Control" Frequency="128.200" Callsign="NWWW_CTR" Name="NWWW">
-    <Volumes>NWWW</Volumes>
-  </Sector>
-  
+  <!-- New Caledonia --> 
   <Sector FullName="Tontouta Approach" Frequency="128.300" Callsign="NWWW_APP" Name="NWWWA">
     <Volumes>NWWWA</Volumes>
   </Sector>
@@ -81,17 +76,8 @@
     <Volumes>NWWWTWR</Volumes>
   </Sector>
   
-  <!--<Sector FullName="Tontouta Approach (Terminal)" Frequency="119.700" Callsign="NWWW-T_APP" Name="NWWWT">
-    <Volumes>NWWWT</Volumes>
-  </Sector>-->
-  <!--<Sector FullName="Tontouta Approach (North)" Frequency="118.200" Callsign="NWWW-N_APP" Name="NWWWAN">
-    <Volumes>NWWWT</Volumes>
-  </Sector>-->
-    <!--<Sector FullName="Magenta Approach" Frequency="124.300" Callsign="NWWM_APP" Name="NWWMA">
+  <!--<Sector FullName="Magenta Approach" Frequency="124.300" Callsign="NWWM_APP" Name="NWWMA">
     <Volumes>NWWMA</Volumes>
-  </Sector>-->
-    <!--<Sector FullName="Tontouta Approach (Loyaute)" Frequency="125.100" Callsign="NWWW-L_APP" Name="NWWWL">
-    <Volumes>NWWWL</Volumes>
   </Sector>-->
   
   <Sector FullName="Magenta Tower" Frequency="118.300" Callsign="NWWM_TWR" Name="NWWM ADC">
@@ -99,7 +85,7 @@
   </Sector>
   
   <!-- Vanuatu -->
-  <Sector FullName="Vila Tower (Approach)" Frequency="120.700" Callsign="NVVV_APP" Name="NVVVA">
+  <Sector FullName="Vila Tower (TCU)" Frequency="120.700" Callsign="NVVV_APP" Name="NVVVA">
     <Volumes>NVVVA</Volumes>
   </Sector>
   <Sector FullName="Vila Tower" Frequency="118.300" Callsign="NVVV_TWR" Name="NVVV ADC">

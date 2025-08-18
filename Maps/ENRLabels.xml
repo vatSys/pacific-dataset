@@ -2,10 +2,6 @@
 <Maps>
   <Map Type="System" Name="ENR_LL_LABELS" Priority="2" Center="-07.0+166.0">
     <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
-      <Point Name="A195">-2315.0+16535.0</Point>
-      <Point Name="A195">-2235.0+16930.0</Point>
-      <Point Name="A195">-2136.0+16650.0</Point>
-      <Point Name="A195">-1840.0+16520.0</Point>
       <Point Name="A200">-062435.0+1764515.0</Point>
       <Point Name="A200">-143536.0+1735855.0</Point>
       <Point Name="A200">-2430.0+16850.0</Point>
@@ -19,8 +15,6 @@
       <Point Name="D065">-1911.7015+17936.2098</Point>
       <Point Name="D065">-1725.4966+17616.2486</Point>
       <Point Name="D065">-1634.7862+17822.9677</Point>
-      <Point Name="D095">-2215.0+16930.0</Point>
-      <Point Name="D095">-1820.0+16520.0</Point>
       <Point Name="D095">-150000.0+1735855.0</Point>
       <Point Name="A245">-051100.000+1404000.000</Point>
       <Point Name="A245">-014224.000+1412500.000</Point>

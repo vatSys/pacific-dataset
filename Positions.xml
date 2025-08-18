@@ -75,41 +75,6 @@
 		</ControllerInfo>
 		<Transition Altitude="20000" />
     </Position>
-    <Position Name="Tontouta" Type="ASD" DefaultCenter="-19.000+166.200" DefaultRange="1300" VisibilityRange="400">
-		<Sectors>
-		  <Sector Name="NWWW" />
-		  <Sector Name="NWWWA" />
-		</Sectors>
-		<ManualVisibility>
-		  <Point>-2147.0+16701.0</Point>
-		  <Point>-1553.0+16516.0</Point>
-		</ManualVisibility>
-		<Maps>
-		  <Map Name="ALL_CTA" />
-		  <Map Name="ALL_SECTORS" />
-		  <Map Name="UPPER_SECTOR_FREQS" />
-		  <Map Name="ALL_NAVAIDS" />
-		  <Map Name="COAST_ALL" />
-		  <Map Name="ALL_ROUTES_HIGH" />
-		  <Map Name="ALL_POINTS_HIGH" />
-		  <Map Name="FIR_BDRY" />
-		</Maps>
-		<Strips Mode="State" Sort="Time">
-		  <Window Type="State" State="Jurisdiction" Visible="true" />
-		  <Window Type="State" State="Announced" Visible="true" />
-		  <Window Type="State" State="Preactive" Visible="true" />
-		</Strips>
-		<CFL QuickLevel="10000" />
-		<ArrivalLists>
-		  <Airport Name="NWWW" />
-		  <Airport Name="NWWM" />
-		</ArrivalLists>
-		<ControllerInfo>
-		  <Line>Tontouta Control</Line>
-		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
-		</ControllerInfo>
-		<Transition Altitude="11000" />
-    </Position>
     <Position Name="Nadi (Domestic)" Type="ASD" DefaultCenter="-17.749037+178.325786" DefaultRange="1200" VisibilityRange="300">
 		<Sectors>
 		  <Sector Name="NFFJ" />
@@ -273,18 +238,21 @@
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
-    <Position Name="Tontouta TCU" Type="ASD" DefaultCenter="-220245.0+1660915.0" DefaultRange="600" VisibilityRange="150" MagneticVariation="-12.5">
+    <Position Name="Tontouta TCU" Type="ASD" DefaultCenter="-19.000+166.200" DefaultRange="1300" VisibilityRange="150" MagneticVariation="-12.5">
       <Sectors>
         <Sector Name="NWWWA" />
       </Sectors>
       <ManualVisibility>
-        <Point>-2055.0+16551.0</Point>
-        <Point>-2112.0+16751.0</Point>
-        <Point>-2213.0+16418.0</Point>
-        <Point>-2319.0+16641.0</Point>
+        <Point>-1844.0+16427.0</Point>
+        <Point>-1957.0+16710.0</Point>
+		<Point>-2227.0+16451.0</Point>
+        <Point>-2223.0+16859.0</Point>
       </ManualVisibility>
       <Maps>
         <Map Name="ALL_CTA" />
+		<Map Name="ALL_SECTORS" />
+		<Map Name="UPPER_SECTOR_FREQS" />
+		<Map Name="FIR_BDRY" />
         <Map Name="Noumea/NWWW_COAST" />
         <Map Name="Noumea/NWWW_TCU" />
         <Map Name="Noumea/NWWW_RWY11A29D" />
@@ -299,7 +267,9 @@
         <Window Type="ADEP" Beacon="NWWW" Visible="true" />
         <Window Type="ADEP" Beacon="NWWM" Visible="true" />
       </Strips>
-      <CFL QuickLevel="24000" />
+      <CFL QuickLevel="24000">
+        <AdditionalLevels>1800,3400,5200,6600</AdditionalLevels>
+      </CFL>
       <ArrivalLists>
         <Airport Name="NWWW" />
         <Airport Name="NWWM" />
@@ -319,7 +289,7 @@
 		  <Point>-160825.000+1681544.000</Point>
 		  <Point>-184521.000+1693355.000</Point>
 		  <Point>-140950.000+1692457.000</Point>
-		  <Point>-142438.000+1653510.000</Point>
+		  <Point>-142000.000+1645700.000</Point>
 		</ManualVisibility>
 		<Maps>
 		  <Map Name="ALL_CTA" />
@@ -340,7 +310,7 @@
 		  <Airport Name="NVVV" />
 		</ArrivalLists>
 		<ControllerInfo>
-		  <Line>Vila Tower</Line>
+		  <Line>Vila Tower (TCU)</Line>
 		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
 		</ControllerInfo>
 		<Transition Altitude="11000" />
@@ -558,7 +528,7 @@
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
-	<Position Name="Port Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="200" MagneticVariation="-11.6" VisibilityRange="50">
+	<Position Name="Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="200" MagneticVariation="-11.6" VisibilityRange="50">
       <Sectors>
         <Sector Name="NVVV ADC" />
       </Sectors>
