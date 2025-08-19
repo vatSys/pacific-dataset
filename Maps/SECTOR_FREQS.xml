@@ -3,10 +3,8 @@
   <Map Type="System2" Name="UPPER_SECTOR_FREQS" Priority="1">
     <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
       <Point Name="AYPM 123.4">-092020.000+1512000.000</Point>
-      <Point Name="NFFN 120.9">-193300.000+1780000.000</Point>
+      <Point Name="NFFJ 120.1">-193300.000+1780000.000</Point>
       <Point Name="NFFF 123.6">-181500.000+1724500.000</Point>
-      <Point Name="NWWW 128.2">-191520.000+1653030.000</Point>
-      <Point Name="NVVV 120.7">-161700.000+1673541.000</Point>
       <Point Name="TSN 124.65">-191000.000+1580000.000</Point>
       <Point Name="ISA 125.7">-124505.018+1384036.707</Point>
       <Point Name="KEN 120.15">-133000.000+1473415.000</Point>
