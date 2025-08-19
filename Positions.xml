@@ -216,9 +216,9 @@
       </ManualVisibility>
       <Maps>
         <Map Name="ALL_CTA" />
-        <Map Name="Nadi/NFFN_COAST" />
-        <Map Name="Nadi/NFFN_TCU" />
-        <Map Name="Nadi/NFNA_RWY10" />
+        <Map Name="Nausori/NFNA_COAST" />
+        <Map Name="Nausori/NFNA_TCU" />
+        <Map Name="Nausori/NFNA_RWY10" />
       </Maps>
       <ATIS>
         <Editor Airport="NFNA" Frequency="128.5" />
@@ -238,7 +238,7 @@
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
-    <Position Name="Tontouta TCU" Type="ASD" DefaultCenter="-19.000+166.200" DefaultRange="1300" VisibilityRange="150" MagneticVariation="-12.5">
+    <Position Name="Tontouta TCU" Type="ASD" DefaultCenter="-204500.000+1664500.000" DefaultRange="1300" VisibilityRange="150" MagneticVariation="-12.5">
       <Sectors>
         <Sector Name="NWWWA" />
       </Sectors>
@@ -294,11 +294,11 @@
 		<Maps>
 		  <Map Name="ALL_CTA" />
 		  <Map Name="ALL_SECTORS" />
-		  <Map Name="ALL_NAVAIDS" />
-		  <Map Name="COAST_ALL" />
-		  <Map Name="ALL_ROUTES_HIGH" />
-		  <Map Name="ALL_POINTS_HIGH" />
+		  <Map Name="UPPER_SECTOR_FREQS" />
 		  <Map Name="FIR_BDRY" />
+		  <Map Name="Port Vila/NVVV_COAST" />
+		  <Map Name="Port Vila/NVVV_TCU" />
+		  <Map Name="Port Vila/NVVV_RWY11" />
 		</Maps>
 		<Strips Mode="State" Sort="Time">
 		  <Window Type="State" State="Jurisdiction" Visible="true" />
@@ -421,9 +421,9 @@
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
-        <Map Name="Nadi/NFFN_COAST" />
-        <Map Name="Nadi/NFFN_TCU" />
-        <Map Name="Nadi/NFNA_RWY10" />
+        <Map Name="Nausori/NFNA_COAST" />
+        <Map Name="Nausori/NFNA_TCU" />
+        <Map Name="Nausori/NFNA_RWY10" />
       </Maps>
       <ATIS>
         <Editor Airport="NFNA" Frequency="128.5" />
@@ -672,13 +672,13 @@
   </Group>
   
   
-<!--                                              -->
-<!--                                              -->
-<!--                   ASMGCS                     -->
-<!--                                              -->
-<!--                                              -->
-<!--                                              -->
-<!--                                              -->
+<!--		  		  		  		        -->
+<!--		  		  		  		        -->
+<!--		           ASMGCS		  		   -->
+<!--		  		  		  		        -->
+<!--		  		  		  		        -->
+<!--		  		  		  		        -->
+<!--		  		  		  		        -->
 
 
   <Group Name="Class C">
@@ -742,10 +742,10 @@
     </Position>
     <Position Name="NFNA" Type="ASMGCS" ASMGCSAirport="NFNA" DefaultCenter="-18.045000+178.558611" DefaultRange="2" MagneticVariation="-12.6" Rotation="-7">
     <Maps>
-      <Map Name="Nadi/ASMGCS_NFNA_RWY" />
-      <Map Name="Nadi/ASMGCS_NFNA_APR" />
-      <Map Name="Nadi/ASMGCS_NFNA_TWY" />
-      <Map Name="Nadi/ASMGCS_NFNA_BLD" />
+      <Map Name="Nausori/ASMGCS_NFNA_RWY" />
+      <Map Name="Nausori/ASMGCS_NFNA_APR" />
+      <Map Name="Nausori/ASMGCS_NFNA_TWY" />
+      <Map Name="Nausori/ASMGCS_NFNA_BLD" />
     </Maps>
     </Position>
   </Group>

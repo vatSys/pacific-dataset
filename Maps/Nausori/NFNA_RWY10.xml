@@ -118,80 +118,43 @@
       <Point>ATOLL</Point>
       <Point>SAPIR</Point>
       <Point>ISTOS</Point>
-      <Point>AGTEM</Point>
-      <Point>AGTOS</Point>
-      <Point>AGTAG</Point>
-      <Point>TARON</Point>
-      <Point>TUTRI</Point>
-      <Point>TOLUS</Point>
-      <Point>TANIL</Point>
-      <Point>TEPEK</Point>
-      <Point>TUTMU</Point>
-      <Point>KALPO</Point>
-      <Point>KABAR</Point>
-      <Point>KAMAP</Point>
       <Point>IBOKU</Point>
       <Point>IGAPI</Point>
       <Point>ANBAT</Point>
-      <Point>ISMOP</Point>
-      <Point>INTID</Point>
-      <Point>ISPAL</Point>
-      <Point>PAGTI</Point>
-      <Point>PACKO</Point>
-      <Point>BEDOK</Point>
-      <Point>BIDNA</Point>
-      <Point>BONLO</Point>
-      <Point>SAMIB</Point>
+      <Point>TAXIS</Point>
+      <Point>SUGNI</Point>
       <Point>BEGIT</Point>
       <Point>BEACH</Point>
       <Point>BUTVI</Point>
-      <Point>ANSIT</Point>
-      <Point>ALBAB</Point>
-      <Point>AGUTA</Point>
-      <Point>EMSIX</Point>
-      <Point>EXORA</Point>
-      <Point>ELDOG</Point>
       <Point>GUKIV</Point>
       <Point>GUSMA</Point>
       <Point>GUSOS</Point>
-      <Point>PIKIN</Point>
       <Point>POPAS</Point>
       <Point>PAGRA</Point>
-      <Point>VENAN</Point>
-      <Point>VIPOB</Point>
-      <Point>VIBEX</Point>
-      <Point>LEBUT</Point>
-      <Point>LUPLO</Point>
       <Point>ATOPO</Point>
       <Point>ABVAT</Point>
       <Point>AGSEK</Point>
       <Point>ANRIK</Point>
       <Point>ELARA</Point>
       <Point>IDUBO</Point>
+      <Point>NOBOX</Point>
       <Point>MATUA</Point>
       <Point>LENUM</Point>
       <Point>DIVTA</Point>
       <Point>SAVUS</Point>
       <Point>NEMAL</Point>
       <Point>DALOT</Point>
+      <Point>NOVAT</Point>
       <Point>MAKSO</Point>
       <Point>LATIT</Point>
       <Point>RUTEB</Point>
       <Point>TOMIK</Point>
-      <Point>PAGBO</Point>
-      <Point>PUNIX</Point>
-      <Point>ALEBO</Point>
       <Point>MABTU</Point>
       <Point>LUNKI</Point>
       <Point>KOROI</Point>
       <Point>LINPA</Point>
-      <Point>NINIK</Point>
-      <Point>RUMAB</Point>
       <Point>SUSUI</Point>
       <Point>NFVB</Point>
-      <Point>PAKDA</Point>
-      <Point>GILUM</Point>
-      <Point>GODAP</Point>
     </Label>
   </Map>
 </Maps>
