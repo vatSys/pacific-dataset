@@ -4399,6 +4399,7 @@ DIL VOR
       <Runway Name="24" Position="-092528.268+1600349.529" />
     </Airport>
     <Airport ICAO="AGGI" FullName="Babanakira" Position="-094447.807+1595022.448" Elevation="70" />
+    <Airport ICAO="AGGJ" FullName="Avu Avu" Position="-095211.399+1602440.799" />
     <Airport ICAO="AGGK" FullName="Kirakira" Position="-102630.000+1615348.000" Elevation="8">
       <Runway Name="10" Position="-102650.921+1615336.600" />
       <Runway Name="28" Position="-102705.659+1615413.500" />
@@ -4448,15 +4449,19 @@ DIL VOR
       <Runway Name="12" Position="-090534.210+1591306.881" />
       <Runway Name="30" Position="-090552.850+1591330.878" />
     </Airport>
+    <Airport ICAO="AGIN" FullName="Isuna Heliport" Position="-094820.912+1595745.792" />
     <Airport ICAO="AGKG" FullName="Kaghau" Position="-071954.000+1573512.000" Elevation="10">
       <Runway Name="14" Position="-071936.559+1573458.609" />
       <Runway Name="32" Position="-071959.092+1573511.130" />
     </Airport>
     <Airport ICAO="AGKU" FullName="Kukudu" Position="-080136.674+1565653.912" Elevation="20" />
+    <Airport ICAO="AGKW" FullName="Kwailibesi Pvt" Position="-082137.570+1604628.952" />
     <Airport ICAO="AGLM" FullName="Lomlom" Position="-101748.599+1661938.521" Elevation="6">
       <Runway Name="10" Position="-101727.229+1661910.711" />
       <Runway Name="28" Position="-101738.209+1661941.689" />
     </Airport>
+    <Airport ICAO="AGMU" FullName="Malu'u Heliport" Position="-082057.000+1603743.993" />
+    <Airport ICAO="AGNA" FullName="Naana" Position="-104033.280+1621217.582" />
     <Airport ICAO="AGOB" FullName="Manaoba" Position="-081916.799+1604745.000" Elevation="14">
       <Runway Name="12" Position="-081927.458+1604758.200" />
       <Runway Name="30" Position="-081944.108+1604819.840" />
@@ -4464,6 +4469,8 @@ DIL VOR
     <Airport ICAO="AGOK" FullName="Gatokae Pvt" Position="-084418.413+1581208.906" Elevation="29" />
     <Airport ICAO="AGRC" FullName="Ringicove Pvt" Position="-080730.414+1570835.358" Elevation="26" />
     <Airport ICAO="AGRM" FullName="Ramata Pvt" Position="-081006.366+1573834.062" Elevation="50" />
+    <Airport ICAO="AGTI" FullName="Tulaghi Heliport" Position="-090628.771+1600856.976" />
+    <Airport ICAO="AGVH" FullName="Viru Harbour" Position="-083027.238+1574118.676" />
     <Airport ICAO="ANYN" FullName="Nauru Intl" Position="-003240.920+1665501.679" Elevation="25">
       <Runway Name="12" Position="-003229.558+1665443.718" />
       <Runway Name="30" Position="-003311.048+1665532.459" />
@@ -4526,12 +4533,16 @@ DIL VOR
     <Airport ICAO="AYBY" FullName="Wuyabo" Position="-065021.840+1455223.160" />
     <Airport ICAO="AYBZ" FullName="Biniguni" Position="-093833.720+1491810.080" />
     <Airport ICAO="AYCB" FullName="Chungribu" Position="-044816.920+1444254.720" />
+    <Airport ICAO="AYCE" FullName="Mt Sinewit" Position="-044058.696+1515648.052" />
     <Airport ICAO="AYCG" FullName="Cape Gloucester" Position="-052723.400+1482509.480" />
     <Airport ICAO="AYCH" FullName="Chimbu" Position="-060127.000+1445812.000" Elevation="5000">
       <Runway Name="03" Position="-060138.359+1445805.858" />
       <Runway Name="21" Position="-060112.770+1445823.812" />
     </Airport>
+    <Airport ICAO="AYCK" FullName="Mt Penck" Position="-053120.003+1493854.564" />
+    <Airport ICAO="AYCL" FullName="Cape Lemeris" Position="-031459.600+1520128.780" />
     <Airport ICAO="AYCN" FullName="Changriwa" Position="-041948.000+1434417.880" />
+    <Airport ICAO="AYCR" FullName="Mt Scratchley" Position="-084354.354+1472617.596" />
     <Airport ICAO="AYCS" FullName="China Strait" Position="-103354.000+1504126.880" />
     <Airport ICAO="AYDA" FullName="Dahamo" Position="-054510.080+1415938.400" />
     <Airport ICAO="AYDB" FullName="Debepari" Position="-061825.560+1415412.240" />
@@ -4551,7 +4562,9 @@ DIL VOR
       <Runway Name="14" Position="-090456.798+1431211.750" />
       <Runway Name="32" Position="-090528.979+1431244.269" />
     </Airport>
+    <Airport ICAO="AYDV" FullName="Mt Andewa" Position="-053236.946+1485847.273" />
     <Airport ICAO="AYDW" FullName="Dewara" Position="-082259.520+1422700.720" />
+    <Airport ICAO="AYDX" FullName="Mt Doigo" Position="-095333.734+1480542.778" />
     <Airport ICAO="AYDY" FullName="Sindeni" Position="-070024.120+1454740.200" />
     <Airport ICAO="AYEA" FullName="Kerau" Position="-081611.280+1470413.800" />
     <Airport ICAO="AYEB" FullName="Embessa" Position="-092658.200+1484547.880" />
@@ -4573,12 +4586,14 @@ DIL VOR
     <Airport ICAO="AYEU" FullName="Elouaua" Position="-013333.120+1493754.480" />
     <Airport ICAO="AYEV" FullName="Erave" Position="-063621.600+1435401.080" />
     <Airport ICAO="AYEW" FullName="Siwea" Position="-061701.680+1473457.720" />
+    <Airport ICAO="AYEX" FullName="Mt Albert Edward" Position="-082443.744+1472412.568" />
     <Airport ICAO="AYEY" FullName="Mirsey" Position="-040333.480+1423942.480" />
     <Airport ICAO="AYEZ" FullName="Moropote" Position="-043508.880+1422009.960" />
     <Airport ICAO="AYFA" FullName="Fane" Position="-083252.800+1470510.680" />
     <Airport ICAO="AYFF" FullName="Faia" Position="-070935.760+1433151.460" />
     <Airport ICAO="AYFI" FullName="Finschhaffen" Position="-063652.920+1475114.400" />
     <Airport ICAO="AYFK" FullName="Foroko" Position="-051942.600+1445339.120" />
+    <Airport ICAO="AYFL" FullName="Mt Fala" Position="-085722.025+1474240.108" />
     <Airport ICAO="AYFM" FullName="Feranmin" Position="-051228.800+1414155.680" />
     <Airport ICAO="AYFO" FullName="Fogomaio" Position="-063038.520+1430449.800" />
     <Airport ICAO="AYFR" FullName="Freida River" Position="-043629.520+1415738.880" />
@@ -4639,15 +4654,19 @@ DIL VOR
     <Airport ICAO="AYHN" FullName="Habina" Position="-063952.200+1460002.520" />
     <Airport ICAO="AYHO" FullName="Haiwaro" Position="-065624.720+1430337.080" />
     <Airport ICAO="AYHQ" FullName="Hauna" Position="-041752.080+1421351.240" />
+    <Airport ICAO="AYHS" FullName="Mt Shungol" Position="-065148.197+1464256.264" />
     <Airport ICAO="AYHT" FullName="Hotmin" Position="-043443.320+1413333.120" />
     <Airport ICAO="AYHU" FullName="Hauwabaga" Position="-072334.800+1460004.680" />
     <Airport ICAO="AYHW" FullName="Haewenai" Position="-054318.480+1411913.080" />
     <Airport ICAO="AYHX" FullName="Herowana" Position="-063912.960+1451150.280" />
     <Airport ICAO="AYHY" FullName="Huya" Position="-061618.480+1424224.120" />
+    <Airport ICAO="AYHZ" FullName="Tahu" Position="-092950.892+1475441.299" />
     <Airport ICAO="AYIA" FullName="Nissan" Position="-042946.680+1541330.000" />
     <Airport ICAO="AYIB" FullName="Ibil" Position="-044102.040+1410150.880" />
+    <Airport ICAO="AYIC" FullName="Mt Ialibu" Position="-061406.713+1440442.427" />
     <Airport ICAO="AYID" FullName="Indagen" Position="-061335.760+1471446.680" />
     <Airport ICAO="AYIF" FullName="Kilifas" Position="-031253.280+1412151.120" />
+    <Airport ICAO="AYIG" FullName="Gumini" Position="-101910.740+1500658.928" />
     <Airport ICAO="AYIH" FullName="Ihu" Position="-075401.800+1452400.720" />
     <Airport ICAO="AYII" FullName="Imani" Position="-064506.480+1460632.400" />
     <Airport ICAO="AYIJ" FullName="Iaura" Position="-094659.880+1480600.000" />
@@ -4662,13 +4681,21 @@ DIL VOR
     <Airport ICAO="AYIS" FullName="Isan" Position="-055846.560+1463712.720" />
     <Airport ICAO="AYIT" FullName="Iteri" Position="-041431.200+1413126.400" />
     <Airport ICAO="AYIU" FullName="Ialibu" Position="-061645.480+1435948.120" />
+    <Airport ICAO="AYIV" FullName="Iagifu 5" Position="-062634.912+1431257.190" />
     <Airport ICAO="AYIW" FullName="Wasua" Position="-081702.400+1425208.400" />
     <Airport ICAO="AYIX" FullName="Witu" Position="-044115.720+1492609.600" />
     <Airport ICAO="AYIY" FullName="Miyanmin" Position="-045414.400+1413723.520" />
+    <Airport ICAO="AYIZ" FullName="Iora" Position="-085515.000+1474600.000" />
+    <Airport ICAO="AYJA" FullName="Takis" Position="-041228.534+1513009.893" />
     <Airport ICAO="AYJB" FullName="Jacquinot Bay" Position="-053923.400+1513027.000" />
     <Airport ICAO="AYJE" FullName="Yomneri" Position="-051416.080+1443603.600" />
+    <Airport ICAO="AYJK" FullName="Mt Kegam" Position="-054147.731+1440634.765" />
     <Airport ICAO="AYJL" FullName="Junkaral" Position="-052512.720+1450041.760" />
+    <Airport ICAO="AYJM" FullName="Samarai" Position="-103641.933+1503946.818" />
+    <Airport ICAO="AYJN" FullName="Mt Kaijende" Position="-052824.967+1431148.415" />
     <Airport ICAO="AYJO" FullName="Yongai" Position="-083140.800+1472741.400" />
+    <Airport ICAO="AYJQ" FullName="Sauwo" Position="-084437.100+1471616.104" />
+    <Airport ICAO="AYJR" FullName="Roguia" Position="-091206.264+1473313.450" />
     <Airport ICAO="AYJS" FullName="Josephstaal" Position="-044457.480+1450019.080" />
     <Airport ICAO="AYJW" FullName="Wauru" Position="-041052.320+1411152.080" />
     <Airport ICAO="AYKA" FullName="Kiriwina" Position="-083022.079+1510452.860" Elevation="27">
@@ -4714,6 +4741,7 @@ DIL VOR
     <Airport ICAO="AYKZ" FullName="Kairiru" Position="-032118.000+1433217.880" />
     <Airport ICAO="AYLB" FullName="Lab Lab" Position="-054323.880+1480335.280" />
     <Airport ICAO="AYLC" FullName="Lake Campbell" Position="-064452.800+1423618.000" />
+    <Airport ICAO="AYLD" FullName="Kohai Lodge" Position="-020207.584+1471716.192" />
     <Airport ICAO="AYLF" FullName="Lumusa" Position="-053141.880+1440356.520" />
     <Airport ICAO="AYLG" FullName="Kegesugl" Position="-055002.400+1450557.120" />
     <Airport ICAO="AYLH" FullName="Klauhau" Position="-040731.800+1421433.720" />
@@ -4728,6 +4756,7 @@ DIL VOR
     <Airport ICAO="AYLS" FullName="Lese" Position="-081644.400+1461631.800" />
     <Airport ICAO="AYLT" FullName="Lengbati" Position="-062301.680+1472211.280" />
     <Airport ICAO="AYLU" FullName="Lumi" Position="-032834.680+1420235.880" />
+    <Airport ICAO="AYLV" FullName="Laweni" Position="-085734.812+1475206.856" />
     <Airport ICAO="AYLW" FullName="Lewada" Position="-082019.320+1424700.240" />
     <Airport ICAO="AYLX" FullName="Long Island" Position="-052134.200+1470108.400" />
     <Airport ICAO="AYLY" FullName="Myola" Position="-090901.800+1474548.600" />
@@ -4847,6 +4876,7 @@ DIL VOR
     <Airport ICAO="AYPQ" FullName="Pumani" Position="-094456.400+1492831.800" />
     <Airport ICAO="AYPR" FullName="Purari" Position="-072320.040+1450948.600" />
     <Airport ICAO="AYPS" FullName="Maposi" Position="-043250.280+1421314.520" />
+    <Airport ICAO="AYPT" FullName="Mt Kumbipota" Position="-052719.688+1430350.573" />
     <Airport ICAO="AYPW" FullName="Panakawa" Position="-074025.320+1430713.800" />
     <Airport ICAO="AYPX" FullName="Pukapuki" Position="-043214.280+1423104.800" />
     <Airport ICAO="AYPY" FullName="Jacksons" Position="-092625.000+1471307.000" Elevation="129">
@@ -4857,17 +4887,22 @@ DIL VOR
     </Airport>
     <Airport ICAO="AYQA" FullName="Karawari" Position="-043544.880+1433115.600" />
     <Airport ICAO="AYQB" FullName="Simbari" Position="-065745.000+1453845.600" />
+    <Airport ICAO="AYQE" FullName="Mt Kerewa" Position="-060308.129+1430919.177" />
+    <Airport ICAO="AYQF" FullName="Pad 41" Position="-062504.656+1431321.698" />
     <Airport ICAO="AYQK" FullName="Kumul Oil Rig" Position="-080352.070+1443338.520" />
     <Airport ICAO="AYQL" FullName="Tumolbil" Position="-044632.160+1410050.400" />
     <Airport ICAO="AYQM" FullName="Simogu" Position="-064810.440+1454251.480" />
+    <Airport ICAO="AYQN" FullName="Nob Nob" Position="-050823.604+1454631.620" />
     <Airport ICAO="AYQO" FullName="Sopu" Position="-081815.120+1470958.320" />
     <Airport ICAO="AYQP" FullName="Sipump" Position="-053018.720+1442722.320" />
     <Airport ICAO="AYQQ" FullName="Ononge" Position="-084026.400+1471545.720" />
     <Airport ICAO="AYQR" FullName="Sorimi" Position="-041933.240+1412236.120" />
     <Airport ICAO="AYQS" FullName="Sialum" Position="-060528.320+1473549.920" />
+    <Airport ICAO="AYQT" FullName="Northson" Position="-045659.968+1512222.015" />
     <Airport ICAO="AYQU" FullName="Tsumba" Position="-043937.080+1443628.800" />
     <Airport ICAO="AYQV" FullName="Sinow" Position="-035923.640+1413309.000" />
     <Airport ICAO="AYQW" FullName="Sumwari" Position="-044503.600+1422207.320" />
+    <Airport ICAO="AYQX" FullName="Oreba" Position="-073508.286+1464226.186" />
     <Airport ICAO="AYRA" FullName="Kira" Position="-080353.280+1472003.120" />
     <Airport ICAO="AYRE" FullName="Raba Raba" Position="-095822.800+1495002.400" />
     <Airport ICAO="AYRF" FullName="Arufi" Position="-084521.600+1415443.200" />
@@ -4881,10 +4916,12 @@ DIL VOR
     <Airport ICAO="AYRO" FullName="Kakoro" Position="-075007.800+1463159.520" />
     <Airport ICAO="AYRQ" FullName="Rum" Position="-052248.720+1435953.520" />
     <Airport ICAO="AYRR" FullName="Tiri" Position="-064052.680+1441054.120" />
+    <Airport ICAO="AYRS" FullName="Mt Robinson" Position="-051420.490+1411103.102" />
     <Airport ICAO="AYRT" FullName="Kirinbit" Position="-041657.000+1430901.800" />
     <Airport ICAO="AYRU" FullName="Noru" Position="-063557.120+1443843.800" />
     <Airport ICAO="AYRV" FullName="May River" Position="-042136.000+1414713.920" />
     <Airport ICAO="AYRW" FullName="Kiriwo" Position="-082615.360+1413056.520" />
+    <Airport ICAO="AYRY" FullName="Mt Borogolo" Position="-095005.000+1473650.000" />
     <Airport ICAO="AYSA" FullName="Suabi" Position="-060613.680+1421633.600" />
     <Airport ICAO="AYSC" FullName="Samban" Position="-042147.520+1440346.440" />
     <Airport ICAO="AYSE" FullName="Simberi Island" Position="-023927.000+1515932.280" />
@@ -4949,6 +4986,7 @@ DIL VOR
     <Airport ICAO="AYUA" FullName="Utai" Position="-032317.880+1413506.000" />
     <Airport ICAO="AYUB" FullName="Gubil" Position="-045251.240+1413135.760" />
     <Airport ICAO="AYUC" FullName="Umba" Position="-070119.200+1455759.400" />
+    <Airport ICAO="AYUD" FullName="Kais-Udave" Position="-084655.650+1471643.054" />
     <Airport ICAO="AYUE" FullName="Uroubi" Position="-093055.800+1483342.480" />
     <Airport ICAO="AYUG" FullName="Brugam" Position="-033819.680+1425008.520" />
     <Airport ICAO="AYUI" FullName="Buin" Position="-064359.880+1554059.880" />
@@ -4972,6 +5010,7 @@ DIL VOR
     <Airport ICAO="AYVA" FullName="Vailala" Position="-074620.280+1452006.000" />
     <Airport ICAO="AYVB" FullName="Tobou" Position="-062409.000+1472521.720" />
     <Airport ICAO="AYVK" FullName="Wokien" Position="-034615.600+1415845.120" />
+    <Airport ICAO="AYVL" FullName="Talasea" Position="-051702.170+1495953.509" />
     <Airport ICAO="AYVM" FullName="Torembi" Position="-040042.480+1430812.480" />
     <Airport ICAO="AYVN" FullName="Vanimo" Position="-024135.000+1411814.000" Elevation="19">
       <Runway Name="12" Position="-024116.822+1411750.579" />
@@ -4979,8 +5018,10 @@ DIL VOR
     </Airport>
     <Airport ICAO="AYVO" FullName="Tonu" Position="-063917.813+1552559.153" />
     <Airport ICAO="AYVP" FullName="Woposali" Position="-063929.520+1441738.040" />
+    <Airport ICAO="AYVU" FullName="Murua" Position="-075540.728+1455052.462" />
     <Airport ICAO="AYVV" FullName="Vivigani" Position="-091823.000+1501912.000" />
     <Airport ICAO="AYVW" FullName="Wuvulu" Position="-014413.920+1425012.480" />
+    <Airport ICAO="AYVX" FullName="Toma" Position="-042301.453+1521143.112" />
     <Airport ICAO="AYVY" FullName="Yembi Yembi" Position="-042819.200+1430854.240" />
     <Airport ICAO="AYWA" FullName="Asinuwa" Position="-070141.520+1454610.920" />
     <Airport ICAO="AYWB" FullName="Wabo" Position="-065917.880+1450424.960" />
@@ -5020,6 +5061,7 @@ DIL VOR
     <Airport ICAO="AYXG" FullName="Sugu" Position="-062317.880+1433318.000" />
     <Airport ICAO="AYXH" FullName="Yehebi" Position="-062337.680+1421608.040" />
     <Airport ICAO="AYXI" FullName="Sim" Position="-074452.800+1465538.280" />
+    <Airport ICAO="AYXK" FullName="Mt Kaimunga" Position="-054302.514+1442722.068" />
     <Airport ICAO="AYXM" FullName="Komo" Position="-060348.150+1425236.502" Elevation="5223">
       <Runway Name="16" Position="-060257.412+1425224.780" />
       <Runway Name="34" Position="-060355.400+1425238.179" />
@@ -5028,6 +5070,7 @@ DIL VOR
     <Airport ICAO="AYXP" FullName="Wipim" Position="-084713.920+1425251.600" />
     <Airport ICAO="AYXS" FullName="Sisamin" Position="-050809.960+1421743.800" />
     <Airport ICAO="AYXT" FullName="Watape" Position="-031734.800+1411728.320" />
+    <Airport ICAO="AYXU" FullName="Mt Takamunda" Position="-053732.912+1435359.626" />
     <Airport ICAO="AYXW" FullName="Weam" Position="-083703.360+1410819.320" />
     <Airport ICAO="AYXY" FullName="Yebil" Position="-032744.280+1415715.480" />
     <Airport ICAO="AYYA" FullName="Yabru" Position="-035811.280+1411110.320" />
@@ -5047,19 +5090,23 @@ DIL VOR
     <Airport ICAO="AYYP" FullName="Yapsie" Position="-043743.680+1410544.520" />
     <Airport ICAO="AYYQ" FullName="Yagrombok" Position="-033511.400+1423734.680" />
     <Airport ICAO="AYYR" FullName="Yasuru" Position="-063606.480+1461111.400" />
+    <Airport ICAO="AYYS" FullName="Musa" Position="-092921.642+1483735.036" />
     <Airport ICAO="AYYT" FullName="Mt Tawa" Position="-064349.440+1441819.440" />
     <Airport ICAO="AYYU" FullName="Mui" Position="-044736.960+1441854.000" />
     <Airport ICAO="AYYV" FullName="Yawa" Position="-040603.600+1420811.400" />
     <Airport ICAO="AYYW" FullName="Yawan" Position="-060806.720+1465040.920" />
     <Airport ICAO="AYYX" FullName="Yalum" Position="-051613.440+1431658.440" />
+    <Airport ICAO="AYYY" FullName="Mt Yule" Position="-081247.909+1464706.727" />
     <Airport ICAO="AYYZ" FullName="Yambaitok" Position="-045943.800+1435739.240" />
     <Airport ICAO="AYZA" FullName="Zenang" Position="-065655.320+1463645.720" />
     <Airport ICAO="AYZB" FullName="Sibilanga" Position="-032647.760+1423005.760" />
+    <Airport ICAO="AYZH" FullName="Tunnel Hill" Position="-041130.858+1520854.859" />
     <Airport ICAO="AYZI" FullName="Silur" Position="-043142.600+1530311.520" />
     <Airport ICAO="AYZM" FullName="Wasum" Position="-060300.000+1492026.880" />
     <Airport ICAO="AYZN" FullName="Sissano" Position="-025955.320+1420230.480" />
     <Airport ICAO="AYZQ" FullName="Sopise" Position="-064722.200+1440938.520" />
     <Airport ICAO="AYZS" FullName="Ossima" Position="-025500.480+1411755.680" />
+    <Airport ICAO="AYZT" FullName="Mt Strong" Position="-075809.026+1465648.761" />
     <Airport ICAO="AYZU" FullName="Oum" Position="-041558.680+1420744.400" />
     <Airport ICAO="AYZW" FullName="Siawi" Position="-040339.600+1412511.280" />
     <Airport ICAO="AYZY" FullName="Yilui" Position="-035546.200+1421217.280" />
@@ -5069,6 +5116,7 @@ DIL VOR
       <Runway Name="17" Position="-174421.930-1792030.080" />
       <Runway Name="35" Position="-174451.490-1792032.392" />
     </Airport>
+    <Airport ICAO="NFCN" FullName="Club Naitasi" Position="-174439.649+1770848.804" />
     <Airport ICAO="NFCS" FullName="Castaway Island" Position="-174400.390+1770736.296" />
     <Airport ICAO="NFFN" FullName="Nadi Intl" Position="-174523.000+1772637.000" Elevation="59">
       <Runway Name="02" Position="-174622.120+1772544.789" />
@@ -5135,6 +5183,7 @@ DIL VOR
       <Runway Name="14" Position="-164759.629+1792020.620" />
       <Runway Name="32" Position="-164823.551+1792031.549" />
     </Airport>
+    <Airport ICAO="NFNT" FullName="Newtown Beach" Position="-174537.847+1772548.234" />
     <Airport ICAO="NFNW" FullName="Wakaya" Position="-173743.000+1790036.000" Elevation="130">
       <Runway Name="10" Position="-173738.820+1790024.059" />
       <Runway Name="28" Position="-173749.912+1790045.922" />
