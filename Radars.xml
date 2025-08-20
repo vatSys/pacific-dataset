@@ -88,6 +88,10 @@
     <Lat>-20.7759765293339</Lat>
     <Long>167.238820528073</Long>
   </Radar>
+  <Radar Name="ILE ART WAALA" Type="ADSB" Elevation="305" MaxRange="250">
+    <Lat>-19.728350</Lat>
+    <Long>163.664366</Long>
+  </Radar>
   <Radar Name="Bucholz" Type="PRI" Elevation="30" MaxRange="150">
     <Lat>8.71806111111111</Lat>
     <Long>167.733210833333</Long>
