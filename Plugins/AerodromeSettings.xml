@@ -88,4 +88,5 @@
            <Position>Tokua Tower</Position>
         </AutoOpen>
     </AutoOpens>
+<InhibitVersionCheck>true</InhibitVersionCheck>
 </AerodromeSettings>
