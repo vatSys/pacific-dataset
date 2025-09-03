@@ -10,54 +10,83 @@
       <Threshold Name="17R" Position="-06.075386+145.390650" />
       <Threshold Name="35L" Position="-06.092442+145.392156" />
     </Runway>
+    <!--Airway Routes-->
+    <Line>
+      <!--H409-->
+      OKT NDB/
+      PAPTI/
+      IKERU/
+      YABAL
+    </Line>
+    <Line>
+      <!--H409-->
+      MUKIK/
+      NZ VOR
+    </Line>
+    <Line>
+      <!--H537-->
+      EPKED/
+      ANULO
+    </Line>
+    <Line>
+      <!--H665-->
+      SAKTO/
+      MAIPA/
+      OMBOG
+    </Line>
+    <Line>
+      <!--H665-->
+      MAYUI/
+      DOTUB
+    </Line>
   </Map>
   <Map Type="System2" Name="AYGA_VFR" Priority="1" Center="-06.082600+145.391283">
     <Symbol Type="HollowSquare">
       <Point>ASN</Point>
       <Point>BUG</Point>
-	  <Point>SGY</Point>
-	  <Point>DWG</Point>
-	  <Point>BNG</Point>
-	  <Point>KBF</Point>
-	  <Point>GG</Point>
-	  <Point>ASG</Point>
-	  <Point>DLO</Point>
-	  <Point>WTAN</Point>
-	  <Point>KKW</Point>
-	  <Point>ASS</Point>
-	  <Point>HEN</Point>
+      <Point>SGY</Point>
+      <Point>DWG</Point>
+      <Point>BNG</Point>
+      <Point>KBF</Point>
+      <Point>GG</Point>
+      <Point>ASG</Point>
+      <Point>DLO</Point>
+      <Point>WTAN</Point>
+      <Point>KKW</Point>
+      <Point>ASS</Point>
+      <Point>HEN</Point>
     </Symbol>
     <Label HasLeader="True">
       <Point>ASN</Point>
       <Point>BUG</Point>
-	  <Point>SGY</Point>
-	  <Point>DWG</Point>
-	  <Point>BNG</Point>
-	  <Point>KBF</Point>
-	  <Point>GG</Point>
-	  <Point>ASG</Point>
-	  <Point>DLO</Point>
-	  <Point>WTAN</Point>
-	  <Point>KKW</Point>
-	  <Point>ASS</Point>
-	  <Point>HEN</Point>
+      <Point>SGY</Point>
+      <Point>DWG</Point>
+      <Point>BNG</Point>
+      <Point>KBF</Point>
+      <Point>GG</Point>
+      <Point>ASG</Point>
+      <Point>DLO</Point>
+      <Point>WTAN</Point>
+      <Point>KKW</Point>
+      <Point>ASS</Point>
+      <Point>HEN</Point>
     </Label>
   </Map>
   <Map Type="System2" Name="AYGA_VFR_FULL_NAME" Priority="1" Center="-06.082600+145.391283">
     <Label HasLeader="True" LabelOrientation="SW">
       <Point Name="ASARO NORTH GAP">ASN</Point>
       <Point Name="BUNDI GAP">BUG</Point>
-	  <Point Name="SHAGGY RIDGE GAP">SGY</Point>
-	  <Point Name="DIRTY WATER GAP">DWG</Point>
-	  <Point Name="BENA GAP">BNG</Point>
-	  <Point Name="KABIUFA">KBF</Point>
-	  <Point Name="GOROKA GAP">GG</Point>
-	  <Point Name="ASALOKA GAP">ASG</Point>
-	  <Point Name="DAULO PASS GAP">DLO</Point>
-	  <Point Name="WATABUNG GAP">WTAN</Point>
-	  <Point Name="KAWKAW GAP">KKW</Point>
-	  <Point Name="ASARO SOUTH GAP">ASS</Point>
-	  <Point Name="HENGANOFI">HEN</Point>
+      <Point Name="SHAGGY RIDGE GAP">SGY</Point>
+      <Point Name="DIRTY WATER GAP">DWG</Point>
+      <Point Name="BENA GAP">BNG</Point>
+      <Point Name="KABIUFA">KBF</Point>
+      <Point Name="GOROKA GAP">GG</Point>
+      <Point Name="ASALOKA GAP">ASG</Point>
+      <Point Name="DAULO PASS GAP">DLO</Point>
+      <Point Name="WATABUNG GAP">WTAN</Point>
+      <Point Name="KAWKAW GAP">KKW</Point>
+      <Point Name="ASARO SOUTH GAP">ASS</Point>
+      <Point Name="HENGANOFI">HEN</Point>
     </Label>
   </Map>
   <Map Type="System" Name="AYGA_ALLRWYS" Priority="2" Center="-06.082600+145.391283">

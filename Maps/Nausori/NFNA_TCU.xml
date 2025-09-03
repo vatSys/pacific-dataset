@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="NFNA_TCU" Priority="1" Center="-18.044608+178.559547">
+    <!--NFNA-->
+    <Runway Name="10/28">
+      <Threshold Name="10" Position="-18.040892+178.551967" />
+      <Threshold Name="28" Position="-18.047272+178.571136" />
+    </Runway>
+    <!--Airway Routes-->
+    <Line>
+      <!--A580-->
+      IBOKU/
+      ISTOS/
+      IGAPI
+    </Line>
+    <Line>
+      <!--A580-->
+      ATOLL/
+      ANBAT
+    </Line>
+    <Line>
+      <!--B598-->
+      TAXIS/
+      SUGNI/
+      SAPIR
+    </Line>
+    <Line>
+      <!--B598-->
+      NN VOR/
+      BEGIT/
+      BEACH/
+      BUTVI
+    </Line>
+    <Line>
+      <!--G223-->
+      GUKIV/
+      GUSMA/
+      GUSOS/
+      NN VOR
+    </Line>
+    <Line>
+      <!--G223-->
+      POPAS/
+      PAGRA
+    </Line>
+    <Line>
+      <!--G593-->
+      ATOPO/
+      ABVAT/
+      AGSEK/
+      ANRIK
+    </Line>
+    <Line>
+      <!--G593-->
+      POPAS/
+      PAGRA
+    </Line>
+    <Line>
+      <!--H154-->
+      ELARA/
+      IDUBO
+    </Line>
+    <Line>
+      <!--H271-->
+      VK NDB/
+      NOBOX
+    </Line>
+    <Line>
+      <!--Q154-->
+      MATUA/
+      LENUM/
+      ELARA/
+      IDUBO
+    </Line>
+    <Line>
+      <!--Q170-->
+      DIVTA/
+      SAVUS/
+      NFNS
+    </Line>
+    <Line>
+      <!--Q192-->
+      NEMAL/
+      DALOT
+    </Line>
+    <Line>
+      <!--Q271-->
+      VK NDB/
+      NOVAT
+    </Line>
+    <Line>
+      <!--Q31-->
+      MAKSO/
+      LATIT/
+      GUSMA
+    </Line>
+    <Line>
+      <!--Q310-->
+      RUTEB/
+      TOMIK
+    </Line>
+    <Line>
+      <!--Q35-->
+      MABTU/
+      LUNKI/
+      AGSEK
+    </Line>
+    <Line>
+      <!--Q420-->
+      KOROI/
+      LINPA
+    </Line>
+    <Line>
+      <!--Q580-->
+      SUSUI/
+      NFVB
+    </Line>
+  </Map>
+  <Map Type="System" Name="NFNA_ALLRWYS" Priority="2" Center="-18.044608+178.559547">
+    <!--NFNA-->
+    <Runway Name="10/28">
+      <Threshold Name="10" Position="-18.040892+178.551967" ExtendedCentrelineTrack="288.6" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="28" Position="-18.047272+178.571136" ExtendedCentrelineTrack="108.6" ExtendedCentrelineLength="15" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+  </Map>
+   <Map Type="System2" Name="NFNA_VFR" Priority="1" Center="-22.014444+166.213056">
+    <Symbol Type="HollowSquare">
+		<Point>-181114.000+1773209.000</Point> <!-- ABM Korotogo -->
+		<Point>-174343.000+1772524.000</Point> <!-- ABM Labone Island -->
+		<Point>-174137.000+1772433.000</Point> <!-- ABM Viseisei Village -->
+		<Point>-174110.000+1772317.000</Point> <!-- ABM Vuda Marina -->
+		<Point>-175821.000+1783657.000</Point> <!-- Bau Island -->
+		<Point>-174704.000+1790919.000</Point> <!-- Batiki Island -->
+		<Point>-173916.000+1771518.000</Point> <!-- Beachcomber -->
+		<Point>-173527.000+1772624.000</Point> <!-- Bekana Island -->
+		<Point>-180605.000+1782322.000</Point> <!-- Cement Factory -->
+		<Point>-180011.000-1784128.000</Point> <!-- Dromuna -->
+		<Point>-163657.000+1784110.000</Point> <!-- Galoa -->
+		<Point>-174218.000+1773514.000</Point> <!-- Gap -->
+		<Point>-180656.000+1792023.000</Point> <!-- Gau -->
+		<Point>-174906.000+1773636.000</Point> <!-- Highland -->
+		<Point>-174000.000+1771822.000</Point> <!-- Kadavulailai Island -->
+		<Point>-172045.000+1792519.000</Point> <!-- Koro -->
+		<Point>-181250.000+1774345.000</Point> <!-- Korolevu Bay -->
+		<Point>-174230.000+1772525.000</Point> <!-- Lomolomo -->
+		<Point>-172751.000+1785752.000</Point> <!-- Makogai -->
+		<Point>-174641.000+1771148.000</Point> <!-- Malolo -->
+		<Point>-174521.000+1780300.000</Point> <!-- Monasavu Dam -->
+		<Point>-175215.000+1771615.000</Point> <!-- Nabila -->
+		<Point>-165943.000+1784119.000</Point> <!-- Nabouwalu -->
+		<Point>-174600.000+1772300.000</Point> <!-- Nadi River Mouth -->
+		<Point>-162632.000+1790843.000</Point> <!-- Naduri -->
+		<Point>-173443.000+1784032.000</Point> <!-- Naigani -->
+		<Point>-170055.000-1791645.000</Point> <!-- Naitauba -->
+		<Point>-170640.000+1790554.000</Point> <!-- Namenalala -->
+		<Point>-180229.000+1780752.000</Point> <!-- Namosi -->
+		<Point>-175715.000+1782258.000</Point> <!-- Naqali -->
+		<Point>-180802.000+1784118.000</Point> <!-- Nasilai Lighthouse -->
+		<Point>-165602.000+1790105.000</Point> <!-- Nasonisoni -->
+		<Point>-180900.000+1782657.000</Point> <!-- National Stadium -->
+		<Point>-181550.000+1780709.000</Point> <!-- Navua River Mouth -->
+		<Point>-164837.000+1793400.000</Point> <!-- Naweni Point -->
+		<Point>-175901.000-1790320.000</Point> <!-- Nayau -->
+		<Point>-175353.000+1775148.000</Point> <!-- Nukuilau Village -->
+		<Point>-162829.000+1794238.000</Point> <!-- Saqani -->
+		<Point>-183759.000+1783159.000</Point> <!-- Solo Lighthouse -->
+		<Point>-170737.000+1771327.000</Point> <!-- Soso -->
+		<Point>-170039.000+1795527.000</Point> <!-- South Cape -->
+		<Point>-173840.000+1783457.000</Point> <!-- Tailevu Point -->
+		<Point>-174409.000+1772709.000</Point> <!-- The Bridge -->
+		<Point>-173649.000+1772051.000</Point> <!-- Tivua Island -->
+		<Point>-174026.000-1784907.000</Point> <!-- Tuvuca -->
+		<Point>-160730.000-1795700.000</Point> <!-- Udu Point -->
+		<Point>-182215.000-1791614.000</Point> <!-- Vanuavatu -->
+		<Point>-172228.000+1774915.000</Point> <!-- Vatia Point -->
+		<Point>-164548.000+1795537.000</Point> <!-- Vatudamu Point -->
+		<Point>-183044.000+1773819.000</Point> <!-- Vatulele -->
+		<Point>-175101.000+1783730.000</Point> <!-- Verata -->
+		<Point>-172718.000+1781444.000</Point> <!-- Vitilevu Bay -->
+		<Point>-173531.000+1772944.000</Point> <!-- Vitogo -->
+		<Point>-175630.000+1783659.000</Point> <!-- Viwa -->
+		<Point>-175701.000+1772920.000</Point> <!-- Vunamoli -->
+		<Point>-174944.000+1781627.000</Point> <!-- Vunidawa -->
+		<Point>-173656.000+1790011.000</Point> <!-- Wakaya -->
+		<Point>-172233.000+1771431.000</Point> <!-- White Rock -->
+		<Point>-164900.000+1781815.000</Point> <!-- Yadua Island -->
+		<Point>-174535.000+1772148.000</Point> <!-- Yakuilau -->
+    </Symbol>
+    <Label HasLeader="True">
+		<Point Name="ABM KOROTOGO" Type="Fix">-181114.000+1773209.000</Point>
+		<Point Name="ABM LABONE ISLAND" Type="Fix">-174343.000+1772524.000</Point>
+		<Point Name="ABM VISEISEI VILLAGE" Type="Fix">-174137.000+1772433.000</Point>
+		<Point Name="ABM VUDA MARINA" Type="Fix">-174110.000+1772317.000</Point>
+		<Point Name="BAU ISLAND" Type="Fix">-175821.000+1783657.000</Point>
+		<Point Name="BATIKI ISLAND" Type="Fix">-174704.000+1790919.000</Point>
+		<Point Name="BEACHCOMBER" Type="Fix">-173916.000+1771518.000</Point>
+		<Point Name="BEKANA ISLAND" Type="Fix">-173527.000+1772624.000</Point>
+		<Point Name="CEMENT FACTORY" Type="Fix">-180605.000+1782322.000</Point>
+		<Point Name="DROMUNA" Type="Fix">-180011.000-1784128.000</Point>
+		<Point Name="GALOA" Type="Fix">-163657.000+1784110.000</Point>
+		<Point Name="GAP" Type="Fix">-174218.000+1773514.000</Point>
+		<Point Name="GAU" Type="Fix">-180656.000+1792023.000</Point>
+		<Point Name="HIGHLAND" Type="Fix">-174906.000+1773636.000</Point>
+		<Point Name="KADAVULAILAI ISLAND" Type="Fix">-174000.000+1771822.000</Point>
+		<Point Name="KORO" Type="Fix">-172045.000+1792519.000</Point>
+		<Point Name="KOROLEVU BAY" Type="Fix">-181250.000+1774345.000</Point>
+		<Point Name="LOMOLOMO" Type="Fix">-174230.000+1772525.000</Point>
+		<Point Name="MAKOGAI" Type="Fix">-172751.000+1785752.000</Point>
+		<Point Name="MALOLO" Type="Fix">-174641.000+1771148.000</Point>
+		<Point Name="MONASAVU DAM" Type="Fix">-174521.000+1780300.000</Point>
+		<Point Name="NABILA" Type="Fix">-175215.000+1771615.000</Point>
+		<Point Name="NABOUWALU" Type="Fix">-165943.000+1784119.000</Point>
+		<Point Name="NADI RIVER MOUTH" Type="Fix">-174600.000+1772300.000</Point>
+		<Point Name="NADURI" Type="Fix">-162632.000+1790843.000</Point>
+		<Point Name="NAIGANI" Type="Fix">-173443.000+1784032.000</Point>
+		<Point Name="NAITAUBA" Type="Fix">-170055.000-1791645.000</Point>
+		<Point Name="NAMENALALA" Type="Fix">-170640.000+1790554.000</Point>
+		<Point Name="NAMOSI" Type="Fix">-180229.000+1780752.000</Point>
+		<Point Name="NAQALI" Type="Fix">-175715.000+1782258.000</Point>
+		<Point Name="NASILAI LIGHTHOUSE" Type="Fix">-180802.000+1784118.000</Point>
+		<Point Name="NASONISONI" Type="Fix">-165602.000+1790105.000</Point>
+		<Point Name="NATIONAL STADIUM" Type="Fix">-180900.000+1782657.000</Point>
+		<Point Name="NAVUA RIVER MOUTH" Type="Fix">-181550.000+1780709.000</Point>
+		<Point Name="NAWENI POINT" Type="Fix">-164837.000+1793400.000</Point>
+		<Point Name="NAYAU" Type="Fix">-175901.000-1790320.000</Point>
+		<Point Name="NUKUILAU VILLAGE" Type="Fix">-175353.000+1775148.000</Point>
+		<Point Name="SAQANI" Type="Fix">-162829.000+1794238.000</Point>
+		<Point Name="SOLO LIGHTHOUSE" Type="Fix">-183759.000+1783159.000</Point>
+		<Point Name="SOSO" Type="Fix">-170737.000+1771327.000</Point>
+		<Point Name="SOUTH CAPE" Type="Fix">-170039.000+1795527.000</Point>
+		<Point Name="TAILEVU POINT" Type="Fix">-173840.000+1783457.000</Point>
+		<Point Name="THE BRIDGE" Type="Fix">-174409.000+1772709.000</Point>
+		<Point Name="TIVUA ISLAND" Type="Fix">-173649.000+1772051.000</Point>
+		<Point Name="TUVUCA" Type="Fix">-174026.000-1784907.000</Point>
+		<Point Name="UDU POINT" Type="Fix">-160730.000-1795700.000</Point>
+		<Point Name="VANUAVATU" Type="Fix">-182215.000-1791614.000</Point>
+		<Point Name="VATIA POINT" Type="Fix">-172228.000+1774915.000</Point>
+		<Point Name="VATUDAMU POINT" Type="Fix">-164548.000+1795537.000</Point>
+		<Point Name="VATULELE" Type="Fix">-183044.000+1773819.000</Point>
+		<Point Name="VERATA" Type="Fix">-175101.000+1783730.000</Point>
+		<Point Name="VITILEVU BAY" Type="Fix">-172718.000+1781444.000</Point>
+		<Point Name="VITOGO" Type="Fix">-173531.000+1772944.000</Point>
+		<Point Name="VIWA" Type="Fix">-175630.000+1783659.000</Point>
+		<Point Name="VUNAMOLI" Type="Fix">-175701.000+1772920.000</Point>
+		<Point Name="VUNIDAWA" Type="Fix">-174944.000+1781627.000</Point>
+		<Point Name="WAKAYA" Type="Fix">-173656.000+1790011.000</Point>
+		<Point Name="WHITE ROCK" Type="Fix">-172233.000+1771431.000</Point>
+		<Point Name="YADUA ISLAND" Type="Fix">-164900.000+1781815.000</Point>
+		<Point Name="YAKUILAU" Type="Fix">-174535.000+1772148.000</Point>
+	</Label>
+  </Map>
+</Maps>

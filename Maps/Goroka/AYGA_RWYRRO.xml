@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="AYGA_RWYRRO" Priority="1" Center="-06.082600+145.391283">
+    <!--AYGA-->
+    <Runway Name="17R/35L">
+      <Threshold Name="17R" Position="-06.075386+145.390650" />
+      <Threshold Name="35L" Position="-06.092442+145.392156" ExtendedCentrelineTrack="174.9" ExtendedCentrelineLength="0" ExtendedCentrelineTickInterval="0" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy17R TOMER1-->
+      -060532.791+1452331.762/
+      MONDO/
+      OKEMU
+    </Line>
+    <Line>
+      <!--Rwy17R TOMER1.MUDIX-->
+      OKEMU/
+	  -061644.927+1453644.501/-061659.359+1453715.641/-061727.368+1453735.322/-061801.405+1453738.277/-061832.351+1453723.713/-061851.913+1453655.533/-061854.850+1453621.288/-061840.373+1453550.154/-061818.300+1453533.025/
+      MUDIX
+    </Line>
+    <Line>
+      <!--Rwy17R TOMER1.MUKIK-->
+      OKEMU/
+      TOMER/
+      MUKIK
+    </Line>
+    <Line>
+      <!--Rwy17R TOMER1.OMBOG-->
+      TOMER/
+      OMBOG
+    </Line>
+    <!--STARs-->
+    <Symbol Type="HollowStar">
+      <Point>MONDO</Point>
+      <Point>OKEMU</Point>
+      <Point>MUDIX</Point>
+      <Point>TOMER</Point>
+      <Point>MUKIK</Point>
+      <Point>OMBOG</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="AYGA_RWYRRO_NAMES" Priority="2" Center="-06.082600+145.391283">
+    <Label>
+      <Point>MONDO</Point>
+      <Point>OKEMU</Point>
+      <Point>MUDIX</Point>
+      <Point>TOMER</Point>
+      <Point>MUKIK</Point>
+      <Point>OMBOG</Point>
+      <Point>OKT NDB</Point>
+      <Point>PAPTI</Point>
+      <Point>IKERU</Point>
+      <Point>YABAL</Point>
+      <Point>NZ VOR</Point>
+      <Point>EPKED</Point>
+      <Point>ANULO</Point>
+      <Point>SAKTO</Point>
+      <Point>MAIPA</Point>
+      <Point>MAYUI</Point>
+      <Point>DOTUB</Point>
+    </Label>
+  </Map>
+</Maps>

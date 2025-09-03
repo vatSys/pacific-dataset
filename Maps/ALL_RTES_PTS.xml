@@ -29,7 +29,7 @@
     <Line Name="B580_0">NOBAR.B580.BAYUS</Line>
     <Line Name="B581_0">NN VOR.B581.GOMIK</Line>
     <Line Name="B586_0">LTO VOR.B586.HUTEL</Line>
-    <Line Name="B589_0">TEDED.B589.MAJ NDB</Line>
+    <Line Name="B589_0">PY VOR.B589.MAJ NDB</Line>
     <Line Name="B590_0">LTO VOR.B590.NI NDB</Line>
     <Line Name="B598_0">DN VOR.B598.HOBAT</Line>
     <Line Name="B599_0">LTO VOR.B599.LASEN</Line>
@@ -219,7 +219,7 @@
     <Line Name="W677_0">GUPDA.W677.ASIXA</Line>
     <Line Name="W68_0">JPA VOR.W68.TISTO</Line>
     <Line Name="Z10_0">PATBO.Z10.ANUPA</Line>
-    <Line Name="Z12_0">DIL VOR.Z12.ELBIS</Line>
+    <Line Name="Z12_0">BACAU.Z12.ELBIS</Line>
     <Line Name="Z69_0">METAN.Z69.DIL VOR</Line>
     <Line Name="Z86_0">IKUMA.Z86.DIL VOR</Line>
     <Symbol Type="SolidSquare">
@@ -930,7 +930,7 @@
     <Line Name="B580_0">VESUN.B580.BAYUS</Line>
     <Line Name="B581_0">NN VOR.B581.GOMIK</Line>
     <Line Name="B586_0">LTO VOR.B586.HUTEL</Line>
-    <Line Name="B589_0">TEDED.B589.MAJ NDB</Line>
+    <Line Name="B589_0">LUNTO.B589.MAJ NDB</Line>
     <Line Name="B590_0">LTO VOR.B590.NI NDB</Line>
     <Line Name="B598_0">NIPOK.B598.HOBAT</Line>
     <Line Name="B599_0">LTO VOR.B599.LASEN</Line>
@@ -1250,7 +1250,6 @@
       <Point>PIKOK</Point>
       <Point>NUTTI</Point>
       <Point>HUTEL</Point>
-      <Point>TEDED</Point>
       <Point>LUNTO</Point>
       <Point>TASAK</Point>
       <Point>ELNUR</Point>
@@ -1370,6 +1369,7 @@
       <Point>OLRIG</Point>
       <Point>NAVUA</Point>
       <Point>WILEK</Point>
+      <Point>TEDED</Point>
       <Point>ENTOG</Point>
       <Point>LAVUN</Point>
       <Point>COWRY</Point>
@@ -1767,7 +1767,6 @@
       <Point>PIKOK</Point>
       <Point>NUTTI</Point>
       <Point>HUTEL</Point>
-      <Point>TEDED</Point>
       <Point>LUNTO</Point>
       <Point>TASAK</Point>
       <Point>ELNUR</Point>
@@ -1887,6 +1886,7 @@
       <Point>OLRIG</Point>
       <Point>NAVUA</Point>
       <Point>WILEK</Point>
+      <Point>TEDED</Point>
       <Point>ENTOG</Point>
       <Point>LAVUN</Point>
       <Point>COWRY</Point>

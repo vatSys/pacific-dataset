@@ -208,6 +208,7 @@
 		<Point>AGGA</Point>
 		<Point>AGGE</Point>
 		<Point>AGGI</Point>
+		<Point>AGGJ</Point>
 		<Point>AGGK</Point>
 		<Point>AGGN</Point>
 		<Point>AGGS</Point>
@@ -222,13 +223,19 @@
 		<Point>AGGT</Point>
 		<Point>AGGU</Point>
 		<Point>AGGV</Point>
+		<Point>AGIN</Point>
 		<Point>AGKG</Point>
 		<Point>AGKU</Point>
+		<Point>AGKW</Point>
 		<Point>AGLM</Point>
+		<Point>AGMU</Point>
+		<Point>AGNA</Point>
 		<Point>AGOB</Point>
 		<Point>AGOB</Point>
 		<Point>AGRC</Point>
 		<Point>AGRM</Point>
+		<Point>AGTI</Point>
+		<Point>AGVH</Point>
 		
 		<!-- Papua New Guinea -->
 		<Point>AYAA</Point>
@@ -280,8 +287,12 @@
 		<Point>AYBY</Point>
 		<Point>AYBZ</Point>
 		<Point>AYCB</Point>
+		<Point>AYCE</Point>
 		<Point>AYCG</Point>
+		<Point>AYCK</Point>
+		<Point>AYCL</Point>
 		<Point>AYCN</Point>
+		<Point>AYCR</Point>
 		<Point>AYCS</Point>
 		<Point>AYDA</Point>
 		<Point>AYDB</Point>
@@ -297,7 +308,9 @@
 		<Point>AYDQ</Point>
 		<Point>AYDR</Point>
 		<Point>AYDS</Point>
+		<Point>AYDV</Point>
 		<Point>AYDW</Point>
+		<Point>AYDX</Point>
 		<Point>AYDY</Point>
 		<Point>AYEA</Point>
 		<Point>AYEB</Point>
@@ -320,10 +333,12 @@
 		<Point>AYEV</Point>
 		<Point>AYEW</Point>
 		<Point>AYEY</Point>
+		<Point>AYEX</Point>
 		<Point>AYEZ</Point>
 		<Point>AYFA</Point>
 		<Point>AYFI</Point>
 		<Point>AYFK</Point>
+		<Point>AYFL</Point>
 		<Point>AYFO</Point>
 		<Point>AYFR</Point>
 		<Point>AYFS</Point>
@@ -362,15 +377,19 @@
 		<Point>AYHN</Point>
 		<Point>AYHO</Point>
 		<Point>AYHQ</Point>
+		<Point>AYHS</Point>
 		<Point>AYHT</Point>
 		<Point>AYHU</Point>
 		<Point>AYHW</Point>
 		<Point>AYHX</Point>
 		<Point>AYHY</Point>
+		<Point>AYHZ</Point>
 		<Point>AYIA</Point>
 		<Point>AYIB</Point>
+		<Point>AYIC</Point>
 		<Point>AYID</Point>
 		<Point>AYIF</Point>
+		<Point>AYIG</Point>
 		<Point>AYIH</Point>
 		<Point>AYII</Point>
 		<Point>AYIJ</Point>
@@ -385,13 +404,21 @@
 		<Point>AYIS</Point>
 		<Point>AYIT</Point>
 		<Point>AYIU</Point>
+		<Point>AYIV</Point>
 		<Point>AYIW</Point>
 		<Point>AYIX</Point>
 		<Point>AYIY</Point>
+		<Point>AYIZ</Point>
+		<Point>AYJA</Point>
 		<Point>AYJB</Point>
 		<Point>AYJE</Point>
+		<Point>AYJK</Point>
 		<Point>AYJL</Point>
+		<Point>AYJM</Point>
+		<Point>AYJN</Point>
 		<Point>AYJO</Point>
+		<Point>AYJQ</Point>
+		<Point>AYJR</Point>
 		<Point>AYJS</Point>
 		<Point>AYJW</Point>
 		<Point>AYKB</Point>
@@ -413,6 +440,7 @@
 		<Point>AYKZ</Point>
 		<Point>AYLB</Point>
 		<Point>AYLC</Point>
+		<Point>AYLD</Point>
 		<Point>AYLF</Point>
 		<Point>AYLG</Point>
 		<Point>AYLH</Point>
@@ -427,6 +455,7 @@
 		<Point>AYLS</Point>
 		<Point>AYLT</Point>
 		<Point>AYLU</Point>
+		<Point>AYLV</Point>
 		<Point>AYLW</Point>
 		<Point>AYLX</Point>
 		<Point>AYLY</Point>
@@ -517,20 +546,26 @@
 		<Point>AYPQ</Point>
 		<Point>AYPR</Point>
 		<Point>AYPS</Point>
+		<Point>AYPT</Point>
 		<Point>AYPW</Point>
 		<Point>AYPX</Point>
 		<Point>AYQA</Point>
 		<Point>AYQB</Point>
+		<Point>AYQE</Point>
+		<Point>AYQF</Point>
 		<Point>AYQL</Point>
 		<Point>AYQM</Point>
+		<Point>AYQN</Point>
 		<Point>AYQO</Point>
 		<Point>AYQP</Point>
 		<Point>AYQQ</Point>
 		<Point>AYQR</Point>
 		<Point>AYQS</Point>
+		<Point>AYQT</Point>
 		<Point>AYQU</Point>
 		<Point>AYQV</Point>
 		<Point>AYQW</Point>
+		<Point>AYQX</Point>
 		<Point>AYRA</Point>
 		<Point>AYRE</Point>
 		<Point>AYRF</Point>
@@ -544,10 +579,12 @@
 		<Point>AYRO</Point>
 		<Point>AYRQ</Point>
 		<Point>AYRR</Point>
+		<Point>AYRS</Point>
 		<Point>AYRT</Point>
 		<Point>AYRU</Point>
 		<Point>AYRV</Point>
 		<Point>AYRW</Point>
+		<Point>AYRY</Point>
 		<Point>AYSA</Point>
 		<Point>AYSC</Point>
 		<Point>AYSE</Point>
@@ -596,6 +633,7 @@
 		<Point>AYUA</Point>
 		<Point>AYUB</Point>
 		<Point>AYUC</Point>
+		<Point>AYUD</Point>
 		<Point>AYUE</Point>
 		<Point>AYUG</Point>
 		<Point>AYUI</Point>
@@ -619,6 +657,7 @@
 		<Point>AYVA</Point>
 		<Point>AYVB</Point>
 		<Point>AYVK</Point>
+		<Point>AYVL</Point>
 		<Point>AYVM</Point>
 		<Point>AYVO</Point>
 		<Point>AYVP</Point>
@@ -657,10 +696,12 @@
 		<Point>AYXG</Point>
 		<Point>AYXH</Point>
 		<Point>AYXI</Point>
+		<Point>AYXK</Point>
 		<Point>AYXO</Point>
 		<Point>AYXP</Point>
 		<Point>AYXS</Point>
 		<Point>AYXT</Point>
+		<Point>AYXU</Point>
 		<Point>AYXW</Point>
 		<Point>AYXY</Point>
 		<Point>AYYA</Point>
@@ -680,19 +721,23 @@
 		<Point>AYYP</Point>
 		<Point>AYYQ</Point>
 		<Point>AYYR</Point>
+		<Point>AYYS</Point>
 		<Point>AYYT</Point>
 		<Point>AYYU</Point>
 		<Point>AYYV</Point>
 		<Point>AYYW</Point>
 		<Point>AYYX</Point>
+		<Point>AYYY</Point>
 		<Point>AYYZ</Point>
 		<Point>AYZA</Point>
 		<Point>AYZB</Point>
+		<Point>AYZH</Point>
 		<Point>AYZI</Point>
 		<Point>AYZM</Point>
 		<Point>AYZN</Point>
 		<Point>AYZQ</Point>
 		<Point>AYZS</Point>
+		<Point>AYZT</Point>
 		<Point>AYZU</Point>
 		<Point>AYZW</Point>
 		<Point>AYZY</Point>
@@ -701,6 +746,7 @@
 		<!-- Fiji -->
 		<Point>NFBC</Point>
 		<Point>NFCI</Point>
+		<Point>NFCN</Point>
 		<Point>NFCS</Point>
 		<Point>NFFO</Point>
 		<Point>NFGO</Point>
@@ -716,6 +762,7 @@
 		<Point>NFNM</Point>
 		<Point>NFNO</Point>
 		<Point>NFNS</Point>
+		<Point>NFNT</Point>
 		<Point>NFNW</Point>
 		<Point>NFOL</Point>
 		<Point>NFRS</Point>
@@ -819,6 +866,7 @@
 		<Point>AGGA</Point>
 		<Point>AGGE</Point>
 		<Point>AGGI</Point>
+		<Point>AGGJ</Point>
 		<Point>AGGK</Point>
 		<Point>AGGN</Point>
 		<Point>AGGS</Point>
@@ -833,13 +881,19 @@
 		<Point>AGGT</Point>
 		<Point>AGGU</Point>
 		<Point>AGGV</Point>
+		<Point>AGIN</Point>
 		<Point>AGKG</Point>
 		<Point>AGKU</Point>
+		<Point>AGKW</Point>
 		<Point>AGLM</Point>
+		<Point>AGMU</Point>
+		<Point>AGNA</Point>
 		<Point>AGOB</Point>
 		<Point>AGOB</Point>
 		<Point>AGRC</Point>
 		<Point>AGRM</Point>
+		<Point>AGTI</Point>
+		<Point>AGVH</Point>
 		
 		<!-- Papua New Guinea -->
 		<Point>AYAA</Point>
@@ -891,8 +945,12 @@
 		<Point>AYBY</Point>
 		<Point>AYBZ</Point>
 		<Point>AYCB</Point>
+		<Point>AYCE</Point>
 		<Point>AYCG</Point>
+		<Point>AYCK</Point>
+		<Point>AYCL</Point>
 		<Point>AYCN</Point>
+		<Point>AYCR</Point>
 		<Point>AYCS</Point>
 		<Point>AYDA</Point>
 		<Point>AYDB</Point>
@@ -908,7 +966,9 @@
 		<Point>AYDQ</Point>
 		<Point>AYDR</Point>
 		<Point>AYDS</Point>
+		<Point>AYDV</Point>
 		<Point>AYDW</Point>
+		<Point>AYDX</Point>
 		<Point>AYDY</Point>
 		<Point>AYEA</Point>
 		<Point>AYEB</Point>
@@ -931,10 +991,12 @@
 		<Point>AYEV</Point>
 		<Point>AYEW</Point>
 		<Point>AYEY</Point>
+		<Point>AYEX</Point>
 		<Point>AYEZ</Point>
 		<Point>AYFA</Point>
 		<Point>AYFI</Point>
 		<Point>AYFK</Point>
+		<Point>AYFL</Point>
 		<Point>AYFO</Point>
 		<Point>AYFR</Point>
 		<Point>AYFS</Point>
@@ -973,15 +1035,19 @@
 		<Point>AYHN</Point>
 		<Point>AYHO</Point>
 		<Point>AYHQ</Point>
+		<Point>AYHS</Point>
 		<Point>AYHT</Point>
 		<Point>AYHU</Point>
 		<Point>AYHW</Point>
 		<Point>AYHX</Point>
 		<Point>AYHY</Point>
+		<Point>AYHZ</Point>
 		<Point>AYIA</Point>
 		<Point>AYIB</Point>
+		<Point>AYIC</Point>
 		<Point>AYID</Point>
 		<Point>AYIF</Point>
+		<Point>AYIG</Point>
 		<Point>AYIH</Point>
 		<Point>AYII</Point>
 		<Point>AYIJ</Point>
@@ -996,13 +1062,21 @@
 		<Point>AYIS</Point>
 		<Point>AYIT</Point>
 		<Point>AYIU</Point>
+		<Point>AYIV</Point>
 		<Point>AYIW</Point>
 		<Point>AYIX</Point>
 		<Point>AYIY</Point>
+		<Point>AYIZ</Point>
+		<Point>AYJA</Point>
 		<Point>AYJB</Point>
 		<Point>AYJE</Point>
+		<Point>AYJK</Point>
 		<Point>AYJL</Point>
+		<Point>AYJM</Point>
+		<Point>AYJN</Point>
 		<Point>AYJO</Point>
+		<Point>AYJQ</Point>
+		<Point>AYJR</Point>
 		<Point>AYJS</Point>
 		<Point>AYJW</Point>
 		<Point>AYKB</Point>
@@ -1024,6 +1098,7 @@
 		<Point>AYKZ</Point>
 		<Point>AYLB</Point>
 		<Point>AYLC</Point>
+		<Point>AYLD</Point>
 		<Point>AYLF</Point>
 		<Point>AYLG</Point>
 		<Point>AYLH</Point>
@@ -1038,6 +1113,7 @@
 		<Point>AYLS</Point>
 		<Point>AYLT</Point>
 		<Point>AYLU</Point>
+		<Point>AYLV</Point>
 		<Point>AYLW</Point>
 		<Point>AYLX</Point>
 		<Point>AYLY</Point>
@@ -1128,20 +1204,26 @@
 		<Point>AYPQ</Point>
 		<Point>AYPR</Point>
 		<Point>AYPS</Point>
+		<Point>AYPT</Point>
 		<Point>AYPW</Point>
 		<Point>AYPX</Point>
 		<Point>AYQA</Point>
 		<Point>AYQB</Point>
+		<Point>AYQE</Point>
+		<Point>AYQF</Point>
 		<Point>AYQL</Point>
 		<Point>AYQM</Point>
+		<Point>AYQN</Point>
 		<Point>AYQO</Point>
 		<Point>AYQP</Point>
 		<Point>AYQQ</Point>
 		<Point>AYQR</Point>
 		<Point>AYQS</Point>
+		<Point>AYQT</Point>
 		<Point>AYQU</Point>
 		<Point>AYQV</Point>
 		<Point>AYQW</Point>
+		<Point>AYQX</Point>
 		<Point>AYRA</Point>
 		<Point>AYRE</Point>
 		<Point>AYRF</Point>
@@ -1155,10 +1237,12 @@
 		<Point>AYRO</Point>
 		<Point>AYRQ</Point>
 		<Point>AYRR</Point>
+		<Point>AYRS</Point>
 		<Point>AYRT</Point>
 		<Point>AYRU</Point>
 		<Point>AYRV</Point>
 		<Point>AYRW</Point>
+		<Point>AYRY</Point>
 		<Point>AYSA</Point>
 		<Point>AYSC</Point>
 		<Point>AYSE</Point>
@@ -1207,6 +1291,7 @@
 		<Point>AYUA</Point>
 		<Point>AYUB</Point>
 		<Point>AYUC</Point>
+		<Point>AYUD</Point>
 		<Point>AYUE</Point>
 		<Point>AYUG</Point>
 		<Point>AYUI</Point>
@@ -1230,6 +1315,7 @@
 		<Point>AYVA</Point>
 		<Point>AYVB</Point>
 		<Point>AYVK</Point>
+		<Point>AYVL</Point>
 		<Point>AYVM</Point>
 		<Point>AYVO</Point>
 		<Point>AYVP</Point>
@@ -1268,10 +1354,12 @@
 		<Point>AYXG</Point>
 		<Point>AYXH</Point>
 		<Point>AYXI</Point>
+		<Point>AYXK</Point>
 		<Point>AYXO</Point>
 		<Point>AYXP</Point>
 		<Point>AYXS</Point>
 		<Point>AYXT</Point>
+		<Point>AYXU</Point>
 		<Point>AYXW</Point>
 		<Point>AYXY</Point>
 		<Point>AYYA</Point>
@@ -1291,19 +1379,23 @@
 		<Point>AYYP</Point>
 		<Point>AYYQ</Point>
 		<Point>AYYR</Point>
+		<Point>AYYS</Point>
 		<Point>AYYT</Point>
 		<Point>AYYU</Point>
 		<Point>AYYV</Point>
 		<Point>AYYW</Point>
 		<Point>AYYX</Point>
+		<Point>AYYY</Point>
 		<Point>AYYZ</Point>
 		<Point>AYZA</Point>
 		<Point>AYZB</Point>
+		<Point>AYZH</Point>
 		<Point>AYZI</Point>
 		<Point>AYZM</Point>
 		<Point>AYZN</Point>
 		<Point>AYZQ</Point>
 		<Point>AYZS</Point>
+		<Point>AYZT</Point>
 		<Point>AYZU</Point>
 		<Point>AYZW</Point>
 		<Point>AYZY</Point>
@@ -1312,6 +1404,7 @@
 		<!-- Fiji -->
 		<Point>NFBC</Point>
 		<Point>NFCI</Point>
+		<Point>NFCN</Point>
 		<Point>NFCS</Point>
 		<Point>NFFO</Point>
 		<Point>NFGO</Point>
@@ -1327,6 +1420,7 @@
 		<Point>NFNM</Point>
 		<Point>NFNO</Point>
 		<Point>NFNS</Point>
+		<Point>NFNT</Point>
 		<Point>NFNW</Point>
 		<Point>NFOL</Point>
 		<Point>NFRS</Point>

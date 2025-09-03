@@ -484,7 +484,45 @@
 	  <Point>IGLUN</Point>
 	  <Point>NODAG</Point>
 	  <Point>VIMIT</Point>
-	  <Point>IGAPA</Point>
+	  <Point>YGASA</Point>
+	  <Point>YGASI</Point>
+	  <Point>YGASF</Point>
+	  <Point>YGASG</Point>
+	  <Point>YGASY</Point>
+	  <Point>YGASZ</Point>
+	  <Point>YJBSA</Point>
+	  <Point>YJBSB</Point>
+	  <Point>YJBSC</Point>
+	  <Point>YJBSI</Point>
+	  <Point>YJBSF</Point>
+	  <Point>YKCSA</Point>
+	  <Point>YKCSB</Point>
+	  <Point>YKCSC</Point>
+	  <Point>YKCSI</Point>
+	  <Point>YKCSF</Point>
+	  <Point>YKCND</Point>
+	  <Point>YKCNE</Point>
+	  <Point>YKCNI</Point>
+	  <Point>YKCNF</Point>
+	  <Point>YKWND</Point>
+	  <Point>YKWNE</Point>
+	  <Point>YKWNG</Point>
+	  <Point>YKWNI</Point>
+	  <Point>YKWNF</Point>
+	  <Point>YKWSA</Point>
+	  <Point>YKWSB</Point>
+	  <Point>YKWSC</Point>
+	  <Point>YKWSI</Point>
+	  <Point>YKWSF</Point>
+	  <Point>UPDEL</Point>
+	  <Point>YKONA</Point>
+	  <Point>YKONI</Point>
+	  <Point>YKONF</Point>
+	  <Point>YTESB</Point>
+	  <Point>YTESC</Point>
+	  <Point>YTESI</Point>
+	  <Point>YTESF</Point>
+	  <Point>YTESZ</Point>
     </Label>
     <Symbol Type="MalteseCross">
       <Point>FNNSF</Point>
@@ -604,6 +642,15 @@
 	  <Point>FASPO</Point>
 	  <Point>NL483</Point>
 	  <Point>FRF07</Point>
+	  <Point>YGASY</Point>
+	  <Point>YGASZ</Point>
+	  <Point>YJBSF</Point>
+	  <Point>YKCSF</Point>
+	  <Point>YKCNF</Point>
+	  <Point>YKWNF</Point>
+	  <Point>YKWSF</Point>
+	  <Point>YKONF</Point>
+	  <Point>YTESF</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>FNNSI</Point>
@@ -726,6 +773,17 @@
 	  <Point>UCOLE</Point>
 	  <Point>KALEL</Point>
 	  <Point>ENTAN</Point>
+	  <Point>YGASI</Point>
+	  <Point>YGASF</Point>
+	  <Point>YGASG</Point>
+	  <Point>YJBSI</Point>
+	  <Point>YKCSI</Point>
+	  <Point>YKCNI</Point>
+	  <Point>YKWNI</Point>
+	  <Point>YKWSI</Point>
+	  <Point>YKONI</Point>
+	  <Point>YTESI</Point>
+	  <Point>YTESZ</Point>
     </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>YGNWD</Point>
@@ -971,6 +1029,26 @@
 	  <Point>NODAG</Point>
 	  <Point>VIMIT</Point>
 	  <Point>IGAPA</Point>
+	  <Point>YGASA</Point>
+	  <Point>YJBSA</Point>
+	  <Point>YJBSB</Point>
+	  <Point>YJBSC</Point>
+	  <Point>YKCSA</Point>
+	  <Point>YKCSB</Point>
+	  <Point>YKCSC</Point>
+	  <Point>YKCND</Point>
+	  <Point>YKCNE</Point>
+	  <Point>YKWND</Point>
+	  <Point>YKWNE</Point>
+	  <Point>YKWNG</Point>
+	  <Point>YKWSA</Point>
+	  <Point>YKWSB</Point>
+	  <Point>YKWSC</Point>
+	  <Point>YKONA</Point>
+	  <Point>YKONI</Point>
+	  <Point>UPDEL</Point>
+	  <Point>YTESB</Point>
+	  <Point>YTESC</Point>
     </Symbol>
     <Line>DGOWA/DGOWI</Line>
     <Line>DGOWB/DGOWI</Line>
@@ -1375,5 +1453,33 @@
 	<Line>HOMQY/UCOLE</Line>
 	<Line>CEYJE/UCOLE</Line>
 	<Line>UCOLE/UDEXE/+072803.529+1515056.360</Line>
+	<Line>YGASA/YGASI</Line>
+	<Line>YGASI/YGASF/YGASG</Line>
+	<Line>YGASG/YGASY</Line>
+	<Line>YGASG/YGASZ</Line>
+	<Line>YJBSA/YJBSI</Line>
+	<Line>YJBSB/YJBSI</Line>
+	<Line>YJBSC/YJBSI</Line>
+	<Line>YJBSI/YJBSF/YJB34</Line>
+	<Line>YKCND/YKCNI</Line>
+	<Line>YKCNE/YKCNI</Line>
+	<Line>YKCNI/YKCNF/YKC17</Line>
+	<Line>YKCSA/YKCSI</Line>
+	<Line>YKCSB/YKCSI</Line>
+	<Line>YKCSC/YKCSI</Line>
+	<Line>YKCSI/YKCSF/YKC35</Line>
+	<Line>YKWND/YKWNI</Line>
+	<Line>YKWNE/YKWNI</Line>
+	<Line>YKWNG/YKWNI</Line>
+	<Line>YKWNI/YKWNF/YKW15</Line>
+	<Line>YKWSA/YKWSI</Line>
+	<Line>YKWSB/YKWSI</Line>
+	<Line>YKWSC/YKWSI</Line>
+	<Line>YKWSI/YKWSF/YKW33</Line>
+	<Line>UPDEL/YKONA</Line>
+	<Line>YKONA/YKONI/YKONF/YKONM</Line>
+	<Line>YTESB/YTESI</Line>
+	<Line>YTESC/YTESI</Line>
+	<Line>YTESI/YTESF/YTESZ/YTESM</Line>
   </Map>
 </Maps>

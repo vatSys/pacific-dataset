@@ -8,29 +8,22 @@
     </Runway>
     <!--SIDs-->
     <Line>
-      <!--Rwy35 IP2B-->
+      <!--Rwy35 IP2F-->
       -221514.339+1662821.742/
+      -221414.400+1662820.046/
       -221341.705+1662827.680/
       -221251.749+1662902.430/
       -221223.364+1662958.811/
       -221223.513+1663102.989/
       -221252.160+1663159.216/
-      -221911.555+1663542.625/
-      PIROG/
-      -222304.920+1664348.928/
+      -222112.561+1663651.379/
       NORAC/
       MISGA/
       IP NDB
     </Line>
     <Line>
-      <!--Rwy35 IP2F-->
-      -221252.160+1663159.216/
-      -222112.561+1663651.379/
-      NORAC
-    </Line>
-    <Line>
       <!--Rwy35 LTO4B-->
-      -221514.339+1662821.742/
+      -221414.400+1662820.046/
       -221402.403+1662817.549/
       -221338.550+1662801.097/
       -221324.337+1662734.661/
@@ -39,31 +32,21 @@
       LTO VOR
     </Line>
     <Line>
-      <!--Rwy35 LU2G-->
-      -221252.160+1663159.216/
-      -221600.671+1663354.243/
-      KAORI/
-      LU NDB
-    </Line>
-    <Line>
-      <!--Rwy35 MR2B-->
-      PIROG/
-      -221928.638+1664129.163/
-      -221918.970+1664157.564/
-      KAORI/
+      <!--Rwy35 MR2F-->
+      NORAC/
       OUANA/
       MR NDB
     </Line>
     <Line>
-      <!--Rwy35 MR2F-->
-      NORAC/
-      -222352.189+1664554.524/
-      -222347.790+1664627.202/
-      -222257.744+1664731.431/
-      OUANA
+      <!--Rwy35 OMNIE-->
+      -221252.160+1663159.216/
+      -221911.000+1663540.000/
+      -221918.814+1663854.265
     </Line>
     <Line>
-      <!--Rwy35 MR2G-->
+      <!--Rwy35 OMNIW-->
+      -221332.313+1662050.572/
+      -221336.990+1661736.321
     </Line>
     <!--STARs-->
     <Line>
@@ -113,7 +96,8 @@
       -222529.437+1662548.761/
       -222526.310+1662554.322/
       -222522.370+1662559.242/
-      -222302.661+1662826.668
+      -222302.661+1662826.668/
+      MGA VOR
     </Line>
     <Line>
       <!--Rwy35 LU1N-->
@@ -130,16 +114,6 @@
       OA NDB/
       OBOLI
     </Line>
-    <Line>
-      <!--Rwy35 TH1N-->
-      TH NDB/
-      LTO VOR
-    </Line>
-    <Line>
-      <!--Rwy35 TH1T-->
-      LTO VOR/
-      TIMDU
-    </Line>
     <Symbol Type="HollowTriangle">
       <Point>REDIK</Point>
       <Point>MAMIT</Point>
@@ -147,35 +121,30 @@
     <Symbol Type="Circle">
       <Point>IP NDB</Point>
       <Point>LTO VOR</Point>
-      <Point>LU NDB</Point>
       <Point>MR NDB</Point>
       <Point>KQ NDB</Point>
+      <Point>LU NDB</Point>
       <Point>OA NDB</Point>
-      <Point>TH NDB</Point>
     </Symbol>
     <Symbol Type="HollowStar">
-      <Point>PIROG</Point>
       <Point>NORAC</Point>
       <Point>MISGA</Point>
-      <Point>KAORI</Point>
       <Point>OUANA</Point>
       <Point>NEMID</Point>
       <Point>GIRAD</Point>
       <Point>TIMDU</Point>
       <Point>MG194</Point>
       <Point>GOSLA</Point>
+      <Point>KAORI</Point>
       <Point>OBOLI</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="NWWM_RWY35_NAMES" Priority="2" Center="-22.258333+166.472778">
     <Label>
-      <Point>PIROG</Point>
       <Point>NORAC</Point>
       <Point>MISGA</Point>
       <Point>IP NDB</Point>
       <Point>LTO VOR</Point>
-      <Point>KAORI</Point>
-      <Point>LU NDB</Point>
       <Point>OUANA</Point>
       <Point>MR NDB</Point>
       <Point>NEMID</Point>
@@ -185,10 +154,12 @@
       <Point>MAMIT</Point>
       <Point>TIMDU</Point>
       <Point>MG194</Point>
+      <Point>MGA VOR</Point>
+      <Point>LU NDB</Point>
       <Point>GOSLA</Point>
+      <Point>KAORI</Point>
       <Point>OA NDB</Point>
       <Point>OBOLI</Point>
-      <Point>TH NDB</Point>
       <Point>TEBUR</Point>
       <Point>NISAS</Point>
       <Point>ADKAD</Point>

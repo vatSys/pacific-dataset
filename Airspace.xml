@@ -3,7 +3,9 @@
   <SystemRunways>
     <Airport Name="AYGA">
       <Runway Name="17L" DataRunway="17L" />
-      <Runway Name="17R" DataRunway="17R" />
+      <Runway Name="17R" DataRunway="17R">
+        <SID Name="TOMER1" Default="True" />
+      </Runway>
       <Runway Name="35L" DataRunway="35L" />
       <Runway Name="35R" DataRunway="35R" />
     </Airport>
@@ -31,11 +33,7 @@
     </Airport>
     <Airport Name="AYPY">
       <Runway Name="14L" DataRunway="14L">
-        <SID Name="ASTRO1" />
-        <SID Name="ASTRO2" />
-        <SID Name="GALLEY" />
         <SID Name="GUNKI1" />
-        <SID Name="KOKODA" />
         <SID Name="LOTGU1" />
         <SID Name="NUPTA1" />
         <SID Name="ODOGA1" />
@@ -43,54 +41,19 @@
         <SID Name="STARF1" />
         <SID Name="TOMOM1" />
         <SID Name="UNSAM1" />
-        <STAR Name="ASTROL" />
         <STAR Name="ENTO1A" ApproachName="RNP" />
         <STAR Name="ENTO1B" ApproachName="RNP" />
         <STAR Name="GUMBU1" ApproachName="RNP" />
-        <STAR Name="HIRI" />
-        <STAR Name="KOKODA" />
-        <STAR Name="LALOKI" />
         <STAR Name="LOTGU1" ApproachName="RNP" />
-        <STAR Name="MAGI" />
         <STAR Name="MUDOV1" ApproachName="RNP" />
         <STAR Name="NUPTA1" ApproachName="RNP" />
-        <STAR Name="PARER" />
         <STAR Name="SAKTO1" ApproachName="RNP" />
-        <STAR Name="TAVAI" />
         <STAR Name="UNSAM1" ApproachName="RNP" />
       </Runway>
-      <Runway Name="14R" DataRunway="14R">
-        <SID Name="ASTRO1" />
-        <SID Name="ASTRO2" />
-        <SID Name="GALLEY" />
-        <SID Name="KOKODA" />
-        <STAR Name="ASTROL" />
-        <STAR Name="HIRI" />
-        <STAR Name="KOKODA" />
-        <STAR Name="LALOKI" />
-        <STAR Name="MAGI" />
-        <STAR Name="PARER" />
-        <STAR Name="TAVAI" />
-      </Runway>
-      <Runway Name="32L" DataRunway="32L">
-        <SID Name="ASTRO1" />
-        <SID Name="ASTRO2" />
-        <SID Name="GALLEY" />
-        <SID Name="KOKODA" />
-        <STAR Name="ASTROL" />
-        <STAR Name="HIRI" />
-        <STAR Name="KOKODA" />
-        <STAR Name="LALOKI" />
-        <STAR Name="MAGI" />
-        <STAR Name="PARER" />
-        <STAR Name="TAVAI" />
-      </Runway>
+      <Runway Name="14R" DataRunway="14R" />
+      <Runway Name="32L" DataRunway="32L" />
       <Runway Name="32R" DataRunway="32R">
-        <SID Name="ASTRO1" />
-        <SID Name="ASTRO2" />
-        <SID Name="GALLEY" />
         <SID Name="GUNKI1" />
-        <SID Name="KOKODA" />
         <SID Name="LOTGU1" />
         <SID Name="NUPTA1" />
         <SID Name="ODOGA1" />
@@ -98,19 +61,12 @@
         <SID Name="STARF1" />
         <SID Name="TOMOM1" />
         <SID Name="UNSAM1" />
-        <STAR Name="ASTROL" />
         <STAR Name="ENTO1A" ApproachName="RNP" />
         <STAR Name="GUMBU1" ApproachName="RNP" />
-        <STAR Name="HIRI" />
-        <STAR Name="KOKODA" />
-        <STAR Name="LALOKI" />
         <STAR Name="LOTGU1" ApproachName="RNP" />
-        <STAR Name="MAGI" />
         <STAR Name="MUDOV1" ApproachName="RNP" />
         <STAR Name="NUPTA1" ApproachName="RNP" />
-        <STAR Name="PARER" />
         <STAR Name="SAKTO1" ApproachName="RNP" />
-        <STAR Name="TAVAI" />
         <STAR Name="UNSAM1" ApproachName="RNP" />
       </Runway>
     </Airport>
@@ -191,36 +147,31 @@
     </Airport>
     <Airport Name="NWWM">
       <Runway Name="17" DataRunway="17">
-        <SID Name="IP1A" />
         <SID Name="IP1C" />
         <SID Name="LTO3A" />
-        <SID Name="LU1D" />
         <SID Name="MG1" />
-        <SID Name="MR1A" />
         <SID Name="MR1C" />
-        <SID Name="MR1D" />
+        <SID Name="OMNIE" />
+        <SID Name="OMNIS" />
+        <SID Name="OMNIW" />
         <SID Name="SEP1A" />
       </Runway>
       <Runway Name="35" DataRunway="35">
-        <SID Name="IP2B" />
         <SID Name="IP2F" />
         <SID Name="LTO4B" />
-        <SID Name="LU2G" />
-        <SID Name="MR2B" />
         <SID Name="MR2F" />
-        <SID Name="MR2G" />
-        <STAR Name="IP1N" />
-        <STAR Name="IP1R" />
-        <STAR Name="KQ1M" />
-        <STAR Name="KQ1N" />
-        <STAR Name="KQ1S" />
-        <STAR Name="KQ1T" />
-        <STAR Name="LTO1N" />
-        <STAR Name="LU1N" />
-        <STAR Name="MR1N" />
-        <STAR Name="OA1N" />
-        <STAR Name="TH1N" />
-        <STAR Name="TH1T" />
+        <SID Name="OMNIE" />
+        <SID Name="OMNIW" />
+        <STAR Name="IP1N" ApproachName="VOR" />
+        <STAR Name="IP1R" ApproachName="VOR" />
+        <STAR Name="KQ1M" ApproachName="VOR" />
+        <STAR Name="KQ1N" ApproachName="VOR" />
+        <STAR Name="KQ1S" ApproachName="VOR" />
+        <STAR Name="KQ1T" ApproachName="VOR" />
+        <STAR Name="LTO1N" ApproachName="VOR" />
+        <STAR Name="LU1N" ApproachName="VOR" />
+        <STAR Name="MR1N" ApproachName="VOR" />
+        <STAR Name="OA1N" ApproachName="VOR" />
       </Runway>
     </Airport>
     <Airport Name="NWWW">
@@ -228,36 +179,38 @@
         <SID Name="GOPR3E" />
         <SID Name="LTO3E" />
         <SID Name="NISA3E" />
+        <SID Name="OMNI" />
         <SID Name="ONIB3E" />
         <SID Name="POGO" />
         <SID Name="POXA3E" />
         <SID Name="SCUB3E" />
         <SID Name="TEPA3E" />
         <SID Name="VIRA3E" />
-        <STAR Name="ADKAD2" />
-        <STAR Name="GOPRA2" />
-        <STAR Name="GOPR2A" />
-        <STAR Name="MESUS2" />
-        <STAR Name="NIPOG2" />
-        <STAR Name="NIPO2A" />
-        <STAR Name="NISAS2" />
-        <STAR Name="NISA2A" />
-        <STAR Name="ONIBA2" />
-        <STAR Name="ONIB2A" />
-        <STAR Name="POXAK2" />
-        <STAR Name="POXA2A" />
-        <STAR Name="PULON2" />
-        <STAR Name="SCUBA2" />
-        <STAR Name="SCUB2A" />
-        <STAR Name="TEPAM2" />
-        <STAR Name="TEPA2A" />
-        <STAR Name="VIRAR2" />
-        <STAR Name="VIRA2A" />
+        <STAR Name="ADKAD2" ApproachName="LOC" />
+        <STAR Name="GOPRA2" ApproachName="LOC" />
+        <STAR Name="GOPR2A" ApproachName="LOC" />
+        <STAR Name="MESUS2" ApproachName="LOC" />
+        <STAR Name="NIPOG2" ApproachName="LOC" />
+        <STAR Name="NIPO2A" ApproachName="LOC" />
+        <STAR Name="NISAS2" ApproachName="LOC" />
+        <STAR Name="NISA2A" ApproachName="LOC" />
+        <STAR Name="ONIBA2" ApproachName="LOC" />
+        <STAR Name="ONIB2A" ApproachName="LOC" />
+        <STAR Name="POXAK2" ApproachName="LOC" />
+        <STAR Name="POXA2A" ApproachName="LOC" />
+        <STAR Name="PULON2" ApproachName="LOC" />
+        <STAR Name="SCUBA2" ApproachName="LOC" />
+        <STAR Name="SCUB2A" ApproachName="LOC" />
+        <STAR Name="TEPAM2" ApproachName="LOC" />
+        <STAR Name="TEPA2A" ApproachName="LOC" />
+        <STAR Name="VIRAR2" ApproachName="LOC" />
+        <STAR Name="VIRA2A" ApproachName="LOC" />
       </Runway>
       <Runway Name="29" DataRunway="29">
         <SID Name="GOPR3W" />
         <SID Name="LTO3W" />
         <SID Name="NISA3W" />
+        <SID Name="OMNI" />
         <SID Name="ONIB3W" />
         <SID Name="POGO" />
         <SID Name="POXA3W" />
@@ -1831,7 +1784,6 @@ TODOT/
 ANUPA
 </Airway>
     <Airway Name="Z12">
-DIL VOR/
 BACAU/
 ELBIS
 </Airway>
@@ -1980,6 +1932,7 @@ DIL VOR
     <Point Name="ARTOP" Type="Fix">-005241.000+1800000.000</Point>
     <Point Name="ARURA" Type="Fix">-023545.121+1764000.300</Point>
     <Point Name="ASAGU" Type="Fix">-002739.910+1664633.960</Point>
+    <Point Name="ASEVO" Type="Fix">-085401.580+1474532.640</Point>
     <Point Name="ASIXA" Type="Fix">-090426.501+1431244.798</Point>
     <Point Name="ATELO" Type="Fix">-042456.000+1390525.000</Point>
     <Point Name="ATGAP" Type="Fix">-045209.401+1440210.021</Point>
@@ -2817,6 +2770,7 @@ DIL VOR
     <Point Name="MOKIN" Type="Fix">-062412.000+1533312.000</Point>
     <Point Name="MOLSI" Type="Fix">-153939.380+1680121.968</Point>
     <Point Name="MOMTA" Type="Fix">-300000.000+1794329.089</Point>
+    <Point Name="MONDO" Type="Fix">-060938.400+1452353.280</Point>
     <Point Name="MORBE" Type="Fix">-074256.761+1473630.841</Point>
     <Point Name="MORNA" Type="Fix">-030000.000+1651000.000</Point>
     <Point Name="MOSVI" Type="Fix">-084847.048+1603623.749</Point>
@@ -2939,6 +2893,7 @@ DIL VOR
     <Point Name="ODONU" Type="Fix">-083021.960+1252908.090</Point>
     <Point Name="OGEVE" Type="Fix">+070120.791+1710555.190</Point>
     <Point Name="OHAFU" Type="Fix">+070005.198+1582458.961</Point>
+    <Point Name="OKEMU" Type="Fix">-061500.180+1452650.580</Point>
     <Point Name="OKOLE" Type="Fix">+060400.000+1503100.000</Point>
     <Point Name="OKOMM" Type="Fix">-050601.631+1421504.889</Point>
     <Point Name="OKTUX" Type="Fix">-041800.922+1470415.712</Point>
@@ -3264,6 +3219,7 @@ DIL VOR
     <Point Name="TOKAS" Type="Fix">-194233.300+1691754.211</Point>
     <Point Name="TOLUS" Type="Fix">-151517.000+1775544.000</Point>
     <Point Name="TOMAR" Type="Fix">-410814.482+1630000.000</Point>
+    <Point Name="TOMER" Type="Fix">-061756.190+1454329.560</Point>
     <Point Name="TOMIK" Type="Fix">-163827.000-1795823.000</Point>
     <Point Name="TOMOM" Type="Fix">-090420.251+1474631.141</Point>
     <Point Name="TONBE" Type="Fix">+084638.392+1675502.431</Point>
@@ -3315,6 +3271,7 @@ DIL VOR
     <Point Name="UNTIS" Type="Fix">-065947.789+1443849.049</Point>
     <Point Name="UNVAT" Type="Fix">-254809.900+1495346.500</Point>
     <Point Name="UNVUN" Type="Fix">-070013.900+1393917.600</Point>
+    <Point Name="UPDEL" Type="Fix">-090618.550+1474338.220</Point>
     <Point Name="UPDIX" Type="Fix">-023254.359+1700000.000</Point>
     <Point Name="UPLAR" Type="Fix">-353355.220+1710535.290</Point>
     <Point Name="UPNUM" Type="Fix">-060642.000+1401600.000</Point>
@@ -3468,6 +3425,13 @@ DIL VOR
     <Point Name="YDUSM" Type="Fix">-090528.849+1431244.629</Point>
     <Point Name="YEBFO" Type="Fix">+065714.558+1582907.649</Point>
     <Point Name="YETNI" Type="Fix">+071759.572+1514421.671</Point>
+    <Point Name="YGASA" Type="Fix">-062837.960+1453014.880</Point>
+    <Point Name="YGASF" Type="Fix">-061507.330+1452422.160</Point>
+    <Point Name="YGASG" Type="Fix">-061337.070+1452413.890</Point>
+    <Point Name="YGASH" Type="Fix">-061504.590+1453042.120</Point>
+    <Point Name="YGASI" Type="Fix">-061950.250+1452446.980</Point>
+    <Point Name="YGASY" Type="Fix">-060831.440+1452347.440</Point>
+    <Point Name="YGASZ" Type="Fix">-060918.600+1452351.580</Point>
     <Point Name="YGNWD" Type="Fix">-102141.051+1495756.009</Point>
     <Point Name="YGNWF" Type="Fix">-101702.738+1501015.751</Point>
     <Point Name="YGNWH" Type="Fix">-102218.869+1502523.081</Point>
@@ -3500,6 +3464,12 @@ DIL VOR
     <Point Name="YHKWH" Type="Fix">-052026.711+1502423.152</Point>
     <Point Name="YHKWI" Type="Fix">-052012.739+1501610.340</Point>
     <Point Name="YHKWM" Type="Fix">-052639.340+1502310.162</Point>
+    <Point Name="YJB34" Type="Fix">-053932.720+1513031.570</Point>
+    <Point Name="YJBSA" Type="Fix">-054759.170+1513806.060</Point>
+    <Point Name="YJBSB" Type="Fix">-055410.870+1513437.590</Point>
+    <Point Name="YJBSC" Type="Fix">-055042.060+1512826.430</Point>
+    <Point Name="YJBSF" Type="Fix">-054430.400+1513154.940</Point>
+    <Point Name="YJBSI" Type="Fix">-054920.640+1513316.260</Point>
     <Point Name="YKAND" Type="Fix">-082502.010+1505359.708</Point>
     <Point Name="YKANE" Type="Fix">-081927.008+1505525.709</Point>
     <Point Name="YKANF" Type="Fix">-082704.252+1510200.211</Point>
@@ -3514,6 +3484,19 @@ DIL VOR
     <Point Name="YKASH" Type="Fix">-082655.410+1510152.568</Point>
     <Point Name="YKASI" Type="Fix">-083825.530+1511148.660</Point>
     <Point Name="YKASM" Type="Fix">-083043.988+1510509.920</Point>
+    <Point Name="YKC17" Type="Fix">-061112.220+1493250.130</Point>
+    <Point Name="YKC35" Type="Fix">-061156.380+1493256.970</Point>
+    <Point Name="YKCND" Type="Fix">-060028.820+1492624.180</Point>
+    <Point Name="YKCNE" Type="Fix">-055629.450+1493033.450</Point>
+    <Point Name="YKCNF" Type="Fix">-060625.230+1493205.680</Point>
+    <Point Name="YKCNH" Type="Fix">-061510.530+1493327.050</Point>
+    <Point Name="YKCNI" Type="Fix">-060127.340+1493119.560</Point>
+    <Point Name="YKCSA" Type="Fix">-062229.970+1493921.690</Point>
+    <Point Name="YKCSB" Type="Fix">-062629.400+1493512.280</Point>
+    <Point Name="YKCSC" Type="Fix">-062356.790+1493002.080</Point>
+    <Point Name="YKCSF" Type="Fix">-061633.630+1493339.930</Point>
+    <Point Name="YKCSH" Type="Fix">-060758.070+1493220.060</Point>
+    <Point Name="YKCSI" Type="Fix">-062131.520+1493426.100</Point>
     <Point Name="YKIEA" Type="Fix">-094743.901+1433719.499</Point>
     <Point Name="YKIEB" Type="Fix">-095329.299+1433736.098</Point>
     <Point Name="YKIEC" Type="Fix">-095542.701+1433214.399</Point>
@@ -3542,6 +3525,12 @@ DIL VOR
     <Point Name="YKMSH" Type="Fix">-080034.430+1454211.048</Point>
     <Point Name="YKMSI" Type="Fix">-080803.361+1454822.651</Point>
     <Point Name="YKMSM" Type="Fix">-075839.490+1454651.179</Point>
+    <Point Name="YKONA" Type="Fix">-083738.300+1474426.630</Point>
+    <Point Name="YKONF" Type="Fix">-084604.040+1473923.790</Point>
+    <Point Name="YKONI" Type="Fix">-083828.210+1473823.280</Point>
+    <Point Name="YKONM" Type="Fix">-085133.400+1474338.150</Point>
+    <Point Name="YKONX" Type="Fix">-085550.300+1475051.390</Point>
+    <Point Name="YKONY" Type="Fix">-085559.580+1465655.000</Point>
     <Point Name="YKVED" Type="Fix">-023759.902+1510114.430</Point>
     <Point Name="YKVEE" Type="Fix">-024345.739+1510114.160</Point>
     <Point Name="YKVEF" Type="Fix">-023759.480+1505303.311</Point>
@@ -3556,6 +3545,20 @@ DIL VOR
     <Point Name="YKVNH" Type="Fix">-023723.149+1505211.820</Point>
     <Point Name="YKVNI" Type="Fix">-022838.629+1503948.578</Point>
     <Point Name="YKVNM" Type="Fix">-023429.989+1504806.419</Point>
+    <Point Name="YKW15" Type="Fix">-075819.350+1424910.680</Point>
+    <Point Name="YKW33" Type="Fix">-075850.980+1424928.420</Point>
+    <Point Name="YKWND" Type="Fix">-075037.290+1423926.140</Point>
+    <Point Name="YKWNE" Type="Fix">-074525.960+1424157.050</Point>
+    <Point Name="YKWNF" Type="Fix">-075412.170+1424652.030</Point>
+    <Point Name="YKWNG" Type="Fix">-074600.840+1424741.940</Point>
+    <Point Name="YKWNH" Type="Fix">-080057.190+1425039.240</Point>
+    <Point Name="YKWNI" Type="Fix">-074949.070+1424424.510</Point>
+    <Point Name="YKWSA" Type="Fix">-080633.020+1425913.450</Point>
+    <Point Name="YKWSB" Type="Fix">-081144.400+1425642.620</Point>
+    <Point Name="YKWSC" Type="Fix">-081109.600+1425057.310</Point>
+    <Point Name="YKWSF" Type="Fix">-080258.310+1425147.220</Point>
+    <Point Name="YKWSH" Type="Fix">-075613.130+1424759.870</Point>
+    <Point Name="YKWSI" Type="Fix">-080721.360+1425414.890</Point>
     <Point Name="YKYEA" Type="Fix">-030612.398+1524841.400</Point>
     <Point Name="YKYEB" Type="Fix">-031318.649+1524850.310</Point>
     <Point Name="YKYEC" Type="Fix">-031327.581+1524146.230</Point>
@@ -3643,6 +3646,13 @@ DIL VOR
     <Point Name="YTBSF" Type="Fix">-052842.031+1412200.620</Point>
     <Point Name="YTBSI" Type="Fix">-053248.401+1412453.978</Point>
     <Point Name="YTBSM" Type="Fix">-052435.640+1411907.309</Point>
+    <Point Name="YTESB" Type="Fix">-052433.780+1415249.760</Point>
+    <Point Name="YTESC" Type="Fix">-053236.420+1413633.260</Point>
+    <Point Name="YTESF" Type="Fix">-051538.250+1414443.310</Point>
+    <Point Name="YTESH" Type="Fix">-050302.140+1413150.970</Point>
+    <Point Name="YTESI" Type="Fix">-052050.890+1414927.250</Point>
+    <Point Name="YTESM" Type="Fix">-050812.800+1413758.940</Point>
+    <Point Name="YTESZ" Type="Fix">-051335.300+1414251.670</Point>
     <Point Name="YTKSD" Type="Fix">-041737.432+1523433.269</Point>
     <Point Name="YTKSF" Type="Fix">-042159.209+1522803.299</Point>
     <Point Name="YTKSG" Type="Fix">-042911.422+1523109.480</Point>
@@ -3731,7 +3741,6 @@ DIL VOR
     <Point Name="PNI" Type="Navaid" NavaidType="NDB" Frequency="366.000">+065856.381+1581207.430</Point>
     <Point Name="RM" Type="Navaid" NavaidType="NDB" Frequency="277.000">-122853.602+1770417.900</Point>
     <Point Name="SON" Type="Navaid" NavaidType="NDB" Frequency="412.000">-153022.291+1671259.620</Point>
-    <Point Name="TH" Type="Navaid" NavaidType="NDB" Frequency="256.000">-204725.000+1651520.200</Point>
     <Point Name="TKK" Type="Navaid" NavaidType="NDB" Frequency="375.000">+072732.242+1515030.559</Point>
     <Point Name="UKS" Type="Navaid" NavaidType="NDB" Frequency="393.000">+052111.048+1625724.869</Point>
     <Point Name="VK" Type="Navaid" NavaidType="NDB" Frequency="405.000">-174705.000+1772510.200</Point>
@@ -3902,33 +3911,15 @@ DIL VOR
     <Point Name="YXM" Type="Navaid" NavaidType="VOR" Frequency="113.700">-060319.789+1425222.051</Point>
   </Intersections>
   <SIDSTARs>
-    <SID Name="ASTRO1" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">-092707.268+1471337.110/PY VOR/DOMRA/KALKO</Route>
-      <Route Runway="14R">-092641.032+1471309.149/PY VOR/DOMRA/KALKO</Route>
-      <Route Runway="32L">-092605.129+1471246.969/PY VOR/DOMRA/KALKO</Route>
-      <Route Runway="32R">-092551.179+1471250.069/PY VOR/DOMRA/KALKO</Route>
-    </SID>
-    <SID Name="ASTRO2" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">-092707.268+1471337.110/PY VOR/KAPKI</Route>
-      <Route Runway="14R">-092641.032+1471309.149/PY VOR/KAPKI</Route>
-      <Route Runway="32L">-092605.129+1471246.969/PY VOR/KAPKI</Route>
-      <Route Runway="32R">-092551.179+1471250.069/PY VOR/KAPKI</Route>
-    </SID>
-    <SID Name="GALLEY" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">-092707.268+1471337.110/PY VOR/SAKTO</Route>
-      <Route Runway="14R">-092641.032+1471309.149/PY VOR/SAKTO</Route>
-      <Route Runway="32L">-092605.129+1471246.969/PY VOR/SAKTO</Route>
-      <Route Runway="32R">-092551.179+1471250.069/PY VOR/SAKTO</Route>
+    <SID Name="TOMER1" Airport="AYGA" Runways="17R">
+      <Route Runway="17R">-060532.791+1452331.762/MONDO/OKEMU</Route>
+      <Transition Name="MUDIX">-061644.927+1453644.501/-061659.359+1453715.641/-061727.368+1453735.322/-061801.405+1453738.277/-061832.351+1453723.713/-061851.913+1453655.533/-061854.850+1453621.288/-061840.373+1453550.154/-061818.300+1453533.025/MUDIX</Transition>
+      <Transition Name="MUKIK">TOMER/MUKIK</Transition>
+      <Transition Name="OMBOG">TOMER/OMBOG</Transition>
     </SID>
     <SID Name="GUNKI1" Airport="AYPY" Runways="14L,32R">
       <Route Runway="14L">-092707.268+1471337.110/-092941.126+1471511.586/RIRGO/GUNKI</Route>
       <Route Runway="32R">-092551.179+1471250.069/ANLOB/BELUP/GUNKI</Route>
-    </SID>
-    <SID Name="KOKODA" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">-092707.268+1471337.110/PY VOR/RUPNO</Route>
-      <Route Runway="14R">-092641.032+1471309.149/PY VOR/RUPNO</Route>
-      <Route Runway="32L">-092605.129+1471246.969/PY VOR/RUPNO</Route>
-      <Route Runway="32R">-092551.179+1471250.069/PY VOR/RUPNO</Route>
     </SID>
     <SID Name="LOTGU1" Airport="AYPY" Runways="14L,32R">
       <Route Runway="14L">-092707.268+1471337.110/-092941.126+1471511.586/LOTGU</Route>
@@ -3939,7 +3930,7 @@ DIL VOR
       <Route Runway="32R">-092551.179+1471250.069/ANLOB/VEDNU/KAKRA/NUPTA</Route>
     </SID>
     <SID Name="ODOGA1" Airport="AYPY" Runways="14L,32R">
-      <Route Runway="14L">-092707.268+1471337.110/-093540.101+1471852.122/BODUX/KAKRA/LELID/ODOGA</Route>
+      <Route Runway="14L">-092707.268+1471337.110/-093540.101+1471852.122/BODUX/KAKRA/OVPED/LELID/ODOGA</Route>
       <Route Runway="32R">-092551.179+1471250.069/ANLOB/LELID/ODOGA</Route>
     </SID>
     <SID Name="RUKVI1" Airport="AYPY" Runways="14L,32R">
@@ -4089,117 +4080,102 @@ DIL VOR
     <SID Name="VOR" Airport="NVVV" Runways="11">
       <Route Runway="11">-174213.219+1681942.139/-174452.075+1682337.179</Route>
     </SID>
-    <SID Name="IP1A" Airport="NWWM" Runways="17">
-      <Route Runway="17">-221547.452+1662822.649/-221649.784+1662825.064/-221714.732+1662836.155/-221901.291+1663102.518/PIROG/-221929.980+1664128.358/-222019.063+1664317.123/NORAC/MISGA/IP NDB</Route>
-    </SID>
-    <SID Name="IP2B" Airport="NWWM" Runways="35">
-      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-221911.555+1663542.625/PIROG/-222304.920+1664348.928/NORAC/MISGA/IP NDB</Route>
-    </SID>
     <SID Name="IP1C" Airport="NWWM" Runways="17">
-      <Route Runway="17">-221547.452+1662822.649/-221649.095+1662824.946/-221712.419+1662834.467/NORAC/MISGA/IP NDB</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221647.391+1662824.345/-221658.218+1662826.167/-221708.234+1662830.986/-221712.322+1662834.106/-221924.000+1663006.000/NORAC/MISGA/IP NDB</Route>
     </SID>
     <SID Name="IP2F" Airport="NWWM" Runways="35">
-      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-222112.561+1663651.379/NORAC/MISGA/IP NDB</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221414.400+1662820.046/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-222112.561+1663651.379/NORAC/MISGA/IP NDB</Route>
     </SID>
     <SID Name="LTO3A" Airport="NWWM" Runways="17">
-      <Route Runway="17">-221547.452+1662822.649/-221632.671+1662824.099/-221640.765+1662824.206/MGA VOR/-221905.643+1662822.586/-221933.562+1662809.226/-221951.774+1662742.735/-221955.557+1662709.982/-221731.906+1662200.900/-221712.510+1662137.160/-221645.022+1662126.192/LTO VOR</Route>
+      <Route Runway="17">-221547.452+1662822.649/MGA VOR/-221922.422+1662815.731/-221942.262+1662754.445/-221949.597+1662725.286/-221944.749+1662700.989/-221737.000+1662201.000/LTO VOR</Route>
     </SID>
     <SID Name="LTO4B" Airport="NWWM" Runways="35">
-      <Route Runway="35">-221514.339+1662821.742/-221402.403+1662817.549/-221338.550+1662801.097/-221324.337+1662734.661/-221332.313+1662050.572/-221326.919+1662021.739/LTO VOR</Route>
-    </SID>
-    <SID Name="LU1D" Airport="NWWM" Runways="17">
-      <Route Runway="17">-221547.452+1662822.649/-221649.784+1662825.064/-221714.732+1662836.155/-221901.291+1663102.518/-221905.094+1663537.575/-221835.500+1663631.841/-221745.733+1663704.612/KAORI/LU NDB</Route>
-    </SID>
-    <SID Name="LU2G" Airport="NWWM" Runways="35">
-      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-221600.671+1663354.243/KAORI/LU NDB</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221414.400+1662820.046/-221402.403+1662817.549/-221338.550+1662801.097/-221324.337+1662734.661/-221332.313+1662050.572/-221326.919+1662021.739/LTO VOR</Route>
     </SID>
     <SID Name="MG1" Airport="NWWM" Runways="17">
-      <Route Runway="17">-221547.452+1662822.649/-221720.571+1662901.735/-221701.351+1663004.474/-221927.077+1663531.148</Route>
-    </SID>
-    <SID Name="MR1A" Airport="NWWM" Runways="17">
-      <Route Runway="17">-221547.452+1662822.649/-221649.784+1662825.064/-221714.732+1662836.155/-221901.291+1663102.518/PIROG/-221928.638+1664129.163/-221918.970+1664157.564/KAORI/OUANA/MR NDB</Route>
-    </SID>
-    <SID Name="MR2B" Airport="NWWM" Runways="35">
-      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-221911.555+1663542.625/PIROG/-221928.638+1664129.163/-221918.970+1664157.564/KAORI/OUANA/MR NDB</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221647.391+1662824.345/-221658.218+1662826.167/-221708.234+1662830.986/-221716.755+1662838.442/-221723.200+1662848.028/-221726.863+1662858.074/-221733.000+1663130.000/-221946.697+1663620.049</Route>
     </SID>
     <SID Name="MR1C" Airport="NWWM" Runways="17">
-      <Route Runway="17">-221547.452+1662822.649/-221649.095+1662824.946/-221712.419+1662834.467/NORAC/-222352.189+1664554.524/-222347.790+1664627.202/-222257.744+1664731.431/OUANA/MR NDB</Route>
-    </SID>
-    <SID Name="MR1D" Airport="NWWM" Runways="17">
-      <Route Runway="17">-221547.452+1662822.649/-221649.784+1662825.064/-221714.732+1662836.155/-221901.291+1663102.518/-221905.094+1663537.575/-221835.500+1663631.841/-221745.733+1663704.612/KAORI/OUANA/MR NDB</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221647.391+1662824.345/-221658.218+1662826.167/-221708.234+1662830.986/-221712.322+1662834.106/-221924.000+1663006.000/NORAC/OUANA/MR NDB</Route>
     </SID>
     <SID Name="MR2F" Airport="NWWM" Runways="35">
-      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-222112.561+1663651.379/NORAC/-222352.189+1664554.524/-222347.790+1664627.202/-222257.744+1664731.431/OUANA/MR NDB</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221414.400+1662820.046/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-222112.561+1663651.379/NORAC/OUANA/MR NDB</Route>
     </SID>
-    <SID Name="MR2G" Airport="NWWM" Runways="35">
-      <Route Runway="35">-221514.339+1662821.742/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-221600.671+1663354.243/KAORI/OUANA/MR NDB</Route>
+    <SID Name="OMNIE" Airport="NWWM" Runways="17,35">
+      <Route Runway="17">-221547.452+1662822.649/-221647.391+1662824.345/-221658.218+1662826.167/-221708.234+1662830.986/-221716.755+1662838.442/-221723.200+1662848.028/-221726.863+1662858.074/-221901.291+1663102.518/-221927.088+1664150.077</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221414.400+1662820.046/-221341.705+1662827.680/-221251.749+1662902.430/-221223.364+1662958.811/-221223.513+1663102.989/-221252.160+1663159.216/-221911.000+1663540.000/-221918.814+1663854.265</Route>
+    </SID>
+    <SID Name="OMNIS" Airport="NWWM" Runways="17">
+      <Route Runway="17">-221547.452+1662822.649/-221647.391+1662824.345/MGA VOR</Route>
+    </SID>
+    <SID Name="OMNIW" Airport="NWWM" Runways="17,35">
+      <Route Runway="17">-221547.452+1662822.649/-221647.391+1662824.345/MGA VOR/-221922.346+1662815.424/-221941.977+1662753.913/-221949.028+1662724.672/-221943.943+1662700.432/-221835.000+1662440.000</Route>
+      <Route Runway="35">-221514.339+1662821.742/-221414.400+1662820.046/-221402.403+1662817.549/-221338.550+1662801.097/-221324.337+1662734.661/-221332.313+1662050.572/-221336.990+1661736.321</Route>
     </SID>
     <SID Name="SEP1A" Airport="NWWM" Runways="17">
-      <Route Runway="17">-221547.452+1662822.649/-221649.784+1662825.064/-221714.732+1662836.155/-221901.291+1663102.518/PIROG</Route>
+      <Route Runway="17">-221547.452+1662822.649/-221647.391+1662824.345/-221658.218+1662826.167/-221708.234+1662830.986/-221716.755+1662838.442/-221723.200+1662848.028/-221726.863+1662858.074/-221901.291+1663102.518/-221927.088+1664150.077</Route>
     </SID>
     <SID Name="GOPR3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220316.935+1661459.068/-220317.641+1661439.914/NW NDB/TOSAM/GOPRA</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220316.935+1661459.068/-220317.641+1661439.914/NW NDB/-215336.000+1660056.000/TOSAM/GOPRA</Route>
     </SID>
     <SID Name="GOPR3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">-220025.049+1661158.319/NW NDB/TOSAM/GOPRA</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215906.934+1660940.339/NW NDB/-215336.000+1660056.000/TOSAM/GOPRA</Route>
     </SID>
     <SID Name="LTO3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">-220119.650+1661335.371/-220218.475+1661516.926/-220233.446+1661525.570/-220250.423+1661525.842/-220803.155+1661205.235/-220839.361+1661125.861/-220853.851+1661032.608/-220843.115+1660938.330/-220809.740+1660856.115/-220721.777+1660836.139/-220630.788+1660843.218/LTO VOR</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220814.855+1661153.166/-220852.364+1661110.753/-220905.147+1661013.717/-220849.798+1660917.423/-220810.432+1660836.962/-220717.602+1660823.177/-220630.588+1660836.672/LTO VOR</Route>
     </SID>
     <SID Name="LTO3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">-220025.049+1661158.319/-215904.584+1660923.424/-215906.065+1660903.626/-215916.439+1660847.210/-220323.808+1660608.040/-220417.226+1660600.627/-220507.475+1660621.543/-220542.438+1660705.754/-220553.686+1660802.600/-220538.506+1660858.368/-220500.557+1660939.613/LTO VOR</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215906.934+1660940.339/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-220231.103+1660638.954/-220324.839+1660603.562/-220416.924+1660546.938/-220509.754+1660600.719/-220549.120+1660641.164/-220604.469+1660737.438/-220551.686+1660834.455/-220519.079+1660913.418/LTO VOR</Route>
     </SID>
     <SID Name="NISA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">-220119.650+1661335.371/-220218.793+1661517.231/-220234.475+1661525.841/-220252.068+1661525.395/-220307.359+1661516.003/-220316.694+1661459.907/-220310.303+1660637.769/BEDON/NISAS</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220316.935+1661459.068/-220317.641+1661439.914/-220310.303+1660637.769/BEDON/NISAS</Route>
     </SID>
     <SID Name="NISA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">-220025.049+1661158.319/-215904.584+1660923.424/-215906.065+1660903.626/-215916.439+1660847.210/BEDON/NISAS</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215906.934+1660940.339/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-220231.103+1660638.954/-220324.839+1660603.562/-220330.000+1660558.000/BEDON/NISAS</Route>
+    </SID>
+    <SID Name="OMNI" Airport="NWWW" Runways="11,29">
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220814.855+1661153.166</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215909.179+1660938.889</Route>
     </SID>
     <SID Name="ONIB3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220316.935+1661459.068/-220317.641+1661439.914/NW NDB/TOSAM/ONIBA</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220316.935+1661459.068/-220317.641+1661439.914/NW NDB/-215336.000+1660056.000/TOSAM/ONIBA</Route>
     </SID>
     <SID Name="ONIB3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">-220025.049+1661158.319/NW NDB/TOSAM/ONIBA</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215906.934+1660940.339/NW NDB/-215336.000+1660056.000/TOSAM/ONIBA</Route>
     </SID>
     <SID Name="POGO" Airport="NWWW" Runways="11,29">
-      <Route Runway="11">-220119.650+1661335.371/-220228.342+1661529.969/-220303.694+1661550.804/-220343.952+1661552.337/GIRAD/-221600.501+1661614.710/MAMIT</Route>
-      <Route Runway="29">-220025.049+1661158.319/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215933.342+1660838.410/-215951.805+1660839.894/-220007.139+1660851.084/GIRAD/-221600.501+1661614.710/MAMIT</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220736.000+1661423.000/GIRAD</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215906.934+1660940.339/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-220231.103+1660638.954/-220250.000+1660646.000/GIRAD</Route>
     </SID>
     <SID Name="POXA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">-220119.650+1661335.371/-220218.716+1661517.159/-220234.230+1661525.780/-220251.676+1661525.511/-220306.956+1661516.414/-220316.469+1661500.632/SUDOV/POXAK</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220316.935+1661459.068/-220543.000+1660702.000/SUDOV/POXAK</Route>
     </SID>
     <SID Name="POXA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">-220025.049+1661158.319/-215904.579+1660923.389/-215906.095+1660903.535/-215916.545+1660847.112/-215933.175+1660838.443/SUDOV/POXAK</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215906.934+1660940.339/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215933.342+1660838.410/-220418.000+1660830.000/SUDOV/POXAK</Route>
     </SID>
     <SID Name="SCUB3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">-220119.650+1661335.371/-220228.342+1661529.969/-220303.694+1661550.804/-220343.952+1661552.337/GIRAD/BASSA/SCUBA</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220736.000+1661423.000/GIRAD/BASSA/SCUBA</Route>
     </SID>
     <SID Name="SCUB3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">-220025.049+1661158.319/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215933.342+1660838.410/-215951.805+1660839.894/-220007.139+1660851.084/BASSA/SCUBA</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215906.934+1660940.339/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215933.342+1660838.410/-215951.805+1660839.894/-220352.000+1661331.000/BASSA/SCUBA</Route>
     </SID>
     <SID Name="TEPA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">-220119.650+1661335.371/-220218.876+1661517.308/-220234.748+1661525.907/-220252.497+1661525.265/-220307.797+1661515.542/-220316.925+1661459.104/-220317.651+1661439.959/-215942.160+1660809.258/SAMID/TEPAM</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220307.819+1661515.520/-220316.935+1661459.068/-220317.641+1661439.914/-215925.000+1660740.000/SAMID/TEPAM</Route>
     </SID>
     <SID Name="TEPA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">-220025.049+1661158.319/-215904.650+1660923.810/-215905.775+1660904.552/SAMID/TEPAM</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215906.934+1660940.339/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215932.000+1660825.000/SAMID/TEPAM</Route>
     </SID>
     <SID Name="VIRA3E" Airport="NWWW" Runways="11">
-      <Route Runway="11">-220119.650+1661335.371/-220228.342+1661529.969/-220303.694+1661550.804/-220343.952+1661552.337/GIRAD/BASSA/VIRAR</Route>
+      <Route Runway="11">-220119.650+1661335.371/-220218.880+1661517.312/-220234.760+1661525.910/-220252.516+1661525.259/-220736.000+1661423.000/GIRAD/BASSA/VIRAR</Route>
     </SID>
     <SID Name="VIRA3W" Airport="NWWW" Runways="29">
-      <Route Runway="29">-220025.049+1661158.319/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215933.342+1660838.410/-215951.805+1660839.894/-220007.139+1660851.084/BASSA/VIRAR</Route>
+      <Route Runway="29">-220025.049+1661158.319/-215906.934+1660940.339/-215904.573+1660923.356/-215906.120+1660903.457/-215916.639+1660847.025/-215933.342+1660838.410/-215951.805+1660839.894/-220352.000+1661331.000/BASSA/VIRAR</Route>
     </SID>
     <STAR Name="GUGPU1" Airport="AYMH" Runways="08,12,26,30">
       <Route Runway="08">GUGPU/ESNON/YABAL/YMHEB</Route>
       <Route Runway="12">GUGPU/ESNON/YABAL/YMHEB</Route>
       <Route Runway="26">GUGPU/ESNON/YABAL/YMHEB</Route>
       <Route Runway="30">GUGPU/ESNON/YABAL/YMHEB</Route>
-    </STAR>
-    <STAR Name="ASTROL" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">NIXUT/IRNUS/TESEM</Route>
-      <Route Runway="14R">NIXUT/IRNUS/TESEM</Route>
-      <Route Runway="32L">NIXUT/IRNUS/TESEM</Route>
-      <Route Runway="32R">NIXUT/IRNUS/TESEM</Route>
     </STAR>
     <STAR Name="ENTO1A" Airport="AYPY" Runways="14L,32R">
       <Route Runway="14L">ENTOG/DOVLU/EMVUD/ATSIM/ADLEV/DAPLO/VIMIB</Route>
@@ -4212,33 +4188,9 @@ DIL VOR
       <Route Runway="14L">GUMBU/BUVEN/ADLEV/DAPLO/VIMIB</Route>
       <Route Runway="32R">GUMBU/UGREK/SARAB/ISLOK</Route>
     </STAR>
-    <STAR Name="HIRI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">-083458.852+1465623.660/PY VOR</Route>
-      <Route Runway="14R">-083458.852+1465623.660/PY VOR</Route>
-      <Route Runway="32L">-083458.852+1465623.660/PY VOR</Route>
-      <Route Runway="32R">-083458.852+1465623.660/PY VOR</Route>
-    </STAR>
-    <STAR Name="KOKODA" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">RUPNO/PY VOR</Route>
-      <Route Runway="14R">RUPNO/PY VOR</Route>
-      <Route Runway="32L">RUPNO/PY VOR</Route>
-      <Route Runway="32R">RUPNO/PY VOR</Route>
-    </STAR>
-    <STAR Name="LALOKI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">EMPRA/STARF/ANLOB</Route>
-      <Route Runway="14R">EMPRA/STARF/ANLOB</Route>
-      <Route Runway="32L">EMPRA/STARF/ANLOB</Route>
-      <Route Runway="32R">EMPRA/STARF/ANLOB</Route>
-    </STAR>
     <STAR Name="LOTGU1" Airport="AYPY" Runways="14L,32R">
       <Route Runway="14L">LOTGU/ATSIM/ADLEV/DAPLO/VIMIB</Route>
       <Route Runway="32R">LOTGU/UGOTO/SARAB/ISLOK</Route>
-    </STAR>
-    <STAR Name="MAGI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">-100526.220+1474525.585/PY VOR</Route>
-      <Route Runway="14R">-100526.220+1474525.585/PY VOR</Route>
-      <Route Runway="32L">-100526.220+1474525.585/PY VOR</Route>
-      <Route Runway="32R">-100526.220+1474525.585/PY VOR</Route>
     </STAR>
     <STAR Name="MUDOV1" Airport="AYPY" Runways="14L,32R">
       <Route Runway="14L">MUDOV/MIMEP/MEVOR/AKVAT/DAPLO/VIMIB</Route>
@@ -4248,21 +4200,9 @@ DIL VOR
       <Route Runway="14L">NUPTA/EMVUD/ATSIM/ADLEV/DAPLO/VIMIB</Route>
       <Route Runway="32R">NUPTA/IDRUL/SARAB/ISLOK</Route>
     </STAR>
-    <STAR Name="PARER" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">GUARI/LELID/ANLOB</Route>
-      <Route Runway="14R">GUARI/LELID/ANLOB</Route>
-      <Route Runway="32L">GUARI/LELID/ANLOB</Route>
-      <Route Runway="32R">GUARI/LELID/ANLOB</Route>
-    </STAR>
     <STAR Name="SAKTO1" Airport="AYPY" Runways="14L,32R">
       <Route Runway="14L">SAKTO/VANGI/DAPLO/VIMIB</Route>
       <Route Runway="32R">SAKTO/OPARO/POKUM/UGREK/SARAB/ISLOK</Route>
-    </STAR>
-    <STAR Name="TAVAI" Airport="AYPY" Runways="14L,14R,32L,32R">
-      <Route Runway="14L">-102420.232+1465250.584/SHAOL/TESEM</Route>
-      <Route Runway="14R">-102420.232+1465250.584/SHAOL/TESEM</Route>
-      <Route Runway="32L">-102420.232+1465250.584/SHAOL/TESEM</Route>
-      <Route Runway="32R">-102420.232+1465250.584/SHAOL/TESEM</Route>
     </STAR>
     <STAR Name="UNSAM1" Airport="AYPY" Runways="14L,32R">
       <Route Runway="14L">UNSAM/ATSIM/ADLEV/DAPLO/VIMIB</Route>
@@ -4320,12 +4260,6 @@ DIL VOR
     <STAR Name="OA1N" Airport="NWWM" Runways="35">
       <Route Runway="35">OA NDB/OBOLI/MGA VOR</Route>
     </STAR>
-    <STAR Name="TH1N" Airport="NWWM" Runways="35">
-      <Route Runway="35">TH NDB/LTO VOR/GIRAD/-221600.659+1661613.879/MAMIT</Route>
-    </STAR>
-    <STAR Name="TH1T" Airport="NWWM" Runways="35">
-      <Route Runway="35">TH NDB/LTO VOR/TIMDU/MGA VOR</Route>
-    </STAR>
     <STAR Name="ADKAD2" Airport="NWWW" Runways="11">
       <Route Runway="11">ADKAD/BAPUS/LTO VOR</Route>
     </STAR>
@@ -4333,7 +4267,7 @@ DIL VOR
       <Route Runway="11">GOPRA/BASAR/LTO VOR</Route>
     </STAR>
     <STAR Name="GOPR2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">GOPRA/SARAM/-214254.681+1655323.970/-214508.460+1655119.324/-214734.929+1654932.452/TOSAM</Route>
+      <Route Runway="11">GOPRA/-213607.000+1655951.000/-213654.000+1655957.000/-213736.000+1655950.000/-213808.000+1655941.000/-213831.000+1655926.000/-213840.015+1655915.111/SARAM/-214254.681+1655323.970/-214508.460+1655119.324/TOSAM</Route>
     </STAR>
     <STAR Name="MESUS2" Airport="NWWW" Runways="11">
       <Route Runway="11">MESUS/ADORA/LTO VOR</Route>
@@ -4342,7 +4276,7 @@ DIL VOR
       <Route Runway="11">NIPOG/LECNA/DETIS/LTO VOR</Route>
     </STAR>
     <STAR Name="NIPO2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">NIPOG/LECNA/SARAM/-214254.681+1655323.970/-214508.460+1655119.324/-214734.929+1654932.452/TOSAM</Route>
+      <Route Runway="11">NIPOG/LECNA/SARAM/-214254.681+1655323.970/-214508.460+1655119.324/TOSAM</Route>
     </STAR>
     <STAR Name="NISAS2" Airport="NWWW" Runways="11">
       <Route Runway="11">NISAS/KOKOL/PEPIT/LTO VOR</Route>
@@ -4360,7 +4294,7 @@ DIL VOR
       <Route Runway="11">POXAK/LATEM/SUDOV/LTO VOR</Route>
     </STAR>
     <STAR Name="POXA2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">POXAK/LATEM/SUDOV/PEPIT</Route>
+      <Route Runway="11">POXAK/LATEM/SUDOV/-221200.000+1660020.000/-221129.000+1660032.000/-221100.000+1660036.000/-221030.000+1660032.000/-220958.000+1660021.000/-220916.114+1655943.028/-220719.829+1655823.985/PEPIT</Route>
     </STAR>
     <STAR Name="PULON2" Airport="NWWW" Runways="11">
       <Route Runway="11">PULON/UVIKI/LTO VOR</Route>
@@ -4369,7 +4303,7 @@ DIL VOR
       <Route Runway="11">SCUBA/SONIT/ATSAR/LTO VOR</Route>
     </STAR>
     <STAR Name="SCUB2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">SCUBA/SONIT/ATSAR/-221518.911+1661229.067/-221506.568+1661001.197/-221433.487+1660737.096/-221340.439+1660520.152/-221228.676+1660313.568/-221059.873+1660120.310/-220916.114+1655943.028/-220719.829+1655823.985/PEPIT</Route>
+      <Route Runway="11">SCUBA/SONIT/ATSAR/-221714.000+1661635.000/-221642.000+1661608.000/-221616.000+1661538.000/-221555.000+1661506.000/-221538.000+1661434.000/-221518.911+1661229.067/-221506.568+1661001.197/-221433.487+1660737.096/-221340.439+1660520.152/-221228.676+1660313.568/-221059.873+1660120.310/-220916.114+1655943.028/-220719.829+1655823.985/PEPIT</Route>
     </STAR>
     <STAR Name="TEPAM2" Airport="NWWW" Runways="11">
       <Route Runway="11">TEPAM/SOTAL/SAMID/LTO VOR</Route>
@@ -4381,7 +4315,7 @@ DIL VOR
       <Route Runway="11">VIRAR/NULVI/LTO VOR</Route>
     </STAR>
     <STAR Name="VIRA2A" Airport="NWWW" Runways="11">
-      <Route Runway="11">VIRAR/NULVI/-221518.911+1661229.067/-221506.568+1661001.197/-221433.487+1660737.096/-221340.439+1660520.152/-221228.676+1660313.568/-221059.873+1660120.310/-220916.114+1655943.028/-220719.829+1655823.985/PEPIT</Route>
+      <Route Runway="11">VIRAR/NULVI/-221448.000+1662024.000/-221432.000+1661954.000/-221424.000+1661924.000/-221422.000+1661846.000/-221425.230+1661814.558/-221505.903+1661530.858/-221518.911+1661229.067/-221506.568+1661001.197/-221433.487+1660737.096/-221340.439+1660520.152/-221228.676+1660313.568/-221059.873+1660120.310/-220916.114+1655943.028/-220719.829+1655823.985/PEPIT</Route>
     </STAR>
     <Approach Name="RNPA" Airport="AYMH" Runway="08">
       <Transition Name="YMHEA">YMHEA</Transition>
@@ -4412,6 +4346,20 @@ DIL VOR
     <Approach Name="RNP-AR" Airport="NFFN" Runway="20">
       <Transition Name="MOTKI">MOTKI</Transition>
       <Route>MOTKI/FN664/-174801.358+1773207.150/-174709.905+1773221.575/-174616.650+1773221.522/-174525.223+1773207.000/-174513.291+1773201.155/NIREV/-174407.973+1773111.858/-174338.590+1773025.227/-174321.701+1772932.205/-174320.592+1772924.760/FN581/-174319.888+1772838.729/-174327.652+1772815.449/-174340.890+1772755.071/-174344.306+1772751.365/FN812/-174501.109+1772650.039</Route>
+    </Approach>
+    <Approach Name="VOR" Airport="NWWM" Runway="35">
+      <Transition Name="MAMIT">MAMIT/MG194/-222524.538+1662506.035/-222528.063+1662511.311/-222530.725+1662517.149/-222532.451+1662523.385/-222533.192+1662529.845/-222532.927+1662536.349/-222531.664+1662542.713/-222529.437+1662548.761/-222526.310+1662554.322/-222522.370+1662559.242/-222302.661+1662826.668</Transition>
+      <Transition Name="REDIK">REDIK/-222848.000+1662926.000/-222843.000+1662907.000/-222832.000+1662851.000/-222813.000+1662837.000/-222747.000+1662827.000/-222302.661+1662826.668</Transition>
+      <Route>MGA VOR/-221547.452+1662822.649</Route>
+    </Approach>
+    <Approach Name="LOC" Airport="NWWW" Runway="11">
+      <Transition Name="LTO VOR">LTO VOR/-215810.509+1660210.538</Transition>
+      <Transition Name="PEPIT">PEPIT</Transition>
+      <Transition Name="SAMID">SAMID</Transition>
+      <Transition Name="SARAM">SARAM/TOSAM</Transition>
+      <Transition Name="SUDOV">SUDOV/PEPIT</Transition>
+      <Transition Name="TOSAM">TOSAM</Transition>
+      <Route>NW NDB/-220025.049+1661158.319</Route>
     </Approach>
   </SIDSTARs>
   <Airports>
@@ -4451,6 +4399,7 @@ DIL VOR
       <Runway Name="24" Position="-092528.268+1600349.529" />
     </Airport>
     <Airport ICAO="AGGI" FullName="Babanakira" Position="-094447.807+1595022.448" Elevation="70" />
+    <Airport ICAO="AGGJ" FullName="Avu Avu" Position="-095211.399+1602440.799" />
     <Airport ICAO="AGGK" FullName="Kirakira" Position="-102630.000+1615348.000" Elevation="8">
       <Runway Name="10" Position="-102650.921+1615336.600" />
       <Runway Name="28" Position="-102705.659+1615413.500" />
@@ -4500,15 +4449,19 @@ DIL VOR
       <Runway Name="12" Position="-090534.210+1591306.881" />
       <Runway Name="30" Position="-090552.850+1591330.878" />
     </Airport>
+    <Airport ICAO="AGIN" FullName="Isuna Heliport" Position="-094820.912+1595745.792" />
     <Airport ICAO="AGKG" FullName="Kaghau" Position="-071954.000+1573512.000" Elevation="10">
       <Runway Name="14" Position="-071936.559+1573458.609" />
       <Runway Name="32" Position="-071959.092+1573511.130" />
     </Airport>
     <Airport ICAO="AGKU" FullName="Kukudu" Position="-080136.674+1565653.912" Elevation="20" />
+    <Airport ICAO="AGKW" FullName="Kwailibesi Pvt" Position="-082137.570+1604628.952" />
     <Airport ICAO="AGLM" FullName="Lomlom" Position="-101748.599+1661938.521" Elevation="6">
       <Runway Name="10" Position="-101727.229+1661910.711" />
       <Runway Name="28" Position="-101738.209+1661941.689" />
     </Airport>
+    <Airport ICAO="AGMU" FullName="Malu'u Heliport" Position="-082057.000+1603743.993" />
+    <Airport ICAO="AGNA" FullName="Naana" Position="-104033.280+1621217.582" />
     <Airport ICAO="AGOB" FullName="Manaoba" Position="-081916.799+1604745.000" Elevation="14">
       <Runway Name="12" Position="-081927.458+1604758.200" />
       <Runway Name="30" Position="-081944.108+1604819.840" />
@@ -4516,6 +4469,8 @@ DIL VOR
     <Airport ICAO="AGOK" FullName="Gatokae Pvt" Position="-084418.413+1581208.906" Elevation="29" />
     <Airport ICAO="AGRC" FullName="Ringicove Pvt" Position="-080730.414+1570835.358" Elevation="26" />
     <Airport ICAO="AGRM" FullName="Ramata Pvt" Position="-081006.366+1573834.062" Elevation="50" />
+    <Airport ICAO="AGTI" FullName="Tulaghi Heliport" Position="-090628.771+1600856.976" />
+    <Airport ICAO="AGVH" FullName="Viru Harbour" Position="-083027.238+1574118.676" />
     <Airport ICAO="ANYN" FullName="Nauru Intl" Position="-003240.920+1665501.679" Elevation="25">
       <Runway Name="12" Position="-003229.558+1665443.718" />
       <Runway Name="30" Position="-003311.048+1665532.459" />
@@ -4578,12 +4533,16 @@ DIL VOR
     <Airport ICAO="AYBY" FullName="Wuyabo" Position="-065021.840+1455223.160" />
     <Airport ICAO="AYBZ" FullName="Biniguni" Position="-093833.720+1491810.080" />
     <Airport ICAO="AYCB" FullName="Chungribu" Position="-044816.920+1444254.720" />
+    <Airport ICAO="AYCE" FullName="Mt Sinewit" Position="-044058.696+1515648.052" />
     <Airport ICAO="AYCG" FullName="Cape Gloucester" Position="-052723.400+1482509.480" />
     <Airport ICAO="AYCH" FullName="Chimbu" Position="-060127.000+1445812.000" Elevation="5000">
       <Runway Name="03" Position="-060138.359+1445805.858" />
       <Runway Name="21" Position="-060112.770+1445823.812" />
     </Airport>
+    <Airport ICAO="AYCK" FullName="Mt Penck" Position="-053120.003+1493854.564" />
+    <Airport ICAO="AYCL" FullName="Cape Lemeris" Position="-031459.600+1520128.780" />
     <Airport ICAO="AYCN" FullName="Changriwa" Position="-041948.000+1434417.880" />
+    <Airport ICAO="AYCR" FullName="Mt Scratchley" Position="-084354.354+1472617.596" />
     <Airport ICAO="AYCS" FullName="China Strait" Position="-103354.000+1504126.880" />
     <Airport ICAO="AYDA" FullName="Dahamo" Position="-054510.080+1415938.400" />
     <Airport ICAO="AYDB" FullName="Debepari" Position="-061825.560+1415412.240" />
@@ -4603,7 +4562,9 @@ DIL VOR
       <Runway Name="14" Position="-090456.798+1431211.750" />
       <Runway Name="32" Position="-090528.979+1431244.269" />
     </Airport>
+    <Airport ICAO="AYDV" FullName="Mt Andewa" Position="-053236.946+1485847.273" />
     <Airport ICAO="AYDW" FullName="Dewara" Position="-082259.520+1422700.720" />
+    <Airport ICAO="AYDX" FullName="Mt Doigo" Position="-095333.734+1480542.778" />
     <Airport ICAO="AYDY" FullName="Sindeni" Position="-070024.120+1454740.200" />
     <Airport ICAO="AYEA" FullName="Kerau" Position="-081611.280+1470413.800" />
     <Airport ICAO="AYEB" FullName="Embessa" Position="-092658.200+1484547.880" />
@@ -4625,12 +4586,14 @@ DIL VOR
     <Airport ICAO="AYEU" FullName="Elouaua" Position="-013333.120+1493754.480" />
     <Airport ICAO="AYEV" FullName="Erave" Position="-063621.600+1435401.080" />
     <Airport ICAO="AYEW" FullName="Siwea" Position="-061701.680+1473457.720" />
+    <Airport ICAO="AYEX" FullName="Mt Albert Edward" Position="-082443.744+1472412.568" />
     <Airport ICAO="AYEY" FullName="Mirsey" Position="-040333.480+1423942.480" />
     <Airport ICAO="AYEZ" FullName="Moropote" Position="-043508.880+1422009.960" />
     <Airport ICAO="AYFA" FullName="Fane" Position="-083252.800+1470510.680" />
     <Airport ICAO="AYFF" FullName="Faia" Position="-070935.760+1433151.460" />
     <Airport ICAO="AYFI" FullName="Finschhaffen" Position="-063652.920+1475114.400" />
     <Airport ICAO="AYFK" FullName="Foroko" Position="-051942.600+1445339.120" />
+    <Airport ICAO="AYFL" FullName="Mt Fala" Position="-085722.025+1474240.108" />
     <Airport ICAO="AYFM" FullName="Feranmin" Position="-051228.800+1414155.680" />
     <Airport ICAO="AYFO" FullName="Fogomaio" Position="-063038.520+1430449.800" />
     <Airport ICAO="AYFR" FullName="Freida River" Position="-043629.520+1415738.880" />
@@ -4691,15 +4654,19 @@ DIL VOR
     <Airport ICAO="AYHN" FullName="Habina" Position="-063952.200+1460002.520" />
     <Airport ICAO="AYHO" FullName="Haiwaro" Position="-065624.720+1430337.080" />
     <Airport ICAO="AYHQ" FullName="Hauna" Position="-041752.080+1421351.240" />
+    <Airport ICAO="AYHS" FullName="Mt Shungol" Position="-065148.197+1464256.264" />
     <Airport ICAO="AYHT" FullName="Hotmin" Position="-043443.320+1413333.120" />
     <Airport ICAO="AYHU" FullName="Hauwabaga" Position="-072334.800+1460004.680" />
     <Airport ICAO="AYHW" FullName="Haewenai" Position="-054318.480+1411913.080" />
     <Airport ICAO="AYHX" FullName="Herowana" Position="-063912.960+1451150.280" />
     <Airport ICAO="AYHY" FullName="Huya" Position="-061618.480+1424224.120" />
+    <Airport ICAO="AYHZ" FullName="Tahu" Position="-092950.892+1475441.299" />
     <Airport ICAO="AYIA" FullName="Nissan" Position="-042946.680+1541330.000" />
     <Airport ICAO="AYIB" FullName="Ibil" Position="-044102.040+1410150.880" />
+    <Airport ICAO="AYIC" FullName="Mt Ialibu" Position="-061406.713+1440442.427" />
     <Airport ICAO="AYID" FullName="Indagen" Position="-061335.760+1471446.680" />
     <Airport ICAO="AYIF" FullName="Kilifas" Position="-031253.280+1412151.120" />
+    <Airport ICAO="AYIG" FullName="Gumini" Position="-101910.740+1500658.928" />
     <Airport ICAO="AYIH" FullName="Ihu" Position="-075401.800+1452400.720" />
     <Airport ICAO="AYII" FullName="Imani" Position="-064506.480+1460632.400" />
     <Airport ICAO="AYIJ" FullName="Iaura" Position="-094659.880+1480600.000" />
@@ -4714,13 +4681,21 @@ DIL VOR
     <Airport ICAO="AYIS" FullName="Isan" Position="-055846.560+1463712.720" />
     <Airport ICAO="AYIT" FullName="Iteri" Position="-041431.200+1413126.400" />
     <Airport ICAO="AYIU" FullName="Ialibu" Position="-061645.480+1435948.120" />
+    <Airport ICAO="AYIV" FullName="Iagifu 5" Position="-062634.912+1431257.190" />
     <Airport ICAO="AYIW" FullName="Wasua" Position="-081702.400+1425208.400" />
     <Airport ICAO="AYIX" FullName="Witu" Position="-044115.720+1492609.600" />
     <Airport ICAO="AYIY" FullName="Miyanmin" Position="-045414.400+1413723.520" />
+    <Airport ICAO="AYIZ" FullName="Iora" Position="-085515.000+1474600.000" />
+    <Airport ICAO="AYJA" FullName="Takis" Position="-041228.534+1513009.893" />
     <Airport ICAO="AYJB" FullName="Jacquinot Bay" Position="-053923.400+1513027.000" />
     <Airport ICAO="AYJE" FullName="Yomneri" Position="-051416.080+1443603.600" />
+    <Airport ICAO="AYJK" FullName="Mt Kegam" Position="-054147.731+1440634.765" />
     <Airport ICAO="AYJL" FullName="Junkaral" Position="-052512.720+1450041.760" />
+    <Airport ICAO="AYJM" FullName="Samarai" Position="-103641.933+1503946.818" />
+    <Airport ICAO="AYJN" FullName="Mt Kaijende" Position="-052824.967+1431148.415" />
     <Airport ICAO="AYJO" FullName="Yongai" Position="-083140.800+1472741.400" />
+    <Airport ICAO="AYJQ" FullName="Sauwo" Position="-084437.100+1471616.104" />
+    <Airport ICAO="AYJR" FullName="Roguia" Position="-091206.264+1473313.450" />
     <Airport ICAO="AYJS" FullName="Josephstaal" Position="-044457.480+1450019.080" />
     <Airport ICAO="AYJW" FullName="Wauru" Position="-041052.320+1411152.080" />
     <Airport ICAO="AYKA" FullName="Kiriwina" Position="-083022.079+1510452.860" Elevation="27">
@@ -4766,6 +4741,7 @@ DIL VOR
     <Airport ICAO="AYKZ" FullName="Kairiru" Position="-032118.000+1433217.880" />
     <Airport ICAO="AYLB" FullName="Lab Lab" Position="-054323.880+1480335.280" />
     <Airport ICAO="AYLC" FullName="Lake Campbell" Position="-064452.800+1423618.000" />
+    <Airport ICAO="AYLD" FullName="Kohai Lodge" Position="-020207.584+1471716.192" />
     <Airport ICAO="AYLF" FullName="Lumusa" Position="-053141.880+1440356.520" />
     <Airport ICAO="AYLG" FullName="Kegesugl" Position="-055002.400+1450557.120" />
     <Airport ICAO="AYLH" FullName="Klauhau" Position="-040731.800+1421433.720" />
@@ -4780,6 +4756,7 @@ DIL VOR
     <Airport ICAO="AYLS" FullName="Lese" Position="-081644.400+1461631.800" />
     <Airport ICAO="AYLT" FullName="Lengbati" Position="-062301.680+1472211.280" />
     <Airport ICAO="AYLU" FullName="Lumi" Position="-032834.680+1420235.880" />
+    <Airport ICAO="AYLV" FullName="Laweni" Position="-085734.812+1475206.856" />
     <Airport ICAO="AYLW" FullName="Lewada" Position="-082019.320+1424700.240" />
     <Airport ICAO="AYLX" FullName="Long Island" Position="-052134.200+1470108.400" />
     <Airport ICAO="AYLY" FullName="Myola" Position="-090901.800+1474548.600" />
@@ -4899,6 +4876,7 @@ DIL VOR
     <Airport ICAO="AYPQ" FullName="Pumani" Position="-094456.400+1492831.800" />
     <Airport ICAO="AYPR" FullName="Purari" Position="-072320.040+1450948.600" />
     <Airport ICAO="AYPS" FullName="Maposi" Position="-043250.280+1421314.520" />
+    <Airport ICAO="AYPT" FullName="Mt Kumbipota" Position="-052719.688+1430350.573" />
     <Airport ICAO="AYPW" FullName="Panakawa" Position="-074025.320+1430713.800" />
     <Airport ICAO="AYPX" FullName="Pukapuki" Position="-043214.280+1423104.800" />
     <Airport ICAO="AYPY" FullName="Jacksons" Position="-092625.000+1471307.000" Elevation="129">
@@ -4909,17 +4887,22 @@ DIL VOR
     </Airport>
     <Airport ICAO="AYQA" FullName="Karawari" Position="-043544.880+1433115.600" />
     <Airport ICAO="AYQB" FullName="Simbari" Position="-065745.000+1453845.600" />
+    <Airport ICAO="AYQE" FullName="Mt Kerewa" Position="-060308.129+1430919.177" />
+    <Airport ICAO="AYQF" FullName="Pad 41" Position="-062504.656+1431321.698" />
     <Airport ICAO="AYQK" FullName="Kumul Oil Rig" Position="-080352.070+1443338.520" />
     <Airport ICAO="AYQL" FullName="Tumolbil" Position="-044632.160+1410050.400" />
     <Airport ICAO="AYQM" FullName="Simogu" Position="-064810.440+1454251.480" />
+    <Airport ICAO="AYQN" FullName="Nob Nob" Position="-050823.604+1454631.620" />
     <Airport ICAO="AYQO" FullName="Sopu" Position="-081815.120+1470958.320" />
     <Airport ICAO="AYQP" FullName="Sipump" Position="-053018.720+1442722.320" />
     <Airport ICAO="AYQQ" FullName="Ononge" Position="-084026.400+1471545.720" />
     <Airport ICAO="AYQR" FullName="Sorimi" Position="-041933.240+1412236.120" />
     <Airport ICAO="AYQS" FullName="Sialum" Position="-060528.320+1473549.920" />
+    <Airport ICAO="AYQT" FullName="Northson" Position="-045659.968+1512222.015" />
     <Airport ICAO="AYQU" FullName="Tsumba" Position="-043937.080+1443628.800" />
     <Airport ICAO="AYQV" FullName="Sinow" Position="-035923.640+1413309.000" />
     <Airport ICAO="AYQW" FullName="Sumwari" Position="-044503.600+1422207.320" />
+    <Airport ICAO="AYQX" FullName="Oreba" Position="-073508.286+1464226.186" />
     <Airport ICAO="AYRA" FullName="Kira" Position="-080353.280+1472003.120" />
     <Airport ICAO="AYRE" FullName="Raba Raba" Position="-095822.800+1495002.400" />
     <Airport ICAO="AYRF" FullName="Arufi" Position="-084521.600+1415443.200" />
@@ -4933,10 +4916,12 @@ DIL VOR
     <Airport ICAO="AYRO" FullName="Kakoro" Position="-075007.800+1463159.520" />
     <Airport ICAO="AYRQ" FullName="Rum" Position="-052248.720+1435953.520" />
     <Airport ICAO="AYRR" FullName="Tiri" Position="-064052.680+1441054.120" />
+    <Airport ICAO="AYRS" FullName="Mt Robinson" Position="-051420.490+1411103.102" />
     <Airport ICAO="AYRT" FullName="Kirinbit" Position="-041657.000+1430901.800" />
     <Airport ICAO="AYRU" FullName="Noru" Position="-063557.120+1443843.800" />
     <Airport ICAO="AYRV" FullName="May River" Position="-042136.000+1414713.920" />
     <Airport ICAO="AYRW" FullName="Kiriwo" Position="-082615.360+1413056.520" />
+    <Airport ICAO="AYRY" FullName="Mt Borogolo" Position="-095005.000+1473650.000" />
     <Airport ICAO="AYSA" FullName="Suabi" Position="-060613.680+1421633.600" />
     <Airport ICAO="AYSC" FullName="Samban" Position="-042147.520+1440346.440" />
     <Airport ICAO="AYSE" FullName="Simberi Island" Position="-023927.000+1515932.280" />
@@ -5001,6 +4986,7 @@ DIL VOR
     <Airport ICAO="AYUA" FullName="Utai" Position="-032317.880+1413506.000" />
     <Airport ICAO="AYUB" FullName="Gubil" Position="-045251.240+1413135.760" />
     <Airport ICAO="AYUC" FullName="Umba" Position="-070119.200+1455759.400" />
+    <Airport ICAO="AYUD" FullName="Kais-Udave" Position="-084655.650+1471643.054" />
     <Airport ICAO="AYUE" FullName="Uroubi" Position="-093055.800+1483342.480" />
     <Airport ICAO="AYUG" FullName="Brugam" Position="-033819.680+1425008.520" />
     <Airport ICAO="AYUI" FullName="Buin" Position="-064359.880+1554059.880" />
@@ -5024,6 +5010,7 @@ DIL VOR
     <Airport ICAO="AYVA" FullName="Vailala" Position="-074620.280+1452006.000" />
     <Airport ICAO="AYVB" FullName="Tobou" Position="-062409.000+1472521.720" />
     <Airport ICAO="AYVK" FullName="Wokien" Position="-034615.600+1415845.120" />
+    <Airport ICAO="AYVL" FullName="Talasea" Position="-051702.170+1495953.509" />
     <Airport ICAO="AYVM" FullName="Torembi" Position="-040042.480+1430812.480" />
     <Airport ICAO="AYVN" FullName="Vanimo" Position="-024135.000+1411814.000" Elevation="19">
       <Runway Name="12" Position="-024116.822+1411750.579" />
@@ -5031,8 +5018,10 @@ DIL VOR
     </Airport>
     <Airport ICAO="AYVO" FullName="Tonu" Position="-063917.813+1552559.153" />
     <Airport ICAO="AYVP" FullName="Woposali" Position="-063929.520+1441738.040" />
+    <Airport ICAO="AYVU" FullName="Murua" Position="-075540.728+1455052.462" />
     <Airport ICAO="AYVV" FullName="Vivigani" Position="-091823.000+1501912.000" />
     <Airport ICAO="AYVW" FullName="Wuvulu" Position="-014413.920+1425012.480" />
+    <Airport ICAO="AYVX" FullName="Toma" Position="-042301.453+1521143.112" />
     <Airport ICAO="AYVY" FullName="Yembi Yembi" Position="-042819.200+1430854.240" />
     <Airport ICAO="AYWA" FullName="Asinuwa" Position="-070141.520+1454610.920" />
     <Airport ICAO="AYWB" FullName="Wabo" Position="-065917.880+1450424.960" />
@@ -5072,6 +5061,7 @@ DIL VOR
     <Airport ICAO="AYXG" FullName="Sugu" Position="-062317.880+1433318.000" />
     <Airport ICAO="AYXH" FullName="Yehebi" Position="-062337.680+1421608.040" />
     <Airport ICAO="AYXI" FullName="Sim" Position="-074452.800+1465538.280" />
+    <Airport ICAO="AYXK" FullName="Mt Kaimunga" Position="-054302.514+1442722.068" />
     <Airport ICAO="AYXM" FullName="Komo" Position="-060348.150+1425236.502" Elevation="5223">
       <Runway Name="16" Position="-060257.412+1425224.780" />
       <Runway Name="34" Position="-060355.400+1425238.179" />
@@ -5080,6 +5070,7 @@ DIL VOR
     <Airport ICAO="AYXP" FullName="Wipim" Position="-084713.920+1425251.600" />
     <Airport ICAO="AYXS" FullName="Sisamin" Position="-050809.960+1421743.800" />
     <Airport ICAO="AYXT" FullName="Watape" Position="-031734.800+1411728.320" />
+    <Airport ICAO="AYXU" FullName="Mt Takamunda" Position="-053732.912+1435359.626" />
     <Airport ICAO="AYXW" FullName="Weam" Position="-083703.360+1410819.320" />
     <Airport ICAO="AYXY" FullName="Yebil" Position="-032744.280+1415715.480" />
     <Airport ICAO="AYYA" FullName="Yabru" Position="-035811.280+1411110.320" />
@@ -5099,19 +5090,23 @@ DIL VOR
     <Airport ICAO="AYYP" FullName="Yapsie" Position="-043743.680+1410544.520" />
     <Airport ICAO="AYYQ" FullName="Yagrombok" Position="-033511.400+1423734.680" />
     <Airport ICAO="AYYR" FullName="Yasuru" Position="-063606.480+1461111.400" />
+    <Airport ICAO="AYYS" FullName="Musa" Position="-092921.642+1483735.036" />
     <Airport ICAO="AYYT" FullName="Mt Tawa" Position="-064349.440+1441819.440" />
     <Airport ICAO="AYYU" FullName="Mui" Position="-044736.960+1441854.000" />
     <Airport ICAO="AYYV" FullName="Yawa" Position="-040603.600+1420811.400" />
     <Airport ICAO="AYYW" FullName="Yawan" Position="-060806.720+1465040.920" />
     <Airport ICAO="AYYX" FullName="Yalum" Position="-051613.440+1431658.440" />
+    <Airport ICAO="AYYY" FullName="Mt Yule" Position="-081247.909+1464706.727" />
     <Airport ICAO="AYYZ" FullName="Yambaitok" Position="-045943.800+1435739.240" />
     <Airport ICAO="AYZA" FullName="Zenang" Position="-065655.320+1463645.720" />
     <Airport ICAO="AYZB" FullName="Sibilanga" Position="-032647.760+1423005.760" />
+    <Airport ICAO="AYZH" FullName="Tunnel Hill" Position="-041130.858+1520854.859" />
     <Airport ICAO="AYZI" FullName="Silur" Position="-043142.600+1530311.520" />
     <Airport ICAO="AYZM" FullName="Wasum" Position="-060300.000+1492026.880" />
     <Airport ICAO="AYZN" FullName="Sissano" Position="-025955.320+1420230.480" />
     <Airport ICAO="AYZQ" FullName="Sopise" Position="-064722.200+1440938.520" />
     <Airport ICAO="AYZS" FullName="Ossima" Position="-025500.480+1411755.680" />
+    <Airport ICAO="AYZT" FullName="Mt Strong" Position="-075809.026+1465648.761" />
     <Airport ICAO="AYZU" FullName="Oum" Position="-041558.680+1420744.400" />
     <Airport ICAO="AYZW" FullName="Siawi" Position="-040339.600+1412511.280" />
     <Airport ICAO="AYZY" FullName="Yilui" Position="-035546.200+1421217.280" />
@@ -5121,6 +5116,7 @@ DIL VOR
       <Runway Name="17" Position="-174421.930-1792030.080" />
       <Runway Name="35" Position="-174451.490-1792032.392" />
     </Airport>
+    <Airport ICAO="NFCN" FullName="Club Naitasi" Position="-174439.649+1770848.804" />
     <Airport ICAO="NFCS" FullName="Castaway Island" Position="-174400.390+1770736.296" />
     <Airport ICAO="NFFN" FullName="Nadi Intl" Position="-174523.000+1772637.000" Elevation="59">
       <Runway Name="02" Position="-174622.120+1772544.789" />
@@ -5187,6 +5183,7 @@ DIL VOR
       <Runway Name="14" Position="-164759.629+1792020.620" />
       <Runway Name="32" Position="-164823.551+1792031.549" />
     </Airport>
+    <Airport ICAO="NFNT" FullName="Newtown Beach" Position="-174537.847+1772548.234" />
     <Airport ICAO="NFNW" FullName="Wakaya" Position="-173743.000+1790036.000" Elevation="130">
       <Runway Name="10" Position="-173738.820+1790024.059" />
       <Runway Name="28" Position="-173749.912+1790045.922" />

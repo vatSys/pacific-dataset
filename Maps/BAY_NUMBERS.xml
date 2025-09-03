@@ -1,9 +1,132 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Maps>
     <Map Type="Ground_INF" Name="BAY_NUMBERS" Priority="0" Center="-2380.8+13390.1">
-        <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
-            <!--NOUMEA LA TONTOUTA (NWWW)-->
-            <!--APRON CHART 2306-->
+        <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">	
+            <!-- GOROKA (AYGA) -->
+            <!-- PNG AIP 05 OCT 2023 -->
+            <Point Name="1">-060427.590+1452332.890</Point>
+            <Point Name="2">-060429.690+1452333.390</Point>
+            <Point Name="3">-060431.590+1452333.390</Point>
+            <Point Name="4">-060433.490+1452333.390</Point>
+                        
+            <!-- MADANG (AYMD) -->
+            <!-- PNG AIP 31 OCT 2024 -->
+            <Point Name="1">-051243.210+1454706.850</Point>
+            <Point Name="2">-051242.740+1454708.510</Point>
+            <Point Name="3">-051242.280+1454710.240</Point>
+            <Point Name="4">-051235.970+1454715.600</Point>
+            <Point Name="5">-051235.460+1454717.650</Point>
+            <Point Name="6">-051234.910+1454719.820</Point>
+            <Point Name="7">-051234.320+1454722.040</Point>
+
+            <!-- MOUNT HAGEN (AYMH) -->
+            <!-- PNG AIP 20 MAR 2025 -->
+            <Point Name="1">-054945.110+1441752.130</Point>
+            <Point Name="2">-054944.310+1441750.830</Point>
+            <Point Name="3">-054943.010+1441749.110</Point>
+            <Point Name="4">-054942.200+1441747.620</Point>
+            
+            <!-- NADZAB (AYNZ) -->
+            <!-- PNG AIP 20 MAR 2025 -->
+            <Point Name="1">-063358.340+1464350.570</Point>
+            <Point Name="2">-063358.230+1464349.260</Point>
+            <Point Name="3">-063358.110+1464347.940</Point>
+            <Point Name="4">-063358.000+1464346.630</Point>
+            <Point Name="5">-063357.410+1464345.030</Point>
+            <Point Name="6">-063357.260+1464343.250</Point>
+            <Point Name="7">-063357.260+1464341.430</Point>
+            <Point Name="8">-063357.110+1464339.650</Point>
+            <Point Name="9">-063356.930+1464337.860</Point>
+            <Point Name="10">-063351.850+1464335.370</Point>
+            <Point Name="11">-063350.060+1464335.370</Point>
+            <Point Name="12">-063348.280+1464335.510</Point>
+            
+            <!-- PORT MORESBY (AYPY) -->
+            <!-- APRON CHART 1928 -->
+            <Point Name="1">-0926.345+14712.738</Point>
+            <Point Name="2">-0926.329+14712.719</Point>
+            <Point Name="3">-0926.297+14712.702</Point>
+            <Point Name="4">-0926.268+14712.684</Point>
+            <Point Name="5">-0926.246+14712.660</Point>
+            <Point Name="6">-0926.219+14712.664</Point>
+            <Point Name="7">-0926.201+14712.687</Point>
+            <Point Name="8">-0926.186+14712.709</Point>
+            <Point Name="9">-0926.163+14712.701</Point>
+            <Point Name="10">-0926.182+14712.679</Point>
+            <Point Name="11">-092611.3+1471239.7</Point>
+            <Point Name="12">-0926.207+14712.648</Point>
+            <Point Name="13">-0926.155+14712.623</Point>
+            <Point Name="14">-0926.140+14712.641</Point>
+            <Point Name="15">-0926.129+14712.656</Point>
+            <Point Name="16">-0926.118+14712.670</Point>
+            <Point Name="17">-0926.093+14712.660</Point>
+            <Point Name="18">-0926.106+14712.641</Point>
+            <Point Name="19">-0926.118+14712.623</Point>
+            <Point Name="20">-0926.131+14712.602</Point>
+            <Point Name="21A">-0926.928+14713.114</Point>
+            <Point Name="21B">-0926.904+14713.093</Point>
+            <Point Name="22">-0926.830+14713.023</Point>
+            <Point Name="23">-0926.795+14713.002</Point>
+            <Point Name="24">-0926.760+14712.980</Point>
+            <Point Name="25">-0926.724+14712.959</Point>
+            <Point Name="26">-0926.689+14712.938</Point>
+            <Point Name="27">-0926.514+14712.824</Point>
+            <Point Name="28">-0926.490+14712.809</Point>
+            
+            <!-- TOKUA (AYTK) -->
+            <!-- PNG AIP 17 APRIL 2025 -->
+            <Point Name="1">-042033.720+1522238.880</Point>
+            <Point Name="2">-042033.280+1522237.460</Point>
+            <Point Name="3">-042032.840+1522236.020</Point>
+            <Point Name="4">-042032.260+1522234.870</Point>
+            <Point Name="5">-042031.860+1522233.380</Point>
+            <Point Name="6">-042031.630+1522232.170</Point>
+            <Point Name="7">-042031.210+1522230.300</Point>
+            
+            <!-- NADI (NFFN) -->
+            <!-- APRON CHART 17 APRIL 2025 -->
+            <Point Name="1L">-174510.017+1772710.343</Point>
+            <Point Name="1R">-174510.040+1772709.835</Point>
+            <Point Name="2L">-174509.690+1772708.392</Point>
+            <Point Name="2R">-174509.342+1772707.994</Point>
+            <Point Name="3">-174509.080+1772706.055</Point>
+            <Point Name="4">-174505.596+1772704.424</Point>
+            <Point Name="5L">-174505.236+1772702.101</Point>
+            <Point Name="5R">-174505.834+1772701.701</Point>
+            <Point Name="7">-174507.116+1772701.684</Point>
+            <Point Name="8">-174509.637+1772701.036</Point>
+            <Point Name="9">-174511.350+1772659.110</Point>
+            <Point Name="10">-174512.470+1772659.750</Point>
+            <Point Name="11">-174513.330+1772658.090</Point>
+            <Point Name="12">-174514.230+1772658.100</Point>
+            <Point Name="13">-174515.120+1772658.070</Point>
+            <Point Name="14">-174516.630+1772659.250</Point>
+            <Point Name="15">-174517.020+1772700.840</Point>
+            <Point Name="16">-174517.400+1772702.420</Point>
+            <Point Name="17">-174517.690+1772703.600</Point>
+            <Point Name="31L">-174501.080+1772707.740</Point>
+            <Point Name="31">-174500.650+1772708.600</Point>
+            <Point Name="31R">-174501.510+1772709.040</Point>
+            
+            <!-- NAUSORI (NFNA) -->
+            <!-- APRON CHART 23 APRIL 2023 -->
+            <Point Name="1W">-180244.280+1783337.520</Point>
+            <Point Name="1E">-180244.530+1783338.160</Point>
+            <Point Name="2W">-180243.860+1783335.990</Point>
+            <Point Name="2E">-180244.090+1783336.680</Point>
+            <Point Name="3W">-180243.380+1783334.580</Point>
+            <Point Name="3E">-180243.620+1783335.270</Point>
+            <Point Name="4">-180242.810+1783334.020</Point>
+            <Point Name="5">-180241.390+1783333.980</Point>
+            <Point Name="6">-180242.650+1783336.420</Point>
+            <Point Name="7">-180243.010+1783337.480</Point>
+            <Point Name="8">-180243.370+1783338.530</Point>
+            
+            <!-- PORT VILA (NVVV) -->
+            <!-- NO APRON CHART FOUND -->
+            
+            <!-- NOUMEA LA TONTOUTA (NWWW) -->
+            <!-- APRON CHART 2306 -->
             <Point Name="D1">-22.0144607+166.2164381</Point>
             <Point Name="D2">-22.0151025+166.2179567</Point>
             <Point Name="P1">-22.0126655+166.2163441</Point>
@@ -19,70 +142,18 @@
             <Point Name="P64">-22.0152921+166.2179838</Point>
             <Point Name="P65">-22.0154263+166.2182146</Point>
             <Point Name="P7">-22.015867+166.2193264</Point>
+            
+            <!-- NOUMEA MAGENTA (NWWM) -->
+            <!-- SATELLITE IMAGERY 10 AUG 2025 -->
+            <Point Name="1">-221535.900+1662818.100</Point>
+            <Point Name="2">-221537.500+1662818.100</Point>
+            <Point Name="3">-221539.000+1662818.100</Point>
+            <Point Name="4">-221540.500+1662818.100</Point>
+            <Point Name="5">-221541.800+1662818.200</Point>
 
-            <!--NADI (NFFN)-->
-            <!--APRON CHART 2306-->
-            <Point Name="1">-17.7527859+177.452737</Point>
-            <Point Name="10">-17.7536041+177.4498905</Point>
-            <Point Name="11">-17.7538482+177.4498245</Point>
-            <Point Name="12">-17.7540837+177.4497841</Point>
-            <Point Name="13">-17.7543325+177.4497229</Point>
-            <Point Name="14">-17.7545915+177.4499411</Point>
-            <Point Name="15">-17.7547019+177.4503896</Point>
-            <Point Name="16">-17.7548012+177.4508358</Point>
-            <Point Name="17">-17.7548836+177.45116</Point>
-            <Point Name="2A">-17.7526897+177.452326</Point>
-            <Point Name="2B">-17.752596+177.4522208</Point>
-            <Point Name="3">-17.7525225+177.4516744</Point>
-            <Point Name="4">-17.7516052+177.4512149</Point>
-            <Point Name="5L">-17.7514589+177.45058</Point>
-            <Point Name="5R">-17.7515813+177.4504822</Point>
-            <Point Name="6">-17.7513623+177.4502361</Point>
-            <Point Name="7">-17.7519545+177.4503916</Point>
-            <Point Name="8">-17.7526539+177.4502214</Point>
-            <Point Name="9">-17.7531121+177.4499025</Point>
-			
-			<!--PORT MORESBY (AYPY)-->
-            <!--APRON CHART 1928-->
-            <Point Name="1">-0926.345+14712.738</Point>
-			<Point Name="2">-0926.329+14712.719</Point>
-			<Point Name="3">-0926.297+14712.702</Point>
-			<Point Name="4">-0926.268+14712.684</Point>
-			<Point Name="5">-0926.246+14712.660</Point>
-			<Point Name="6">-0926.219+14712.664</Point>
-			<Point Name="7">-0926.201+14712.687</Point>
-			<Point Name="8">-0926.186+14712.709</Point>
-			<Point Name="9">-0926.163+14712.701</Point>
-			<Point Name="10">-0926.182+14712.679</Point>
-			<Point Name="11">-092611.3+1471239.7</Point>
-			<Point Name="12">-0926.207+14712.648</Point>
-			<Point Name="13">-0926.155+14712.623</Point>
-			<Point Name="14">-0926.140+14712.641</Point>
-			<Point Name="15">-0926.129+14712.656</Point>
-			<Point Name="16">-0926.118+14712.670</Point>
-			<Point Name="17">-0926.093+14712.660</Point>
-			<Point Name="18">-0926.106+14712.641</Point>
-			<Point Name="19">-0926.118+14712.623</Point>
-			<Point Name="20">-0926.131+14712.602</Point>
-			<Point Name="21A">-0926.928+14713.114</Point>
-			<Point Name="21B">-0926.904+14713.093</Point>
-			<Point Name="22">-0926.830+14713.023</Point>
-			<Point Name="23">-0926.795+14713.002</Point>
-			<Point Name="24">-0926.760+14712.980</Point>
-			<Point Name="25">-0926.724+14712.959</Point>
-			<Point Name="26">-0926.689+14712.938</Point>
-			<Point Name="27">-0926.514+14712.824</Point>
-			<Point Name="28">-0926.490+14712.809</Point>
-			
-			<!-- TOKUA (AYTK) -->
-			<!-- PNG AIP 17 APRIL 2025 -->
-			<Point Name="1">-042033.720+1522238.880</Point>
-			<Point Name="2">-042033.280+1522237.460</Point>
-			<Point Name="3">-042032.840+1522236.020</Point>
-			<Point Name="4">-042032.260+1522234.870</Point>
-			<Point Name="5">-042031.860+1522233.380</Point>
-			<Point Name="6">-042031.630+1522232.170</Point>
-			<Point Name="7">-042031.210+1522230.300</Point>
+            <!-- BUCHOLZ AAF (PKWA) -->
+            <!-- NO APRON CHART FOUND -->
+
         </Label>
     </Map>
 </Maps>

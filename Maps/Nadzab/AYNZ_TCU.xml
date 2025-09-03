@@ -168,6 +168,52 @@
       <Point Name="MARKHAM BRIDGE">MKB</Point>
     </Label>
   </Map>
+  <Map Type="System2" Name="AYNZ_SDC" Priority="1" CustomColourName="PaleVioletRed" Center="-06.569222+146.728056">
+    <Label HasLeader="False">
+	  <Point Name="01">NZ096050</Point>
+	  <Point Name="03">NZ114050</Point>
+	  <Point Name="04">NZ127074</Point>
+	  <Point Name="05">NZ120088</Point>
+	  <Point Name="06">NZ143096</Point>
+	  <Point Name="07">NZ148095</Point>
+	  <Point Name="08">NZ152075</Point>
+	  <Point Name="09">NZ157050</Point>
+	  <Point Name="11">NZ166050</Point>
+	  <Point Name="13">NZ171050</Point>
+	  <Point Name="14">NZ179050</Point>
+	  <Point Name="15">NZ197050</Point>
+	  <Point Name="16">NZ220050</Point>
+	  <Point Name="17">NZ276050</Point>
+	  <Point Name="18">NZ290050</Point>
+	  <Point Name="19">NZ300040</Point>
+	  <Point Name="31">NZ306050</Point>
+	  <Point Name="33">NZ310050</Point>
+	  <Point Name="34">NZ326030</Point>
+	  <Point Name="35">NZ355030</Point>
+	  <Point Name="36">NZ009030</Point>
+    </Label>
+	<Line Pattern="Dotted">NZ VOR/LARID/AVLIX</Line><!-- SDC 01 -->
+	<Line Pattern="Dotted">NZ VOR/LARID/LUDGA/AVLIX</Line><!-- SDC 03 -->
+	<Line Pattern="Dotted">NZ VOR/LARID/PELCA/PY VOR</Line><!-- SDC 04 -->
+	<Line Pattern="Dotted">NZ VOR/LARID/ISKEG/RUPNO</Line><!-- SDC 05 -->
+	<Line Pattern="Dotted">NZ VOR/LARID/RUPNO</Line><!-- SDC 06 -->
+	<Line Pattern="Dotted">NZ VOR/LARID/MORBE/PY VOR</Line><!-- SDC 07 -->
+	<Line Pattern="Dotted">NZ VOR/LARID/PALDO/SAKTO/PY VOR</Line><!-- SDC 08 -->
+	<Line Pattern="Dotted">NZ VOR/LARID/PY VOR</Line><!-- SDC 09 -->
+	<Line Pattern="Dotted">NZ VOR/LARID/SAKTO/PY VOR</Line><!-- SDC 11 -->
+	<Line Pattern="Dotted">NZ VOR/PY VOR</Line><!-- SDC 13 -->
+	<Line Pattern="Dotted">NZ VOR/KAMUL</Line><!-- SDC 14 -->
+	<Line Pattern="Dotted">NZ VOR/VIDOT/SAKTO/PY VOR</Line><!-- SDC 15 -->
+	<Line Pattern="Dotted">NZ VOR/VIDOT/EPKED/SAKTO/PY VOR</Line><!-- SDC 16 -->
+	<Line Pattern="Dotted">NZ VOR/VIDOT/MUDIX</Line><!-- SDC 17 -->
+	<Line Pattern="Dotted">NZ VOR/MUDIX</Line><!-- SDC 18 -->
+	<Line Pattern="Dotted">NZ VOR/MUKIK/UGTOK/PINUR</Line><!-- SDC 19 -->
+	<Line Pattern="Dotted">NZ VOR/PINUR</Line><!-- SDC 31 -->
+	<Line Pattern="Dotted">NZ VOR/UGTOK/ALBUP</Line><!-- SDC 33 -->
+	<Line Pattern="Dotted">NZ VOR/ALBUP</Line><!-- SDC 34 -->
+	<Line Pattern="Dotted">NZ VOR/PIKOK</Line><!-- SDC 35 -->
+	<Line Pattern="Dotted">NZ VOR/OKTUX/MOE NDB</Line><!-- SDC 36 -->
+  </Map>
   <Map Type="System" Name="AYNZ_ALLRWYS" Priority="2" Center="-06.569222+146.728056">
     <!--AYNZ-->
     <Runway Name="09/27">
