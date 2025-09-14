@@ -31,7 +31,7 @@
       <ControllerInfo>
         <Line>Nadi Radio</Line>
         <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     <Transition Altitude="11000" />
 	</Position>
@@ -71,7 +71,7 @@
 		</ArrivalLists>
 		<ControllerInfo>
 		  <Line>Moresby Control</Line>
-		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
+		  <Line>ATC feedback - vats.im/pac/helpdesk</Line>
 		</ControllerInfo>
 		<Transition Altitude="20000" />
     </Position>
@@ -106,7 +106,7 @@
 		</ArrivalLists>
 		<ControllerInfo>
 		  <Line>Nadi Control</Line>
-		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
+		  <Line>ATC feedback - vats.im/pac/helpdesk</Line>
 		</ControllerInfo>
 		<Transition Altitude="11000" />
     </Position>
@@ -139,7 +139,7 @@
       <ControllerInfo>
         <Line>Nadzab Approach</Line>
         <Line>ATIS available on 128.1</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -170,7 +170,7 @@
       <ControllerInfo>
         <Line>Jacksons Radar</Line>
         <Line>ATIS available on 128.0</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -202,7 +202,7 @@
       <ControllerInfo>
         <Line>Nadi Approach</Line>
         <Line>ATIS available on 127.9</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -234,7 +234,7 @@
       <ControllerInfo>
         <Line>Nausori Approach</Line>
         <Line>ATIS available on 128.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -277,7 +277,7 @@
       <ControllerInfo>
         <Line>Tontouta Approach</Line>
         <Line>ATIS available on 126.2</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -311,7 +311,7 @@
 		</ArrivalLists>
 		<ControllerInfo>
 		  <Line>Vila Tower (TCU)</Line>
-		  <Line>ATC feedback - helpdesk.vatpac.org</Line>
+		  <Line>ATC feedback - vats.im/pac/helpdesk</Line>
 		</ControllerInfo>
 		<Transition Altitude="11000" />
 	</Position>
@@ -340,12 +340,12 @@
       <ControllerInfo>
         <Line>Jacksons Tower</Line>
         <Line>ATIS available on 128.0</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AYPY_GND">
         <Line>Jacksons Ground</Line>
         <Line>ATIS available on 128.0</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -374,12 +374,12 @@
       <ControllerInfo>
         <Line>Nadi Tower</Line>
         <Line>ATIS available on 127.9</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="NFFN_GND">
         <Line>Nadi Ground</Line>
         <Line>ATIS available on 127.9</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -406,12 +406,12 @@
       <ControllerInfo>
         <Line>Tontouta Tower</Line>
         <Line>ATIS available on 126.2</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="NWWW_GND">
         <Line>Tontouta Ground</Line>
         <Line>ATIS available on 126.2</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -437,7 +437,7 @@
       <ControllerInfo>
         <Line>Nausori Tower</Line>
         <Line>ATIS available on 128.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -464,12 +464,12 @@
       <ControllerInfo>
         <Line>Bucholz Tower</Line>
         <Line>ATIS available on 119.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PKWA_GND">
         <Line>Bucholz Ground</Line>
         <Line>ATIS available on 119.5</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="5500" />
     </Position>
@@ -496,7 +496,7 @@
       <ControllerInfo>
         <Line>Magenta Tower</Line>
         <Line>ATIS available on 126.6</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -524,7 +524,7 @@
       <ControllerInfo>
         <Line>Nadzab Tower</Line>
         <Line>ATIS available on 128.1</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -557,7 +557,7 @@
       <ControllerInfo>
         <Line>Vila Tower</Line>
         <Line>ATIS available on 126.4</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -585,7 +585,7 @@
       <ControllerInfo>
         <Line>Goroka Tower</Line>
         <Line>ATIS available on 134.0</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -611,7 +611,7 @@
       <ControllerInfo>
         <Line>Madang Tower</Line>
         <Line>ATIS available on 127.8</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -637,7 +637,7 @@
       <ControllerInfo>
         <Line>Hagen Tower</Line>
         <Line>ATIS available on 128.9</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -665,7 +665,7 @@
       <ControllerInfo>
         <Line>Tokua Tower</Line>
         <Line>ATIS available on 128.3</Line>
-        <Line>ATC feedback - helpdesk.vatpac.org</Line>
+        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
