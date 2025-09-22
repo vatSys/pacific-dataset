@@ -5,7 +5,7 @@
     <Position Name="Nadi Oceanic" Type="ASD" DefaultCenter="-10.660683+178.585898" DefaultRange="4500" VisibilityRange="1000">
       <Sectors>
         <Sector Name="NFFF" />
-		<Sector Name="NWWW" />
+        <Sector Name="NWWW" />
         <Sector Name="NVVV" />
       </Sectors>
       <ManualVisibility>
@@ -15,8 +15,8 @@
       <Maps>
         <Map Name="ALL_CTA" />
         <Map Name="ALL_SECTORS" />
-		<Map Name="NEIGHBOUR_SUBSECTORS" />
-		<Map Name="UPPER_SECTOR_FREQS" />
+        <Map Name="NEIGHBOUR_SUBSECTORS" />
+        <Map Name="UPPER_SECTOR_FREQS" />
         <Map Name="COAST_ALL" />
         <Map Name="ALL_ROUTES_HIGH" />
         <Map Name="ALL_POINTS_HIGH" />
@@ -30,7 +30,8 @@
       <CFL QuickLevel="24000" />
       <ControllerInfo>
         <Line>Nadi Radio</Line>
-        <Line>Squawk 2000 entering OCEANIC region. Check your Sim Zulu time is correct.</Line>
+        <Line>Position reports required. Check your Sim Zulu time is correct.</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     <Transition Altitude="11000" />
@@ -38,77 +39,79 @@
   </Group>
   <Group Name="Enroute">
     <Position Name="Moresby" Type="ASD" DefaultCenter="-05.577645+151.101063" DefaultRange="2200">
-		<Sectors>
-		  <Sector Name="AYPM" />
-		  <Sector Name="AYPYA" />
-		  <Sector Name="AYNZA" />
-		</Sectors>
-		<ManualVisibility>
-		  <Point>-0432.0+14435.0</Point>
-		  <Point>-0211.0+15440.0</Point>
-		  <Point>-1004.0+14948.0</Point>
-		</ManualVisibility>
-		<Maps>
-		  <Map Name="ALL_CTA" />
-		  <Map Name="ALL_SECTORS" />
-		  <Map Name="NEIGHBOUR_SUBSECTORS" />
-		  <Map Name="UPPER_SECTOR_FREQS" />
-		  <Map Name="ALL_NAVAIDS" />
-		  <Map Name="COAST_ALL" />
-		  <Map Name="ALL_ROUTES_HIGH" />
-		  <Map Name="ALL_POINTS_HIGH" />
-		  <Map Name="FIR_BDRY" />
-		</Maps>
-		<Strips Mode="State" Sort="Time">
-		  <Window Type="State" State="Jurisdiction" Visible="true" />
-		  <Window Type="State" State="Announced" Visible="true" />
-		  <Window Type="State" State="Preactive" Visible="true" />
-		</Strips>
-		<CFL QuickLevel="14000" />
-		<ArrivalLists>
-		  <Airport Name="AYPY" />
-		  <Airport Name="AYNZ" />
-		</ArrivalLists>
-		<ControllerInfo>
-		  <Line>Moresby Control</Line>
-		  <Line>ATC feedback - vats.im/pac/helpdesk</Line>
-		</ControllerInfo>
-		<Transition Altitude="20000" />
+        <Sectors>
+          <Sector Name="AYPM" />
+          <Sector Name="AYPYA" />
+          <Sector Name="AYNZA" />
+        </Sectors>
+        <ManualVisibility>
+          <Point>-0432.0+14435.0</Point>
+          <Point>-0211.0+15440.0</Point>
+          <Point>-1004.0+14948.0</Point>
+        </ManualVisibility>
+        <Maps>
+          <Map Name="ALL_CTA" />
+          <Map Name="ALL_SECTORS" />
+          <Map Name="NEIGHBOUR_SUBSECTORS" />
+          <Map Name="UPPER_SECTOR_FREQS" />
+          <Map Name="ALL_NAVAIDS" />
+          <Map Name="COAST_ALL" />
+          <Map Name="ALL_ROUTES_HIGH" />
+          <Map Name="ALL_POINTS_HIGH" />
+          <Map Name="FIR_BDRY" />
+        </Maps>
+        <Strips Mode="State" Sort="Time">
+          <Window Type="State" State="Jurisdiction" Visible="true" />
+          <Window Type="State" State="Announced" Visible="true" />
+          <Window Type="State" State="Preactive" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="14000" />
+        <ArrivalLists>
+          <Airport Name="AYPY" />
+          <Airport Name="AYNZ" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Moresby Control</Line>
+          <Line>Pilot Procedures - vats.im/pac/pilot</Line>
+          <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        </ControllerInfo>
+        <Transition Altitude="20000" />
     </Position>
     <Position Name="Nadi (Domestic)" Type="ASD" DefaultCenter="-17.749037+178.325786" DefaultRange="1200" VisibilityRange="300">
-		<Sectors>
-		  <Sector Name="NFFJ" />
-		  <Sector Name="NFFNA" />
-		  <Sector Name="NFNAA" />
-		</Sectors>
-		<ManualVisibility>
-		  <Point>-1745.0+17820.0</Point>
-		</ManualVisibility>
-		<Maps>
-		  <Map Name="ALL_CTA" />
-		  <Map Name="ALL_SECTORS" />
-		  <Map Name="UPPER_SECTOR_FREQS" />
-		  <Map Name="ALL_NAVAIDS" />
-		  <Map Name="COAST_ALL" />
-		  <Map Name="ALL_ROUTES_HIGH" />
-		  <Map Name="ALL_POINTS_HIGH" />
-		  <Map Name="FIR_BDRY" />
-		</Maps>
-		<Strips Mode="State" Sort="Time">
-		  <Window Type="State" State="Jurisdiction" Visible="true" />
-		  <Window Type="State" State="Announced" Visible="true" />
-		  <Window Type="State" State="Preactive" Visible="true" />
-		</Strips>
-		<CFL QuickLevel="7000" />
-		<ArrivalLists>
-		  <Airport Name="NFFN" />
-		  <Airport Name="NFNA" />
-		</ArrivalLists>
-		<ControllerInfo>
-		  <Line>Nadi Control</Line>
-		  <Line>ATC feedback - vats.im/pac/helpdesk</Line>
-		</ControllerInfo>
-		<Transition Altitude="11000" />
+        <Sectors>
+          <Sector Name="NFFJ" />
+          <Sector Name="NFFNA" />
+          <Sector Name="NFNAA" />
+        </Sectors>
+        <ManualVisibility>
+          <Point>-1745.0+17820.0</Point>
+        </ManualVisibility>
+        <Maps>
+          <Map Name="ALL_CTA" />
+          <Map Name="ALL_SECTORS" />
+          <Map Name="UPPER_SECTOR_FREQS" />
+          <Map Name="ALL_NAVAIDS" />
+          <Map Name="COAST_ALL" />
+          <Map Name="ALL_ROUTES_HIGH" />
+          <Map Name="ALL_POINTS_HIGH" />
+          <Map Name="FIR_BDRY" />
+        </Maps>
+        <Strips Mode="State" Sort="Time">
+          <Window Type="State" State="Jurisdiction" Visible="true" />
+          <Window Type="State" State="Announced" Visible="true" />
+          <Window Type="State" State="Preactive" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="7000" />
+        <ArrivalLists>
+          <Airport Name="NFFN" />
+          <Airport Name="NFNA" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Nadi Control</Line>
+          <Line>Pilot Procedures - vats.im/pac/pilot</Line>
+          <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        </ControllerInfo>
+        <Transition Altitude="11000" />
     </Position>
   </Group>
   <Group Name="TCU">
@@ -139,6 +142,7 @@
       <ControllerInfo>
         <Line>Nadzab Approach</Line>
         <Line>ATIS available on 128.1</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -170,6 +174,7 @@
       <ControllerInfo>
         <Line>Jacksons Radar</Line>
         <Line>ATIS available on 128.0</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -202,6 +207,7 @@
       <ControllerInfo>
         <Line>Nadi Approach</Line>
         <Line>ATIS available on 127.9</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
@@ -234,6 +240,7 @@
       <ControllerInfo>
         <Line>Nausori Approach</Line>
         <Line>ATIS available on 128.5</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
@@ -245,14 +252,14 @@
       <ManualVisibility>
         <Point>-1844.0+16427.0</Point>
         <Point>-1957.0+16710.0</Point>
-		<Point>-2227.0+16451.0</Point>
+        <Point>-2227.0+16451.0</Point>
         <Point>-2223.0+16859.0</Point>
       </ManualVisibility>
       <Maps>
         <Map Name="ALL_CTA" />
-		<Map Name="ALL_SECTORS" />
-		<Map Name="UPPER_SECTOR_FREQS" />
-		<Map Name="FIR_BDRY" />
+        <Map Name="ALL_SECTORS" />
+        <Map Name="UPPER_SECTOR_FREQS" />
+        <Map Name="FIR_BDRY" />
         <Map Name="Noumea/NWWW_COAST" />
         <Map Name="Noumea/NWWW_TCU" />
         <Map Name="Noumea/NWWW_RWY11A29D" />
@@ -277,43 +284,46 @@
       <ControllerInfo>
         <Line>Tontouta Approach</Line>
         <Line>ATIS available on 126.2</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
 	<Position Name="Vila TCU" Type="ASD" DefaultCenter="-16.620629+167.789198" DefaultRange="1200" VisibilityRange="400" MagneticVariation="-12">
-		<Sectors>
-		  <Sector Name="NVVVA" />
-		</Sectors>
-		<ManualVisibility>
-		  <Point>-160825.000+1681544.000</Point>
-		  <Point>-184521.000+1693355.000</Point>
-		  <Point>-140950.000+1692457.000</Point>
-		  <Point>-142000.000+1645700.000</Point>
-		</ManualVisibility>
-		<Maps>
-		  <Map Name="ALL_CTA" />
-		  <Map Name="ALL_SECTORS" />
-		  <Map Name="UPPER_SECTOR_FREQS" />
-		  <Map Name="FIR_BDRY" />
-		  <Map Name="Port Vila/NVVV_COAST" />
-		  <Map Name="Port Vila/NVVV_TCU" />
-		  <Map Name="Port Vila/NVVV_RWY11" />
-		</Maps>
-		<Strips Mode="State" Sort="Time">
-		  <Window Type="State" State="Jurisdiction" Visible="true" />
-		  <Window Type="State" State="Announced" Visible="true" />
-		  <Window Type="State" State="Preactive" Visible="true" />
-		</Strips>
-		<CFL QuickLevel="10000" />
-		<ArrivalLists>
-		  <Airport Name="NVVV" />
-		</ArrivalLists>
-		<ControllerInfo>
-		  <Line>Vila Tower (TCU)</Line>
-		  <Line>ATC feedback - vats.im/pac/helpdesk</Line>
-		</ControllerInfo>
-		<Transition Altitude="11000" />
+        <Sectors>
+          <Sector Name="NVVVA" />
+        </Sectors>
+        <ManualVisibility>
+          <Point>-160825.000+1681544.000</Point>
+          <Point>-184521.000+1693355.000</Point>
+          <Point>-140950.000+1692457.000</Point>
+          <Point>-142000.000+1645700.000</Point>
+        </ManualVisibility>
+        <Maps>
+          <Map Name="ALL_CTA" />
+          <Map Name="ALL_SECTORS" />
+          <Map Name="UPPER_SECTOR_FREQS" />
+          <Map Name="FIR_BDRY" />
+          <Map Name="Port Vila/NVVV_COAST" />
+          <Map Name="Port Vila/NVVV_TCU" />
+          <Map Name="Port Vila/NVVV_RWY11" />
+        </Maps>
+        <Strips Mode="State" Sort="Time">
+          <Window Type="State" State="Jurisdiction" Visible="true" />
+          <Window Type="State" State="Announced" Visible="true" />
+          <Window Type="State" State="Preactive" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="10000" />
+        <ArrivalLists>
+          <Airport Name="NVVV" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Vila Tower (TCU)</Line>
+          <Line>ATIS available on 126.4</Line>
+          <Line>Pilot Procedures - vats.im/pac/pilot</Line>
+          <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        </ControllerInfo>
+        <Transition Altitude="11000" />
 	</Position>
   </Group>
   <Group Name="Class C TWR">
@@ -340,11 +350,13 @@
       <ControllerInfo>
         <Line>Jacksons Tower</Line>
         <Line>ATIS available on 128.0</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AYPY_GND">
         <Line>Jacksons Ground</Line>
         <Line>ATIS available on 128.0</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -374,11 +386,13 @@
       <ControllerInfo>
         <Line>Nadi Tower</Line>
         <Line>ATIS available on 127.9</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="NFFN_GND">
         <Line>Nadi Ground</Line>
         <Line>ATIS available on 127.9</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
@@ -406,11 +420,13 @@
       <ControllerInfo>
         <Line>Tontouta Tower</Line>
         <Line>ATIS available on 126.2</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="NWWW_GND">
         <Line>Tontouta Ground</Line>
         <Line>ATIS available on 126.2</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
@@ -437,6 +453,7 @@
       <ControllerInfo>
         <Line>Nausori Tower</Line>
         <Line>ATIS available on 128.5</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
@@ -464,11 +481,13 @@
       <ControllerInfo>
         <Line>Bucholz Tower</Line>
         <Line>ATIS available on 119.5</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PKWA_GND">
         <Line>Bucholz Ground</Line>
         <Line>ATIS available on 119.5</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="5500" />
@@ -496,6 +515,7 @@
       <ControllerInfo>
         <Line>Magenta Tower</Line>
         <Line>ATIS available on 126.6</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
@@ -524,6 +544,7 @@
       <ControllerInfo>
         <Line>Nadzab Tower</Line>
         <Line>ATIS available on 128.1</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -557,6 +578,7 @@
       <ControllerInfo>
         <Line>Vila Tower</Line>
         <Line>ATIS available on 126.4</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
@@ -585,6 +607,7 @@
       <ControllerInfo>
         <Line>Goroka Tower</Line>
         <Line>ATIS available on 134.0</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -611,6 +634,7 @@
       <ControllerInfo>
         <Line>Madang Tower</Line>
         <Line>ATIS available on 127.8</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -637,6 +661,7 @@
       <ControllerInfo>
         <Line>Hagen Tower</Line>
         <Line>ATIS available on 128.9</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -665,6 +690,7 @@
       <ControllerInfo>
         <Line>Tokua Tower</Line>
         <Line>ATIS available on 128.3</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
@@ -672,13 +698,13 @@
   </Group>
   
   
-<!--		  		  		  		        -->
-<!--		  		  		  		        -->
-<!--		           ASMGCS		  		   -->
-<!--		  		  		  		        -->
-<!--		  		  		  		        -->
-<!--		  		  		  		        -->
-<!--		  		  		  		        -->
+<!--                                              -->
+<!--                                              -->
+<!--                   ASMGCS                     -->
+<!--                                              -->
+<!--                                              -->
+<!--                                              -->
+<!--                                              -->
 
 
   <Group Name="Class C">
