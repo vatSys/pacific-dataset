@@ -85,6 +85,7 @@
             
             <!-- NADI (NFFN) -->
             <!-- APRON CHART 17 APRIL 2025 -->
+            <!-- AMD AIP SUP 2 OCT 25 (33/25) -->
             <Point Name="1L">-174510.017+1772710.343</Point>
             <Point Name="1R">-174510.040+1772709.835</Point>
             <Point Name="2L">-174509.690+1772708.392</Point>
@@ -98,8 +99,6 @@
             <Point Name="9">-174511.350+1772659.110</Point>
             <Point Name="10">-174512.470+1772659.750</Point>
             <Point Name="11">-174513.330+1772658.090</Point>
-            <Point Name="12">-174514.230+1772658.100</Point>
-            <Point Name="13">-174515.120+1772658.070</Point>
             <Point Name="14">-174516.630+1772659.250</Point>
             <Point Name="15">-174517.020+1772700.840</Point>
             <Point Name="16">-174517.400+1772702.420</Point>
