@@ -531,6 +531,7 @@
         <Map Name="Nadzab/AYNZ_COAST" />
         <Map Name="Nadzab/AYNZ_TCU" />
         <Map Name="Nadzab/AYNZ_ALLRWYS" />
+        <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
         <Editor Airport="AYNZ" Frequency="128.6" />
@@ -565,6 +566,7 @@
         <Map Name="Port Vila/NVVV_TCU" />
         <Map Name="Port Vila/NVVV_RWY11" />
         <Map Name="Port Vila/NVVV_LOC" />
+        <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
         <Editor Airport="NVVV" Frequency="126.4" />
@@ -594,6 +596,7 @@
         <Map Name="Goroka/AYGA_COAST" />
         <Map Name="Goroka/AYGA_TCU" />
         <Map Name="Goroka/AYGA_RWYRRO" />
+        <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
         <Editor Airport="AYGA" Frequency="134.0" />
@@ -621,6 +624,7 @@
         <Map Name="Madang/AYMD_COAST" />
         <Map Name="Madang/AYMD_TCU" />
         <Map Name="Madang/AYMD_ALLRWYS" />
+        <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
         <Editor Airport="AYMD" Frequency="127.8" />
@@ -648,6 +652,7 @@
         <Map Name="Mt Hagen/AYMH_COAST" />
         <Map Name="Mt Hagen/AYMH_TCU" />
         <Map Name="Mt Hagen/AYMH_RWY1208" />
+        <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
         <Editor Airport="AYMH" Frequency="128.4" />
@@ -675,6 +680,7 @@
         <Map Name="Tokua/AYTK_COAST" />
         <Map Name="Tokua/AYTK_TCU" />
         <Map Name="Tokua/AYTK_ALLRWYS" />
+        <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
         <Editor Airport="AYTK" Frequency="128.3" />
