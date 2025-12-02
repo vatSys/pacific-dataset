@@ -348,16 +348,16 @@
         <Airport Name="AYPY" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Jacksons Tower</Line>
-        <Line>ATIS available on 128.0</Line>
+        <Line>Jacksons Tower | PDC AYPY</Line
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+		<Line>ATIS available on 128.0</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AYPY_GND">
-        <Line>Jacksons Ground</Line>
-        <Line>ATIS available on 128.0</Line>
+        <Line>Jacksons Ground | PDC AYPY</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 128.0</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -384,16 +384,16 @@
         <Airport Name="NFFN" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Nadi Tower</Line>
-        <Line>ATIS available on 127.9</Line>
+        <Line>Nadi Tower | PDC NFFN</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+		<Line>ATIS available on 127.9</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="NFFN_GND">
-        <Line>Nadi Ground</Line>
-        <Line>ATIS available on 127.9</Line>
+        <Line>Nadi Ground | PDC NFFN</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 127.9</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -418,16 +418,16 @@
         <Airport Name="NWWW" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Tontouta Tower</Line>
-        <Line>ATIS available on 126.2</Line>
+        <Line>Tontouta Tower | PDC NWWW</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 126.2</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="NWWW_GND">
-        <Line>Tontouta Ground</Line>
-        <Line>ATIS available on 126.2</Line>
+        <Line>Tontouta Ground | PDC NWWW</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 126.2</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -451,10 +451,10 @@
         <Airport Name="NFNA" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Nausori Tower</Line>
-        <Line>ATIS available on 128.5</Line>
+        <Line>Nausori Tower | PDC NFNA</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 128.5</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -479,16 +479,16 @@
         <Airport Name="PKWA" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Bucholz Tower</Line>
-        <Line>ATIS available on 119.5</Line>
+        <Line>Bucholz Tower | PDC PKWA</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 119.5</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="PKWA_GND">
-        <Line>Bucholz Ground</Line>
-        <Line>ATIS available on 119.5</Line>
+        <Line>Bucholz Ground | PDC PKWA</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 119.5</Line>
       </ControllerInfo>
       <Transition Altitude="5500" />
     </Position>
@@ -513,10 +513,10 @@
         <Airport Name="NWWM" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Magenta Tower</Line>
-        <Line>ATIS available on 126.6</Line>
+        <Line>Magenta Tower | PDC NWWM</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 126.6</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -543,10 +543,10 @@
         <Airport Name="AYNZ" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Nadzab Tower</Line>
-        <Line>ATIS available on 128.1</Line>
+        <Line>Nadzab Tower | PDC AYNZ</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 128.1</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -578,10 +578,10 @@
         <Airport Name="NVVV" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Vila Tower</Line>
-        <Line>ATIS available on 126.4</Line>
+        <Line>Vila Tower | PDC NVVV</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 126.4</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -608,10 +608,10 @@
         <Airport Name="AYGA" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Goroka Tower</Line>
-        <Line>ATIS available on 134.0</Line>
+        <Line>Goroka Tower | PDC AYGA</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 134.0</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -636,10 +636,10 @@
         <Airport Name="AYMD" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Madang Tower</Line>
-        <Line>ATIS available on 127.8</Line>
+        <Line>Madang Tower | PDC AYMD</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 127.8</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -664,10 +664,10 @@
         <Airport Name="AYMH" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Hagen Tower</Line>
-        <Line>ATIS available on 128.9</Line>
+        <Line>Hagen Tower | PDC AYMH</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 128.9</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -694,10 +694,10 @@
         <Airport Name="AYTK" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Tokua Tower</Line>
-        <Line>ATIS available on 128.3</Line>
+        <Line>Tokua Tower | PDC AYTK</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATIS available on 128.3</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
