@@ -5326,6 +5326,11 @@ DIL VOR
       <Runway Name="15" Position="-192659.521+1691317.429" />
       <Runway Name="33" Position="-192736.569+1691333.982" />
     </Airport>
+    <Airport ICAO="NWBO" FullName="Ile Hugon" Position="-220230.00+1660156.00" Elevation="25" />
+    <Airport ICAO="NWDU" Fullname="Nakutakoin Ultralight Airport" Position="-221008.00+1662560.00" Elevation="7">
+      <Runway Name="13" Position="-221008.00+1662560.00" />
+      <Runway Name="31" Position="-221008.00+1662560.00" />
+    </Airport>
     <Airport ICAO="NWHH" FullName="Noumea Meridien" Position="-221844.000+1662654.000" Elevation="10" />
     <Airport ICAO="NWHN" FullName="Kone Chn" Position="-210555.000+1645318.000" Elevation="69" />
     <Airport ICAO="NWHT" FullName="Dumbea Cht" Position="-221231.000+1662710.000" Elevation="72" />
@@ -5349,6 +5354,8 @@ DIL VOR
       <Runway Name="10" Position="-223510.640+1672659.129" />
       <Runway Name="28" Position="-223527.269+1672739.038" />
     </Airport>
+    <Airport ICAO="NWWH" FullName="Nesson" Position="-211526.00+1653706.00" Elevation="10" />
+    <Airport ICAO="NWWI" FullName="Hienghene" Position="-204140.00+1645933.00" Elevation="18" />
     <Airport ICAO="NWWK" FullName="Koumac" Position="-203247.000+1641520.000" Elevation="42">
       <Runway Name="06" Position="-203253.790+1641502.671" />
       <Runway Name="24" Position="-203239.941+1641537.739" />
@@ -5361,6 +5368,8 @@ DIL VOR
       <Runway Name="17" Position="-221514.339+1662821.742" />
       <Runway Name="35" Position="-221547.452+1662822.649" />
     </Airport>
+    <Airport ICAO="NWWP" FullName="Poum" Position="-201721.00+1640558.00" Elevation="6" />
+    <Airport ICAO="NWWQ" FullName="Mueo" Position="-211859.00+1645958.00" Elevation="264" />
     <Airport ICAO="NWWR" FullName="Mare La Roche" Position="-212852.000+1680215.000" Elevation="138">
       <Runway Name="13" Position="-212841.380+1680204.240" />
       <Runway Name="31" Position="-212912.059+1680232.849" />
@@ -5517,4 +5526,5 @@ DIL VOR
       <Runway Name="21" Position="+055445.259+1693823.280" />
     </Airport>
   </Airports>
+
 </Airspace>
