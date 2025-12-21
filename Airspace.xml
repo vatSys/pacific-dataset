@@ -499,6 +499,7 @@ NISAS/
 TEBUR/
 ISTEM/
 MEPEM/
+AVMUN/
 GUMKI/
 BN VOR
 </Airway>
@@ -729,7 +730,7 @@ GUTIV/
 INVUS/
 ATNAT/
 SOTKI/
-TESAS/
+ELPIB/
 SARAP/
 IGLET/
 MUGEN/
@@ -1250,7 +1251,7 @@ UPLAR
     <Airway Name="L503">
 KABKA/
 RUNOD/
-TESAS/
+ELPIB/
 UPSAD/
 SIFRA/
 WODAY/
@@ -1348,12 +1349,7 @@ PEBLU
 MADEP/
 OLREL/
 AKALU/
-GORTA/
-PEBTU/
-ADBOK/
 NONID/
-OLNOT/
-LAFAM/
 SAPOX/
 RIKNI/
 MARLN/
@@ -1954,6 +1950,7 @@ DIL VOR
     <Point Name="AVDAN" Type="Fix">-160658.600+1451937.700</Point>
     <Point Name="AVLIX" Type="Fix">-063653.939+1475128.559</Point>
     <Point Name="AVMAN" Type="Fix">-103558.000+1290920.000</Point>
+    <Point Name="AVMUN" Type="Fix">-270059.500+1541722.500</Point>
     <Point Name="AWIJU" Type="Fix">+092303.980+1672724.271</Point>
     <Point Name="AXTEN" Type="Fix">+064917.749+1584042.110</Point>
     <Point Name="AYUGO" Type="Fix">+053312.661+1630110.931</Point>
@@ -2165,6 +2162,7 @@ DIL VOR
     <Point Name="ELMOR" Type="Fix">-075313.261+1564930.479</Point>
     <Point Name="ELNIV" Type="Fix">-383622.200+1473159.600</Point>
     <Point Name="ELNUR" Type="Fix">+033000.000+1663030.000</Point>
+    <Point Name="ELPIB" Type="Fix">-332050.600+1594932.500</Point>
     <Point Name="ELSAX" Type="Fix">-191936.000+1683700.000</Point>
     <Point Name="EMLEN" Type="Fix">-030752.939+1422915.832</Point>
     <Point Name="EMPRA" Type="Fix">-084220.790+1460548.710</Point>
@@ -3280,6 +3278,7 @@ DIL VOR
     <Point Name="UPSET" Type="Fix">-085346.792+1493037.462</Point>
     <Point Name="URBEL" Type="Fix">-090634.189+1483821.480</Point>
     <Point Name="UTOCO" Type="Fix">+083119.870+1674340.051</Point>
+    <Point Name="UVIKI" Type="Fix">-215323.000+1661905.000</Point>
     <Point Name="UVUPO" Type="Fix">-411440.380+1644723.060</Point>
     <Point Name="VAITU" Type="Fix">-131350.000-1760151.000</Point>
     <Point Name="VAKRO" Type="Fix">-095117.939+1605725.700</Point>
@@ -3806,7 +3805,6 @@ DIL VOR
     <Point Name="SFI" Type="Fix">-090712.000+1464312.000</Point>
     <Point Name="SHL" Type="Fix">-094606.000+1472524.000</Point>
     <Point Name="SHS" Type="Fix">-182815.629+1683958.478</Point>
-    <Point Name="UVIKI" Type="Fix">-215323.000+1661905.000</Point>
     <Point Name="VICTR" Type="Fix">-221907.000+1663541.000</Point>
     <Point Name="WK" Type="Fix">-033500.240+1434033.780</Point>
     <Point Name="ZIN" Type="Fix">-100600.000+1432000.000</Point>
@@ -3905,7 +3903,7 @@ DIL VOR
     <Point Name="TL" Type="Navaid" NavaidType="VOR" Frequency="000.000">-191439.100+1464529.100</Point>
     <Point Name="TN" Type="Navaid" NavaidType="VOR" Frequency="000.000">-143109.100+1322215.600</Point>
     <Point Name="UKS" Type="Navaid" NavaidType="VOR" Frequency="115.300">+052111.480+1625724.300</Point>
-    <Point Name="VLI" Type="Navaid" NavaidType="VOR" Frequency="114.300">-173943.700+1681438.159</Point>
+    <Point Name="VLI" Type="Navaid" NavaidType="VOR" Frequency="114.300">-173943.740+1681438.155</Point>
     <Point Name="VNO" Type="Navaid" NavaidType="VOR" Frequency="115.600">-024042.780+1411811.639</Point>
     <Point Name="WP" Type="Navaid" NavaidType="VOR" Frequency="000.000">-124024.800+1415520.900</Point>
     <Point Name="YXM" Type="Navaid" NavaidType="VOR" Frequency="113.700">-060319.789+1425222.051</Point>
@@ -4399,7 +4397,7 @@ DIL VOR
       <Runway Name="24" Position="-092528.268+1600349.529" />
     </Airport>
     <Airport ICAO="AGGI" FullName="Babanakira" Position="-094447.807+1595022.448" Elevation="70" />
-    <Airport ICAO="AGGJ" FullName="Avu Avu" Position="-095211.399+1602440.799" />
+    <Airport ICAO="AGGJ" FullName="Avu Avu" Position="-095211.399+1602440.799" Elevation="6" />
     <Airport ICAO="AGGK" FullName="Kirakira" Position="-102630.000+1615348.000" Elevation="8">
       <Runway Name="10" Position="-102650.921+1615336.600" />
       <Runway Name="28" Position="-102705.659+1615413.500" />
@@ -4433,7 +4431,7 @@ DIL VOR
       <Runway Name="10" Position="-083438.510+1575218.091" />
       <Runway Name="28" Position="-083446.420+1575246.970" />
     </Airport>
-    <Airport ICAO="AGGT" FullName="Santa Anna" Position="-105054.049+1622716.402" Elevation="132">
+    <Airport ICAO="AGGT" FullName="Santa Ana" Position="-105054.049+1622716.402" Elevation="132">
       <Runway Name="11" Position="-105047.450+1622704.882" />
       <Runway Name="29" Position="-105100.652+1622727.922" />
     </Airport>
@@ -5272,7 +5270,7 @@ DIL VOR
       <Runway Name="34" Position="-135121.622+1673217.048" />
     </Airport>
     <Airport ICAO="NVSD" FullName="Torres" Position="-131940.040+1663816.292" Elevation="482" />
-    <Airport ICAO="NVSE" FullName="Sangafa" Position="-170536.000+1682000.000" Elevation="7">
+    <Airport ICAO="NVSE" FullName="Emae" Position="-170536.000+1682000.000" Elevation="7">
       <Runway Name="14" Position="-170500.499+1682018.218" />
       <Runway Name="32" Position="-170529.371+1682033.601" />
     </Airport>
