@@ -119,10 +119,10 @@
   <Sector FullName="Ujung Pandang Training" Frequency="128.100" Callsign="WAAF_T_CTR" Name="WAAF-T" DisplayInSectorsWindow="False" DisplayInHandoffWindow="False">
     <Volumes>WAAF</Volumes>
   </Sector>
-  <Sector FullName="Ujung Pandang (Ambon) Control" Frequency="132.350" Callsign="WAAF_AN_CTR" Name="WAAF-AN" DisplayInSectorsWindow="True">
+  <Sector FullName="Ujung Pandang (Ambon) Control" Frequency="132.350" Callsign="WAAF_AN_CTR" Name="WAAF-AN" DisplayInSectorsWindow="False">
     <Volumes>WAAF-AN</Volumes>
   </Sector>
-  <Sector FullName="Ujung Pandang (Papua) Control" Frequency="133.100" Callsign="WAAF_PA_CTR" Name="WAAF-PA" DisplayInSectorsWindow="True">
+  <Sector FullName="Ujung Pandang (Papua) Control" Frequency="133.100" Callsign="WAAF_PA_CTR" Name="WAAF-PA" DisplayInSectorsWindow="False">
     <Volumes>WAAF-PA,WAJJA,WAKKA</Volumes>
   </Sector>
   <Sector FullName="Sentani Tower" Frequency="118.100" Callsign="WAJJ_TWR" Name="WAJJ ADC" DisplayInSectorsWindow="False">

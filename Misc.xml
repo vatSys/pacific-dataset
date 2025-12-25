@@ -6,6 +6,6 @@
   <RVSMStatus FAAEquipment="L, W, Z" ICAOEquipment="W" />
   <ADSBStatus FAAEquipment="I, L, G, Z" ICAOEquipment="L, E, B1, B2" Remark="ADSB" />
   <LATCValues>15, 22, 29, 38, 45, 61, 72, 89, 115, 165</LATCValues>
-  <FilterGroundTracks>NFFN,NFNA,PKWA,NWWM,NWWW,AYGA,AYMD,AYMH,AYNZ,AYPY,AYTK,AYWK,NVVV</FilterGroundTracks>
-  <PDCAirports>NFFN,NFNA,PKWA,NWWM,NWWW,AYGA,AYMD,AYMH,AYNZ,AYPY,AYTK,AYWK,NVVV</PDCAirports>
+  <FilterGroundTracks>NFFN,NFNA,PKWA,NWWM,NWWW,AYGA,AYMD,AYMH,AYNZ,AYPY,AYTK,NVVV</FilterGroundTracks>
+  <PDCAirports></PDCAirports>
 </Misc>
