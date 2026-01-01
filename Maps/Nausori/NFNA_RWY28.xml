@@ -101,6 +101,11 @@
       -180142.257+1783045.011
     </Line>
     <Line>
+      <!--Rwy28 GOLF.MELEB-->
+      -180142.257+1783045.011/
+      MELEB
+    </Line>
+    <Line>
       <!--Rwy28 GOLF.MI-->
       -180142.257+1783045.011/
       MI NDB
@@ -110,17 +115,11 @@
       -180142.257+1783045.011/
       NN VOR
     </Line>
-    <Line>
-      <!--Rwy28 GOLF.VK-->
-      -180142.257+1783045.011/
-      VK NDB
-    </Line>
     <!--STARs-->
     <Symbol Type="Circle">
       <Point>NA VOR</Point>
       <Point>MI NDB</Point>
       <Point>NN VOR</Point>
-      <Point>VK NDB</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>NAVUA</Point>
@@ -130,6 +129,7 @@
       <Point>ATOLL</Point>
       <Point>SAPIR</Point>
       <Point>ISTOS</Point>
+      <Point>MELEB</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="NFNA_RWY28_NAMES" Priority="2" Center="-18.044608+178.559547">
@@ -142,9 +142,9 @@
       <Point>ATOLL</Point>
       <Point>SAPIR</Point>
       <Point>ISTOS</Point>
+      <Point>MELEB</Point>
       <Point>MI NDB</Point>
       <Point>NN VOR</Point>
-      <Point>VK NDB</Point>
       <Point>IBOKU</Point>
       <Point>IGAPI</Point>
       <Point>ANBAT</Point>
@@ -169,7 +169,7 @@
       <Point>LENUM</Point>
       <Point>DIVTA</Point>
       <Point>SAVUS</Point>
-      <Point>NEMAL</Point>
+      <Point>NIMIL</Point>
       <Point>DALOT</Point>
       <Point>NOVAT</Point>
       <Point>MAKSO</Point>

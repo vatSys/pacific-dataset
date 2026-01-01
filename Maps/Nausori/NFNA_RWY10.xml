@@ -54,6 +54,11 @@
       NA VOR
     </Line>
     <Line>
+      <!--Rwy10 CHARLI.MELEB-->
+      NA VOR/
+      MELEB
+    </Line>
+    <Line>
       <!--Rwy10 CHARLI.MI-->
       NA VOR/
       MI NDB
@@ -62,11 +67,6 @@
       <!--Rwy10 CHARLI.NN-->
       NA VOR/
       NN VOR
-    </Line>
-    <Line>
-      <!--Rwy10 CHARLI.VK-->
-      NA VOR/
-      VK NDB
     </Line>
     <Line>
       <!--Rwy10 DELTA-->
@@ -93,13 +93,13 @@
       <Point>NA VOR</Point>
       <Point>MI NDB</Point>
       <Point>NN VOR</Point>
-      <Point>VK NDB</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>NAVUA</Point>
       <Point>LAVAV</Point>
       <Point>MAMDU</Point>
       <Point>NFNS</Point>
+      <Point>MELEB</Point>
       <Point>ATOLL</Point>
       <Point>SAPIR</Point>
       <Point>ISTOS</Point>
@@ -112,9 +112,9 @@
       <Point>MAMDU</Point>
       <Point>NFNS</Point>
       <Point>NA VOR</Point>
+      <Point>MELEB</Point>
       <Point>MI NDB</Point>
       <Point>NN VOR</Point>
-      <Point>VK NDB</Point>
       <Point>ATOLL</Point>
       <Point>SAPIR</Point>
       <Point>ISTOS</Point>
@@ -142,7 +142,7 @@
       <Point>LENUM</Point>
       <Point>DIVTA</Point>
       <Point>SAVUS</Point>
-      <Point>NEMAL</Point>
+      <Point>NIMIL</Point>
       <Point>DALOT</Point>
       <Point>NOVAT</Point>
       <Point>MAKSO</Point>

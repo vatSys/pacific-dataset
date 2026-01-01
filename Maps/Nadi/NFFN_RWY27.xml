@@ -70,9 +70,9 @@
       NAVUA
     </Line>
     <Line>
-      <!--Rwy27 CHARLI.PACKO-->
+      <!--Rwy27 CHARLI.PANDO-->
       NN VOR/
-      PACKO
+      PANDO
     </Line>
     <Line>
       <!--Rwy27 DELTA-->
@@ -83,31 +83,31 @@
       -174453.919+1772120.367/
       -174511.990+1772124.436/
       -174525.752+1772137.386/
-      VK NDB
+      MELEB
     </Line>
     <Line>
       <!--Rwy27 DELTA.EXORA-->
-      VK NDB/
+      MELEB/
       EXORA
     </Line>
     <Line>
       <!--Rwy27 DELTA.GODAP-->
-      VK NDB/
+      MELEB/
       GODAP
     </Line>
     <Line>
       <!--Rwy27 DELTA.LUPLO-->
-      VK NDB/
+      MELEB/
       LUPLO
     </Line>
     <Line>
       <!--Rwy27 DELTA.NA-->
-      VK NDB/
+      MELEB/
       NA VOR
     </Line>
     <Line>
       <!--Rwy27 DELTA.NAVUA-->
-      VK NDB/
+      MELEB/
       NAVUA
     </Line>
     <Line>
@@ -166,7 +166,7 @@
     <Symbol Type="Circle">
       <Point>NN VOR</Point>
       <Point>NA VOR</Point>
-      <Point>VK NDB</Point>
+      <Point>MELEB</Point>
       <Point>MI NDB</Point>
     </Symbol>
     <Symbol Type="HollowStar">
@@ -179,7 +179,7 @@
       <Point>LUPLO</Point>
       <Point>MAKSO</Point>
       <Point>NAVUA</Point>
-      <Point>PACKO</Point>
+      <Point>PANDO</Point>
       <Point>AGTOS</Point>
       <Point>ALBAB</Point>
       <Point>BEACH</Point>
@@ -200,8 +200,8 @@
       <Point>MAKSO</Point>
       <Point>NA VOR</Point>
       <Point>NAVUA</Point>
-      <Point>PACKO</Point>
-      <Point>VK NDB</Point>
+      <Point>PANDO</Point>
+      <Point>MELEB</Point>
       <Point>MI NDB</Point>
       <Point>AGTOS</Point>
       <Point>ALBAB</Point>
@@ -216,11 +216,6 @@
       <Point>TUTMU</Point>
       <Point>KALPO</Point>
       <Point>KAMAP</Point>
-      <Point>IBOKU</Point>
-      <Point>ISTOS</Point>
-      <Point>IGAPI</Point>
-      <Point>ATOLL</Point>
-      <Point>ANBAT</Point>
       <Point>ISMOP</Point>
       <Point>INTID</Point>
       <Point>ISPAL</Point>
@@ -244,32 +239,19 @@
       <Point>VENAN</Point>
       <Point>VIBEX</Point>
       <Point>LEBUT</Point>
-      <Point>ATOPO</Point>
-      <Point>ABVAT</Point>
-      <Point>AGSEK</Point>
-      <Point>ANRIK</Point>
-      <Point>ELARA</Point>
-      <Point>IDUBO</Point>
-      <Point>MATUA</Point>
-      <Point>LENUM</Point>
-      <Point>DIVTA</Point>
-      <Point>SAVUS</Point>
-      <Point>NFNS</Point>
-      <Point>NEMAL</Point>
-      <Point>DALOT</Point>
-      <Point>RUTEB</Point>
-      <Point>TOMIK</Point>
       <Point>PAGBO</Point>
       <Point>PUNIX</Point>
       <Point>ALEBO</Point>
-      <Point>MABTU</Point>
+      <Point>LENUM</Point>
       <Point>LUNKI</Point>
-      <Point>KOROI</Point>
-      <Point>LINPA</Point>
       <Point>NINIK</Point>
+      <Point>LAVAV</Point>
+      <Point>MATUA</Point>
+      <Point>MABTU</Point>
+      <Point>NIMIL</Point>
       <Point>RUMAB</Point>
-      <Point>SUSUI</Point>
-      <Point>NFVB</Point>
+      <Point>SAVUS</Point>
+      <Point>TOMIK</Point>
       <Point>PAKDA</Point>
       <Point>GILUM</Point>
     </Label>
