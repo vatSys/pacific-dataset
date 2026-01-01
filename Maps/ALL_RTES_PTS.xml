@@ -45,8 +45,8 @@
     <Line Name="G591_0">MUGEN.G591.CS VOR</Line>
     <Line Name="G593_0">FU NDB.G593.PALMI</Line>
     <Line Name="G595_0">TESAT.G595.MALNI</Line>
-    <Line Name="H154_0">NA VOR.H154.RM NDB</Line>
-    <Line Name="H271_0">VK NDB.H271.NA VOR</Line>
+    <Line Name="H154_0">NA VOR.H154.RUMOT</Line>
+    <Line Name="H271_0">MELEB.H271.NA VOR</Line>
     <Line Name="H401_0">PY VOR.H401.VNO NDB</Line>
     <Line Name="H404_0">NZ VOR.H404.MOE NDB</Line>
     <Line Name="H405_0">PY VOR.H405.NZ VOR</Line>
@@ -150,33 +150,33 @@
     <Line Name="P880_0">LIBLA.P880.SCOTT</Line>
     <Line Name="Q102_0">MALSI.Q102.TOMIK</Line>
     <Line Name="Q109_0">YADUA.Q109.NFVL</Line>
-    <Line Name="Q154_0">NA VOR.Q154.RM NDB</Line>
+    <Line Name="Q154_0">NA VOR.Q154.RUMOT</Line>
     <Line Name="Q170_0">NA VOR.Q170.NFNS</Line>
-    <Line Name="Q173_0">NEMAL.Q173.BEVNO</Line>
+    <Line Name="Q173_0">NIMIL.Q173.BEVNO</Line>
     <Line Name="Q187_0">NA VOR.Q187.NAMLA</Line>
     <Line Name="Q192_0">NA VOR.Q192.LAVAV</Line>
-    <Line Name="Q271_0">VK NDB.Q271.NA VOR</Line>
+    <Line Name="Q271_0">MELEB.Q271.NA VOR</Line>
     <Line Name="Q281_0">MI NDB.Q281.NAVUA</Line>
-    <Line Name="Q289_0">VK NDB.Q289.NAVUA</Line>
+    <Line Name="Q289_0">MELEB.Q289.NAVUA</Line>
     <Line Name="Q296_0">NN VOR.Q296.NAVUA</Line>
     <Line Name="Q302_0">NA VOR.Q302.ONOLU</Line>
     <Line Name="Q31_0">NA VOR.Q31.GUSMA</Line>
     <Line Name="Q310_0">NA VOR.Q310.TOMIK</Line>
     <Line Name="Q311_0">MI NDB.Q311.NAMLA</Line>
-    <Line Name="Q343_0">NN VOR.Q343.RM NDB</Line>
+    <Line Name="Q343_0">NN VOR.Q343.RUMOT</Line>
     <Line Name="Q35_0">NA VOR.Q35.AGSEK</Line>
     <Line Name="Q355_0">NN VOR.Q355.NFSW</Line>
     <Line Name="Q390_0">BEVNO.Q390.LATIT</Line>
     <Line Name="Q420_0">NA VOR.Q420.LINPA</Line>
     <Line Name="Q430_0">NN VOR.Q430.LAVAV</Line>
-    <Line Name="Q450_0">VK NDB.Q450.MAKSO</Line>
+    <Line Name="Q450_0">MELEB.Q450.MAKSO</Line>
     <Line Name="Q490_0">NAVUA.Q490.NA NDB</Line>
     <Line Name="Q540_0">NA VOR.Q540.KAIBU</Line>
     <Line Name="Q550_0">NN VOR.Q550.TOMIK</Line>
     <Line Name="Q580_0">NA VOR.Q580.NFVB</Line>
     <Line Name="Q680_0">NA VOR.Q680.CICIA</Line>
     <Line Name="Q740_0">NN VOR.Q740.NUKUM</Line>
-    <Line Name="Q77_0">NEMAL.Q77.NFNH</Line>
+    <Line Name="Q77_0">NIMIL.Q77.NFNH</Line>
     <Line Name="Q810_0">NA VOR.Q810.NFNK</Line>
     <Line Name="Q820_0">NA VOR.Q820.NFNG</Line>
     <Line Name="Q920_0">MI NDB.Q920.DAMOK</Line>
@@ -195,15 +195,15 @@
     <Line Name="R599_0">ENDAL.R599.DUGAN</Line>
     <Line Name="T17_0">TISTO.T17.JPA VOR</Line>
     <Line Name="T272_0">MI NDB.T272.NAVUA</Line>
-    <Line Name="T273_0">VK NDB.T273.NAVUA</Line>
-    <Line Name="T275_0">VK NDB.T275.NAMLA</Line>
+    <Line Name="T273_0">MELEB.T273.NAVUA</Line>
+    <Line Name="T275_0">MELEB.T275.NAMLA</Line>
     <Line Name="T276_0">NA NDB.T276.NFNS</Line>
     <Line Name="T278_0">NA NDB.T278.NAMLA</Line>
-    <Line Name="T279_0">VK NDB.T279.NFNS</Line>
-    <Line Name="T282_0">VK NDB.T282.MAMDU</Line>
+    <Line Name="T279_0">MELEB.T279.NFNS</Line>
+    <Line Name="T282_0">MELEB.T282.MAMDU</Line>
     <Line Name="T286_0">NA NDB.T286.NFNK</Line>
     <Line Name="T287_0">MI NDB.T287.NA NDB</Line>
-    <Line Name="T288_0">VK NDB.T288.NA NDB</Line>
+    <Line Name="T288_0">MELEB.T288.NA NDB</Line>
     <Line Name="T360_0">MAMDU.T360.NA NDB</Line>
     <Line Name="T490_0">NAVUA.T490.NA NDB</Line>
     <Line Name="V192_0">NA VOR.V192.LAVAV</Line>
@@ -229,6 +229,7 @@
       <Point>SHAZA</Point>
       <Point>NOBAR</Point>
       <Point>MEPEM</Point>
+      <Point>AVMUN</Point>
       <Point>GUMKI</Point>
       <Point>MASRA</Point>
       <Point>UGTUG</Point>
@@ -239,11 +240,6 @@
       <Point>NETTY</Point>
       <Point>BADGR</Point>
       <Point>ANGEX</Point>
-      <Point>GORTA</Point>
-      <Point>PEBTU</Point>
-      <Point>ADBOK</Point>
-      <Point>OLNOT</Point>
-      <Point>LAFAM</Point>
       <Point>SAPOX</Point>
       <Point>RAZZI</Point>
       <Point>AVDAN</Point>
@@ -390,7 +386,7 @@
       <Point>MOMTA</Point>
       <Point>REPOL</Point>
       <Point>PAGTI</Point>
-      <Point>PACKO</Point>
+      <Point>PANDO</Point>
       <Point>PUKET</Point>
       <Point>PARZO</Point>
       <Point>OVLAD</Point>
@@ -511,7 +507,7 @@
       <Point>INVUS</Point>
       <Point>ATNAT</Point>
       <Point>SOTKI</Point>
-      <Point>TESAS</Point>
+      <Point>ELPIB</Point>
       <Point>ELARA</Point>
       <Point>IDUBO</Point>
       <Point>NOBOX</Point>
@@ -684,7 +680,7 @@
       <Point>DIVTA</Point>
       <Point>SAVUS</Point>
       <Point>NFNS</Point>
-      <Point>NEMAL</Point>
+      <Point>NIMIL</Point>
       <Point>BEVNO</Point>
       <Point>NAMLA</Point>
       <Point>LAVAV</Point>
@@ -812,8 +808,8 @@
       <Point>AGOXI</Point>
       <Point>SOVRO</Point>
       <Point>DIPSO</Point>
-      <Point>RM NDB</Point>
-      <Point>VK NDB</Point>
+      <Point>RUMOT</Point>
+      <Point>MELEB</Point>
       <Point>VNO NDB</Point>
       <Point>MOE NDB</Point>
       <Point>OKT NDB</Point>
@@ -946,8 +942,8 @@
     <Line Name="G591_0">MUGEN.G591.TEPAM</Line>
     <Line Name="G593_0">FU NDB.G593.PALMI</Line>
     <Line Name="G595_0">SARAP.G595.MALNI</Line>
-    <Line Name="H154_0">NA VOR.H154.RM NDB</Line>
-    <Line Name="H271_0">VK NDB.H271.NA VOR</Line>
+    <Line Name="H154_0">NA VOR.H154.RUMOT</Line>
+    <Line Name="H271_0">MELEB.H271.NA VOR</Line>
     <Line Name="H401_0">PY VOR.H401.VNO NDB</Line>
     <Line Name="H404_0">NZ VOR.H404.MOE NDB</Line>
     <Line Name="H405_0">PY VOR.H405.NZ VOR</Line>
@@ -1039,33 +1035,33 @@
     <Line Name="M774_0">KIKEM.M774.KEONG</Line>
     <Line Name="Q102_0">MALSI.Q102.TOMIK</Line>
     <Line Name="Q109_0">YADUA.Q109.NFVL</Line>
-    <Line Name="Q154_0">NA VOR.Q154.RM NDB</Line>
+    <Line Name="Q154_0">NA VOR.Q154.RUMOT</Line>
     <Line Name="Q170_0">NA VOR.Q170.NFNS</Line>
-    <Line Name="Q173_0">NEMAL.Q173.BEVNO</Line>
+    <Line Name="Q173_0">NIMIL.Q173.BEVNO</Line>
     <Line Name="Q187_0">NA VOR.Q187.NAMLA</Line>
     <Line Name="Q192_0">NA VOR.Q192.LAVAV</Line>
-    <Line Name="Q271_0">VK NDB.Q271.NA VOR</Line>
+    <Line Name="Q271_0">MELEB.Q271.NA VOR</Line>
     <Line Name="Q281_0">MI NDB.Q281.NAVUA</Line>
-    <Line Name="Q289_0">VK NDB.Q289.NAVUA</Line>
+    <Line Name="Q289_0">MELEB.Q289.NAVUA</Line>
     <Line Name="Q296_0">NN VOR.Q296.NAVUA</Line>
     <Line Name="Q302_0">NA VOR.Q302.ONOLU</Line>
     <Line Name="Q31_0">NA VOR.Q31.GUSMA</Line>
     <Line Name="Q310_0">NA VOR.Q310.TOMIK</Line>
     <Line Name="Q311_0">MI NDB.Q311.NAMLA</Line>
-    <Line Name="Q343_0">NN VOR.Q343.RM NDB</Line>
+    <Line Name="Q343_0">NN VOR.Q343.RUMOT</Line>
     <Line Name="Q35_0">NA VOR.Q35.AGSEK</Line>
     <Line Name="Q355_0">NN VOR.Q355.NFSW</Line>
     <Line Name="Q390_0">BEVNO.Q390.LATIT</Line>
     <Line Name="Q420_0">NA VOR.Q420.LINPA</Line>
     <Line Name="Q430_0">NN VOR.Q430.LAVAV</Line>
-    <Line Name="Q450_0">VK NDB.Q450.MAKSO</Line>
+    <Line Name="Q450_0">MELEB.Q450.MAKSO</Line>
     <Line Name="Q490_0">NAVUA.Q490.NA NDB</Line>
     <Line Name="Q540_0">NA VOR.Q540.KAIBU</Line>
     <Line Name="Q550_0">NN VOR.Q550.TOMIK</Line>
     <Line Name="Q580_0">NA VOR.Q580.NFVB</Line>
     <Line Name="Q680_0">NA VOR.Q680.CICIA</Line>
     <Line Name="Q740_0">NN VOR.Q740.NUKUM</Line>
-    <Line Name="Q77_0">NEMAL.Q77.NFNH</Line>
+    <Line Name="Q77_0">NIMIL.Q77.NFNH</Line>
     <Line Name="Q810_0">NA VOR.Q810.NFNK</Line>
     <Line Name="Q820_0">NA VOR.Q820.NFNG</Line>
     <Line Name="Q920_0">MI NDB.Q920.DAMOK</Line>
@@ -1083,15 +1079,15 @@
     <Line Name="R587_0">MEPAB.R587.VLI VOR</Line>
     <Line Name="R599_0">ENDAL.R599.DUGAN</Line>
     <Line Name="T272_0">MI NDB.T272.NAVUA</Line>
-    <Line Name="T273_0">VK NDB.T273.NAVUA</Line>
-    <Line Name="T275_0">VK NDB.T275.NAMLA</Line>
+    <Line Name="T273_0">MELEB.T273.NAVUA</Line>
+    <Line Name="T275_0">MELEB.T275.NAMLA</Line>
     <Line Name="T276_0">NA NDB.T276.NFNS</Line>
     <Line Name="T278_0">NA NDB.T278.NAMLA</Line>
-    <Line Name="T279_0">VK NDB.T279.NFNS</Line>
-    <Line Name="T282_0">VK NDB.T282.MAMDU</Line>
+    <Line Name="T279_0">MELEB.T279.NFNS</Line>
+    <Line Name="T282_0">MELEB.T282.MAMDU</Line>
     <Line Name="T286_0">NA NDB.T286.NFNK</Line>
     <Line Name="T287_0">MI NDB.T287.NA NDB</Line>
-    <Line Name="T288_0">VK NDB.T288.NA NDB</Line>
+    <Line Name="T288_0">MELEB.T288.NA NDB</Line>
     <Line Name="T360_0">MAMDU.T360.NA NDB</Line>
     <Line Name="T490_0">NAVUA.T490.NA NDB</Line>
     <Line Name="V192_0">NA VOR.V192.LAVAV</Line>
@@ -1225,7 +1221,7 @@
       <Point>MOMTA</Point>
       <Point>REPOL</Point>
       <Point>PAGTI</Point>
-      <Point>PACKO</Point>
+      <Point>PANDO</Point>
       <Point>PUKET</Point>
       <Point>PARZO</Point>
       <Point>OVLAD</Point>
@@ -1475,7 +1471,7 @@
       <Point>DIVTA</Point>
       <Point>SAVUS</Point>
       <Point>NFNS</Point>
-      <Point>NEMAL</Point>
+      <Point>NIMIL</Point>
       <Point>BEVNO</Point>
       <Point>NAMLA</Point>
       <Point>LAVAV</Point>
@@ -1594,8 +1590,8 @@
       <Point>PAKMI</Point>
       <Point>IGBED</Point>
       <Point>AGOXI</Point>
-      <Point>RM NDB</Point>
-      <Point>VK NDB</Point>
+      <Point>RUMOT</Point>
+      <Point>MELEB</Point>
       <Point>NZ VOR</Point>
       <Point>VNO NDB</Point>
       <Point>MOE NDB</Point>
@@ -1742,7 +1738,7 @@
       <Point>MOMTA</Point>
       <Point>REPOL</Point>
       <Point>PAGTI</Point>
-      <Point>PACKO</Point>
+      <Point>PANDO</Point>
       <Point>PUKET</Point>
       <Point>PARZO</Point>
       <Point>OVLAD</Point>
@@ -1992,7 +1988,7 @@
       <Point>DIVTA</Point>
       <Point>SAVUS</Point>
       <Point>NFNS</Point>
-      <Point>NEMAL</Point>
+      <Point>NIMIL</Point>
       <Point>BEVNO</Point>
       <Point>NAMLA</Point>
       <Point>LAVAV</Point>
@@ -2109,8 +2105,8 @@
       <Point>PAKMI</Point>
       <Point>IGBED</Point>
       <Point>AGOXI</Point>
-      <Point>RM NDB</Point>
-      <Point>VK NDB</Point>
+      <Point>RUMOT</Point>
+      <Point>MELEB</Point>
       <Point>NZ VOR</Point>
       <Point>VNO NDB</Point>
       <Point>MOE NDB</Point>
@@ -2154,6 +2150,7 @@
       <Point>SHAZA</Point>
       <Point>NOBAR</Point>
       <Point>MEPEM</Point>
+      <Point>AVMUN</Point>
       <Point>GUMKI</Point>
       <Point>MASRA</Point>
       <Point>UGTUG</Point>
@@ -2164,11 +2161,6 @@
       <Point>NETTY</Point>
       <Point>BADGR</Point>
       <Point>ANGEX</Point>
-      <Point>GORTA</Point>
-      <Point>PEBTU</Point>
-      <Point>ADBOK</Point>
-      <Point>OLNOT</Point>
-      <Point>LAFAM</Point>
       <Point>SAPOX</Point>
       <Point>RAZZI</Point>
       <Point>AVDAN</Point>
@@ -2313,7 +2305,7 @@
       <Point>MOMTA</Point>
       <Point>REPOL</Point>
       <Point>PAGTI</Point>
-      <Point>PACKO</Point>
+      <Point>PANDO</Point>
       <Point>PUKET</Point>
       <Point>PARZO</Point>
       <Point>OVLAD</Point>
@@ -2434,7 +2426,7 @@
       <Point>INVUS</Point>
       <Point>ATNAT</Point>
       <Point>SOTKI</Point>
-      <Point>TESAS</Point>
+      <Point>ELPIB</Point>
       <Point>ELARA</Point>
       <Point>IDUBO</Point>
       <Point>NOBOX</Point>
@@ -2607,7 +2599,7 @@
       <Point>DIVTA</Point>
       <Point>SAVUS</Point>
       <Point>NFNS</Point>
-      <Point>NEMAL</Point>
+      <Point>NIMIL</Point>
       <Point>BEVNO</Point>
       <Point>NAMLA</Point>
       <Point>LAVAV</Point>
@@ -2733,8 +2725,8 @@
       <Point>AGOXI</Point>
       <Point>SOVRO</Point>
       <Point>DIPSO</Point>
-      <Point>RM NDB</Point>
-      <Point>VK NDB</Point>
+      <Point>RUMOT</Point>
+      <Point>MELEB</Point>
       <Point>VNO NDB</Point>
       <Point>MOE NDB</Point>
       <Point>OKT NDB</Point>
