@@ -596,6 +596,8 @@
         <Map Name="Goroka/AYGA_COAST" />
         <Map Name="Goroka/AYGA_TCU" />
         <Map Name="Goroka/AYGA_RWYRRO" />
+        <Map Name="Goroka/AYGA_VFR" />
+        <Map Name="Goroka/AYGA_VFR_FULL_NAME" />
         <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
@@ -624,6 +626,8 @@
         <Map Name="Madang/AYMD_COAST" />
         <Map Name="Madang/AYMD_TCU" />
         <Map Name="Madang/AYMD_ALLRWYS" />
+        <Map Name="Madang/AYMD_VFR" />
+        <Map Name="Madang/AYMD_VFR_FULL_NAME" />
         <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
@@ -652,6 +656,8 @@
         <Map Name="Mt Hagen/AYMH_COAST" />
         <Map Name="Mt Hagen/AYMH_TCU" />
         <Map Name="Mt Hagen/AYMH_RWY1208" />
+        <Map Name="Mt Hagen/AYMH_VFR" />
+        <Map Name="Mt Hagen/AYMH_VFR_FULL_NAME" />
         <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
