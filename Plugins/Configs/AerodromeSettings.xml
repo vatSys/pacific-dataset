@@ -9,6 +9,7 @@
         <Aerodrome>NFNA</Aerodrome>
         <Aerodrome>NWWW</Aerodrome>
         <Aerodrome>NWWM</Aerodrome>
+        <Aerodrome>NVVV</Aerodrome>
     </DefaultAerodromes>
     <ConcernedSectors>
         <ConcernedSector>
@@ -96,5 +97,13 @@
            <Position>Tokua Tower</Position>
         </AutoOpen>
     </AutoOpens>
-<InhibitVersionCheck>true</InhibitVersionCheck>
+    <AerodromeLists>
+        <AerodromeList Type="Proc">
+            <Aerodrome>NFFN</Aerodrome>
+            <Aerodrome>NFNA</Aerodrome>
+            <Aerodrome>AYNZ</Aerodrome>
+            <Aerodrome>NVVV</Aerodrome>
+        </AerodromeList>
+    </AerodromeLists>
+    <InhibitVersionCheck>true</InhibitVersionCheck>
 </AerodromeSettings>
