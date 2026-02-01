@@ -99,7 +99,10 @@
     </AutoOpens>
     <AerodromeLists>
         <AerodromeList Type="Proc">
-            <Aerodrome>NFFN</Aerodrome>
+            <Aerodrome>AYMH</Aerodrome>
+            <Aerodrome>AYTK</Aerodrome>
+            <Aerodrome>AYMD</Aerodrome>
+            <Aerodrome>AYGA</Aerodrome>
             <Aerodrome>NFNA</Aerodrome>
             <Aerodrome>AYNZ</Aerodrome>
             <Aerodrome>NVVV</Aerodrome>
