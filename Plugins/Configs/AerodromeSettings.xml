@@ -2,6 +2,15 @@
      Do not make changes to this file, place an overwrite file in (PROFILE)/Plugins/AerodromeSettings.xml
      Changes between the two files are not additive. Changes in the Profile directory will overwrite this one.-->
 <AerodromeSettings>
+    <DefaultAerodromes>
+        <Aerodrome>AYPY</Aerodrome>
+        <Aerodrome>AYNZ</Aerodrome>
+        <Aerodrome>NFFN</Aerodrome>
+        <Aerodrome>NFNA</Aerodrome>
+        <Aerodrome>NWWW</Aerodrome>
+        <Aerodrome>NWWM</Aerodrome>
+        <Aerodrome>NVVV</Aerodrome>
+    </DefaultAerodromes>
     <ConcernedSectors>
         <ConcernedSector>
             <Aerodromes>
@@ -88,5 +97,17 @@
            <Position>Tokua Tower</Position>
         </AutoOpen>
     </AutoOpens>
-<InhibitVersionCheck>true</InhibitVersionCheck>
+    <AerodromeLists>
+        <AerodromeList Type="Proc">
+            <Aerodrome>AYMH</Aerodrome>
+            <Aerodrome>AYTK</Aerodrome>
+            <Aerodrome>AYMD</Aerodrome>
+            <Aerodrome>AYGA</Aerodrome>
+            <Aerodrome>NFFN</Aerodrome>
+            <Aerodrome>NFNA</Aerodrome>
+            <Aerodrome>AYNZ</Aerodrome>
+            <Aerodrome>NVVV</Aerodrome>
+        </AerodromeList>
+    </AerodromeLists>
+    <InhibitVersionCheck>true</InhibitVersionCheck>
 </AerodromeSettings>
