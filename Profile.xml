@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Profile Name="Pacific" FullName="Eurocat Pacific">
-	<Version AIRAC="2601" Revision="b" PublishDate="20260201"  UpdateURL="https://cdn.vatpac.org/vatsys/pacific" />
+	<Version AIRAC="2602" Revision="a" PublishDate="20260219"  UpdateURL="https://cdn.vatpac.org/vatsys/pacific" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
 		<GRIB url="https://sawbe.com/GRIB/" />
