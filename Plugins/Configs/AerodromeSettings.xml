@@ -1,0 +1,378 @@
+<AerodromeSettings>
+    <!-- MARK: Default Aerodromes -->
+    <!-- In the absence of any ConcernedSectors (below), these aerodromes will appear in the list by
+    default -->
+    <DefaultAerodromes>
+        <Aerodrome>AYPY</Aerodrome>
+        <Aerodrome>AYNZ</Aerodrome>
+        <Aerodrome>NFFN</Aerodrome>
+        <Aerodrome>NFNA</Aerodrome>
+        <Aerodrome>NWWW</Aerodrome>
+        <Aerodrome>NWWM</Aerodrome>
+        <Aerodrome>NVVV</Aerodrome>
+    </DefaultAerodromes>
+
+    <!-- MARK: Aerodrome List -->
+    <!-- Fill the aerodrome list with appropriate ICAO codes based on current sectors under
+    controller's jurisdiction -->
+    <ConcernedSectors>
+        <ConcernedSector>
+            <Aerodromes>
+                <Aerodrome>NWWW</Aerodrome>
+                <Aerodrome>NWWM</Aerodrome>
+            </Aerodromes>
+            <Positions>
+                <Position>NWWWA</Position>
+            </Positions>
+        </ConcernedSector>
+        <ConcernedSector>
+            <Aerodromes>
+                <Aerodrome>AYPY</Aerodrome>
+                <Aerodrome>AYNZ</Aerodrome>
+            </Aerodromes>
+            <Positions>
+                <Position>AYPYA</Position>
+            </Positions>
+        </ConcernedSector>
+        <ConcernedSector>
+            <Aerodromes>
+                <Aerodrome>NFFN</Aerodrome>
+            </Aerodromes>
+            <Positions>
+                <Position>NFFNA</Position>
+            </Positions>
+        </ConcernedSector>
+        <ConcernedSector>
+            <Aerodromes>
+                <Aerodrome>NFNA</Aerodrome>
+            </Aerodromes>
+            <Positions>
+                <Position>NFNAA</Position>
+            </Positions>
+        </ConcernedSector>
+    </ConcernedSectors>
+
+
+    <!-- MARK: Auto Open -->
+    <!-- Open OzStrips plugin when opening any of the positions below (where <Position> matches the
+    name in the Positions List) and connect to the coupled <Aerodrome> -->
+    <AutoOpens>
+        <AutoOpen>
+            <Aerodrome>AYPY</Aerodrome>
+            <Position>Jacksons Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>NFFN</Aerodrome>
+            <Position>Nadi Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>NWWW</Aerodrome>
+            <Position>Tontouta Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>NFNA</Aerodrome>
+            <Position>Nausori Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>PKWA</Aerodrome>
+            <Position>Bucholz Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>NWWM</Aerodrome>
+            <Position>Magenta Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>AYNZ</Aerodrome>
+            <Position>Nadzab Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>NVVV</Aerodrome>
+            <Position>Vila Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>AYGA</Aerodrome>
+            <Position>Goroka Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>AYMD</Aerodrome>
+            <Position>Madang Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>AYMH</Aerodrome>
+            <Position>Hagen Tower</Position>
+        </AutoOpen>
+        <AutoOpen>
+            <Aerodrome>AYTK</Aerodrome>
+            <Position>Tokua Tower</Position>
+        </AutoOpen>
+    </AutoOpens>
+
+
+    <!-- MARK: Layout Definitions -->
+    <!-- Select which bays should appear in which layouts, and which columns they should display in
+    (requires that the bays are defined in BayTypes below -->
+    <LayoutDefinitions>
+        <!-- DEFAULT / RADAR TOWERS -->
+        <LayoutDefinition Name="All">
+            <Element Name="Preactive" Column="0" />
+            <Element Name="Cleared" Column="0" />
+            <Element Name="Monitor SMC" Column="0" />
+            <Element Name="Pushback" Column="0" />
+            <Element Name="Taxi" Column="1" />
+            <Element Name="Holding Point" Column="1" />
+            <Element Name="Runway" Column="1" />
+            <Element Name="Circuit" Column="2" />
+            <Element Name="Departed" Column="2" />
+            <Element Name="Arrivals" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="ACD">
+            <Element Name="Preactive" Column="0" />
+            <Element Name="Cleared" Column="1" />
+            <Element Name="Monitor SMC" Column="2" />
+            <Element Name="Pushback" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="ACD+SMC">
+            <Element Name="Preactive" Column="0" />
+            <Element Name="Cleared" Column="0" />
+            <Element Name="Monitor SMC" Column="0" />
+            <Element Name="Pushback" Column="1" />
+            <Element Name="Taxi" Column="1" />
+            <Element Name="Holding Point" Column="2" />
+            <Element Name="Runway" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="SMC">
+            <Element Name="Cleared" Column="0" />
+            <Element Name="Monitor SMC" Column="0" />
+            <Element Name="Pushback" Column="1" />
+            <Element Name="Taxi" Column="1" />
+            <Element Name="Holding Point" Column="2" />
+            <Element Name="Runway" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="SMC+ADC">
+            <Element Name="Cleared" Column="0" />
+            <Element Name="Monitor SMC" Column="0" />
+            <Element Name="Pushback" Column="0" />
+            <Element Name="Taxi" Column="1" />
+            <Element Name="Holding Point" Column="1" />
+            <Element Name="Runway" Column="1" />
+            <Element Name="Circuit" Column="2" />
+            <Element Name="Departed" Column="2" />
+            <Element Name="Arrivals" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="ADC">
+            <Element Name="Holding Point" Column="0" />
+            <Element Name="Runway" Column="1" />
+            <Element Name="Circuit" Column="1" />
+            <Element Name="Departed" Column="2" />
+            <Element Name="Arrivals" Column="2" />
+        </LayoutDefinition>
+        <!-- METRO D -->
+        <LayoutDefinition Name="All" Type="D">
+            <Element Name="Preactive" Column="0" />
+            <Element Name="Taxi" Column="0" />
+            <Element Name="Holding Point" Column="1" />
+            <Element Name="Runway" Column="1" />
+            <Element Name="Circuit" Column="2" />
+            <Element Name="Arrivals" Column="2" />
+        </LayoutDefinition>
+        <!-- PROC -->
+        <LayoutDefinition Name="All" Type="Proc">
+            <Element Name="Preactive" Column="0" />
+            <Element Name="Cleared" Column="0" />
+            <Element Name="Taxi" Column="1" />
+            <Element Name="Holding Point" Column="1" />
+            <Element Name="Runway" Column="1" />
+            <Element Name="Active" Column="2" />
+            <Element Name="Pending Arrivals" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="SMC" Type="Proc">
+            <Element Name="Preactive" Column="0" />
+            <Element Name="Cleared" Column="0" />
+            <Element Name="Taxi" Column="1" />
+            <Element Name="Holding Point" Column="2" />
+            <Element Name="Runway" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="ADC" Type="Proc">
+            <Element Name="Holding Point" Column="0" />
+            <Element Name="Runway" Column="0" />
+            <Element Name="Active" Column="1" />
+            <Element Name="Pending Arrivals" Column="2" />
+        </LayoutDefinition>
+        <!-- Proc Push -->
+        <LayoutDefinition Name="All" Type="ProcPush">
+            <Element Name="Preactive" Column="0" />
+            <Element Name="Cleared" Column="0" />
+            <Element Name="Pushback" Column="0" />
+            <Element Name="Taxi" Column="1" />
+            <Element Name="Holding Point" Column="1" />
+            <Element Name="Runway" Column="1" />
+            <Element Name="Active" Column="2" />
+            <Element Name="Pending Arrivals" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="SMC" Type="ProcPush">
+            <Element Name="Preactive" Column="0" />
+            <Element Name="Cleared" Column="0" />
+            <Element Name="Pushback" Column="1" />
+            <Element Name="Taxi" Column="1" />
+            <Element Name="Holding Point" Column="2" />
+            <Element Name="Runway" Column="2" />
+        </LayoutDefinition>
+        <LayoutDefinition Name="ADC" Type="ProcPush">
+            <Element Name="Holding Point" Column="0" />
+            <Element Name="Runway" Column="0" />
+            <Element Name="Active" Column="1" />
+            <Element Name="Pending Arrivals" Column="2" />
+        </LayoutDefinition>
+
+    </LayoutDefinitions>
+
+
+    <!-- MARK: Bay Types -->
+    <!-- Creates bays of various types for use in LayoutDefinitions above -->
+    <BayTypes>
+        <!-- RADAR TOWER / DEFAULT -->
+        <BayType>
+            <Bay Name="Preactive">
+                <Type>BAY_PREA</Type>
+            </Bay>
+            <Bay Name="Cleared">
+                <Type>BAY_CLEARED</Type>
+                <Type>BAY_COORDINATOR</Type>
+            </Bay>
+            <Bay Name="Monitor SMC" Coordinator="true">
+                <Type>BAY_COORDINATOR</Type>
+            </Bay>
+            <Bay Name="Pushback">
+                <Type>BAY_PUSHED</Type>
+            </Bay>
+            <Bay Name="Taxi">
+                <Type>BAY_TAXI</Type>
+            </Bay>
+            <Bay Name="Holding Point">
+                <Type>BAY_HOLDSHORT</Type>
+            </Bay>
+            <Bay Name="Runway" CDMDisplay="true">
+                <Type>BAY_RUNWAY</Type>
+            </Bay>
+            <Bay Name="Departed">
+                <Type>BAY_OUT</Type>
+                <Type>BAY_CIRCUIT</Type>
+            </Bay>
+            <Bay Name="Circuit" Circuit="true">
+                <Type>BAY_CIRCUIT</Type>
+            </Bay>
+            <Bay Name="Arrivals">
+                <Type>BAY_ARRIVAL</Type>
+            </Bay>
+        </BayType>
+
+        <!-- METROD -->
+        <BayType Type="D">
+            <Bay Name="Preactive">
+                <Type>BAY_PREA</Type>
+            </Bay>
+            <Bay Name="Taxi">
+                <Type>BAY_CLEARED</Type>
+                <Type>BAY_PUSHED</Type>
+                <Type>BAY_COORDINATOR</Type>
+                <Type>BAY_TAXI</Type>
+            </Bay>
+            <Bay Name="Holding Point">
+                <Type>BAY_HOLDSHORT</Type>
+            </Bay>
+            <Bay Name="Runway">
+                <Type>BAY_RUNWAY</Type>
+            </Bay>
+            <Bay Name="Circuit">
+                <Type>BAY_CIRCUIT</Type>
+                <Type>BAY_OUT</Type>
+            </Bay>
+            <Bay Name="Arrivals">
+                <Type>BAY_ARRIVAL</Type>
+            </Bay>
+        </BayType>
+
+        <!-- PROC -->
+        <BayType Type="Proc">
+            <Bay Name="Preactive">
+                <Type>BAY_PREA</Type>
+            </Bay>
+            <Bay Name="Cleared">
+                <Type>BAY_CLEARED</Type>
+            </Bay>
+            <Bay Name="Taxi">
+                <Type>BAY_PUSHED</Type>
+                <Type>BAY_TAXI</Type>
+                <Type>BAY_COORDINATOR</Type>
+            </Bay>
+            <Bay Name="Holding Point">
+                <Type>BAY_HOLDSHORT</Type>
+            </Bay>
+            <Bay Name="Runway">
+                <Type>BAY_RUNWAY</Type>
+            </Bay>
+            <Bay Name="Active">
+                <Type>BAY_CIRCUIT</Type>
+                <Type>BAY_OUT</Type>
+            </Bay>
+            <Bay Name="Pending Arrivals">
+                <Type>BAY_ARRIVAL</Type>
+            </Bay>
+        </BayType>
+
+        <!-- Proc with Pushes -->
+        <BayType Type="ProcPush">
+            <Bay Name="Preactive">
+                <Type>BAY_PREA</Type>
+            </Bay>
+            <Bay Name="Cleared">
+                <Type>BAY_CLEARED</Type>
+            </Bay>
+            <Bay Name="Pushback">
+                <Type>BAY_PUSHED</Type>
+                <Type>BAY_COORDINATOR</Type>
+            </Bay>
+            <Bay Name="Taxi">
+                <Type>BAY_TAXI</Type>
+            </Bay>
+            <Bay Name="Holding Point">
+                <Type>BAY_HOLDSHORT</Type>
+            </Bay>
+            <Bay Name="Runway">
+                <Type>BAY_RUNWAY</Type>
+            </Bay>
+            <Bay Name="Active">
+                <Type>BAY_CIRCUIT</Type>
+                <Type>BAY_OUT</Type>
+            </Bay>
+            <Bay Name="Pending Arrivals">
+                <Type>BAY_ARRIVAL</Type>
+            </Bay>
+        </BayType>
+    </BayTypes>
+
+
+    <!-- MARK: Aerodrome Lists -->
+    <!-- Assigns each aerodrome with a layout, defined above -->
+    <AerodromeLists>
+        <AerodromeList Type="Proc">
+            <Aerodrome>NFFN</Aerodrome>
+            <Aerodrome>NFNA</Aerodrome>
+            <Aerodrome>AYNZ</Aerodrome>
+            <Aerodrome>NVVV</Aerodrome>
+        </AerodromeList>
+    </AerodromeLists>
+
+
+    <!-- MARK: Runway Maps -->
+    <!-- Tells the plugin to look for runway crossing and release maps for the nominated aerodromes (naming convention matters, see examples below) -->
+    <AutoMapAerodromes>
+        <AutoMapAerodrome FullName="Nadi" ICAO="NFFN">02/20, 09/27</AutoMapAerodrome>
+        <AutoMapAerodrome FullName="Port Moresby" ICAO="AYPY">14L/32R, 14R/32L</AutoMapAerodrome>
+    </AutoMapAerodromes>
+
+
+    <!-- MARK: Config Files -->
+    <InhibitVersionCheck>true</InhibitVersionCheck>
+    <AerodromeAutoFillLocation>../Configs/</AerodromeAutoFillLocation>
+</AerodromeSettings>

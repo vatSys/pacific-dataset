@@ -1,16 +1,47 @@
 # Eurocat Pacific Dataset
 ## Aeronautical Information Management
-Scheduled AIRAC updates to the dataset occur once every six months (AIRAC's 2X06 and 2X12).
+Scheduled AIRAC updates to the dataset occur once every three months according to the [Airservices Document Amendment Calendar](https://www.airservicesaustralia.com/industry-info/aeronautical-information-management/document-amendment-calendar/).
 
 The VATPAC AIS Team may issue intermediate AIRAC Updates as required.
 
-### Community Update Submissions
+### Community Contributions
+The majority of files in the dataset are prepared using third-party software which overwrites manual changes each update. For this reason, these files can not be directly edited by members outside of the AIS team. If you notice an error have a suggestion for a change, it would be greatly appreciated if you could submit your comments via the [VATPAC Helpdesk](https://helpdesk.vatpac.org).
 
-Non-AIS Staff/Community members may contribute to the dataset by making a pull request to the relevant AIRAC draft branch. These requests must be submitted **two weeks** before the designated AIRAC Effective Date to be considered for integration. AIRAC Effective Dates can be found [here](https://www.nm.eurocontrol.int/RAD/common/airac_dates.html).
+The following files are **not** updated in this way, meaning that community members may fork the repo and make direct edits to these files.
+
+```
+Except for Airspace.xml and RestrictedAreas.xml all other files in the root folder of the profile dataset are manually maintained and not updated as part of a vatSys export.
+
+In the Maps folder the following files are manually maintained and not updated as part of a vatSys export:
+a) COAST_ALL.xml 
+b) FIR_BOUNDARIES.xml 
+c) ALL_CTA.xml 
+d) ALL_SECTORS.xml 
+e) ASMGCS_TAXI_ALL.xml 
+f) BAY_NUMBERS.xml
+g) Within each Airport folder, XX RTCC.xml, ASMGCS_XXXX.xml and XX_VOR.xml
+```
+
+Non-AIS Staff/Community members may contribute to the dataset to edit the above mentioned files by making a pull request to the relevant AIRAC draft branch. These requests must be submitted **two weeks** before the designated AIRAC Effective Date to be considered for integration.
 
 Pull requests to the master branch will not be approved.
 
-**Note:** Major changes (E.g. TCU/ENR/Aerodrome changes) must be discussed with the AIS team directly as an [issue](https://github.com/vatSys/pacific-dataset/issues) before submitting a pull request.
+**Note:** Major changes (E.g. TCU/ENR/Aerodrome changes) must be discussed with the AIS team directly as an [issue](https://github.com/vatSys/pacific-dataset/issues) before commencing work on the change.
+
+#### Custom Map Layers
+For a map to be considered for inclusion into the Australia or Pacific profile:
+- It must be compatible with the AIS AIRAC maintenance process.
+  - ie, it can't need any Airspace.xml or TCU.xml changes
+- It must not duplicate, or make redundant, any existing AIS map layer;
+- It must be reasonably expected to be useful to the provision of ATS within VATPAC airspace;
+- It must be designed to replicate operations as they are simulated online - not necessarily as they exist in the real world;
+- It must be available for use by all appropriately credentialled VATPAC members, and not for exclusive use by members of any third-party organisation or group;
+- It must not contain any personal information not relevant to the functionality of the map;
+- It should use a colour/design scheme that will not be confused with an existing AIS map layer;
+- It must be approved by both the AIS Manager and ATS Director.
+
+If you are considering contributing a map layer and are unsure how these requirements would apply, please reach out to the AIS team directly by raising an [issue](https://github.com/vatSys/pacific-dataset/issues) before commencing work on the change.
+
 
 # Data Preparation
 

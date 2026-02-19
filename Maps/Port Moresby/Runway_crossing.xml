@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="Ground_RWY" Name="Released_14R32L" CustomColourName="Release" Priority="0" Center="-09.440278+147.218611">
+        <Infill Name="Released_14R32L">
+            <Point>
+                -092641.342+1471308.792/
+                -092640.818+1471309.695/
+                -092604.649+1471247.370/
+                -092605.208+1471246.488/
+                -092641.342+1471308.792
+            </Point>
+        </Infill>
+    </Map>
+    <Map Type="Ground_RWY" Name="Crossing_14R32L" CustomColourName="Crossing" Priority="0" Center="-09.440278+147.218611">
+        <Infill Name="Crossing_14R32L">
+            <Point>
+                -092641.342+1471308.792/
+                -092640.818+1471309.695/
+                -092604.649+1471247.370/
+                -092605.208+1471246.488/
+                -092641.342+1471308.792
+            </Point>
+        </Infill>
+    </Map>
+    <Map Type="Ground_RWY" Name="Released_14L32R" CustomColourName="Release" Priority="0" Center="-09.440278+147.218611">
+        <Infill Name="Released_14L32R">
+            <Point>
+                -092551.496+1471249.488/
+                -092707.729+1471336.560/
+                -092706.984+1471337.816/
+                -092550.748+1471250.741/
+                -092551.496+1471249.488
+            </Point>
+        </Infill>
+    </Map>
+    <Map Type="Ground_RWY" Name="Crossing_14L32R" CustomColourName="Crossing" Priority="0" Center="-09.440278+147.218611">
+        <Infill Name="Crossing_14L32R">
+            <Point>
+                -092551.496+1471249.488/
+                -092707.729+1471336.560/
+                -092706.984+1471337.816/
+                -092550.748+1471250.741/
+                -092551.496+1471249.488
+            </Point>
+        </Infill>
+    </Map>
+</Maps>
