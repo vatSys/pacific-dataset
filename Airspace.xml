@@ -2084,7 +2084,6 @@ DIL VOR
     <Point Name="DECOR" Type="Fix">+011635.299+1731835.618</Point>
     <Point Name="DEKAI" Type="Fix">-045113.000+1392912.000</Point>
     <Point Name="DELAI" Type="Fix">-162136.000+1791552.000</Point>
-    <Point Name="DELTA" Type="Fix">-174049.000+1680704.000</Point>
     <Point Name="DER31" Type="Fix">-162749.550+1792012.430</Point>
     <Point Name="DESBE" Type="Fix">+073325.898+1515940.589</Point>
     <Point Name="DETIS" Type="Fix">-215156.000+1661644.000</Point>
@@ -3288,6 +3287,7 @@ DIL VOR
     <Point Name="VANDA" Type="Fix">-422518.469+1692040.189</Point>
     <Point Name="VANGI" Type="Fix">-090144.479+1465731.021</Point>
     <Point Name="VANKA" Type="Fix">-024318.000+1410000.000</Point>
+    <Point Name="VANTO" Type="Fix">-174853.400+1681022.500</Point>
     <Point Name="VASAF" Type="Fix">-082021.919+1791517.831</Point>
     <Point Name="VASNO" Type="Fix">-043729.399+1520702.140</Point>
     <Point Name="VATVO" Type="Fix">-052730.000+1502454.000</Point>
@@ -5384,6 +5384,7 @@ DIL VOR
       <Runway Name="29" Position="-213121.788+1655832.261" />
     </Airport>
     <Airport ICAO="PCIS" FullName="Canton Island-Topham" Position="-024605.007-1714237.770" Elevation="9" />
+    <Airport ICAO="PKMA" FullName="Enewetak AAF" Position="+112027.000+1621940.199" Elevation="14" />
     <Airport ICAO="PKMJ" FullName="Marshall Is Intl" Position="+070353.899+1711619.301" Elevation="7">
       <Runway Name="07" Position="+070344.561+1711541.141" />
       <Runway Name="25" Position="+070403.281+1711657.461" />

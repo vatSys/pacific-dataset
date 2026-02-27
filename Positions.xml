@@ -5,8 +5,8 @@
     <Position Name="Nadi Oceanic" Type="ASD" DefaultCenter="-10.660683+178.585898" DefaultRange="4500" VisibilityRange="1000">
       <Sectors>
         <Sector Name="NFFF" />
-        <Sector Name="NWWW" />
-        <Sector Name="NVVV" />
+        <Sector Name="NWWWA" />
+        <Sector Name="NVVVA" />
       </Sectors>
       <ManualVisibility>
         <Point>-0707.0+17542.0</Point>
@@ -130,7 +130,7 @@
         <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
-        <Editor Airport="AYNZ" Frequency="128.6" />
+        <Editor Airport="AYNZ" Frequency="128.1" />
         <Window Airport="AYNZ" />
       </ATIS>
       <Strips Mode="Beacon" Sort="Alpha">
@@ -540,7 +540,7 @@
         <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
-        <Editor Airport="AYNZ" Frequency="128.6" />
+        <Editor Airport="AYNZ" Frequency="128.1" />
         <Window Airport="AYNZ" />
       </ATIS>
       <Strips Mode="Beacon" Sort="Time"/>
@@ -677,7 +677,7 @@
       </ArrivalLists>
       <ControllerInfo>
         <Line>Hagen Tower</Line>
-        <Line>ATIS available on 128.9</Line>
+        <Line>ATIS available on 128.4</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
