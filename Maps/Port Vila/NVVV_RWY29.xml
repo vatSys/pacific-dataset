@@ -24,6 +24,72 @@
       ZULU
     </Line>
     <Line>
+      <!--Rwy29 MELE1-->
+      -174133.691+1681824.142/
+      NV500/
+      -174054.496+1681657.840/
+      -174051.474+1681625.114/
+      -174056.623+1681552.682/
+      -174106.200+1681529.011/
+      NV504
+    </Line>
+    <Line>
+      <!--Rwy29 MELE1.ENZED-->
+      NV504/
+      NV504/
+      -174147.784+1681437.803/
+      -174231.226+1681408.401/
+      -174320.436+1681351.801/
+      -174412.062+1681349.136/
+      -174502.586+1681400.591/
+      -174512.616+1681404.837/
+      NV544/
+      ENZED
+    </Line>
+    <Line>
+      <!--Rwy29 MELE1.JOZEF-->
+      NV504/
+      NV506/
+      -174232.432+1681224.038/
+      -174212.060+1681022.007/
+      -174056.277+1680847.038/
+      -173907.702+1680804.970/
+      KASTN/
+      NV588/
+      -172900.523+1680912.793/
+      -172707.044+1680842.904/
+      JOZEF
+    </Line>
+    <Line>
+      <!--Rwy29 MELE1.KUSIN-->
+      NV544/
+      -174636.348+1681508.886/
+      -174716.674+1681609.594/
+      -174740.658+1681719.201/
+      -174746.663+1681832.958/
+      -174734.280+1681945.832/
+      -174733.192+1681948.741/
+      LAGUN/
+      DORTA/
+      -174035.747+1683542.327/
+      -174025.229+1683728.771/
+      KUSIN
+    </Line>
+    <Line>
+      <!--Rwy29 MELE1.NUCAL-->
+      NV504/
+      -174237.990+1681339.337/
+      -174409.627+1681235.280/
+      NV564/
+      NUCAL
+    </Line>
+    <Line>
+      <!--Rwy29 MELE1.OCKER-->
+      NV506/
+      NV524/
+      OCKER
+    </Line>
+    <Line>
       <!--Rwy29 NORTH-->
       SOUTH/
       -174641.534+1681455.815/
@@ -39,12 +105,42 @@
     <Symbol Type="HollowStar">
       <Point>SOUTH</Point>
       <Point>ZULU</Point>
+      <Point>NV500</Point>
+      <Point>NV504</Point>
+      <Point>NV544</Point>
+      <Point>ENZED</Point>
+      <Point>NV506</Point>
+      <Point>KASTN</Point>
+      <Point>NV588</Point>
+      <Point>JOZEF</Point>
+      <Point>LAGUN</Point>
+      <Point>DORTA</Point>
+      <Point>KUSIN</Point>
+      <Point>NV564</Point>
+      <Point>NUCAL</Point>
+      <Point>NV524</Point>
+      <Point>OCKER</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="NVVV_RWY29_NAMES" Priority="2" Center="-17.699325+168.319794">
     <Label>
       <Point>SOUTH</Point>
       <Point>ZULU</Point>
+      <Point>NV500</Point>
+      <Point>NV504</Point>
+      <Point>NV544</Point>
+      <Point>ENZED</Point>
+      <Point>NV506</Point>
+      <Point>KASTN</Point>
+      <Point>NV588</Point>
+      <Point>JOZEF</Point>
+      <Point>LAGUN</Point>
+      <Point>DORTA</Point>
+      <Point>KUSIN</Point>
+      <Point>NV564</Point>
+      <Point>NUCAL</Point>
+      <Point>NV524</Point>
+      <Point>OCKER</Point>
       <Point>NIPOG</Point>
       <Point>LEDIT</Point>
     </Label>
