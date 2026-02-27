@@ -2084,7 +2084,6 @@ DIL VOR
     <Point Name="DECOR" Type="Fix">+011635.299+1731835.618</Point>
     <Point Name="DEKAI" Type="Fix">-045113.000+1392912.000</Point>
     <Point Name="DELAI" Type="Fix">-162136.000+1791552.000</Point>
-    <Point Name="DELTA" Type="Fix">-174049.000+1680704.000</Point>
     <Point Name="DER31" Type="Fix">-162749.550+1792012.430</Point>
     <Point Name="DESBE" Type="Fix">+073325.898+1515940.589</Point>
     <Point Name="DETIS" Type="Fix">-215156.000+1661644.000</Point>
