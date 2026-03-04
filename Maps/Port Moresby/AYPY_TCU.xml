@@ -147,8 +147,8 @@
 	<Label HasLeader="True" LabelOrientation="NW">
       <Point Name="VFR BRAVO">-09.110936+147.250850</Point>
 	  <Point Name="VFR GOLF">AYKQ</Point>
-	  <Point Name="VFR INDIA">-08.82105+146.54096</Point>
-	  <Point Name="VFR SIERRA">AROA</Point>
+	  <Point Name="VFR SIERRA">-08.82105+146.54096</Point>
+	  <Point Name="VFR INDIA">AROA</Point>
 	  <Point Name="VFR ROMEO">-09.80862+147.67986</Point>
 	</Label>
 	<!-- VFR ROUTE SIERRA -->
