@@ -1,0 +1,22 @@
+- assign_dep_rwy: "true"
+- CFL: "050"
+
+# Prefer main runway
+- if:
+    atis_dep_rwy: ["14L"]
+  runway: "14L"
+- if:
+    atis_dep_rwy: ["32R"]
+  runway: "32R"
+
+# Use shorter runway for light VFR aircraft
+- if:
+    atis_dep_rwy: ["14R"]
+    VFR: "true"
+    WTC: ["L"]
+  runway: "14R"
+- if:
+    atis_dep_rwy: ["32L"]
+    VFR: "true"
+    WTC: ["L"]
+  runway: "32L"
