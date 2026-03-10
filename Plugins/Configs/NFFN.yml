@@ -1,0 +1,31 @@
+- assign_dep_rwy: "true"
+- CFL: "030"
+- if:
+    jet: "true"
+  CFL: "060"
+
+# Assign top priority SIDs
+- if:
+    waypoint: ["TUTRI", "KABAR"]
+  SID: "ALFA"
+- if:
+    waypoint: ["BIDNA", "PANDO", "MAKSO"]
+  SID: "CHARLI"
+- if:
+    waypoint: ["GODAP", "LUPLO", "EXORA"]
+  SID: "DELTA"
+- if:
+    waypoint: ["NA", "NAVUA"]
+  SID: "ECHO"
+- if:
+    runway: ["20"]
+    waypoint: ["NA", "NAVUA"]
+  SID: "HOTEL"
+- if:
+    waypoint: ["AGTOS"]
+  SID: "FOXTRO"
+- if:
+    waypoint: ["BEACH", "ALBAB", "TEPEK", "VIPOB"]
+  SID: "GOLF"
+
+- departures: ["119.1", "120.1", "123.6"]
