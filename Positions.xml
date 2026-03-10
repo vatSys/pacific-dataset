@@ -464,19 +464,19 @@
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
-    <Position Name="Bucholz Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="60" MagneticVariation="-7.6">
+    <Position Name="Kwajalein Tower" Type="ASD" DefaultCenter="+08.720122+167.731661" DefaultRange="60" MagneticVariation="-7.6">
       <Sectors>
         <Sector Name="PKWA ADC" />
         <Sector Name="PKWA SMC" />
       </Sectors>
       <Maps>
         <Map Name="ALL_CTA" />
-        <Map Name="Bucholz/PKWA_COAST" />
-        <Map Name="Bucholz/PKWA_TCU" />
-        <Map Name="Bucholz/PKWA_ALLRWYS" />
+        <Map Name="Kwajalein/PKWA_COAST" />
+        <Map Name="Kwajalein/PKWA_TCU" />
+        <Map Name="Kwajalein/PKWA_ALLRWYS" />
       </Maps>
       <ATIS>
-        <Editor Airport="PKWA" Frequency="119.5" />
+        <Editor Airport="PKWA" Frequency="119.675" />
         <Window Airport="PKWA" />
       </ATIS>
       <Strips Mode="Beacon" Sort="Time"/>
@@ -485,14 +485,14 @@
         <Airport Name="PKWA" />
       </ArrivalLists>
       <ControllerInfo>
-        <Line>Bucholz Tower</Line>
-        <Line>ATIS available on 119.5</Line>
+        <Line>Kwajalein Tower</Line>
+        <Line>ATIS available on 119.675</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
-      <ControllerInfo Callsign="PKWA_GND">
-        <Line>Bucholz Ground</Line>
-        <Line>ATIS available on 119.5</Line>
+      <ControllerInfo Callsign="KWA_GND">
+        <Line>Kwajalein Ground</Line>
+        <Line>ATIS available on 119.675</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
@@ -746,10 +746,10 @@
   <Group Name="Class D">
     <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.723056+167.731944" DefaultRange="2" MagneticVariation="-7.6" Rotation="205">
     <Maps>
-      <Map Name="Bucholz/ASMGCS_PKWA_RWY" />
-      <Map Name="Bucholz/ASMGCS_PKWA_APR" />
-      <Map Name="Bucholz/ASMGCS_PKWA_TWY" />
-      <Map Name="Bucholz/ASMGCS_PKWA_BLD" />
+      <Map Name="Kwajalein/ASMGCS_PKWA_RWY" />
+      <Map Name="Kwajalein/ASMGCS_PKWA_APR" />
+      <Map Name="Kwajalein/ASMGCS_PKWA_TWY" />
+      <Map Name="Kwajalein/ASMGCS_PKWA_BLD" />
     </Maps>
   </Position>
     <Position Name="NVVV" Type="ASMGCS" ASMGCSAirport="NVVV" DefaultCenter="-17.698889+168.316944" DefaultRange="2" MagneticVariation="-11.6" Rotation="164">

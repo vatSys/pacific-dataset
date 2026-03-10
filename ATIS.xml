@@ -12,7 +12,7 @@
     <Frequency Airport="NVVV" Frequency="126.4" />
     <Frequency Airport="NWWM" Frequency="126.6" />
     <Frequency Airport="NWWW" Frequency="126.2" />
-    <Frequency Airport="PKWA" Frequency="119.5" />
+    <Frequency Airport="PKWA" Frequency="119.675" />
   </Frequencies>
   <Translations>
     <Translation String="AYGA" Spoken="Goroka" />
@@ -27,7 +27,7 @@
     <Translation String="NVVV" Spoken="Port Villa" />
     <Translation String="NWWM" Spoken="Magenta" />
     <Translation String="NWWW" Spoken="Ton-Two-Ta" />
-    <Translation String="PKWA" Spoken="Bucholz" />
+    <Translation String="PKWA" Spoken="Kwajalein" />
     <Translation String="YAMB" Spoken="Amberley" />
     <Translation String="YBAF" Spoken="Archer" />
     <Translation String="YBAS" Spoken="Alice" />
