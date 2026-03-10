@@ -20,3 +20,5 @@
     VFR: "true"
     WTC: ["L"]
   runway: "32L"
+
+- departures: ["125.8", "123.4"]
