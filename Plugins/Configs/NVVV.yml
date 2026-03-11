@@ -1,0 +1,28 @@
+- assign_dep_rwy: "true"
+- CFL: "090"
+
+# Runway 11
+- if:
+    runway: ["11"]
+    radials: ["290-360", "000-135"]
+  SID: "VOR"
+- if:
+    runway: ["11"]
+    radials: ["135-290"]
+  SID: "SOUTH"
+
+# Runway 29
+- if:
+    runway: ["29"]
+    radials: ["270-360", "000-045"]
+  SID: "NORTH"
+- if:
+    runway: ["29"]
+    radials: ["045-135"]
+  SID: "EAST"
+- if:
+    runway: ["29"]
+    radials: ["135-270"]
+  SID: "SOUTH"
+
+- departures: ["120.7", "123.6"]
