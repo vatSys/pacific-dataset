@@ -5,7 +5,7 @@
 - if:
     waypoint: ["NWWM", "GIRAD"]
   SID: "POGO"
-# Default SID if none others matched
+# Default SID if none others matched (procedural SIDs are selected automatically)
 - if:
     runway: ["11"]
     radials: ["323-360", "000-110"]
