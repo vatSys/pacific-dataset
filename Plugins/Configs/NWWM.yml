@@ -2,7 +2,7 @@
 - CFL: "050"
 
 # Default SID if unable any others from RWY 17
-if:
+- if:
     runway: ["17"]
   SID: "SEP"
 
