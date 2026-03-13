@@ -1,11 +1,18 @@
 - assign_dep_rwy: "true"
 - CFL: "060"
 
+# ADES NWWM
 - if:
     waypoint: ["NWWM", "GIRAD"]
   SID: "POGO"
+# Default SID if none others matched
 - if:
+    runway: ["11"]
     radials: ["323-360", "000-110"]
-  SID: "LTO"
+  SID: "#LTO\\dE"
+- if:
+    runway: ["29"]
+    radials: ["323-360", "000-110"]
+  SID: "#LTO\\dW"
 
 - departures: ["128.3", "123.6"]
