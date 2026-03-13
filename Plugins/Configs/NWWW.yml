@@ -1,0 +1,11 @@
+- assign_dep_rwy: "true"
+- CFL: "060"
+
+- if:
+    waypoint: ["NWWM", "GIRAD"]
+  SID: "POGO"
+- if:
+    radials: ["323-360", "000-110"]
+  SID: "LTO"
+
+- departures: ["128.3", "123.6"]
