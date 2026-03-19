@@ -8,6 +8,83 @@
     </Runway>
     <!--SIDs-->
     <Line>
+      <!--Rwy11 EMTEN1-->
+      -174213.219+1681942.139/
+      NV502/
+      -174241.182+1682029.732/
+      -174302.809+1682048.720/
+      -174305.274+1682050.225/
+      NV532/
+      -174353.507+1682109.940/
+      -174427.014+1682114.725/
+      NV536
+    </Line>
+    <Line>
+      <!--Rwy11 EMTEN1.BIGSY-->
+      NV536/
+      NV536/
+      -174523.680+1682107.726/
+      -174606.871+1682048.292/
+      -174643.799+1682017.779/
+      -174650.377+1682010.115/
+      NV538/
+      -174806.508+1681843.509/
+      -174927.775+1681750.733/
+      -175059.275+1681721.839/
+      -175229.504+1681718.546/
+      BIGSY
+    </Line>
+    <Line>
+      <!--Rwy11 EMTEN1.JOZEF-->
+      NV538/
+      -174727.369+1681906.045/
+      -174738.973+1681817.665/
+      NV550/
+      -174736.901+1681650.323/
+      -174714.856+1681540.013/
+      -174636.229+1681438.097/
+      -174543.655+1681348.799/
+      -174453.029+1681320.554/
+      NV558/
+      NV560/
+      -172739.376+1680855.287/
+      -172715.498+1680847.078/
+      -172652.062+1680837.571/
+      -172647.033+1680834.965/
+      JOZEF
+    </Line>
+    <Line>
+      <!--Rwy11 EMTEN1.KUSIN-->
+      NV536/
+      -174643.539+1682148.213/
+      -174816.938+1682323.850/
+      -174852.271+1682535.739/
+      -174820.062+1682748.508/
+      -174703.278+1682916.697/
+      NV540/
+      -174404.099+1683046.202/
+      -174228.797+1683211.611/
+      -174117.783+1683359.980/
+      -174035.890+1683603.930/
+      -174027.984+1683659.465/
+      KUSIN
+    </Line>
+    <Line>
+      <!--Rwy11 EMTEN1.NUCAL-->
+      NV550/
+      NV580/
+      -174815.016+1681252.456/
+      -174857.370+1681124.339/
+      -174959.985+1681010.724/
+      -175055.734+1680929.578/
+      NUCAL
+    </Line>
+    <Line>
+      <!--Rwy11 EMTEN1.OCKER-->
+      NV580/
+      OCKER
+    </Line>
+    <Line>
       <!--Rwy11 SOUTH-->
       -174213.219+1681942.139/
       -174310.816+1682136.385/
@@ -22,14 +99,44 @@
     </Line>
     <!--STARs-->
     <Symbol Type="HollowTriangle">
-      <Point>DELTA</Point>
+      <Point>VANTO</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>NV502</Point>
+      <Point>NV532</Point>
+      <Point>NV536</Point>
+      <Point>NV538</Point>
+      <Point>BIGSY</Point>
+      <Point>NV550</Point>
+      <Point>NV558</Point>
+      <Point>NV560</Point>
+      <Point>JOZEF</Point>
+      <Point>NV540</Point>
+      <Point>KUSIN</Point>
+      <Point>NV580</Point>
+      <Point>NUCAL</Point>
+      <Point>OCKER</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="NVVV_RWY11_NAMES" Priority="2" Center="-17.699325+168.319794">
     <Label>
+      <Point>NV502</Point>
+      <Point>NV532</Point>
+      <Point>NV536</Point>
+      <Point>NV538</Point>
+      <Point>BIGSY</Point>
+      <Point>NV550</Point>
+      <Point>NV558</Point>
+      <Point>NV560</Point>
+      <Point>JOZEF</Point>
+      <Point>NV540</Point>
+      <Point>KUSIN</Point>
+      <Point>NV580</Point>
+      <Point>NUCAL</Point>
+      <Point>OCKER</Point>
       <Point>NIPOG</Point>
       <Point>LEDIT</Point>
-      <Point>DELTA</Point>
+      <Point>VANTO</Point>
     </Label>
   </Map>
 </Maps>

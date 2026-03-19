@@ -9,16 +9,31 @@
   </Map>
   <Map Type="System2" Name="AYMD_VFR" Priority="1" Center="-05.208333+145.787667">
     <Symbol Type="HollowSquare">
-	  <Point>SGY</Point>
+      <Point>ASN</Point>
+      <Point>SGY</Point>
+      <Point>DWG</Point>
+      <Point>BNG</Point>
+      <Point>GG</Point>
+      <Point>ASG</Point>
     </Symbol>
     <Label HasLeader="True">
-	  <Point>SGY</Point>
+      <Point>ASN</Point>
+      <Point>SGY</Point>
+      <Point>DWG</Point>
+      <Point>BNG</Point>
+      <Point>GG</Point>
+      <Point>ASG</Point>
     </Label>
   </Map>
   <Map Type="System2" Name="AYMD_VFR_FULL_NAME" Priority="1" Center="-05.208333+145.787667">
     <Label HasLeader="True" LabelOrientation="SW">
-	  <Point Name="SHAGGY RIDGE GAP">SGY</Point>
-	</Label>
+      <Point Name="ASARO NORTH GAP">ASN</Point>
+      <Point Name="SHAGGY RIDGE GAP">SGY</Point>
+      <Point Name="DIRTY WATER GAP">DWG</Point>
+      <Point Name="BENA GAP">BNG</Point>
+      <Point Name="GOROKA GAP">GG</Point>
+      <Point Name="ASALOKA GAP">ASG</Point>
+    </Label>
   </Map>
   <Map Type="System" Name="AYMD_ALLRWYS" Priority="2" Center="-05.208333+145.787667">
     <!--AYMD-->

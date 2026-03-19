@@ -6,6 +6,18 @@
       <Threshold Name="06" Position="+08.717406+167.722831" />
       <Threshold Name="24" Position="+08.722844+167.740472" />
     </Runway>
+    <!--Airway Routes-->
+    <Line>
+      <!--R584-->
+      CURCH/
+      MAJ NDB
+    </Line>
+  </Map>
+  <Map Type="System" Name="PKWA_TCU_NAMES" Priority="2" Center="+08.720125+167.731653">
+    <Label>
+      <Point>CURCH</Point>
+      <Point>MAJ NDB</Point>
+    </Label>
   </Map>
   <Map Type="System" Name="PKWA_ALLRWYS" Priority="2" Center="+08.720125+167.731653">
     <!--PKWA-->

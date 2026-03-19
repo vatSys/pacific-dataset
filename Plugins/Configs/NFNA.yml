@@ -1,0 +1,23 @@
+- assign_dep_rwy: "true"
+- CFL: "040"
+
+- if:
+    waypoint: ["NAVUA"]
+  SID: "ALPHA"
+- if:
+    waypoint: ["LB", "MT"]
+  SID: "BRAVO"
+- if:
+    waypoint: ["NN", "MI", "MELEB"]
+  SID: "CHARLI"
+- if:
+    waypoint: ["ATOLL"]
+  SID: "DELTA"
+- if:
+    waypoint: ["SAPIR"]
+  SID: "ECHO"
+- if:
+    waypoint: ["ISTOS"]
+  SID: "FOXTRO"
+
+- departures: ["119.7", "120.1", "123.6"]

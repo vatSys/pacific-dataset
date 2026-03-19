@@ -12,47 +12,11 @@
     </Runway>
     <!--SIDs-->
     <Line>
-      <!--Rwy32L ASTRO1-->
-      -092605.129+1471246.969/
-      PY VOR/
-      DOMRA/
-      KALKO
-    </Line>
-    <Line>
-      <!--Rwy32L ASTRO2-->
-      PY VOR/
-      KAPKI
-    </Line>
-    <Line>
-      <!--Rwy32L GALLEY-->
-      PY VOR/
-      SAKTO
-    </Line>
-    <Line>
-      <!--Rwy32L KOKODA-->
-      PY VOR/
-      RUPNO
-    </Line>
-    <Line>
-      <!--Rwy32R ASTRO1-->
-      -092551.179+1471250.069/
-      PY VOR
-    </Line>
-    <Line>
-      <!--Rwy32R ASTRO2-->
-    </Line>
-    <Line>
-      <!--Rwy32R GALLEY-->
-    </Line>
-    <Line>
       <!--Rwy32R GUNKI1-->
       -092551.179+1471250.069/
       ANLOB/
       BELUP/
       GUNKI
-    </Line>
-    <Line>
-      <!--Rwy32R KOKODA-->
     </Line>
     <Line>
       <!--Rwy32R LOTGU1-->
@@ -96,45 +60,6 @@
     </Line>
     <!--STARs-->
     <Line>
-      <!--Rwy32L ASTROL-->
-      NIXUT/
-      IRNUS/
-      TESEM
-    </Line>
-    <Line>
-      <!--Rwy32L HIRI-->
-      -083458.852+1465623.660
-    </Line>
-    <Line>
-      <!--Rwy32L KOKODA-->
-      RUPNO
-    </Line>
-    <Line>
-      <!--Rwy32L LALOKI-->
-      EMPRA/
-      STARF/
-      ANLOB
-    </Line>
-    <Line>
-      <!--Rwy32L MAGI-->
-      -100526.220+1474525.585
-    </Line>
-    <Line>
-      <!--Rwy32L PARER-->
-      GUARI/
-      LELID/
-      ANLOB
-    </Line>
-    <Line>
-      <!--Rwy32L TAVAI-->
-      -102420.232+1465250.584/
-      SHAOL/
-      TESEM
-    </Line>
-    <Line>
-      <!--Rwy32R ASTROL-->
-    </Line>
-    <Line>
       <!--Rwy32R ENTO1A-->
       ENTOG/
       DOVLU/
@@ -149,25 +74,10 @@
       SARAB
     </Line>
     <Line>
-      <!--Rwy32R HIRI-->
-      -083458.852+1465623.660
-    </Line>
-    <Line>
-      <!--Rwy32R KOKODA-->
-      RUPNO
-    </Line>
-    <Line>
-      <!--Rwy32R LALOKI-->
-    </Line>
-    <Line>
       <!--Rwy32R LOTGU1-->
       LOTGU/
       UGOTO/
       SARAB
-    </Line>
-    <Line>
-      <!--Rwy32R MAGI-->
-      -100526.220+1474525.585
     </Line>
     <Line>
       <!--Rwy32R MUDOV1-->
@@ -183,9 +93,6 @@
       SARAB
     </Line>
     <Line>
-      <!--Rwy32R PARER-->
-    </Line>
-    <Line>
       <!--Rwy32R SAKTO1-->
       SAKTO/
       OPARO/
@@ -193,25 +100,15 @@
       UGREK
     </Line>
     <Line>
-      <!--Rwy32R TAVAI-->
-    </Line>
-    <Line>
       <!--Rwy32R UNSAM1-->
       UNSAM/
       UGOTO
     </Line>
     <Symbol Type="HollowTriangle">
-      <Point>TESEM</Point>
-      <Point>ANLOB</Point>
       <Point>ISLOK</Point>
     </Symbol>
     <Symbol Type="HollowStar">
-      <Point>PY VOR</Point>
-      <Point>DOMRA</Point>
-      <Point>KALKO</Point>
-      <Point>KAPKI</Point>
-      <Point>SAKTO</Point>
-      <Point>RUPNO</Point>
+      <Point>ANLOB</Point>
       <Point>BELUP</Point>
       <Point>GUNKI</Point>
       <Point>TAVON</Point>
@@ -226,11 +123,6 @@
       <Point>UKDES</Point>
       <Point>TOMOM</Point>
       <Point>UNSAM</Point>
-      <Point>NIXUT</Point>
-      <Point>IRNUS</Point>
-      <Point>EMPRA</Point>
-      <Point>GUARI</Point>
-      <Point>SHAOL</Point>
       <Point>ENTOG</Point>
       <Point>DOVLU</Point>
       <Point>OBGOP</Point>
@@ -242,18 +134,13 @@
       <Point>NISUK</Point>
       <Point>IPLUD</Point>
       <Point>IDRUL</Point>
+      <Point>SAKTO</Point>
       <Point>OPARO</Point>
       <Point>POKUM</Point>
     </Symbol>
   </Map>
   <Map Type="System" Name="AYPY_RWY32_NAMES" Priority="2" Center="-09.440278+147.218611">
     <Label>
-      <Point>PY VOR</Point>
-      <Point>DOMRA</Point>
-      <Point>KALKO</Point>
-      <Point>KAPKI</Point>
-      <Point>SAKTO</Point>
-      <Point>RUPNO</Point>
       <Point>ANLOB</Point>
       <Point>BELUP</Point>
       <Point>GUNKI</Point>
@@ -269,12 +156,6 @@
       <Point>UKDES</Point>
       <Point>TOMOM</Point>
       <Point>UNSAM</Point>
-      <Point>NIXUT</Point>
-      <Point>IRNUS</Point>
-      <Point>TESEM</Point>
-      <Point>EMPRA</Point>
-      <Point>GUARI</Point>
-      <Point>SHAOL</Point>
       <Point>ENTOG</Point>
       <Point>DOVLU</Point>
       <Point>OBGOP</Point>
@@ -287,15 +168,20 @@
       <Point>NISUK</Point>
       <Point>IPLUD</Point>
       <Point>IDRUL</Point>
+      <Point>SAKTO</Point>
       <Point>OPARO</Point>
       <Point>POKUM</Point>
       <Point>NOGOT</Point>
       <Point>ASIXA</Point>
+      <Point>EMPRA</Point>
       <Point>KIBAV</Point>
       <Point>UPSET</Point>
       <Point>TEDED</Point>
+      <Point>KAPKI</Point>
+      <Point>KALKO</Point>
       <Point>ESKIM</Point>
       <Point>POSOX</Point>
+      <Point>GUARI</Point>
       <Point>NZ VOR</Point>
       <Point>DUKIS</Point>
       <Point>LARID</Point>
@@ -304,8 +190,13 @@
       <Point>BEMGO</Point>
       <Point>VIDOT</Point>
       <Point>KAIFU</Point>
+      <Point>RUPNO</Point>
       <Point>DAKNU</Point>
+      <Point>DOMRA</Point>
       <Point>SEKDI</Point>
+      <Point>MORBE</Point>
+      <Point>PELCA</Point>
+      <Point>AVLIX</Point>
       <Point>KAPSO</Point>
       <Point>LENAK</Point>
       <Point>TOSAS</Point>

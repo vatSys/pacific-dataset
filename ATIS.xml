@@ -3,7 +3,7 @@
  <Frequencies>
     <Frequency Airport="AYGA" Frequency="134.0" />
     <Frequency Airport="AYMD" Frequency="127.8" />
-    <Frequency Airport="AYMH" Frequency="128.9" />
+    <Frequency Airport="AYMH" Frequency="128.4" />
     <Frequency Airport="AYNZ" Frequency="128.1" />
     <Frequency Airport="AYPY" Frequency="128.0" />
     <Frequency Airport="AYTK" Frequency="128.3" />
@@ -12,7 +12,7 @@
     <Frequency Airport="NVVV" Frequency="126.4" />
     <Frequency Airport="NWWM" Frequency="126.6" />
     <Frequency Airport="NWWW" Frequency="126.2" />
-    <Frequency Airport="PKWA" Frequency="119.5" />
+    <Frequency Airport="PKWA" Frequency="119.675" />
   </Frequencies>
   <Translations>
     <Translation String="AYGA" Spoken="Goroka" />
@@ -27,7 +27,7 @@
     <Translation String="NVVV" Spoken="Port Villa" />
     <Translation String="NWWM" Spoken="Magenta" />
     <Translation String="NWWW" Spoken="Ton-Two-Ta" />
-    <Translation String="PKWA" Spoken="Bucholz" />
+    <Translation String="PKWA" Spoken="Kwajalein" />
     <Translation String="YAMB" Spoken="Amberley" />
     <Translation String="YBAF" Spoken="Archer" />
     <Translation String="YBAS" Spoken="Alice" />
@@ -41,7 +41,7 @@
     <Translation String="YBRM" Spoken="Broome" />
     <Translation String="YBSU" Spoken="Sunshine Coast" />
     <Translation String="YBTL" Spoken="Townsville" />
-    <Translation String="YCFS" Spoken="Coffs Harbour" />
+    <Translation String="YCFS" Spoken="Coffs" />
     <Translation String="YGIG" Spoken="GinGin" />
     <Translation String="YMAV" Spoken="Avalon" />
     <Translation String="YMAY" Spoken="Albury" />

@@ -1,0 +1,23 @@
+- assign_dep_rwy: "true"
+- CFL: "050"
+
+# Default SID if unable any others from RWY 17
+- if:
+    runway: ["17"]
+  SID: "SEP"
+
+# Actual SID assignment
+- if:
+    waypoint: ["LTO"]
+  SID: "LTO"
+- if:
+    waypoint: ["IP"]
+  SID: "IP"
+- if:
+    waypoint: ["MG"]
+  SID: "MG"
+- if:
+    waypoint: ["MR"]
+  SID: "MR"
+
+- departures: ["128.3", "123.6"]
