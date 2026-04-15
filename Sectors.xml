@@ -103,9 +103,19 @@
   <Sector FullName="Flinders Oceanic" Frequency="132.850" Callsign="BN-FLD_FSS" Name="FLD" DisplayInSectorsWindow="False">
     <Volumes>FLD</Volumes>
   </Sector>
-  <Sector FullName="Howe" Frequency="124.950" Callsign="BN-HWE_CTR" Name="HWE" DisplayInSectorsWindow="False">
-    <Volumes>HWE</Volumes>
-  </Sector>
+  <Sector FullName="Armidale" Frequency="130.900" Callsign="BN-ARL_CTR" Name="ARL" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Benalla" Frequency="132.200" Callsign="ML-BLA_CTR" Name="BLA" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Gundagai" Frequency="133.150" Callsign="ML-GUN_CTR" Name="GUN" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Huon" Frequency="122.600" Callsign="ML-HUO_CTR" Name="HUO" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Hyden" Frequency="118.200" Callsign="ML-HYD_CTR" Name="HYD" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Inverell" Frequency="134.200" Callsign="BN-INL_CTR" Name="INL" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Isa" Frequency="125.700" Callsign="BN-ISA_CTR" Name="ISA" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Kennedy" Frequency="120.150" Callsign="BN-KEN_CTR" Name="KEN" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Keppel" Frequency="125.900" Callsign="BN-KPL_CTR" Name="KPL" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Mungo" Frequency="132.600" Callsign="ML-MUN_CTR" Name="MUN" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Onslow" Frequency="134.000" Callsign="ML-OLW_CTR" Name="OLW" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Territory North" Frequency="123.850" Callsign="BN-TRT_CTR" Name="TRT" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Wollongong" Frequency="125.000" Callsign="ML-WOL_CTR" Name="WOL" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
   <Sector FullName="Arafura" Frequency="133.700" Callsign="BN-ARA_CTR" Name="ARA" DisplayInSectorsWindow="False">
     <Volumes>ARA</Volumes>
   </Sector>
