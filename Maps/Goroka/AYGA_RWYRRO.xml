@@ -4,7 +4,7 @@
     <!--AYGA-->
     <Runway Name="17R/35L">
       <Threshold Name="17R" Position="-06.075386+145.390650" />
-      <Threshold Name="35L" Position="-06.092442+145.392156" ExtendedCentrelineTrack="174.9" ExtendedCentrelineLength="0" ExtendedCentrelineTickInterval="0" />
+      <Threshold Name="35L" Position="-06.092442+145.392156" ExtendedCentrelineTrack="174.9" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
     </Runway>
     <!--SIDs-->
     <Line>
