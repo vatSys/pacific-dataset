@@ -804,6 +804,11 @@
             Gets or sets the min-temp to match.
             </summary>
         </member>
+        <member name="P:MaxRumsey.OzStripsPlugin.GUI.Shared.RuleCondition.DestRegex">
+            <summary>
+            Gets or sets the destination regex to match.
+            </summary>
+        </member>
         <member name="P:MaxRumsey.OzStripsPlugin.GUI.Shared.RuleCondition.ATISRegex">
             <summary>
             Gets or sets the regex to match against the ATIS.
