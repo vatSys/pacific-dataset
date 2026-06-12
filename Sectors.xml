@@ -95,7 +95,7 @@
   <!-- Outside Pacific -->
   <Sector FullName="Tasman Oceanic" Frequency="124.650" Callsign="BN-TSN_FSS" Name="TSN" DisplayInSectorsWindow="False">
     <Volumes>TSN</Volumes>
-    <ResponsibleSectors>COL,FLD,HWE</ResponsibleSectors>
+    <ResponsibleSectors>COL,FLD</ResponsibleSectors>
   </Sector>
   <Sector FullName="Coral Oceanic" Frequency="133.150" Callsign="BN-COL_FSS" Name="COL" DisplayInSectorsWindow="False">
     <Volumes>COL</Volumes>

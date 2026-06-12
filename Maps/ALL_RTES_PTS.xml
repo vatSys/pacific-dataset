@@ -240,7 +240,14 @@
       <Point>NETTY</Point>
       <Point>BADGR</Point>
       <Point>ANGEX</Point>
+      <Point>NONID</Point>
       <Point>SAPOX</Point>
+      <Point>RIKNI</Point>
+      <Point>MARLN</Point>
+      <Point>BIKUS</Point>
+      <Point>WHALE</Point>
+      <Point>PRAWN</Point>
+      <Point>DIPPA</Point>
       <Point>RAZZI</Point>
       <Point>AVDAN</Point>
       <Point>ZANEY</Point>
@@ -665,8 +672,7 @@
       <Point>BOKED</Point>
       <Point>PEBLU</Point>
       <Point>MADEP</Point>
-      <Point>NONID</Point>
-      <Point>RIKNI</Point>
+      <Point>AKALU</Point>
       <Point>BEBOB</Point>
       <Point>ADKOS</Point>
       <Point>DADLU</Point>
@@ -820,7 +826,6 @@
       <Point>UNTET</Point>
       <Point>EVONN</Point>
       <Point>ML VOR</Point>
-      <Point>MARLN</Point>
       <Point>YADUA</Point>
       <Point>DALOT</Point>
       <Point>KOROI</Point>
@@ -886,7 +891,6 @@
       <Point>GEMAC</Point>
       <Point>MIKEG</Point>
       <Point>OLREL</Point>
-      <Point>AKALU</Point>
       <Point>DADAD</Point>
       <Point>SMIFF</Point>
       <Point>BUGBA</Point>
@@ -2161,7 +2165,14 @@
       <Point>NETTY</Point>
       <Point>BADGR</Point>
       <Point>ANGEX</Point>
+      <Point>NONID</Point>
       <Point>SAPOX</Point>
+      <Point>RIKNI</Point>
+      <Point>MARLN</Point>
+      <Point>BIKUS</Point>
+      <Point>WHALE</Point>
+      <Point>PRAWN</Point>
+      <Point>DIPPA</Point>
       <Point>RAZZI</Point>
       <Point>AVDAN</Point>
       <Point>ZANEY</Point>
@@ -2584,8 +2595,7 @@
       <Point>BOKED</Point>
       <Point>PEBLU</Point>
       <Point>MADEP</Point>
-      <Point>NONID</Point>
-      <Point>RIKNI</Point>
+      <Point>AKALU</Point>
       <Point>BEBOB</Point>
       <Point>ADKOS</Point>
       <Point>DADLU</Point>
@@ -2737,7 +2747,6 @@
       <Point>UNTET</Point>
       <Point>EVONN</Point>
       <Point>ML VOR</Point>
-      <Point>MARLN</Point>
       <Point>YADUA</Point>
       <Point>DALOT</Point>
       <Point>KOROI</Point>
@@ -2801,7 +2810,6 @@
       <Point>GEMAC</Point>
       <Point>MIKEG</Point>
       <Point>OLREL</Point>
-      <Point>AKALU</Point>
       <Point>DADAD</Point>
       <Point>SMIFF</Point>
       <Point>BUGBA</Point>

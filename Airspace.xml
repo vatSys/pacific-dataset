@@ -1353,6 +1353,10 @@ NONID/
 SAPOX/
 RIKNI/
 MARLN/
+BIKUS/
+WHALE/
+PRAWN/
+DIPPA/
 TESAT
 </Airway>
     <Airway Name="P753">
@@ -1994,6 +1998,7 @@ DIL VOR
     <Point Name="BIKNI" Type="Fix">-174637.000+1773154.000</Point>
     <Point Name="BIKOS" Type="Fix">-441459.831+1674844.640</Point>
     <Point Name="BIKSU" Type="Fix">-080736.991+1610517.380</Point>
+    <Point Name="BIKUS" Type="Fix">-340020.300+1514645.500</Point>
     <Point Name="BINEG" Type="Fix">-162318.121+1791232.551</Point>
     <Point Name="BINNA" Type="Fix">-055513.778+1505536.660</Point>
     <Point Name="BIPOK" Type="Fix">-083809.010+1574207.819</Point>
@@ -2097,6 +2102,7 @@ DIL VOR
     <Point Name="DGOWM" Type="Fix">-093025.420+1470231.150</Point>
     <Point Name="DIFBE" Type="Fix">+083515.922+1673512.091</Point>
     <Point Name="DIKEC" Type="Fix">+100156.000+1395415.000</Point>
+    <Point Name="DIPPA" Type="Fix">-335729.500+1511926.000</Point>
     <Point Name="DIPSO" Type="Fix">-335423.300+1520419.000</Point>
     <Point Name="DIVAD" Type="Fix">-083238.180+1253139.840</Point>
     <Point Name="DIVTA" Type="Fix">-170100.000+1791312.000</Point>
@@ -2986,6 +2992,7 @@ DIL VOR
     <Point Name="POXIE" Type="Fix">+083000.000+1583000.000</Point>
     <Point Name="POXIT" Type="Fix">-081020.089+1464843.189</Point>
     <Point Name="POZVI" Type="Fix">+070159.970+1575534.241</Point>
+    <Point Name="PRAWN" Type="Fix">-335750.700+1512245.700</Point>
     <Point Name="PUGAB" Type="Fix">-355453.708+1651346.200</Point>
     <Point Name="PUGEL" Type="Fix">-194939.000+1561328.100</Point>
     <Point Name="PUGOL" Type="Fix">-104008.461+1650000.000</Point>
@@ -3347,6 +3354,7 @@ DIL VOR
     <Point Name="WF504" Type="Fix">-141336.000-1775354.000</Point>
     <Point Name="WF512" Type="Fix">-141903.601-1780650.900</Point>
     <Point Name="WF514" Type="Fix">-142350.701-1780318.000</Point>
+    <Point Name="WHALE" Type="Fix">-335905.600+1513441.500</Point>
     <Point Name="WIHHO" Type="Fix">+072039.098+1514005.520</Point>
     <Point Name="WILEK" Type="Fix">-083738.071+1494056.212</Point>
     <Point Name="WIMIR" Type="Fix">+065953.869+1581703.581</Point>
