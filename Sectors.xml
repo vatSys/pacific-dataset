@@ -112,6 +112,7 @@
   <Sector FullName="Isa" Frequency="125.700" Callsign="BN-ISA_CTR" Name="ISA" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
   <Sector FullName="Kennedy" Frequency="120.150" Callsign="BN-KEN_CTR" Name="KEN" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
   <Sector FullName="Keppel" Frequency="125.900" Callsign="BN-KPL_CTR" Name="KPL" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Manning" Frequency="130.100" Callsign="BN-MNN_CTR" Name="MNN" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
   <Sector FullName="Mungo" Frequency="132.600" Callsign="ML-MUN_CTR" Name="MUN" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
   <Sector FullName="Onslow" Frequency="134.000" Callsign="ML-OLW_CTR" Name="OLW" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
   <Sector FullName="Territory North" Frequency="123.850" Callsign="BN-TRT_CTR" Name="TRT" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
