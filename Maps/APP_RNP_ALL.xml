@@ -299,6 +299,9 @@
 	  <Point>IWE10</Point>
 	  <Point>IWE28</Point>
 	  <Point>IWD27</Point>
+      <Point>WC111</Point>
+      <Point>IWC10</Point>
+      <Point>FWC10</Point>
 	  <Point>IWU13</Point>
 	  <Point>IWU31</Point>
 	  <Point>IWR13</Point>
@@ -350,6 +353,7 @@
 	  <Point>YN903</Point>
       <Point>YN812</Point>
 	  <Point>FWE10</Point>
+      <Point>FWC10</Point>
 	  <Point>FWE28</Point>
 	  <Point>FWD27</Point>
 	  <Point>FWU13</Point>
@@ -727,6 +731,7 @@
 	  <Point>IWE10</Point>
 	  <Point>IWE28</Point>
 	  <Point>IWD27</Point>
+      <Point>IWC10</Point>
 	  <Point>IWU13</Point>
 	  <Point>IWU31</Point>
 	  <Point>IWR13</Point>
@@ -955,6 +960,7 @@
 	  <Point>WD354</Point>
 	  <Point>WU190</Point>
 	  <Point>WU191</Point>
+      <Point>WC111</Point>
 	  <Point>WU192</Point>
       <Point>WU193</Point>
 	  <Point>WU194</Point>
@@ -1377,6 +1383,7 @@
 	<Line>WE904/IWE28</Line>
 	<Line>IWE28/FWE28/-223527.269+1672739.038</Line>
 	<Line>WD356/WD358/IWD27</Line>
+    <Line>WC111/IWC10/FWC10</Line>
 	<Line>WD354/IWD27</Line>
 	<Line>IWD27/FWD27/-210315.379+1645035.509</Line>
 	<Line>WU192/WU194</Line>

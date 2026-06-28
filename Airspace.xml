@@ -2252,6 +2252,7 @@ DIL VOR
     <Point Name="FU373" Type="Fix">-083524.961+1790804.510</Point>
     <Point Name="FU377" Type="Fix">-082728.000+1791532.299</Point>
     <Point Name="FUNAB" Type="Fix">-083542.000+1253149.800</Point>
+    <Point Name="FWC10" Type="Fix">-194152.200+1633457.600</Point>
     <Point Name="FWD27" Type="Fix">-210418.800+1645842.200</Point>
     <Point Name="FWE10" Type="Fix">-223304.799+1672157.600</Point>
     <Point Name="FWE28" Type="Fix">-223723.000+1673217.200</Point>
@@ -2500,6 +2501,7 @@ DIL VOR
     <Point Name="ISPID" Type="Fix">-141051.400+1511040.300</Point>
     <Point Name="ISTEM" Type="Fix">-243551.200+1602300.100</Point>
     <Point Name="ISTOS" Type="Fix">-190142.000+1782348.000</Point>
+    <Point Name="IWC10" Type="Fix">-194041.400+1633053.100</Point>
     <Point Name="IWD27" Type="Fix">-210453.000+1650341.602</Point>
     <Point Name="IWE10" Type="Fix">-223113.699+1671731.600</Point>
     <Point Name="IWE28" Type="Fix">-223913.799+1673643.499</Point>
@@ -3333,6 +3335,7 @@ DIL VOR
     <Point Name="WADRU" Type="Fix">+084442.000+1674844.510</Point>
     <Point Name="WAVKI" Type="Fix">+051946.222+1624316.039</Point>
     <Point Name="WAVUR" Type="Fix">+084408.182+1673641.170</Point>
+    <Point Name="WC111" Type="Fix">-194529.300+1632919.800</Point>
     <Point Name="WD354" Type="Fix">-210543.800+1651107.501</Point>
     <Point Name="WD356" Type="Fix">-212149.201+1650129.701</Point>
     <Point Name="WD358" Type="Fix">-210822.301+1650314.501</Point>
@@ -3719,7 +3722,6 @@ DIL VOR
     <Point Name="BL" Type="Navaid" NavaidType="NDB" Frequency="342.000">-194319.700+1633948.100</Point>
     <Point Name="BO" Type="Navaid" NavaidType="NDB" Frequency="390.000">+012247.000+1730845.000</Point>
     <Point Name="FN" Type="Navaid" NavaidType="NDB" Frequency="326.000">-141840.900-1780410.099</Point>
-    <Point Name="FND" Type="Navaid" NavaidType="NDB" Frequency="354.000">-220000.900+1661115.400</Point>
     <Point Name="FU" Type="Navaid" NavaidType="NDB" Frequency="340.000">-083129.000+1791152.000</Point>
     <Point Name="GB" Type="Navaid" NavaidType="NDB" Frequency="370.000">-104326.000+1654651.000</Point>
     <Point Name="HID" Type="Navaid" NavaidType="NDB" Frequency="000.000">-103531.400+1421733.200</Point>
@@ -3871,6 +3873,12 @@ DIL VOR
     <Point Name="TMN" Type="Fix">-064811.232+1463759.963</Point>
     <Point Name="TUB" Type="Fix">-093254.247+1471907.331</Point>
     <Point Name="V" Type="Fix">-221251.000+1662412.000</Point>
+    <Point Name="VB" Type="Fix">-210313.000+1643743.000</Point>
+    <Point Name="VI" Type="Fix">-210452.000+1644304.000</Point>
+    <Point Name="VP" Type="Fix">-210730.000+1644202.000</Point>
+    <Point Name="VR" Type="Fix">-205414.000+1643036.000</Point>
+    <Point Name="VT" Type="Fix">-205847.000+1643302.000</Point>
+    <Point Name="VV" Type="Fix">-205616.000+1643930.000</Point>
     <Point Name="WA" Type="Fix">-215130.000+1655759.000</Point>
     <Point Name="WB" Type="Fix">-215230.000+1660255.000</Point>
     <Point Name="WTAN" Type="Fix">-060544.290+1451508.042</Point>
@@ -5344,8 +5352,8 @@ DIL VOR
       <Runway Name="27" Position="-213639.060+1652405.220" />
     </Airport>
     <Airport ICAO="NWWC" FullName="Ile Art Waala" Position="-194314.000+1633940.000" Elevation="305">
-      <Runway Name="09" Position="-194311.370+1633931.252" />
-      <Runway Name="27" Position="-194316.489+1633948.989" />
+      <Runway Name="10" Position="-194311.370+1633931.252" />
+      <Runway Name="28" Position="-194316.489+1633948.989" />
     </Airport>
     <Airport ICAO="NWWD" FullName="Kone" Position="-210313.000+1645022.000" Elevation="24">
       <Runway Name="09" Position="-210310.238+1645004.121" />
