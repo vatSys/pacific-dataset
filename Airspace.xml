@@ -3072,7 +3072,7 @@ DIL VOR
     <Point Name="SA732" Type="Fix">-134526.010+1674351.150</Point>
     <Point Name="SA946" Type="Fix">-134125.519+1674339.299</Point>
     <Point Name="SABBA" Type="Fix">+011914.632+1725745.310</Point>
-    <Point Name="SADIM" Type="Fix">-254335.000+1703649.799</Point>
+    <Point Name="SADIM" Type="Fix">-254335.000+1703650.000</Point>
     <Point Name="SAKAE" Type="Fix">+065905.690+1581501.030</Point>
     <Point Name="SAKAR" Type="Fix">-045310.342+1481940.541</Point>
     <Point Name="SAKBI" Type="Fix">-350558.300+1591141.200</Point>
@@ -3748,7 +3748,7 @@ DIL VOR
     <Point Name="OI" Type="Navaid" NavaidType="NDB" Frequency="350.000">-203912.000-1784430.000</Point>
     <Point Name="OKT" Type="Navaid" NavaidType="NDB" Frequency="1632.00">-052435.640+1411907.320</Point>
     <Point Name="PNI" Type="Navaid" NavaidType="NDB" Frequency="366.000">+065856.381+1581207.430</Point>
-    <Point Name="SON" Type="Navaid" NavaidType="NDB" Frequency="412.000">-153022.291+1671259.620</Point>
+    <Point Name="SON" Type="Navaid" NavaidType="NDB" Frequency="412.000">-153022.100+1671259.800</Point>
     <Point Name="TKK" Type="Navaid" NavaidType="NDB" Frequency="375.000">+072732.242+1515030.559</Point>
     <Point Name="UKS" Type="Navaid" NavaidType="NDB" Frequency="393.000">+052111.048+1625724.869</Point>
     <Point Name="VNO" Type="Navaid" NavaidType="NDB" Frequency="257.000">-024042.780+1411811.639</Point>
@@ -3911,7 +3911,7 @@ DIL VOR
     <Point Name="TL" Type="Navaid" NavaidType="VOR" Frequency="000.000">-191439.100+1464529.100</Point>
     <Point Name="TN" Type="Navaid" NavaidType="VOR" Frequency="000.000">-143109.100+1322215.600</Point>
     <Point Name="UKS" Type="Navaid" NavaidType="VOR" Frequency="115.300">+052111.480+1625724.300</Point>
-    <Point Name="VLI" Type="Navaid" NavaidType="VOR" Frequency="114.300">-173943.740+1681438.155</Point>
+    <Point Name="VLI" Type="Navaid" NavaidType="VOR" Frequency="114.300">-173943.700+1681438.200</Point>
     <Point Name="VNO" Type="Navaid" NavaidType="VOR" Frequency="115.600">-024042.780+1411811.639</Point>
     <Point Name="WP" Type="Navaid" NavaidType="VOR" Frequency="000.000">-124024.800+1415520.900</Point>
     <Point Name="YXM" Type="Navaid" NavaidType="VOR" Frequency="113.700">-060319.789+1425222.051</Point>
