@@ -353,7 +353,6 @@
 	  <Point>YN903</Point>
       <Point>YN812</Point>
 	  <Point>FWE10</Point>
-      <Point>FWC10</Point>
 	  <Point>FWE28</Point>
 	  <Point>FWD27</Point>
 	  <Point>FWU13</Point>
@@ -598,6 +597,7 @@
       <Point>YXMNF</Point>
 	  <Point>YN903</Point>
       <Point>YN812</Point>
+      <Point>FWC10</Point>
 	  <Point>FWE10</Point>
 	  <Point>FWE28</Point>
 	  <Point>FWD27</Point>
@@ -1383,7 +1383,7 @@
 	<Line>WE904/IWE28</Line>
 	<Line>IWE28/FWE28/-223527.269+1672739.038</Line>
 	<Line>WD356/WD358/IWD27</Line>
-    <Line>WC111/IWC10/FWC10</Line>
+    <Line>WC111/IWC10/FWC10/-194311.370+1633931.252</Line>
 	<Line>WD354/IWD27</Line>
 	<Line>IWD27/FWD27/-210315.379+1645035.509</Line>
 	<Line>WU192/WU194</Line>
