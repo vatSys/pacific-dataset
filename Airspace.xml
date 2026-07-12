@@ -5531,51 +5531,5 @@ DIL VOR
       <Runway Name="03" Position="+055414.760+1693800.211" />
       <Runway Name="21" Position="+055445.259+1693823.280" />
     </Airport>
-    <Airport ICAO="YAMB" FullName="Amberley" Position="-273826.000+1524243.000" />
-    <Airport ICAO="YBAF" FullName="Archerfield" Position="-273413.000+1530029.000" />
-    <Airport ICAO="YBAS" FullName="Alice Springs" Position="-234824.000+1335408.000" />
-    <Airport ICAO="YBBN" FullName="Brisbane" Position="-272303.000+1530703.000" />
-    <Airport ICAO="YBCG" FullName="Gold Coast" Position="-280952.000+1533017.000" />
-    <Airport ICAO="YBCS" FullName="Cairns" Position="-165309.000+1454519.000" />
-    <Airport ICAO="YBHM" FullName="Hamilton Island" Position="-202129.000+1485706.000" />
-    <Airport ICAO="YBMK" FullName="Mackay" Position="-211017.000+1491047.000" />
-    <Airport ICAO="YBNA" FullName="Ballina" Position="-285002.000+1533345.000" />
-    <Airport ICAO="YBOK" FullName="Oakey" Position="-272441.000+1514407.000" />
-    <Airport ICAO="YBRK" FullName="Rockhampton" Position="-232255.000+1502831.000" />
-    <Airport ICAO="YBRM" FullName="Broome" Position="-175658.000+1221340.000" />
-    <Airport ICAO="YBSG" FullName="Scherger" Position="-123726.000+1420514.000" />
-    <Airport ICAO="YBSU" FullName="Sunshine Coast" Position="-263612.000+1530528.000" />
-    <Airport ICAO="YBTL" FullName="Townsville" Position="-191509.000+1464555.000" />
-    <Airport ICAO="YCFS" FullName="Coffs Harbour" Position="-301914.000+1530659.000" />
-    <Airport ICAO="YCIN" FullName="Curtin" Position="-173453.000+1234942.000" />
-    <Airport ICAO="YGIG" FullName="GinGin" Position="-312755.000+1155148.000" />
-    <Airport ICAO="YMAV" FullName="Avalon" Position="-380222.000+1442810.000" />
-    <Airport ICAO="YMAY" FullName="Albury" Position="-360404.000+1465729.000" />
-    <Airport ICAO="YMEN" FullName="Essendon" Position="-374341.000+1445407.000" />
-    <Airport ICAO="YMES" FullName="East Sale" Position="-380556.000+1470858.000" />
-    <Airport ICAO="YMHB" FullName="Hobart" Position="-425010.000+1473037.000" />
-    <Airport ICAO="YMLT" FullName="Launceston" Position="-413243.000+1471251.000" />
-    <Airport ICAO="YMMB" FullName="Moorabbin" Position="-375833.000+1450608.000" />
-    <Airport ICAO="YMML" FullName="Melbourne" Position="-374024.000+1445036.000" />
-    <Airport ICAO="YPAD" FullName="Adelaide" Position="-345642.000+1383150.000" />
-    <Airport ICAO="YPDN" FullName="Darwin" Position="-122453.000+1305236.000" />
-    <Airport ICAO="YPEA" FullName="Pearce" Position="-314004.000+1160054.000" />
-    <Airport ICAO="YPED" FullName="Edinburgh" Position="-344209.000+1383715.000" />
-    <Airport ICAO="YPJT" FullName="Jandakot" Position="-320551.000+1155252.000" />
-    <Airport ICAO="YPKA" FullName="Karratha" Position="-204244.000+1164624.000" />
-    <Airport ICAO="YPLM" FullName="Learmonth" Position="-221408.000+1140519.000" />
-    <Airport ICAO="YPPF" FullName="Parafield" Position="-344736.000+1383759.000" />
-    <Airport ICAO="YPPH" FullName="Perth" Position="-315625.000+1155801.000" />
-    <Airport ICAO="YPTN" FullName="Tindal" Position="-143116.000+1322240.000" />
-    <Airport ICAO="YPWR" FullName="Woomera" Position="-310839.000+1364901.000" />
-    <Airport ICAO="YSBK" FullName="Bankstown" Position="-335528.000+1505918.000" />
-    <Airport ICAO="YSCB" FullName="Canberra" Position="-351825.000+1491142.000" />
-    <Airport ICAO="YSCN" FullName="Camden" Position="-340225.000+1504112.000" />
-    <Airport ICAO="YSNW" FullName="Nowra" Position="-345656.000+1503213.000" />
-    <Airport ICAO="YSRI" FullName="Richmond" Position="-333602.000+1504651.000" />
-    <Airport ICAO="YSSY" FullName="Sydney" Position="-335646.000+1511038.000" />
-    <Airport ICAO="YSTW" FullName="Tamworth" Position="-310502.000+1505048.000" />
-    <Airport ICAO="YSWS" FullName="Nancy-Bird Walton" Position="-335327.000+1504306.000" />
-    <Airport ICAO="YWLM" FullName="Williamtown" Position="-324742.000+1515004.000" />
   </Airports>
 </Airspace>
