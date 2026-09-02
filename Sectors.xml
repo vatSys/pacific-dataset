@@ -116,7 +116,7 @@
   <Sector FullName="Mungo" Frequency="132.600" Callsign="ML-MUN_CTR" Name="MUN" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
   <Sector FullName="Onslow" Frequency="134.000" Callsign="ML-OLW_CTR" Name="OLW" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
   <Sector FullName="Territory North" Frequency="123.850" Callsign="BN-TRT_CTR" Name="TRT" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
-  <Sector FullName="Wollongong" Frequency="125.000" Callsign="ML-WOL_CTR" Name="WOL" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
+  <Sector FullName="Snowy" Frequency="124.000" Callsign="ML-SNO_CTR" Name="SNO" DisplayInSectorsWindow="False"><Volumes>ARA,WIL</Volumes></Sector>
   <Sector FullName="Arafura" Frequency="133.700" Callsign="BN-ARA_CTR" Name="ARA" DisplayInSectorsWindow="False">
     <Volumes>ARA</Volumes>
   </Sector>
