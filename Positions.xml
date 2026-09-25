@@ -31,7 +31,7 @@
       <ControllerInfo>
         <Line>Nadi Radio</Line>
         <Line>Position reports required. Check your Sim Zulu time is correct.</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
+        <Line>Position report tool - vats.im/pac/position</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     <Transition Altitude="11000" />
