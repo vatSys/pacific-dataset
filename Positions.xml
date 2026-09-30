@@ -31,7 +31,7 @@
       <ControllerInfo>
         <Line>Nadi Radio</Line>
         <Line>Position reports required. Check your Sim Zulu time is correct.</Line>
-        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
+        <Line>Position report tool - vats.im/pac/position</Line>
         <Line>ATC feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
     <Transition Altitude="11000" />
@@ -342,7 +342,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Port Moresby/AYPY_COAST" />
         <Map Name="Port Moresby/AYPY_TCU" />
-        <Map Name="Port Moresby/AYPY_RWY14" />
+        <Map Name="Port Moresby/AYPY_ALLRWYS" />
       </Maps>
       <ATIS>
         <Editor Airport="AYPY" Frequency="128.0" />
@@ -378,7 +378,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Nadi/NFFN_COAST" />
         <Map Name="Nadi/NFFN_TCU" />
-        <Map Name="Nadi/NFFN_RWY02A20D" />
+        <Map Name="Nadi/NFFN_ALLRWYS" />
       </Maps>
       <ATIS>
         <Editor Airport="NFFN" Frequency="127.9" />
@@ -412,7 +412,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Noumea/NWWW_COAST" />
         <Map Name="Noumea/NWWW_TCU" />
-        <Map Name="Noumea/NWWW_RWY11A29D" />
+        <Map Name="Noumea/NWWW_ALLRWYS" />
       </Maps>
       <ATIS>
         <Editor Airport="NWWW" Frequency="126.2" />
@@ -445,7 +445,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Nausori/NFNA_COAST" />
         <Map Name="Nausori/NFNA_TCU" />
-        <Map Name="Nausori/NFNA_RWY10" />
+        <Map Name="Nausori/NFNA_ALLRWYS" />
       </Maps>
       <ATIS>
         <Editor Airport="NFNA" Frequency="128.5" />
@@ -506,7 +506,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Noumea/NWWW_COAST" />
         <Map Name="Noumea/NWWW_TCU" />
-        <Map Name="Noumea/NWWM_RWY35A17D" />
+        <Map Name="Noumea/NWWM_ALLRWYS" />
       </Maps>
       <ATIS>
         <Editor Airport="NWWM" Frequency="126.6" />
@@ -570,7 +570,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Port Vila/NVVV_COAST" />
         <Map Name="Port Vila/NVVV_TCU" />
-        <Map Name="Port Vila/NVVV_RWY11" />
+        <Map Name="Port Vila/NVVV_ALLRWYS" />
         <Map Name="Port Vila/NVVV_LOC" />
         <Map Name="TMA_LL_LABELS" />
       </Maps>
@@ -601,7 +601,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Goroka/AYGA_COAST" />
         <Map Name="Goroka/AYGA_TCU" />
-        <Map Name="Goroka/AYGA_RWYRRO" />
+        <Map Name="Goroka/AYGA_ALLRWYS" />
         <Map Name="Goroka/AYGA_VFR" />
         <Map Name="Goroka/AYGA_VFR_FULL_NAME" />
         <Map Name="TMA_LL_LABELS" />
@@ -661,7 +661,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Mt Hagen/AYMH_COAST" />
         <Map Name="Mt Hagen/AYMH_TCU" />
-        <Map Name="Mt Hagen/AYMH_RWY1208" />
+        <Map Name="Mt Hagen/AYMH_ALLRWYS" />
         <Map Name="Mt Hagen/AYMH_VFR" />
         <Map Name="Mt Hagen/AYMH_VFR_FULL_NAME" />
         <Map Name="TMA_LL_LABELS" />

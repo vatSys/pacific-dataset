@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Profile Name="Pacific" FullName="Eurocat Pacific">
-	<Version AIRAC="2609" Revision="a" PublishDate="20260903"  UpdateURL="https://cdn.vatpac.org/vatsys/pacific" />
+	<Version AIRAC="2610" Revision="a" PublishDate="20261001"  UpdateURL="https://cdn.vatpac.org/vatsys/pacific" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
 		<GRIB url="https://sawbe.com/GRIB/" />
 		<G2G url="antifaff.vatsys.sawbe.com" port="64738" />
-		<SweatBox url="sweatbox01-training.vatpac.org" />
-		<SweatBox2 url="sweatbox02-training.vatpac.org" />
+		<SweatBox url="sweatbox1.vatpac.org" />
+		<SweatBox2 url="sweatbox2.vatpac.org" />
 	</Servers>	
 </Profile>
