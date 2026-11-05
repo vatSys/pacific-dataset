@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-
   <Group Name="Oceanic">
     <Position Name="Nadi Oceanic" Type="ASD" DefaultCenter="-10.660683+178.585898" DefaultRange="4500" VisibilityRange="1000">
       <Sectors>
@@ -32,10 +31,10 @@
         <Line>Nadi Radio</Line>
         <Line>Position reports required. Check your Sim Zulu time is correct.</Line>
         <Line>Position report tool - vats.im/pac/position</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
-    <Transition Altitude="11000" />
-	</Position>
+      <Transition Altitude="11000" />
+    </Position>
   </Group>
   <Group Name="Enroute">
     <Position Name="Moresby" Type="ASD" DefaultCenter="-05.577645+151.101063" DefaultRange="2200">
@@ -144,7 +143,7 @@
         <Line>Nadzab Approach</Line>
         <Line>ATIS available on 128.1</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -177,11 +176,11 @@
         <Line>Jacksons Radar</Line>
         <Line>ATIS available on 128.0</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
-	<Position Name="Nadi TCU" Type="ASD" DefaultCenter="-17.761944+177.440556" DefaultRange="300" MagneticVariation="-12.5">
+    <Position Name="Nadi TCU" Type="ASD" DefaultCenter="-17.761944+177.440556" DefaultRange="300" MagneticVariation="-12.5">
       <Sectors>
         <Sector Name="NFFNA" />
       </Sectors>
@@ -211,11 +210,11 @@
         <Line>Nadi Approach</Line>
         <Line>ATIS available on 127.9</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
-	<Position Name="Nausori TCU" Type="ASD" DefaultCenter="-18.045000+178.558611" DefaultRange="300" MagneticVariation="-12.5">
+    <Position Name="Nausori TCU" Type="ASD" DefaultCenter="-18.045000+178.558611" DefaultRange="300" MagneticVariation="-12.5">
       <Sectors>
         <Sector Name="NFNAA" />
       </Sectors>
@@ -245,7 +244,7 @@
         <Line>Nausori Approach</Line>
         <Line>ATIS available on 128.5</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -333,7 +332,7 @@
 	</Position>
   </Group>
   <Group Name="Class C TWR">
-   <Position Name="Jacksons Tower" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="90" MagneticVariation="-5.8">
+    <Position Name="Jacksons Tower" Type="ASD" DefaultCenter="-09.440278+147.218611" DefaultRange="90" MagneticVariation="-5.8">
       <Sectors>
         <Sector Name="AYPY ADC" />
         <Sector Name="AYPY SMC" />
@@ -357,18 +356,18 @@
         <Line>Jacksons Tower</Line>
         <Line>ATIS available on 128.0</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="AYPY_GND">
         <Line>Jacksons Ground</Line>
         <Line>ATIS available on 128.0</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
   </Group>
-  <Group Name="Class D TWR">	
+  <Group Name="Class D TWR">
     <Position Name="Nadi Tower" Type="ASD" DefaultCenter="-17.756389+177.443611" DefaultRange="60" MagneticVariation="-12.5">
       <Sectors>
         <Sector Name="NFFN ADC" />
@@ -393,13 +392,13 @@
         <Line>Nadi Tower</Line>
         <Line>ATIS available on 127.9</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="NFFN_GND">
         <Line>Nadi Ground</Line>
         <Line>ATIS available on 127.9</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -427,13 +426,13 @@
         <Line>Tontouta Tower</Line>
         <Line>ATIS available on 126.2</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="NWWW_GND">
         <Line>Tontouta Ground</Line>
         <Line>ATIS available on 126.2</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -460,7 +459,7 @@
         <Line>Nausori Tower</Line>
         <Line>ATIS available on 128.5</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -488,17 +487,17 @@
         <Line>Kwajalein Tower</Line>
         <Line>ATIS available on 119.675</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <ControllerInfo Callsign="KWA_GND">
         <Line>Kwajalein Ground</Line>
         <Line>ATIS available on 119.675</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="5500" />
     </Position>
-	<Position Name="Magenta Tower" Type="ASD" DefaultCenter="-222047.0+1662815.0" DefaultRange="90" MagneticVariation="-12.5">
+    <Position Name="Magenta Tower" Type="ASD" DefaultCenter="-222047.0+1662815.0" DefaultRange="90" MagneticVariation="-12.5">
       <Sectors>
         <Sector Name="NWWM ADC" />
       </Sectors>
@@ -522,7 +521,7 @@
         <Line>Magenta Tower</Line>
         <Line>ATIS available on 126.6</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -552,11 +551,11 @@
         <Line>Nadzab Tower</Line>
         <Line>ATIS available on 128.1</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
-	<Position Name="Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="200" MagneticVariation="-11.6" VisibilityRange="50">
+    <Position Name="Vila Tower" Type="ASD" DefaultCenter="-17.699325+168.319794" DefaultRange="200" VisibilityRange="50" MagneticVariation="-11.6">
       <Sectors>
         <Sector Name="NVVV ADC" />
       </Sectors>
@@ -565,7 +564,7 @@
         <Point>-17.768056+168.659167</Point>
         <Point>-18.034167+168.264722</Point>
         <Point>-17.657778+167.968889</Point>
-    </ManualVisibility>
+      </ManualVisibility>
       <Maps>
         <Map Name="ALL_CTA" />
         <Map Name="Port Vila/NVVV_COAST" />
@@ -587,7 +586,7 @@
         <Line>Vila Tower</Line>
         <Line>ATIS available on 126.4</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -619,7 +618,7 @@
         <Line>Goroka Tower</Line>
         <Line>ATIS available on 134.0</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -649,7 +648,7 @@
         <Line>Madang Tower</Line>
         <Line>ATIS available on 127.8</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -679,7 +678,7 @@
         <Line>Hagen Tower</Line>
         <Line>ATIS available on 128.4</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -709,7 +708,7 @@
         <Line>Tokua Tower</Line>
         <Line>ATIS available on 128.3</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="20000" />
     </Position>
@@ -735,23 +734,23 @@
       </Maps>
     </Position>
     <Position Name="AYPY" Type="ASMGCS" ASMGCSAirport="AYPY" DefaultCenter="-09.440278+147.218611" DefaultRange="2" MagneticVariation="-5.8" Rotation="127">
-    <Maps>
-      <Map Name="Port Moresby/ASMGCS_AYPY_RWY" />
-      <Map Name="Port Moresby/ASMGCS_AYPY_APR" />
-      <Map Name="Port Moresby/ASMGCS_AYPY_TWY" />
-      <Map Name="Port Moresby/ASMGCS_AYPY_BLD" />
-    </Maps>
-  </Position>
+      <Maps>
+        <Map Name="Port Moresby/ASMGCS_AYPY_RWY" />
+        <Map Name="Port Moresby/ASMGCS_AYPY_APR" />
+        <Map Name="Port Moresby/ASMGCS_AYPY_TWY" />
+        <Map Name="Port Moresby/ASMGCS_AYPY_BLD" />
+      </Maps>
+    </Position>
   </Group>
   <Group Name="Class D">
     <Position Name="PKWA" Type="ASMGCS" ASMGCSAirport="PKWA" DefaultCenter="+08.723056+167.731944" DefaultRange="2" MagneticVariation="-7.6" Rotation="205">
-    <Maps>
-      <Map Name="Kwajalein/ASMGCS_PKWA_RWY" />
-      <Map Name="Kwajalein/ASMGCS_PKWA_APR" />
-      <Map Name="Kwajalein/ASMGCS_PKWA_TWY" />
-      <Map Name="Kwajalein/ASMGCS_PKWA_BLD" />
-    </Maps>
-  </Position>
+      <Maps>
+        <Map Name="Kwajalein/ASMGCS_PKWA_RWY" />
+        <Map Name="Kwajalein/ASMGCS_PKWA_APR" />
+        <Map Name="Kwajalein/ASMGCS_PKWA_TWY" />
+        <Map Name="Kwajalein/ASMGCS_PKWA_BLD" />
+      </Maps>
+    </Position>
     <Position Name="NVVV" Type="ASMGCS" ASMGCSAirport="NVVV" DefaultCenter="-17.698889+168.316944" DefaultRange="2" MagneticVariation="-11.6" Rotation="164">
       <Maps>
         <Map Name="Port Vila/ASMGCS_NVVV_RWY" />
@@ -777,24 +776,24 @@
       </Maps>
     </Position>
     <Position Name="NFFN" Type="ASMGCS" ASMGCSAirport="NFFN" DefaultCenter="-17.761944+177.440556" DefaultRange="2" MagneticVariation="-12.5" Rotation="65">
-    <Maps>
-      <Map Name="Nadi/ASMGCS_NFFN_RWY" />
-      <Map Name="Nadi/ASMGCS_NFFN_APR" />
-      <Map Name="Nadi/ASMGCS_NFFN_TWY" />
-      <Map Name="Nadi/ASMGCS_NFFN_BLD" />
-    </Maps>
+      <Maps>
+        <Map Name="Nadi/ASMGCS_NFFN_RWY" />
+        <Map Name="Nadi/ASMGCS_NFFN_APR" />
+        <Map Name="Nadi/ASMGCS_NFFN_TWY" />
+        <Map Name="Nadi/ASMGCS_NFFN_BLD" />
+      </Maps>
     </Position>
     <Position Name="NFNA" Type="ASMGCS" ASMGCSAirport="NFNA" DefaultCenter="-18.045000+178.558611" DefaultRange="2" MagneticVariation="-12.6" Rotation="-7">
-    <Maps>
-      <Map Name="Nausori/ASMGCS_NFNA_RWY" />
-      <Map Name="Nausori/ASMGCS_NFNA_APR" />
-      <Map Name="Nausori/ASMGCS_NFNA_TWY" />
-      <Map Name="Nausori/ASMGCS_NFNA_BLD" />
-    </Maps>
+      <Maps>
+        <Map Name="Nausori/ASMGCS_NFNA_RWY" />
+        <Map Name="Nausori/ASMGCS_NFNA_APR" />
+        <Map Name="Nausori/ASMGCS_NFNA_TWY" />
+        <Map Name="Nausori/ASMGCS_NFNA_BLD" />
+      </Maps>
     </Position>
   </Group>
   <Group Name="Class F">
-      <Position Name="AYGA" Type="ASMGCS" ASMGCSAirport="AYGA" DefaultCenter="-06.083333+145.392500" DefaultRange="2" MagneticVariation="-4.9" Rotation="100">
+    <Position Name="AYGA" Type="ASMGCS" ASMGCSAirport="AYGA" DefaultCenter="-06.083333+145.392500" DefaultRange="2" MagneticVariation="-4.9" Rotation="100">
       <Maps>
         <Map Name="Goroka/ASMGCS_AYGA_RWY" />
         <Map Name="Goroka/ASMGCS_AYGA_APR" />
