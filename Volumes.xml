@@ -745,6 +745,87 @@
     -140000.000+1630000.000
   </Boundary>
   
+
+  <!-- VOLUMES -->
+  
+  <!-- 		PNG 		-->
+  <Volume Name="AYPM" LowerLimit="0" UpperLimit="60000">
+    <Boundaries>AYPM</Boundaries>
+  </Volume>
+  <Volume Name="AYPYA" LowerLimit="0" UpperLimit="15000">
+    <Boundaries>AYPY_PORT_MORESBY_TMA</Boundaries>
+  </Volume>
+  
+  <Volume Name="AYPYTWR" LowerLimit="0" UpperLimit="2000">
+    <Boundaries>AYPY_PORT_MORESBY_CTZ</Boundaries>
+  </Volume>
+
+  <Volume Name="AYNZA" LowerLimit="0" UpperLimit="24500">
+    <Boundaries>AYNZ_NADZAB_APP</Boundaries>
+  </Volume>
+  <Volume Name="AYNZTWR" LowerLimit="0" UpperLimit="6000">
+    <Boundaries>AYNZ_NADZAB_CTA-CTZ</Boundaries>
+  </Volume>
+  
+  <Volume Name="AYGATWR" LowerLimit="0" UpperLimit="20000">
+    <Boundaries>AYGA_GOROKA_ATZ</Boundaries>
+  </Volume>
+  <Volume Name="AYMDTWR" LowerLimit="0" UpperLimit="20000">
+    <Boundaries>AYMD_MADANG_ATZ</Boundaries>
+  </Volume>
+  <Volume Name="AYMHTWR" LowerLimit="0" UpperLimit="20000">
+    <Boundaries>AYMH_HAGEN_ATZ</Boundaries>
+  </Volume>
+  <Volume Name="AYTKTWR" LowerLimit="0" UpperLimit="20000">
+    <Boundaries>AYTK_TOKUA_ATZ</Boundaries>
+  </Volume>
+  
+  <!-- 		Fiji		-->
+  <Volume Name="NFFF" LowerLimit="0" UpperLimit="60000">
+    <Boundaries>NFFF</Boundaries>
+  </Volume>
+  <Volume Name="NFFJ" LowerLimit="0" UpperLimit="60000">
+    <Boundaries>NADI_CTA</Boundaries>
+  </Volume>
+  
+  <Volume Name="NFFNA" LowerLimit="0" UpperLimit="25000">
+    <Boundaries>NADI_TMA</Boundaries>
+  </Volume>
+  <Volume Name="NFFNTWR" LowerLimit="0" UpperLimit="2000">
+    <Boundaries>NADI_CTZ</Boundaries>
+  </Volume>
+  
+  <Volume Name="NFNAA" LowerLimit="0" UpperLimit="25000">
+    <Boundaries>NAUSORI_TMA</Boundaries>
+  </Volume>
+  <Volume Name="NFNATWR" LowerLimit="0" UpperLimit="2000">
+    <Boundaries>NAUSORI_CTZ</Boundaries>
+  </Volume>
+  
+  <!-- Marshall Islands -->
+  <Volume Name="PKWATWR" LowerLimit="0" UpperLimit="2500">
+    <Boundaries>PKWA_CTZ_D</Boundaries>
+  </Volume>
+  
+  <!-- 	New Caledonia 	-->
+  <Volume Name="NWWWA" LowerLimit="0" UpperLimit="24500">
+    <Boundaries>NWWWA</Boundaries>
+  </Volume>
+  <Volume Name="NWWWTWR" LowerLimit="0" UpperLimit="1500">
+    <Boundaries>NWWW_TONTOUTA_CTZ_2</Boundaries>
+  </Volume>
+  <Volume Name="NWWMTWR" LowerLimit="0" UpperLimit="1500">
+    <Boundaries>NWWM_MAGENTA_CTZ_2</Boundaries>
+  </Volume>
+  
+  <!--		 Vanuatu	-->
+  <Volume Name="NVVVA" LowerLimit="0" UpperLimit="24000">
+    <Boundaries>NVVV_CTA</Boundaries>
+  </Volume>
+  <Volume Name="NVVVTWR" LowerLimit="0" UpperLimit="9500">
+    <Boundaries>NVVV_TCA</Boundaries>
+  </Volume>
+  
   <!--                                                     -->
   <!--                                                     -->
   <!-- Non-Pacific                                         -->
@@ -1061,7 +1142,7 @@
   
   <!--                                                     -->
   <!--                                                     -->
-  <!--                     Oakland (KZAK)                    -->
+  <!--                     Oakland (KZAK)                  -->
   <!--                                                     -->
   <!--                                                     -->
   
@@ -1094,7 +1175,7 @@
     +564542.001-1514500.000/
     +560000.000-1530000.000
   </Boundary>
-    <Boundary Name="KZAK_WEST">
+  <Boundary Name="KZAK_WEST">
     +210000.000+1300000.000/
     +070000.000+1300000.000/
     +033000.000+1330000.000/
@@ -1302,91 +1383,6 @@
     -054334.000+1410000.000
   </Boundary>
   
-  <!-- 													-->
-  <!-- 													-->
-  <!-- 					Volumes							-->
-  <!-- 													-->
-  <!-- 													-->
-  
-  <!-- 		PNG 		-->
-  <Volume Name="AYPM" LowerLimit="0" UpperLimit="60000">
-    <Boundaries>AYPM</Boundaries>
-  </Volume>
-  <Volume Name="AYPYA" LowerLimit="0" UpperLimit="15000">
-    <Boundaries>AYPY_PORT_MORESBY_TMA</Boundaries>
-  </Volume>
-  
-  <Volume Name="AYPYTWR" LowerLimit="0" UpperLimit="2000">
-    <Boundaries>AYPY_PORT_MORESBY_CTZ</Boundaries>
-  </Volume>
-
-  <Volume Name="AYNZA" LowerLimit="0" UpperLimit="24500">
-    <Boundaries>AYNZ_NADZAB_APP</Boundaries>
-  </Volume>
-   <Volume Name="AYNZTWR" LowerLimit="0" UpperLimit="6000">
-    <Boundaries>AYNZ_NADZAB_CTA-CTZ</Boundaries>
-  </Volume>
-  
-  <Volume Name="AYGATWR" LowerLimit="0" UpperLimit="20000">
-    <Boundaries>AYGA_GOROKA_ATZ</Boundaries>
-  </Volume>
-  <Volume Name="AYMDTWR" LowerLimit="0" UpperLimit="20000">
-    <Boundaries>AYMD_MADANG_ATZ</Boundaries>
-  </Volume>
-   <Volume Name="AYMHTWR" LowerLimit="0" UpperLimit="20000">
-    <Boundaries>AYMH_HAGEN_ATZ</Boundaries>
-  </Volume>
-   <Volume Name="AYTKTWR" LowerLimit="0" UpperLimit="20000">
-    <Boundaries>AYTK_TOKUA_ATZ</Boundaries>
-  </Volume>
-  
-  <!-- 		Fiji		-->
-  <Volume Name="NFFF" LowerLimit="0" UpperLimit="60000">
-    <Boundaries>NFFF</Boundaries>
-  </Volume>
-  <Volume Name="NFFJ" LowerLimit="0" UpperLimit="60000">
-    <Boundaries>NADI_CTA</Boundaries>
-  </Volume>
-  
-  <Volume Name="NFFNA" LowerLimit="0" UpperLimit="25000">
-    <Boundaries>NADI_TMA</Boundaries>
-  </Volume>
-  <Volume Name="NFFNTWR" LowerLimit="0" UpperLimit="2000">
-    <Boundaries>NADI_CTZ</Boundaries>
-  </Volume>
-  
-  <Volume Name="NFNAA" LowerLimit="0" UpperLimit="25000">
-    <Boundaries>NAUSORI_TMA</Boundaries>
-  </Volume>
-  <Volume Name="NFNATWR" LowerLimit="0" UpperLimit="2000">
-    <Boundaries>NAUSORI_CTZ</Boundaries>
-  </Volume>
-  
-  <!-- Marshall Islands -->
-  <Volume Name="PKWATWR" LowerLimit="0" UpperLimit="2500">
-    <Boundaries>PKWA_CTZ_D</Boundaries>
-  </Volume>
-  
-  <!-- 	New Caledonia 	-->
-  <Volume Name="NWWWA" LowerLimit="0" UpperLimit="24500">
-    <Boundaries>NWWWA</Boundaries>
-  </Volume>
-  <Volume Name="NWWWTWR" LowerLimit="0" UpperLimit="1500">
-    <Boundaries>NWWW_TONTOUTA_CTZ_2</Boundaries>
-  </Volume>
-  <Volume Name="NWWMTWR" LowerLimit="0" UpperLimit="1500">
-    <Boundaries>NWWM_MAGENTA_CTZ_2</Boundaries>
-  </Volume>
-  
-  <!--		 Vanuatu	-->
-  <Volume Name="NVVVA" LowerLimit="0" UpperLimit="24000">
-    <Boundaries>NVVV_CTA</Boundaries>
-  </Volume>
-  <Volume Name="NVVVTWR" LowerLimit="0" UpperLimit="9500">
-    <Boundaries>NVVV_TCA</Boundaries>
-  </Volume>
-  
-  <!-- Outside Pacific	-->
   <Volume Name="ARA" LowerLimit="0" UpperLimit="60000">
     <Boundaries>ARAFURA</Boundaries>
   </Volume>
@@ -1429,7 +1425,7 @@
   <Volume Name="WAAF-PA" LowerLimit="0" UpperLimit="60000">
     <Boundaries>WAAF-PA</Boundaries>
   </Volume>
-    <Volume Name="WAAF-AN" LowerLimit="0" UpperLimit="60000">
+  <Volume Name="WAAF-AN" LowerLimit="0" UpperLimit="60000">
     <Boundaries>WAAF-AN</Boundaries>
   </Volume>
   <Volume Name="WAJJA" LowerLimit="10000" UpperLimit="24500">
