@@ -505,7 +505,7 @@
         <Map Name="ALL_CTA" />
         <Map Name="Noumea/NWWW_COAST" />
         <Map Name="Noumea/NWWW_TCU" />
-        <Map Name="Noumea/NWWM_ALLRWYS" />
+        <Map Name="Noumea/NWWW_ALLRWYS" />
       </Maps>
       <ATIS>
         <Editor Airport="NWWM" Frequency="126.6" />
@@ -570,7 +570,6 @@
         <Map Name="Port Vila/NVVV_COAST" />
         <Map Name="Port Vila/NVVV_TCU" />
         <Map Name="Port Vila/NVVV_ALLRWYS" />
-        <Map Name="Port Vila/NVVV_LOC" />
         <Map Name="TMA_LL_LABELS" />
       </Maps>
       <ATIS>
