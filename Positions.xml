@@ -18,7 +18,6 @@
         <Map Name="UPPER_SECTOR_FREQS" />
         <Map Name="COAST_ALL" />
         <Map Name="ALL_ROUTES_HIGH" />
-        <Map Name="ALL_POINTS_HIGH" />
         <Map Name="FIR_BDRY" />
       </Maps>
       <Strips Mode="State" Sort="Alpha">
@@ -35,6 +34,38 @@
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
+	<Position Name="Honiara FIS" Type="ASD" DefaultCenter="-092547.089+1600253.380" DefaultRange="1300" VisibilityRange="500" MagneticVariation="-09.0">
+	  <Sectors>
+        <Sector Name="AGGG FIS" />
+      </Sectors>
+	  <ManualVisibility>
+        <Point>-092547.089+1600253.380</Point>
+      </ManualVisibility>
+	  <Maps>
+        <Map Name="ALL_CTA" />
+        <Map Name="FIR_BDRY" />
+        <Map Name="Honiara/AGGH_COAST" />
+		<Map Name="UPPER_SECTOR_FREQS" />
+		<Map Name="ALL_ROUTES_HIGH" />
+        <Map Name="TMA_LL_LABELS" />
+      </Maps>
+	  <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="AGGH" Visible="true" />
+		<Window Type="ADEP" Beacon="AGGM" Visible="true" />
+      </Strips>
+	  <CFL QuickLevel="24000" />
+	  <ArrivalLists>
+        <Airport Name="AGGH" />
+        <Airport Name="AGGM" />
+      </ArrivalLists>
+	  <ControllerInfo>
+        <Line>Honiara Radio</Line>
+        <Line>Providing Class G Services SFC-F245</Line>
+        <Line>Pilot Procedures - vats.im/pac/pilot</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
+      </ControllerInfo>
+	  <Transition Altitude="13000" />
+	</Position>
   </Group>
   <Group Name="Enroute">
     <Position Name="Moresby" Type="ASD" DefaultCenter="-05.577645+151.101063" DefaultRange="2200">
@@ -56,7 +87,6 @@
           <Map Name="ALL_NAVAIDS" />
           <Map Name="COAST_ALL" />
           <Map Name="ALL_ROUTES_HIGH" />
-          <Map Name="ALL_POINTS_HIGH" />
           <Map Name="FIR_BDRY" />
         </Maps>
         <Strips Mode="State" Sort="Time">
@@ -72,7 +102,7 @@
         <ControllerInfo>
           <Line>Moresby Control</Line>
           <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-          <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+          <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
         </ControllerInfo>
         <Transition Altitude="20000" />
     </Position>
@@ -92,7 +122,6 @@
           <Map Name="ALL_NAVAIDS" />
           <Map Name="COAST_ALL" />
           <Map Name="ALL_ROUTES_HIGH" />
-          <Map Name="ALL_POINTS_HIGH" />
           <Map Name="FIR_BDRY" />
         </Maps>
         <Strips Mode="State" Sort="Time">
@@ -108,7 +137,7 @@
         <ControllerInfo>
           <Line>Nadi Control</Line>
           <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-          <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+          <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
         </ControllerInfo>
         <Transition Altitude="11000" />
     </Position>
@@ -248,7 +277,7 @@
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
-    <Position Name="Tontouta TCU" Type="ASD" DefaultCenter="-204500.000+1664500.000" DefaultRange="1300" VisibilityRange="150" MagneticVariation="-12.5">
+	<Position Name="Tontouta TCU" Type="ASD" DefaultCenter="-204500.000+1664500.000" DefaultRange="1300" VisibilityRange="150" MagneticVariation="-12.5">
       <Sectors>
         <Sector Name="NWWWA" />
       </Sectors>
@@ -289,7 +318,7 @@
         <Line>Tontouta Approach</Line>
         <Line>ATIS available on 126.2</Line>
         <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-        <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+        <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
       </ControllerInfo>
       <Transition Altitude="11000" />
     </Position>
@@ -326,7 +355,7 @@
           <Line>Vila Tower (TCU)</Line>
           <Line>ATIS available on 126.4</Line>
           <Line>Pilot Procedures - vats.im/pac/pilot</Line>
-          <Line>ATC feedback - vats.im/pac/helpdesk</Line>
+          <Line>ATC Feedback - vats.im/pac/helpdesk</Line>
         </ControllerInfo>
         <Transition Altitude="11000" />
 	</Position>
