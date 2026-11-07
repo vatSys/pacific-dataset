@@ -521,4 +521,11 @@
     <G>0</G>
     <B>0</B>
   </Colour>
+  <Colour id="Custom">
+    <Use>SDC</Use>
+    <Name>PaleVioletRed</Name>
+    <R>219</R>
+    <G>112</G>
+    <B>147</B>
+  </Colour>
 </Colours>

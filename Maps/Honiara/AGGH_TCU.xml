@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="AGGH_TCU" Priority="1" Center="-09.429747+160.048161">
+    <!--AGGH-->
+    <Runway Name="06/24">
+      <Threshold Name="06" Position="-09.431961+160.045183" />
+      <Threshold Name="24" Position="-09.424519+160.063758" />
+    </Runway>
+    <!--Airway Routes-->
+    <Line>
+      <!--A597-->
+      ADNUG/
+      DUMUL
+    </Line>
+    <Line>
+      <!--A597-->
+      LEDIM/
+      NINOD
+    </Line>
+    <Line>
+      <!--A598-->
+      MANOT/
+      BIKSU/
+      ABVUB
+    </Line>
+    <Line>
+      <!--A598-->
+      DASSA/
+      GURVA
+    </Line>
+    <Line>
+      <!--B326-->
+      DAGDA/
+      EGITI/
+      KAGLI
+    </Line>
+    <Line>
+      <!--B452-->
+      KAKSI/
+      VAKRO
+    </Line>
+    <Line>
+      <!--B452-->
+      KALEG/
+      MAGPO
+    </Line>
+    <Line>
+      <!--B598-->
+      IGBED/
+      SAKPI
+    </Line>
+    <Line>
+      <!--B598-->
+      TAMOR/
+      PAKMI
+    </Line>
+    <Line>
+      <!--G342-->
+      AGOXI/
+      REDAM
+    </Line>
+    <Line>
+      <!--R450-->
+      TEMAT/
+      REGIT
+    </Line>
+    <Line>
+      <!--R450-->
+      TASAX/
+      IPMOP
+    </Line>
+    <Line>
+      <!--R599-->
+      GIZO/
+      AVBAP/
+      SALIT
+    </Line>
+    <Line>
+      <!--R599-->
+      ERVOS/
+      GUREB/
+      IDVUM
+    </Line>
+  </Map>
+  <Map Type="System" Name="AGGH_ALLRWYS" Priority="2" Center="-09.429747+160.048161">
+    <!--AGGH-->
+    <Runway Name="06/24">
+      <Threshold Name="06" Position="-09.431961+160.045183" ExtendedCentrelineTrack="247.7" ExtendedCentrelineLength="14" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="24" Position="-09.424519+160.063758" ExtendedCentrelineTrack="67.7" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="5" />
+    </Runway>
+  </Map>
+</Maps>

@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="AGGH_RWY06" Priority="1" Center="-09.429747+160.048161">
+    <!--AGGH-->
+    <Runway Name="06/24">
+      <Threshold Name="06" Position="-09.431961+160.045183" ExtendedCentrelineTrack="247.7" ExtendedCentrelineLength="14" ExtendedCentrelineTickInterval="5" />
+      <Threshold Name="24" Position="-09.424519+160.063758" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy06 AKNA1A-->
+      -092528.268+1600349.529/
+      -092505.515+1600445.762/
+      -092438.210+1600553.239/
+      -092434.103+1600606.502/
+      -092432.051+1600620.682/
+      -092432.292+1600635.395/
+      -092435.060+1600650.267/
+      -092440.597+1600704.922/
+      -092449.140+1600718.977/
+      -092500.926+1600732.059/
+      -092516.190+1600743.788/
+      -092535.173+1600753.785/
+      -092558.112+1600801.673/
+      -092625.246+1600807.076/
+      -092656.810+1600809.614/
+      -092729.261+1600809.132/
+      -092733.044+1600808.909/
+      -092814.185+1600804.582/
+      -092844.724+1600759.448/
+      -092900.474+1600756.258/
+      -092912.962+1600753.486/
+      -092952.141+1600743.558/
+      -093045.097+1600727.530/
+      TASAX/
+      AKNAK
+    </Line>
+    <Line>
+      <!--Rwy06 AUKI1A-->
+      -092505.515+1600445.762/
+      -092505.516+1600445.761/
+      -092453.438+1600506.547/
+      -092436.356+1600522.420/
+      -092415.163+1600533.421/
+      -092350.762+1600539.588/
+      -092328.972+1600541.071/
+      -092245.012+1600535.066/
+      AGGA
+    </Line>
+    <Line>
+      <!--Rwy06 DUGO1A-->
+      -092245.012+1600535.066/
+      -092227.340+1600529.530/
+      -092212.151+1600523.302/
+      -092132.216+1600459.448/
+      -092107.506+1600437.517/
+      -092045.899+1600411.053/
+      -092028.295+1600340.093/
+      -092015.601+1600304.684/
+      -092008.711+1600224.864/
+      -092008.531+1600140.681/
+      -092015.961+1600052.171/
+      -092018.200+1600042.890/
+      -092020.677+1600033.678/
+      -092023.392+1600024.534/
+      -092026.243+1600015.764/
+      -092035.732+1595950.791/
+      -092101.260+1595901.212/
+      -092130.888+1595819.834/
+      -092215.222+1595734.884/
+      -092235.458+1595718.875/
+      REGIT/
+      DUGOM
+    </Line>
+    <Line>
+      <!--Rwy06 ENOU1A-->
+      -093045.097+1600727.530/
+      -093049.432+1600726.101/
+      -093122.091+1600714.819/
+      -093152.579+1600703.515/
+      -093301.822+1600635.417/
+      -093417.396+1600601.433/
+      DUMUL/
+      ENOUS
+    </Line>
+    <Line>
+      <!--Rwy06 FERA1A-->
+      -092026.243+1600015.764/
+      AGGF
+    </Line>
+    <Line>
+      <!--Rwy06 GIZO1A-->
+      -092235.458+1595718.875/
+      -092346.810+1595638.144/
+      SALIT/
+      GIZO
+    </Line>
+    <Line>
+      <!--Rwy06 KAGL1A-->
+      -092328.972+1600541.071/
+      DAGDA/
+      KAGLI
+    </Line>
+    <Line>
+      <!--Rwy06 KAKO1A-->
+      -092101.260+1595901.212/
+      LEDIM/
+      KAKOP
+    </Line>
+    <Line>
+      <!--Rwy06 KIRA1A-->
+      -092912.962+1600753.486/
+      BEBOL/
+      AGGK
+    </Line>
+    <Line>
+      <!--Rwy06 KOPA1A-->
+      -092346.810+1595638.144/
+      -092353.232+1595635.473/
+      -092652.836+1595454.533/
+      -092752.844+1595420.783/
+      KOPAU
+    </Line>
+    <Line>
+      <!--Rwy06 LEGO1A-->
+      -092844.724+1600759.448/
+      VAKRO/
+      LEGOT
+    </Line>
+    <Line>
+      <!--Rwy06 MANO1A-->
+      -092212.151+1600523.302/
+      ABVUB/
+      MANOT
+    </Line>
+    <Line>
+      <!--Rwy06 NIPE1A-->
+      -093122.091+1600714.819/
+      SAKPI/
+      NIPER
+    </Line>
+    <Line>
+      <!--Rwy06 NIPO1A-->
+      -092652.836+1595454.533/
+      TAMOR/
+      NIPOK
+    </Line>
+    <Line>
+      <!--Rwy06 NODO1A-->
+      -092752.844+1595420.783/
+      -093143.583+1595210.970/
+      REDAM/
+      NODOK
+    </Line>
+    <Line>
+      <!--Rwy06 PONO1A-->
+      -092035.732+1595950.791/
+      KALEG/
+      PONOK
+    </Line>
+    <Line>
+      <!--Rwy06 RAXU1P-->
+      -092528.268+1600349.529/
+      RAXUD
+    </Line>
+    <Line>
+      <!--Rwy06 RAXU1P.BIKSU-->
+      RAXUD/
+      -092420.000+1600639.000/
+      ABVUB/
+      BIKSU
+    </Line>
+    <Line>
+      <!--Rwy06 RAXU1P.GURVA-->
+      RAXUD/
+      -092345.006+1600654.112/
+      -092306.551+1600707.644/
+      -092225.846+1600707.356/
+      -092147.581+1600653.280/
+      -092116.168+1600627.040/
+      -092055.219+1600551.662/
+      -092047.155+1600511.216/
+      -092052.901+1600430.367/
+      -092111.794+1600353.816/
+      KOPAU/
+      GURVA
+    </Line>
+    <Line>
+      <!--Rwy06 RAXU1P.PAKMI-->
+      -092111.794+1600353.816/
+      TAMOR/
+      PAKMI
+    </Line>
+    <Line>
+      <!--Rwy06 RAXU1P.VAKRO-->
+      RAXUD/
+      -092426.000+1600646.000/
+      -092430.000+1600701.000/
+      VAKRO
+    </Line>
+    <Line>
+      <!--Rwy06 RENELL1A-->
+      -092505.515+1600445.762/
+      -092438.211+1600553.240/
+      -092416.780+1600628.321/
+      -092345.006+1600654.112/
+      -092306.551+1600707.644/
+      -092225.846+1600707.356/
+      -092147.581+1600653.280/
+      -092116.168+1600627.040/
+      -092055.219+1600551.662/
+      -092047.155+1600511.216/
+      -092052.901+1600430.367/
+      -092111.794+1600353.816/
+      -092141.663+1600325.783/
+      -092219.060+1600309.490/
+      -092315.918+1600255.666/
+      -092412.780+1600241.845/
+      -092509.638+1600228.021/
+      -092606.500+1600214.201/
+      HN VOR/
+      AGRUK/
+      AGGR
+    </Line>
+    <Line>
+      <!--Rwy06 RIPN1A-->
+      HN VOR/
+      DASSA/
+      RIPNA
+    </Line>
+    <Line>
+      <!--Rwy06 SCRU1A-->
+      -092729.261+1600809.132/
+      ERVOS/
+      SCRUZ
+    </Line>
+    <Line>
+      <!--Rwy06 SEGH1A-->
+      -092353.232+1595635.473/
+      AGGS
+    </Line>
+    <!--STARs-->
+    <Line>
+      <!--Rwy06 BIKS1A-->
+      BIKSU/
+      DALTA/
+      APEXI
+    </Line>
+    <Line>
+      <!--Rwy06 DASA1A-->
+      DASSA/
+      KOPAU
+    </Line>
+    <Line>
+      <!--Rwy06 DASA1B-->
+      DASSA/
+      TAVIN/
+      DALTA
+    </Line>
+    <Line>
+      <!--Rwy06 PAKM1A-->
+      PAKMI/
+      KOPAU
+    </Line>
+    <Line>
+      <!--Rwy06 VAKR1A-->
+      VAKRO/
+      DALTA
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>APEXI</Point>
+      <Point>KOPAU</Point>
+    </Symbol>
+    <Symbol Type="SolidStar">
+      <Point>RAXUD</Point>
+    </Symbol>
+    <Symbol Type="Circle">
+      <Point>HN VOR</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>TASAX</Point>
+      <Point>AKNAK</Point>
+      <Point>AGGA</Point>
+      <Point>REGIT</Point>
+      <Point>DUGOM</Point>
+      <Point>DUMUL</Point>
+      <Point>ENOUS</Point>
+      <Point>AGGF</Point>
+      <Point>SALIT</Point>
+      <Point>GIZO</Point>
+      <Point>DAGDA</Point>
+      <Point>KAGLI</Point>
+      <Point>LEDIM</Point>
+      <Point>KAKOP</Point>
+      <Point>BEBOL</Point>
+      <Point>AGGK</Point>
+      <Point>VAKRO</Point>
+      <Point>LEGOT</Point>
+      <Point>ABVUB</Point>
+      <Point>MANOT</Point>
+      <Point>SAKPI</Point>
+      <Point>NIPER</Point>
+      <Point>TAMOR</Point>
+      <Point>NIPOK</Point>
+      <Point>REDAM</Point>
+      <Point>NODOK</Point>
+      <Point>KALEG</Point>
+      <Point>PONOK</Point>
+      <Point>BIKSU</Point>
+      <Point>GURVA</Point>
+      <Point>PAKMI</Point>
+      <Point>AGRUK</Point>
+      <Point>AGGR</Point>
+      <Point>DASSA</Point>
+      <Point>RIPNA</Point>
+      <Point>ERVOS</Point>
+      <Point>SCRUZ</Point>
+      <Point>AGGS</Point>
+      <Point>DALTA</Point>
+      <Point>TAVIN</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="AGGH_RWY06_NAMES" Priority="2" Center="-09.429747+160.048161">
+    <Label>
+      <Point>TASAX</Point>
+      <Point>AKNAK</Point>
+      <Point>AGGA</Point>
+      <Point>REGIT</Point>
+      <Point>DUGOM</Point>
+      <Point>DUMUL</Point>
+      <Point>ENOUS</Point>
+      <Point>AGGF</Point>
+      <Point>SALIT</Point>
+      <Point>GIZO</Point>
+      <Point>DAGDA</Point>
+      <Point>KAGLI</Point>
+      <Point>LEDIM</Point>
+      <Point>KAKOP</Point>
+      <Point>BEBOL</Point>
+      <Point>AGGK</Point>
+      <Point>KOPAU</Point>
+      <Point>VAKRO</Point>
+      <Point>LEGOT</Point>
+      <Point>ABVUB</Point>
+      <Point>MANOT</Point>
+      <Point>SAKPI</Point>
+      <Point>NIPER</Point>
+      <Point>TAMOR</Point>
+      <Point>NIPOK</Point>
+      <Point>REDAM</Point>
+      <Point>NODOK</Point>
+      <Point>KALEG</Point>
+      <Point>PONOK</Point>
+      <Point>RAXUD</Point>
+      <Point>BIKSU</Point>
+      <Point>GURVA</Point>
+      <Point>PAKMI</Point>
+      <Point>HN VOR</Point>
+      <Point>AGRUK</Point>
+      <Point>AGGR</Point>
+      <Point>DASSA</Point>
+      <Point>RIPNA</Point>
+      <Point>ERVOS</Point>
+      <Point>SCRUZ</Point>
+      <Point>AGGS</Point>
+      <Point>DALTA</Point>
+      <Point>APEXI</Point>
+      <Point>TAVIN</Point>
+      <Point>ADNUG</Point>
+      <Point>NINOD</Point>
+      <Point>EGITI</Point>
+      <Point>KAKSI</Point>
+      <Point>MAGPO</Point>
+      <Point>IGBED</Point>
+      <Point>AGOXI</Point>
+      <Point>TEMAT</Point>
+      <Point>IPMOP</Point>
+      <Point>AVBAP</Point>
+      <Point>GUREB</Point>
+      <Point>IDVUM</Point>
+    </Label>
+  </Map>
+</Maps>

@@ -101,6 +101,7 @@
       <Point>FNHSC</Point>
       <Point>FNHSF</Point>
       <Point>FNHSI</Point>
+	  <Point>AGAT</Point>
       <Point>GATNA</Point>
       <Point>GATNC</Point>
       <Point>GATNF</Point>
@@ -137,6 +138,7 @@
       <Point>GGFNI</Point>
       <Point>GGKNA</Point>
       <Point>GGKNC</Point>
+	  <Point>GGKNH</Point>
       <Point>GGKNF</Point>
       <Point>GGKNI</Point>
       <Point>GGRWB</Point>
@@ -526,6 +528,42 @@
 	  <Point>YTESI</Point>
 	  <Point>YTESF</Point>
 	  <Point>YTESZ</Point>
+	  <Point>APEXI</Point>
+	  <Point>KOPAU</Point>
+	  <Point>GH401</Point>
+	  <Point>GH536</Point>
+	  <Point>DABIM</Point>
+	  <Point>EKOBU</Point>
+	  <Point>GOSNA</Point>
+	  <Point>GH549</Point>
+	  <Point>LAKAS</Point>
+	  <Point>MUNOS</Point>
+	  <Point>KILAM</Point>
+	  <Point>GM868</Point>
+	  <Point>LAVEM</Point>
+	  <Point>KAKUS</Point>
+	  <Point>GOMEN</Point>
+	  <Point>GM823</Point>
+	  <Point>GUSAK</Point>
+	  <Point>DAKSI</Point>
+	  <Point>ELMOR</Point>
+	  <Point>GN556</Point>
+	  <Point>REPOK</Point>
+	  <Point>SASEK</Point>
+	  <Point>RIGMA</Point>
+	  <Point>GN813</Point>
+	  <Point>BIPOK</Point>
+	  <Point>TORAK</Point>
+	  <Point>GUMIX</Point>
+	  <Point>GS890</Point>
+	  <Point>EKOSA</Point>
+	  <Point>KASTO</Point>
+	  <Point>ABASI</Point>
+	  <Point>GA488</Point>
+	  <Point>ANUTO</Point>
+	  <Point>DADUM</Point>
+	  <Point>SUSEK</Point>
+	  <Point>GL850</Point>
     </Label>
     <Symbol Type="MalteseCross">
       <Point>FNNSF</Point>
@@ -655,6 +693,15 @@
 	  <Point>YKWSF</Point>
 	  <Point>YKONF</Point>
 	  <Point>YTESF</Point>
+	  <Point>GH549</Point>
+	  <Point>GH536</Point>
+	  <Point>GM868</Point>
+	  <Point>GM823</Point>
+	  <Point>GN813</Point>
+	  <Point>GN556</Point>
+	  <Point>GS890</Point>
+	  <Point>GA488</Point>
+	  <Point>GL850</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>FNNSI</Point>
@@ -789,6 +836,8 @@
 	  <Point>YKONI</Point>
 	  <Point>YTESI</Point>
 	  <Point>YTESZ</Point>
+	  <Point>GH401</Point>
+	  <Point>KILAM</Point>
     </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>YGNWD</Point>
@@ -1055,6 +1104,32 @@
 	  <Point>UPDEL</Point>
 	  <Point>YTESB</Point>
 	  <Point>YTESC</Point>
+	  <Point>APEXI</Point>
+	  <Point>KOPAU</Point>
+	  <Point>DABIM</Point>
+	  <Point>GOSNA</Point>
+	  <Point>EKOBU</Point>
+	  <Point>LAKAS</Point>
+	  <Point>MUNOS</Point>
+	  <Point>LAVEM</Point>
+	  <Point>GOMEN</Point>
+	  <Point>KAKUS</Point>
+	  <Point>GUSAK</Point>
+	  <Point>DAKSI</Point>
+	  <Point>ELMOR</Point>
+	  <Point>REPOK</Point>
+	  <Point>RIGMA</Point>
+	  <Point>SASEK</Point>
+	  <Point>TORAK</Point>
+	  <Point>BIPOK</Point>
+	  <Point>GUMIX</Point>
+	  <Point>ABASI</Point>
+	  <Point>KASTO</Point>
+	  <Point>EKOSA</Point>
+	  <Point>AGAT</Point>
+	  <Point>SUSEK</Point>
+	  <Point>DADUM</Point>
+	  <Point>ANUTO</Point>
     </Symbol>
     <Line>DGOWA/DGOWI</Line>
     <Line>DGOWB/DGOWI</Line>
@@ -1071,8 +1146,7 @@
     <Line>FNHSC/FNHSI</Line>
     <Line>FNHSI/FNHSF</Line>
     <Line>FNHSM/FNHSF</Line>
-    <Line>GATNA/GATNI</Line>
-    <Line>GATNC/GATNI</Line>
+    <Line>AGAT/GATNA/GATNC/GATNI</Line>
     <Line>GATNI/GATNF</Line>
     <Line>GATNM/GATNF</Line>
     <Line>GBESB/GBESI</Line>
@@ -1106,7 +1180,7 @@
     <Line>GGFNI/GGFNF</Line>
     <Line>GGFNM/GGFNF</Line>
     <Line>GGKNA/GGKNI</Line>
-    <Line>GGKNC/GGKNI</Line>
+    <Line>GGKNH/GGKNC/GGKNI</Line>
     <Line>GGKNI/GGKNF</Line>
     <Line>GGKNM/GGKNF</Line>
     <Line>GGRWB/GGRWI</Line>
@@ -1330,7 +1404,6 @@
     <Line>IWL30/FWL30/-204642.290+1671436.211</Line>
     <Line>ONULU/WL700/IWL30</Line>
     <Line>WL700/IWL30</Line>
-
 	<Line>KADNA/OVNAK</Line>
 	<Line>IDBUX/OVNAK</Line>
 	<Line>OVNAK/YN903/-003311.048+1665532.459</Line>
@@ -1488,5 +1561,32 @@
 	<Line>YTESB/YTESI</Line>
 	<Line>YTESC/YTESI</Line>
 	<Line>YTESI/YTESF/YTESZ/YTESM</Line>
+	<Line>DABIM/GOSNA</Line>
+	<Line>EKOBU/GOSNA</Line>
+	<Line>GOSNA/GH549/-092528.268+1600349.529</Line>
+	<Line>APEXI/GH401</Line>
+	<Line>KOPAU/GH401</Line>
+	<Line>GH401/GH536/-092555.060+1600242.659</Line>
+	<Line>LAVEM/GOMEN</Line>
+	<Line>KAKUS/GOMEN</Line>
+	<Line>GOMEN/GM823/-081913.200+1571752.100</Line>
+	<Line>LAKAS/KILAM</Line>
+	<Line>MUNOS/KILAM</Line>
+	<Line>KILAM/GM868/-081959.000+1571352.200</Line>
+	<Line>GUSAK/DAKSI</Line>
+	<Line>ELMOR/DAKSI</Line>
+	<Line>DAKSI/GN556/-080542.421+1565143.351</Line>
+	<Line>SASEK/RIGMA</Line>
+	<Line>REPOK/RIGMA</Line>
+	<Line>RIGMA/GN813/-080606.721+1565158.360</Line>
+	<Line>BIPOK/TORAK</Line>
+	<Line>GUMIX/TORAK</Line>
+	<Line>TORAK/GS890/GS868</Line>
+	<Line>ABASI/KASTO</Line>
+	<Line>EKOSA/KASTO</Line>
+	<Line>KASTO/GA488/GA458</Line>
+	<Line>SUSEK/DADUM</Line>
+	<Line>ANUTO/DADUM</Line>
+	<Line>DADUM/GL850/GL742</Line>
   </Map>
 </Maps>
