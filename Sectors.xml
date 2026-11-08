@@ -84,6 +84,11 @@
     <Volumes>NWWMTWR</Volumes>
   </Sector>
   
+  <!-- Solomon Islands -->
+  <Sector FullName="Honiara Radio" Frequency="124.625" Callsign="AGGG_FSS" Name="AGGG FIS">
+	<Volumes>AGGG</Volumes>
+  </Sector>
+  
   <!-- Vanuatu -->
   <Sector FullName="Vila Tower (TCU)" Frequency="120.700" Callsign="NVVV_APP" Name="NVVVA">
     <Volumes>NVVVA</Volumes>
