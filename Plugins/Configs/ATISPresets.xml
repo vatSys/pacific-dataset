@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ATIS Editor presets. Install to: Profiles\<Profile>\Plugins\Configs\ATISPresets.xml
+
+  <Mode>     A runway mode. Selecting it in the MODE dropdown sets each listed field.
+             An empty <Field /> clears that field. Fields not listed are left alone.
+             The MODE row is hidden for airports with no modes.
+  Mode attributes used to pick the best mode when an ATIS is first created, and to order the MODE list:
+    Priority="1"            SOP preference, 1 first. Unranked modes come after ranked ones.
+    MinCeiling, MinVisibility  lowest BKN/OVC cloud base (ft) and visibility (m) the mode needs.
+                            METAR steps mean "above 3000FT" is 3100 and "above 5000M" is 6000.
+    DryOnly="true"          not used on a wet runway (SFC COND set, or precipitation in the METAR).
+    MaxTailwind="10" MaxTailwindWet="5"  tailwind (kt) allowed on a dry and a wet runway, instead of 5 and none.
+    PreferredBelowCeiling, PreferredBelowVisibility  cloud base (ft) or visibility (m) below which the mode is
+                            preferred over its priority, like a mode within its Hours (e.g. RRO in low cloud).
+    AutoSelect="false"      never picked automatically.
+    Hours="2300-0600"       local hours the mode is for (curfew, RRO), using TimeZone on <Airport>. Within them
+                            it's preferred over other modes; outside them it's never picked automatically.
+                            When the hours start or end, the best mode is suggested (popup, sound and MODE
+                            highlighted) if that changes to or from a timed mode, and saved or cancelled as usual.
+    DaylightSaving="true"   limits the mode to daylight saving time ("false": standard time), e.g. AEDT/AEST wording.
+                            Outside that season it isn't listed (unless it's the selected mode).
+    Runways="10L,10R|28L,28R"  runways to check against the wind when the RWY text names both ends.
+  A mode is usable with up to 20KT crosswind and 5KT tailwind (none when wet, or as MaxTailwind says) on each of
+  its runways.
+
+  TimeZone="AUS Eastern Standard Time" on <Airport> is the Windows time zone for Hours.
+
+  <Presets>  Options shown on a field's arrow button. With a mode selected, only that mode's value and
+             presets for that mode (Modes="A,B") or for all modes (no Modes attribute) are shown.
+             Multiple="true" toggles each preset in or out of the field instead of replacing it.
+             DaylightSaving="true" (or "false") offers them only in daylight saving (or standard) time, using
+             TimeZone on <Airport>, e.g. for times given in UTC.
+
+  Template presets contain blanks in square brackets, filled in when selected:
+    [ACFT TYPE]                        free text
+    [INTENSITY:LIGHT/MODERATE/STRONG]  a choice, labelled INTENSITY
+    [RWY], [OTHER RWY]                 the airport's runways (any blank whose name contains RWY)
+    [MODE]                             the airport's runway modes, best first, then each single runway; filled
+                                       with that mode's RWY wording (e.g. "RWY 34L AND R FOR ARRS AND DEPS")
+    [TIME]                             free text, starts as the current UTC time
+    [TIME+15]                          free text, starts 15 minutes from now (any number of minutes); shown
+                                       as [TIME]
+
+  <Default Name="ACFT TYPE">...</Default> on <Airport> gives the starting value for a blank of that name.
+
+  <AutoAdd Field="SIGWX" Runways="34R" Modes="A,B" Wind="020-070" AboveSpeed="14">TEXT</AutoAdd> on <Airport>
+             adds TEXT to the field while every given condition is met, and removes it once one isn't:
+             Runways all in RWY, one of Modes selected, any of the WIND direction range within Wind (magnetic,
+             clockwise, inclusive), the mean speed above AboveSpeed, and the worst case crosswind above
+             AboveCrosswind (on the Runways given, otherwise on any runway in RWY). Checked when WIND, RWY or
+             MODE changes.
+
+  Airport="YPPH" AirportField="RWY" Contains="03" on <AutoAdd> or <Mode> depends on another airport's ATIS:
+             met while that airport's AirportField has Contains in it, as whole words ("03" isn't found in "1030";
+             alternatives separated by |). The other ATIS is read from this plugin when the controller holds it,
+             otherwise from ozserver (live network only), and checked every minute. A change is suggested (amber,
+             with the reason when the field name is pointed at), never made by itself.
+             While the other ATIS isn't known (offline, older than 3 hours, a Zulu, or off the live network and
+             not held here), an AutoAdd is left as it is, and a Mode goes by its Hours alone (without Hours, it's
+             out of period). With Hours as well, a Mode is in period only within them and while the other ATIS
+             matches.
+             A Mode the other ATIS rules out isn't offered in the MODE list (unless it's the selected mode, when
+             leaving it is suggested); with no ATIS known for that airport it can still be picked.
+
+  APCH options EXP INST APCH, EXP ILS APCH, EXP GLS APCH and EXP RNP APCH are built in for airports that don't
+  list any APCH values (as presets or in a mode), and a blank APCH is offered everywhere. With no runway mode
+  selected, RWY also offers each runway.
+
+  ReportCrosswindFrom="5" on <Airport> adds MX XW to WIND from 5KT crosswind (default: above 10KT).
+
+  ICAO="YMML,YPAD" on <Airport> applies the entry to several airports, combined with each one's own entry.
+
+  SFC COND options (blank, DRY, DAMP, WET, STANDING WATER, SNOW) are built in and don't need to be listed here.
+  A blank option is always listed first in any field that has one.
+  SFC COND is raised from WX precipitation; once it stops, DRY is suggested after 30 min (DAMP), 1 hour (WET,
+  STANDING WATER) or 2 hours (SNOW), goes out on one ATIS, then clears. Windshear in SIGWX (ending
+  "AT TIME hhmm") is suggested for removal an hour after the reported time.
+
+  SingleRunwayFormat="..." on <Airport> adds a "RWY xx" mode for every runway at the airport (from the
+  vatSys airport data). It sets RWY to the given text with {RWY} replaced by the runway number.
+  Airports with modes get these anyway, setting RWY to just the runway, ranked after the listed modes.
+  A <Mode> with the same name (e.g. "RWY 07") takes precedence.
+
+  VisualCeiling="3100" on <Airport> is the lowest cloud base (ft) for visual approaches (default 3000). With APCH
+  empty, APCH gets an orange frame when an arrival runway is in use and the cloud base is below it or the
+  visibility is 5000M or less, however many arrival runways there are. Arrival runways are those in RWY clauses
+  mentioning ARR or ARRS, or every runway in RWY when none does.
+
+  Field names must match the Input names in the profile's ATIS.xml (APCH, RWY, SFC COND, OPR INFO, SIGWX).
+  RWY values leave out the leading "RWY" because the field name is already spoken.
+
+  Wording from the VATPAC ATC SOPs (github.com/vatpac-technology/sops).
+-->
+<ATISPresets>
+
+  <!-- Pacific runway modes from the VATPAC Pacific SOPs. The SOPs give no RWY wording, so it follows the Australian
+       format. Visual approaches are stated in APCH (EXP VISUAL APCH) rather than left blank. -->
+
+  <Airport ICAO="NFFN">
+    <!-- Reciprocal runway operations are strongly preferred, and used unless the tailwind in either direction
+         exceeds 10KT. By night, RWY 27 isn't used for arrivals or RWY 09 for departures, and RWY 20 only for the
+         RNP AR approach: the plugin doesn't know day from night, so pick the night variants by hand. -->
+    <Mode Name="02A/20D" Priority="1" MaxTailwind="10" MaxTailwindWet="5">
+      <Field Name="RWY">02 FOR ARR. RWY 20 FOR DEP</Field>
+    </Mode>
+    <Mode Name="02A/20D27(A)D" Priority="1" MaxTailwind="10" MaxTailwindWet="5">
+      <Field Name="RWY">02 AND RWY 27 FOR ARR. RWY 20 AND RWY 27 FOR DEP</Field>
+    </Mode>
+    <Mode Name="02A09A(D)/20D" Priority="1" MaxTailwind="10" MaxTailwindWet="5">
+      <Field Name="RWY">02 AND RWY 09 FOR ARR. RWY 20 AND RWY 09 FOR DEP</Field>
+    </Mode>
+    <Mode Name="02AD" Priority="2">
+      <Field Name="RWY">02</Field>
+    </Mode>
+    <Mode Name="20AD" Priority="3">
+      <Field Name="RWY">20</Field>
+    </Mode>
+    <Presets Field="APCH">
+      <Preset>EXP VISUAL APCH</Preset>
+      <Preset>EXP INST APCH</Preset>
+      <Preset>EXP ILS APCH</Preset>
+      <Preset>EXP RNP APCH</Preset>
+    </Presets>
+  </Airport>
+
+  <Airport ICAO="NFNA">
+    <Presets Field="APCH">
+      <Preset>EXP VISUAL APCH</Preset>
+      <Preset>EXP INST APCH</Preset>
+    </Presets>
+  </Airport>
+
+  <Airport ICAO="NWWW">
+    <!-- RRO is preferred. Otherwise RWY 11, unless the tailwind is above 10KT (5KT when wet), then RWY 29. -->
+    <Mode Name="29D11A" Priority="1" MaxTailwind="10" MaxTailwindWet="5">
+      <Field Name="RWY">11 FOR ARR. RWY 29 FOR DEP</Field>
+    </Mode>
+    <Mode Name="11AD" Priority="2" MaxTailwind="10" MaxTailwindWet="5">
+      <Field Name="RWY">11</Field>
+    </Mode>
+    <Mode Name="29AD" Priority="3">
+      <Field Name="RWY">29</Field>
+    </Mode>
+    <!-- With RWY 11 for arrivals and the cloud base above A030 but below A060, APCH also has the ALPHA STAR line. -->
+    <Presets Field="APCH">
+      <Preset>EXP VISUAL APCH</Preset>
+      <Preset>EXP ILS APCH</Preset>
+      <Preset>ACFT ON THE ALPHA STAR EXP ILS APCH</Preset>
+      <Preset>EXP INST APCH</Preset>
+    </Presets>
+  </Airport>
+
+  <Airport ICAO="NWWM">
+    <!-- RRO is preferred. Otherwise RWY 35, unless the tailwind is above 10KT (5KT when wet), then RWY 17. -->
+    <Mode Name="17D35A" Priority="1" MaxTailwind="10" MaxTailwindWet="5">
+      <Field Name="RWY">35 FOR ARR. RWY 17 FOR DEP</Field>
+    </Mode>
+    <Mode Name="35AD" Priority="2" MaxTailwind="10" MaxTailwindWet="5">
+      <Field Name="RWY">35</Field>
+    </Mode>
+    <Mode Name="17AD" Priority="3">
+      <Field Name="RWY">17</Field>
+    </Mode>
+    <Presets Field="APCH">
+      <Preset>EXP VISUAL APCH</Preset>
+      <Preset>EXP INST APCH</Preset>
+    </Presets>
+  </Airport>
+
+  <Airport ICAO="AYPY">
+    <!-- RWY 14L when the wind favours it, or with a tailwind below 5KT by day, in VMC, on a dry runway; otherwise
+         RWY 32R. The plugin doesn't know day from night or check VMC for the tailwind case, so check those by hand.
+         Parallel runway operations aren't authorised, and RWY 14R/32L is unlit and limited to below 23,000KG. -->
+    <Mode Name="RWY 14L" Priority="1" MaxTailwind="4">
+      <Field Name="RWY">14L</Field>
+    </Mode>
+    <Mode Name="RWY 32R" Priority="2">
+      <Field Name="RWY">32R</Field>
+    </Mode>
+    <Presets Field="APCH">
+      <Preset>EXP VISUAL APCH</Preset>
+      <Preset>EXP INST APCH</Preset>
+    </Presets>
+  </Airport>
+
+  <Airport ICAO="AYGA">
+    <!-- The only authorised mode, due to high terrain to the north. The SOP's table gives departures 14R, but its text
+         says RRO on RWY 17R/35L, so departures are 17R. RWY 17L/35R is used only on pilot request. -->
+    <Mode Name="17D/35A" Priority="1">
+      <Field Name="RWY">35L FOR ARR. RWY 17R FOR DEP</Field>
+    </Mode>
+  </Airport>
+
+  <Airport ICAO="NFFN,NFNA,NWWW,NWWM,AYPY,AYNZ,NVVV">
+    <Presets Field="SIGWX" Multiple="true">
+      <Preset>WIND SHEAR WARNING, [ACFT TYPE] REPORTED [INTENSITY:LIGHT/MODERATE/SEVERE] [TYPE:UNDERSHOOT/OVERSHOOT] WINDSHEAR AT [FEET] FT ON FINAL RWY [RWY] AT TIME [TIME]</Preset>
+    </Presets>
+    <Presets Field="OPR INFO" Multiple="true">
+      <Preset>FM TIME [TIME+15], EXP [MODE]</Preset>
+    </Presets>
+  </Airport>
+
+</ATISPresets>
