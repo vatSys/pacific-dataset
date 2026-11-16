@@ -4,6 +4,238 @@
     <Label HasLeader="true">
       <Point>YGNWD</Point>
       <Point>YGNWF</Point>
+      <Point>KALEL</Point>
+      <Point>YJBSA</Point>
+      <Point>YJBSB</Point>
+      <Point>YJBSC</Point>
+      <Point>YJBSF</Point>
+      <Point>YKCND</Point>
+      <Point>YKCNE</Point>
+      <Point>YKCNF</Point>
+      <Point>YKCSA</Point>
+      <Point>YKCSB</Point>
+      <Point>YKCSC</Point>
+      <Point>YKCSF</Point>
+      <Point>YKWND</Point>
+      <Point>YKWNE</Point>
+      <Point>YKWNG</Point>
+      <Point>YKWNF</Point>
+      <Point>YKWSA</Point>
+      <Point>YKWSB</Point>
+      <Point>YKWSC</Point>
+      <Point>YKWSF</Point>
+      <Point>ONULU</Point>
+      <Point>WL600</Point>
+      <Point>IWL12</Point>
+      <Point>FWL12</Point>
+      <Point>WL700</Point>
+      <Point>IWL30</Point>
+      <Point>FWL30</Point>
+      <Point>KADNA</Point>
+      <Point>OVNAK</Point>
+      <Point>IDBUX</Point>
+      <Point>YN903</Point>
+      <Point>AKOMO</Point>
+      <Point>ARIVI</Point>
+      <Point>RURAT</Point>
+      <Point>YN812</Point>
+      <Point>WC111</Point>
+      <Point>IWC10</Point>
+      <Point>FWC10</Point>
+      <Point>WE903</Point>
+      <Point>WE901</Point>
+      <Point>IWE10</Point>
+      <Point>FWE10</Point>
+      <Point>WE904</Point>
+      <Point>IWE28</Point>
+      <Point>FWE28</Point>
+      <Point>WD356</Point>
+      <Point>WD358</Point>
+      <Point>WD354</Point>
+      <Point>IWD27</Point>
+      <Point>FWD27</Point>
+      <Point>WU191</Point>
+      <Point>WU193</Point>
+      <Point>IWU13</Point>
+      <Point>FWU13</Point>
+      <Point>WU190</Point>
+      <Point>WU192</Point>
+      <Point>WU194</Point>
+      <Point>IWU31</Point>
+      <Point>FWU31</Point>
+      <Point>MIDIN</Point>
+      <Point>WR600</Point>
+      <Point>IWR13</Point>
+      <Point>FWR13</Point>
+      <Point>WR700</Point>
+      <Point>IWR31</Point>
+      <Point>FWR31</Point>
+      <Point>WV600</Point>
+      <Point>IWV13</Point>
+      <Point>FWV13</Point>
+      <Point>WV700</Point>
+      <Point>IWV31</Point>
+      <Point>FWV31</Point>
+      <Point>WF416</Point>
+      <Point>IWF07</Point>
+      <Point>WF414</Point>
+      <Point>FWF07</Point>
+      <Point>WF502</Point>
+      <Point>IWF25</Point>
+      <Point>FWF25</Point>
+      <Point>WW512</Point>
+      <Point>IWW08</Point>
+      <Point>WW510</Point>
+      <Point>FWW08</Point>
+      <Point>WW412</Point>
+      <Point>IWW26</Point>
+      <Point>WW410</Point>
+      <Point>FWW26</Point>
+      <Point>MERUM</Point>
+      <Point>SF934</Point>
+      <Point>MATGA</Point>
+      <Point>VF501</Point>
+      <Point>SARAT</Point>
+      <Point>SG934</Point>
+      <Point>MOLSI</Point>
+      <Point>SO956</Point>
+      <Point>SO934</Point>
+      <Point>IBELO</Point>
+      <Point>SA732</Point>
+      <Point>ATGIN</Point>
+      <Point>SP934</Point>
+      <Point>ESBAN</Point>
+      <Point>SS912</Point>
+      <Point>SS934</Point>
+      <Point>SS956</Point>
+      <Point>ARAGI</Point>
+      <Point>BIGIB</Point>
+      <Point>MALOK</Point>
+      <Point>SS443</Point>
+      <Point>SULVA</Point>
+      <Point>SC875</Point>
+      <Point>DUBAD</Point>
+      <Point>PIMAR</Point>
+      <Point>SAMUN</Point>
+      <Point>ESMUL</Point>
+      <Point>NIPIL</Point>
+      <Point>VESAB</Point>
+      <Point>KALSU</Point>
+      <Point>TASOR</Point>
+      <Point>MADIM</Point>
+      <Point>SAMBI</Point>
+      <Point>KAUPA</Point>
+      <Point>TAFAO</Point>
+      <Point>SEMUT</Point>
+      <Point>FU373</Point>
+      <Point>BIKEN</Point>
+      <Point>APATI</Point>
+      <Point>VASAF</Point>
+      <Point>FU377</Point>
+      <Point>TATOK</Point>
+      <Point>ARURA</Point>
+      <Point>OPENI</Point>
+      <Point>TR901</Point>
+      <Point>DAKAL</Point>
+      <Point>NIKUM</Point>
+      <Point>BEKTA</Point>
+      <Point>NU601</Point>
+      <Point>TANIX</Point>
+      <Point>TEMER</Point>
+      <Point>TEBIX</Point>
+      <Point>TE414</Point>
+      <Point>NADAN</Point>
+      <Point>WESLI</Point>
+      <Point>SABBA</Point>
+      <Point>FF09</Point>
+      <Point>DECOR</Point>
+      <Point>EASLI</Point>
+      <Point>MATER</Point>
+      <Point>FF27</Point>
+      <Point>SUMIG</Point>
+      <Point>BEMAM</Point>
+      <Point>KIDIS</Point>
+      <Point>TB901</Point>
+      <Point>AKORA</Point>
+      <Point>ANLIX</Point>
+      <Point>BUTAD</Point>
+      <Point>TU601</Point>
+      <Point>KUHEK</Point>
+      <Point>NOFKE</Point>
+      <Point>OGEVE</Point>
+      <Point>UFUZO</Point>
+      <Point>ZIVZU</Point>
+      <Point>NUGWO</Point>
+      <Point>TOZTU</Point>
+      <Point>IMUFO</Point>
+      <Point>CASWO</Point>
+      <Point>EJOSO</Point>
+      <Point>IMOTY</Point>
+      <Point>BOQHU</Point>
+      <Point>AGOLY</Point>
+      <Point>GOLPE</Point>
+      <Point>WAVKI</Point>
+      <Point>BACAR</Point>
+      <Point>OCANO</Point>
+      <Point>FOMAK</Point>
+      <Point>JODEP</Point>
+      <Point>AYUGO</Point>
+      <Point>CANAY</Point>
+      <Point>KOZRY</Point>
+      <Point>NAIRA</Point>
+      <Point>WRENS</Point>
+      <Point>TEGUA</Point>
+      <Point>BIRUQ</Point>
+      <Point>VIZOR</Point>
+      <Point>HAVNU</Point>
+      <Point>AXTEN</Point>
+      <Point>AFOYU</Point>
+      <Point>OHAFU</Point>
+      <Point>UKOSY</Point>
+      <Point>CAVRI</Point>
+      <Point>COSLO</Point>
+      <Point>FIGBI</Point>
+      <Point>FASPO</Point>
+      <Point>CEYJE</Point>
+      <Point>HOMQY</Point>
+      <Point>UCOLE</Point>
+      <Point>UDEXE</Point>
+      <Point>IGLUN</Point>
+      <Point>LURDU</Point>
+      <Point>NL483</Point>
+      <Point>NODAG</Point>
+      <Point>IGAPA</Point>
+      <Point>VIMIT</Point>
+      <Point>ENTAN</Point>
+      <Point>FRF07</Point>
+      <Point>MUNOS</Point>
+      <Point>KILAM</Point>
+      <Point>LAKAS</Point>
+      <Point>GM868</Point>
+      <Point>LAVEM</Point>
+      <Point>GOMEN</Point>
+      <Point>KAKUS</Point>
+      <Point>GM823</Point>
+      <Point>GUSAK</Point>
+      <Point>DAKSI</Point>
+      <Point>ELMOR</Point>
+      <Point>GN556</Point>
+      <Point>SASEK</Point>
+      <Point>RIGMA</Point>
+      <Point>REPOK</Point>
+      <Point>GN813</Point>
+      <Point>GUMIX</Point>
+      <Point>TORAK</Point>
+      <Point>BIPOK</Point>
+      <Point>GS890</Point>
+      <Point>ABASI</Point>
+      <Point>KASTO</Point>
+      <Point>EKOSA</Point>
+      <Point>GA488</Point>
+      <Point>SUSEK</Point>
+      <Point>DADUM</Point>
+      <Point>ANUTO</Point>
+      <Point>GL850</Point>
       <Point>FNNSD</Point>
       <Point>FNNSE</Point>
       <Point>FNNSG</Point>
@@ -38,12 +270,16 @@
       <Point>YTKWB</Point>
       <Point>YTKSD</Point>
       <Point>YTKSG</Point>
-      <Point>HOBLO</Point>
+      <Point>YGASA</Point>
       <Point>CETMO</Point>
       <Point>FASRU</Point>
       <Point>OBSOE</Point>
       <Point>PAYPO</Point>
-      <Point>ONULU</Point>
+      <Point>APEXI</Point>
+      <Point>KOPAU</Point>
+      <Point>DABIM</Point>
+      <Point>EKOBU</Point>
+      <Point>GOSNA</Point>
       <Point>FNNSF</Point>
       <Point>EKANU</Point>
       <Point>FNAWF</Point>
@@ -60,10 +296,10 @@
       <Point>YNZEF</Point>
       <Point>YTKWF</Point>
       <Point>YTKSF</Point>
+      <Point>YGASF</Point>
       <Point>MAVTE</Point>
       <Point>WADRU</Point>
-      <Point>FWL12</Point>
-      <Point>FWL30</Point>
+      <Point>GH536</Point>
       <Point>FNNSI</Point>
       <Point>DAKMA</Point>
       <Point>FNAWI</Point>
@@ -81,11 +317,11 @@
       <Point>YNZEI</Point>
       <Point>YTKWI</Point>
       <Point>YTKSI</Point>
+      <Point>YGASI</Point>
+      <Point>HOBLO</Point>
       <Point>TONBE</Point>
-      <Point>IWL12</Point>
-      <Point>WL600</Point>
-      <Point>IWL30</Point>
-      <Point>WL700</Point>
+      <Point>GH401</Point>
+      <Point>GH549</Point>
       <Point>DGOWA</Point>
       <Point>DGOWB</Point>
       <Point>DGOWC</Point>
@@ -101,7 +337,6 @@
       <Point>FNHSC</Point>
       <Point>FNHSF</Point>
       <Point>FNHSI</Point>
-	  <Point>AGAT</Point>
       <Point>GATNA</Point>
       <Point>GATNC</Point>
       <Point>GATNF</Point>
@@ -138,7 +373,6 @@
       <Point>GGFNI</Point>
       <Point>GGKNA</Point>
       <Point>GGKNC</Point>
-	  <Point>GGKNH</Point>
       <Point>GGKNF</Point>
       <Point>GGKNI</Point>
       <Point>GGRWB</Point>
@@ -206,6 +440,7 @@
       <Point>YHKWG</Point>
       <Point>YHKWF</Point>
       <Point>YHKWI</Point>
+      <Point>YJBSI</Point>
       <Point>YKAND</Point>
       <Point>YKANE</Point>
       <Point>YKANG</Point>
@@ -216,6 +451,8 @@
       <Point>YKASC</Point>
       <Point>YKASF</Point>
       <Point>YKASI</Point>
+      <Point>YKCNI</Point>
+      <Point>YKCSI</Point>
       <Point>YKIEA</Point>
       <Point>YKIEB</Point>
       <Point>YKIEC</Point>
@@ -235,6 +472,9 @@
       <Point>YKMSG</Point>
       <Point>YKMSF</Point>
       <Point>YKMSI</Point>
+      <Point>YKONA</Point>
+      <Point>YKONF</Point>
+      <Point>YKONI</Point>
       <Point>YKVED</Point>
       <Point>YKVEE</Point>
       <Point>YKVEG</Point>
@@ -245,6 +485,8 @@
       <Point>YKVND</Point>
       <Point>YKVNF</Point>
       <Point>YKVNI</Point>
+      <Point>YKWNI</Point>
+      <Point>YKWSI</Point>
       <Point>YKYEA</Point>
       <Point>YKYEB</Point>
       <Point>YKYEC</Point>
@@ -277,6 +519,10 @@
       <Point>YTBSC</Point>
       <Point>YTBSF</Point>
       <Point>YTBSI</Point>
+      <Point>YTESB</Point>
+      <Point>YTESC</Point>
+      <Point>YTESF</Point>
+      <Point>YTESI</Point>
       <Point>YTUEA</Point>
       <Point>YTUEB</Point>
       <Point>YTUEC</Point>
@@ -295,275 +541,9 @@
       <Point>YWKWF</Point>
       <Point>YWKWI</Point>
       <Point>YXMNA</Point>
-	  <Point>YXMNI</Point>
-	  <Point>ARIVI</Point>
-	  <Point>OVNAK</Point>
-	  <Point>IWE10</Point>
-	  <Point>IWE28</Point>
-	  <Point>IWD27</Point>
-      <Point>WC111</Point>
-      <Point>IWC10</Point>
-      <Point>FWC10</Point>
-	  <Point>IWU13</Point>
-	  <Point>IWU31</Point>
-	  <Point>IWR13</Point>
-	  <Point>IWR31</Point>
-	  <Point>IWV13</Point>
-	  <Point>IWV31</Point>
-	  <Point>IWF07</Point>
-	  <Point>IWF25</Point>
-	  <Point>IWW08</Point>
-	  <Point>IWW26</Point>
-	  <Point>MERUM</Point>
-	  <Point>MATGA</Point>
-	  <Point>SARAT</Point>
-	  <Point>MOLSI</Point>
-	  <Point>IBELO</Point>
-	  <Point>ATGIN</Point>
-	  <Point>SS934</Point>
-	  <Point>BIGIB</Point>
-	  <Point>SULVA</Point>
-	  <Point>KAMTI</Point>
-	  <Point>MEKUL</Point>
-	  <Point>TAFAO</Point>
-	  <Point>ARURA</Point>
-	  <Point>APATI</Point>
-	  <Point>NIKUM</Point>
-	  <Point>TEMER</Point>
-	  <Point>WESLI</Point>
-	  <Point>EASLI</Point>
-	  <Point>BEMAM</Point>
-	  <Point>ANLIX</Point>
-	  <Point>ORION</Point>
-	  <Point>POSUS</Point>
-	  <Point>OGEVE</Point>
-	  <Point>TOZTU</Point>
-	  <Point>EJOSO</Point>
-	  <Point>AGOLY</Point>
-	  <Point>ROYOD</Point>
-	  <Point>JORAM</Point>
-	  <Point>CANAY</Point>
-	  <Point>OCANO</Point>
-	  <Point>OHAFU</Point>
-	  <Point>WULON</Point>
-	  <Point>FIGBI</Point>
-	  <Point>UCOLE</Point>
-	  <Point>KALEL</Point>
-	  <Point>ENTAN</Point>
       <Point>YXMNF</Point>
-	  <Point>YXMNF</Point>
-	  <Point>YN903</Point>
-      <Point>YN812</Point>
-	  <Point>FWE10</Point>
-	  <Point>FWE28</Point>
-	  <Point>FWD27</Point>
-	  <Point>FWU13</Point>
-	  <Point>FWU31</Point>
-	  <Point>FWR13</Point>
-	  <Point>FWR31</Point>
-	  <Point>FWV13</Point>
-	  <Point>FWV31</Point>
-	  <Point>FWF07</Point>
 	  <Point>FWF25</Point>
-	  <Point>FWW08</Point>
-	  <Point>FWW26</Point>
-	  <Point>SF934</Point>
-	  <Point>VF411</Point>
-	  <Point>SG934</Point>
-	  <Point>SO956</Point>
-	  <Point>SA946</Point>
-	  <Point>SP934</Point>
-	  <Point>SS956</Point>
-	  <Point>SS443</Point>
-	  <Point>SC875</Point>
-	  <Point>VW473</Point>
-	  <Point>FU373</Point>
-	  <Point>FU377</Point>
-	  <Point>TR901</Point>
-	  <Point>NU601</Point>
-	  <Point>TE414</Point>
-	  <Point>FF09</Point>
-	  <Point>FF27</Point>
-	  <Point>TB901</Point>
-	  <Point>TU601</Point>
-	  <Point>FF303</Point>
-	  <Point>TP689</Point>
-	  <Point>UFUZO</Point>
-	  <Point>IMUFO</Point>
-	  <Point>GOLPE</Point>
-	  <Point>IMOTY</Point>
-	  <Point>SAYOC</Point>
-	  <Point>JOBET</Point>
-	  <Point>FOMAK</Point>
-	  <Point>KOZRY</Point>
-	  <Point>UKOSY</Point>
-	  <Point>VIZOR</Point>
-	  <Point>UDEXE</Point>
-	  <Point>FASPO</Point>
-	  <Point>NL483</Point>
-	  <Point>FRF07</Point>
       <Point>YXMNI</Point>
-	  <Point>YXMNA</Point>
-	  <Point>KADNA</Point>
-      <Point>IDBUX</Point>
-      <Point>AKOMO</Point>
-      <Point>RURAT</Point>
-      <Point>WE903</Point>
-      <Point>WE901</Point>
-	  <Point>WE904</Point>
-	  <Point>WD356</Point>
-	  <Point>WD358</Point>
-	  <Point>WD354</Point>
-	  <Point>WU190</Point>
-	  <Point>WU191</Point>
-	  <Point>WU192</Point>
-      <Point>WU193</Point>
-	  <Point>WU194</Point>
-	  <Point>MIDIN</Point>
-	  <Point>WR600</Point>
-	  <Point>WR700</Point>
-	  <Point>WV600</Point>
-	  <Point>WV700</Point>
-	  <Point>WF502</Point>
-	  <Point>WF504</Point>
-	  <Point>WF414</Point>
-	  <Point>WF416</Point>
-	  <Point>WW510</Point>
-	  <Point>WW512</Point>
-	  <Point>WW410</Point>
-	  <Point>WW412</Point>
-	  <Point>ESBAN</Point>
-	  <Point>SS912</Point>
-	  <Point>MALOK</Point>
-	  <Point>ARAGI</Point>
-	  <Point>TOKAS</Point>
-	  <Point>DUKON</Point>
-	  <Point>LENKU</Point>
-	  <Point>IKETI</Point>
-	  <Point>TASUL</Point>
-	  <Point>SEMUT</Point>
-	  <Point>KAUPA</Point>
-	  <Point>BIKEN</Point>
-	  <Point>VASAF</Point>
-	  <Point>OPENI</Point>
-	  <Point>TATOK</Point>
-	  <Point>DAKAL</Point>
-	  <Point>BEKTA</Point>
-	  <Point>TEBIX</Point>
-	  <Point>TANIX</Point>
-	  <Point>NADAN</Point>
-	  <Point>SABBA</Point>
-	  <Point>MATER</Point>
-	  <Point>DECOR</Point>
-	  <Point>SUMIG</Point>
-	  <Point>KIDIS</Point>
-	  <Point>AKORA</Point>
-	  <Point>BUTAD</Point>
-	  <Point>ARIES</Point>
-	  <Point>VIRGO</Point>
-	  <Point>SUNBA</Point>
-	  <Point>GUVOS</Point>
-	  <Point>NOFKE</Point>
-	  <Point>KUHEK</Point>
-	  <Point>ZIVZU</Point>
-	  <Point>NUGWO</Point>
-	  <Point>ZAPUM</Point>
-	  <Point>BOQHU</Point>
-	  <Point>CASWO</Point>
-	  <Point>WAVUR</Point>
-	  <Point>VAYUD</Point>
-	  <Point>JODEP</Point>
-	  <Point>AYUGO</Point>
-	  <Point>WAVKI</Point>
-	  <Point>BACAR</Point>
-	  <Point>HAVNU</Point>
-	  <Point>AXTEN</Point>
-	  <Point>AFOYU</Point>
-	  <Point>ADUFO</Point>
-	  <Point>BIRUQ</Point>
-	  <Point>CEYJE</Point>
-	  <Point>HOMQY</Point>
-	  <Point>CAVRI</Point>
-	  <Point>COSLO</Point>
-	  <Point>LURDU</Point>
-	  <Point>IGLUN</Point>
-	  <Point>NODAG</Point>
-	  <Point>VIMIT</Point>
-	  <Point>YGASA</Point>
-	  <Point>YGASI</Point>
-	  <Point>YGASF</Point>
-	  <Point>YGASG</Point>
-	  <Point>YGASY</Point>
-	  <Point>YGASZ</Point>
-	  <Point>YJBSA</Point>
-	  <Point>YJBSB</Point>
-	  <Point>YJBSC</Point>
-	  <Point>YJBSI</Point>
-	  <Point>YJBSF</Point>
-	  <Point>YKCSA</Point>
-	  <Point>YKCSB</Point>
-	  <Point>YKCSC</Point>
-	  <Point>YKCSI</Point>
-	  <Point>YKCSF</Point>
-	  <Point>YKCND</Point>
-	  <Point>YKCNE</Point>
-	  <Point>YKCNI</Point>
-	  <Point>YKCNF</Point>
-	  <Point>YKWND</Point>
-	  <Point>YKWNE</Point>
-	  <Point>YKWNG</Point>
-	  <Point>YKWNI</Point>
-	  <Point>YKWNF</Point>
-	  <Point>YKWSA</Point>
-	  <Point>YKWSB</Point>
-	  <Point>YKWSC</Point>
-	  <Point>YKWSI</Point>
-	  <Point>YKWSF</Point>
-	  <Point>UPDEL</Point>
-	  <Point>YKONA</Point>
-	  <Point>YKONI</Point>
-	  <Point>YKONF</Point>
-	  <Point>YTESB</Point>
-	  <Point>YTESC</Point>
-	  <Point>YTESI</Point>
-	  <Point>YTESF</Point>
-	  <Point>YTESZ</Point>
-	  <Point>APEXI</Point>
-	  <Point>KOPAU</Point>
-	  <Point>GH401</Point>
-	  <Point>GH536</Point>
-	  <Point>DABIM</Point>
-	  <Point>EKOBU</Point>
-	  <Point>GOSNA</Point>
-	  <Point>GH549</Point>
-	  <Point>LAKAS</Point>
-	  <Point>MUNOS</Point>
-	  <Point>KILAM</Point>
-	  <Point>GM868</Point>
-	  <Point>LAVEM</Point>
-	  <Point>KAKUS</Point>
-	  <Point>GOMEN</Point>
-	  <Point>GM823</Point>
-	  <Point>GUSAK</Point>
-	  <Point>DAKSI</Point>
-	  <Point>ELMOR</Point>
-	  <Point>GN556</Point>
-	  <Point>REPOK</Point>
-	  <Point>SASEK</Point>
-	  <Point>RIGMA</Point>
-	  <Point>GN813</Point>
-	  <Point>BIPOK</Point>
-	  <Point>TORAK</Point>
-	  <Point>GUMIX</Point>
-	  <Point>GS890</Point>
-	  <Point>EKOSA</Point>
-	  <Point>KASTO</Point>
-	  <Point>ABASI</Point>
-	  <Point>GA488</Point>
-	  <Point>ANUTO</Point>
-	  <Point>DADUM</Point>
-	  <Point>SUSEK</Point>
-	  <Point>GL850</Point>
     </Label>
     <Symbol Type="MalteseCross">
       <Point>FNNSF</Point>
@@ -582,10 +562,10 @@
       <Point>YNZEF</Point>
       <Point>YTKWF</Point>
       <Point>YTKSF</Point>
+      <Point>YGASF</Point>
       <Point>MAVTE</Point>
       <Point>WADRU</Point>
-      <Point>FWL12</Point>
-      <Point>FWL30</Point>
+      <Point>GH536</Point>
       <Point>DGOWF</Point>
       <Point>FNHNF</Point>
       <Point>FNHSF</Point>
@@ -613,14 +593,20 @@
       <Point>YGRSF</Point>
       <Point>YHKEF</Point>
       <Point>YHKWF</Point>
+      <Point>YJBSF</Point>
       <Point>YKANF</Point>
       <Point>YKASF</Point>
+      <Point>YKCNF</Point>
+      <Point>YKCSF</Point>
       <Point>YKIEF</Point>
       <Point>YKKWF</Point>
       <Point>YKMNF</Point>
       <Point>YKMSF</Point>
+      <Point>YKONF</Point>
       <Point>YKVEF</Point>
       <Point>YKVNF</Point>
+      <Point>YKWNF</Point>
+      <Point>YKWSF</Point>
       <Point>YKYEF</Point>
       <Point>YKYWF</Point>
       <Point>YMNSF</Point>
@@ -628,80 +614,69 @@
       <Point>YMSWF</Point>
       <Point>YTASF</Point>
       <Point>YTBSF</Point>
+      <Point>YTESF</Point>
       <Point>YTUEF</Point>
       <Point>YTUWF</Point>
       <Point>YWKEF</Point>
       <Point>YWKWF</Point>
       <Point>YXMNF</Point>
-	  <Point>YN903</Point>
+      <Point>NL483</Point>
+      <Point>FWL12</Point>
+      <Point>FWL30</Point>
+      <Point>YN903</Point>
       <Point>YN812</Point>
       <Point>FWC10</Point>
-	  <Point>FWE10</Point>
-	  <Point>FWE28</Point>
-	  <Point>FWD27</Point>
-	  <Point>FWU13</Point>
-	  <Point>FWU31</Point>
-	  <Point>FWR13</Point>
-	  <Point>FWR31</Point>
-	  <Point>FWV13</Point>
-	  <Point>FWV31</Point>
-	  <Point>FWF07</Point>
-	  <Point>FWF25</Point>
-	  <Point>FWW08</Point>
-	  <Point>FWW26</Point>
-	  <Point>SF934</Point>
-	  <Point>VF411</Point>
-	  <Point>SG934</Point>
-	  <Point>SO956</Point>
-	  <Point>SA946</Point>
-	  <Point>SP934</Point>
-	  <Point>SS956</Point>
-	  <Point>SS443</Point>
-	  <Point>SC875</Point>
-	  <Point>VW473</Point>
-	  <Point>FU373</Point>
-	  <Point>FU377</Point>
-	  <Point>TR901</Point>
-	  <Point>NU601</Point>
-	  <Point>TE414</Point>
-	  <Point>FF09</Point>
-	  <Point>FF27</Point>
-	  <Point>TB901</Point>
-	  <Point>TU601</Point>
-	  <Point>FF303</Point>
-	  <Point>TP689</Point>
-	  <Point>UFUZO</Point>
-	  <Point>IMUFO</Point>
-	  <Point>GOLPE</Point>
-	  <Point>IMOTY</Point>
-	  <Point>SAYOC</Point>
-	  <Point>JOBET</Point>
-	  <Point>FOMAK</Point>
-	  <Point>KOZRY</Point>
-	  <Point>UKOSY</Point>
-	  <Point>VIZOR</Point>
-	  <Point>UDEXE</Point>
-	  <Point>FASPO</Point>
-	  <Point>NL483</Point>
-	  <Point>FRF07</Point>
-	  <Point>YGASY</Point>
-	  <Point>YGASZ</Point>
-	  <Point>YJBSF</Point>
-	  <Point>YKCSF</Point>
-	  <Point>YKCNF</Point>
-	  <Point>YKWNF</Point>
-	  <Point>YKWSF</Point>
-	  <Point>YKONF</Point>
-	  <Point>YTESF</Point>
-	  <Point>GH549</Point>
-	  <Point>GH536</Point>
-	  <Point>GM868</Point>
-	  <Point>GM823</Point>
-	  <Point>GN813</Point>
-	  <Point>GN556</Point>
-	  <Point>GS890</Point>
-	  <Point>GA488</Point>
-	  <Point>GL850</Point>
+      <Point>FWE10</Point>
+      <Point>FWE28</Point>
+      <Point>FWD27</Point>
+      <Point>FWU13</Point>
+      <Point>FWU31</Point>
+      <Point>FWR13</Point>
+      <Point>FWR31</Point>
+      <Point>FWV13</Point>
+      <Point>FWV31</Point>
+      <Point>FWF07</Point>
+      <Point>FWF25</Point>
+      <Point>FWW08</Point>
+      <Point>FWW26</Point>
+      <Point>SF934</Point>
+      <Point>VF501</Point>
+      <Point>SG934</Point>
+      <Point>SO934</Point>
+      <Point>SA732</Point>
+      <Point>SP934</Point>
+      <Point>SS956</Point>
+      <Point>SS443</Point>
+      <Point>SC875</Point>
+      <Point>NIPIL</Point>
+      <Point>SAMBI</Point>
+      <Point>FU373</Point>
+      <Point>FU377</Point>
+      <Point>TR901</Point>
+      <Point>NU601</Point>
+      <Point>TE414</Point>
+      <Point>FF09</Point>
+      <Point>FF27</Point>
+      <Point>TB901</Point>
+      <Point>TU601</Point>
+      <Point>UFUZO</Point>
+      <Point>IMUFO</Point>
+      <Point>IMOTY</Point>
+      <Point>GOLPE</Point>
+      <Point>FOMAK</Point>
+      <Point>KOZRY</Point>
+      <Point>VIZOR</Point>
+      <Point>UKOSY</Point>
+      <Point>FASPO</Point>
+      <Point>UDEXE</Point>
+      <Point>FRF07</Point>
+      <Point>GM868</Point>
+      <Point>GM823</Point>
+      <Point>GN556</Point>
+      <Point>GN813</Point>
+      <Point>GS890</Point>
+      <Point>GA488</Point>
+      <Point>GL850</Point>
     </Symbol>
     <Symbol Type="HollowStar">
       <Point>FNNSI</Point>
@@ -721,11 +696,11 @@
       <Point>YNZEI</Point>
       <Point>YTKWI</Point>
       <Point>YTKSI</Point>
+      <Point>YGASI</Point>
+      <Point>HOBLO</Point>
       <Point>TONBE</Point>
-      <Point>IWL12</Point>
-      <Point>WL600</Point>
-      <Point>IWL30</Point>
-      <Point>WL700</Point>
+      <Point>GH401</Point>
+      <Point>GH549</Point>
       <Point>DGOWI</Point>
       <Point>FNHNI</Point>
       <Point>FNHSI</Point>
@@ -753,14 +728,20 @@
       <Point>YGRSI</Point>
       <Point>YHKEI</Point>
       <Point>YHKWI</Point>
+      <Point>YJBSI</Point>
       <Point>YKANI</Point>
       <Point>YKASI</Point>
+      <Point>YKCNI</Point>
+      <Point>YKCSI</Point>
       <Point>YKIEI</Point>
       <Point>YKKWI</Point>
       <Point>YKMNI</Point>
       <Point>YKMSI</Point>
+      <Point>YKONI</Point>
       <Point>YKVEI</Point>
       <Point>YKVNI</Point>
+      <Point>YKWNI</Point>
+      <Point>YKWSI</Point>
       <Point>YKYEI</Point>
       <Point>YKYWI</Point>
       <Point>YMNSI</Point>
@@ -768,79 +749,185 @@
       <Point>YMSWI</Point>
       <Point>YTASI</Point>
       <Point>YTBSI</Point>
+      <Point>YTESI</Point>
       <Point>YTUEI</Point>
       <Point>YTUWI</Point>
       <Point>YWKEI</Point>
       <Point>YWKWI</Point>
       <Point>YXMNI</Point>
-	  <Point>ARIVI</Point>
-	  <Point>OVNAK</Point>
-	  <Point>IWE10</Point>
-	  <Point>IWE28</Point>
-	  <Point>IWD27</Point>
       <Point>IWC10</Point>
-	  <Point>IWU13</Point>
-	  <Point>IWU31</Point>
-	  <Point>IWR13</Point>
-	  <Point>IWR31</Point>
-	  <Point>IWV13</Point>
-	  <Point>IWV31</Point>
-	  <Point>IWF07</Point>
-	  <Point>IWF25</Point>
-	  <Point>IWW08</Point>
-	  <Point>IWW26</Point>
-	  <Point>MERUM</Point>
-	  <Point>MATGA</Point>
-	  <Point>SARAT</Point>
-	  <Point>MOLSI</Point>
-	  <Point>IBELO</Point>
-	  <Point>ATGIN</Point>
-	  <Point>SS934</Point>
-	  <Point>BIGIB</Point>
-	  <Point>SULVA</Point>
-	  <Point>KAMTI</Point>
-	  <Point>MEKUL</Point>
-	  <Point>TAFAO</Point>
-	  <Point>ARURA</Point>
-	  <Point>APATI</Point>
-	  <Point>NIKUM</Point>
-	  <Point>TEMER</Point>
-	  <Point>WESLI</Point>
-	  <Point>EASLI</Point>
-	  <Point>BEMAM</Point>
-	  <Point>ANLIX</Point>
-	  <Point>ORION</Point>
-	  <Point>POSUS</Point>
-	  <Point>OGEVE</Point>
-	  <Point>TOZTU</Point>
-	  <Point>EJOSO</Point>
-	  <Point>AGOLY</Point>
-	  <Point>ROYOD</Point>
-	  <Point>JORAM</Point>
-	  <Point>CANAY</Point>
-	  <Point>OCANO</Point>
-	  <Point>OHAFU</Point>
-	  <Point>WULON</Point>
-	  <Point>FIGBI</Point>
-	  <Point>UCOLE</Point>
-	  <Point>KALEL</Point>
-	  <Point>ENTAN</Point>
-	  <Point>YGASI</Point>
-	  <Point>YGASF</Point>
-	  <Point>YGASG</Point>
-	  <Point>YJBSI</Point>
-	  <Point>YKCSI</Point>
-	  <Point>YKCNI</Point>
-	  <Point>YKWNI</Point>
-	  <Point>YKWSI</Point>
-	  <Point>YKONI</Point>
-	  <Point>YTESI</Point>
-	  <Point>YTESZ</Point>
-	  <Point>GH401</Point>
-	  <Point>KILAM</Point>
+      <Point>IWE28</Point>
+      <Point>IWD27</Point>
+      <Point>IWU13</Point>
+      <Point>IWU31</Point>
+      <Point>SO956</Point>
+      <Point>SS934</Point>
+      <Point>ESMUL</Point>
+      <Point>MADIM</Point>
+      <Point>NAIRA</Point>
+      <Point>FIGBI</Point>
+      <Point>UCOLE</Point>
+      <Point>ENTAN</Point>
     </Symbol>
     <Symbol Type="HollowTriangle">
       <Point>YGNWD</Point>
+      <Point>KALEL</Point>
+      <Point>YJBSA</Point>
+      <Point>YJBSB</Point>
+      <Point>YJBSC</Point>
+      <Point>YKCND</Point>
+      <Point>YKCNE</Point>
+      <Point>YKCSA</Point>
+      <Point>YKCSB</Point>
+      <Point>YKCSC</Point>
+      <Point>YKWND</Point>
+      <Point>YKWNE</Point>
+      <Point>YKWNG</Point>
+      <Point>YKWSA</Point>
+      <Point>YKWSB</Point>
+      <Point>YKWSC</Point>
+      <Point>ONULU</Point>
+      <Point>WL600</Point>
+      <Point>IWL12</Point>
+      <Point>WL700</Point>
+      <Point>IWL30</Point>
+      <Point>KADNA</Point>
+      <Point>OVNAK</Point>
+      <Point>IDBUX</Point>
+      <Point>AKOMO</Point>
+      <Point>ARIVI</Point>
+      <Point>RURAT</Point>
+      <Point>WC111</Point>
+      <Point>WE903</Point>
+      <Point>WE901</Point>
+      <Point>IWE10</Point>
+      <Point>WE904</Point>
+      <Point>WD356</Point>
+      <Point>WD358</Point>
+      <Point>WD354</Point>
+      <Point>WU191</Point>
+      <Point>WU193</Point>
+      <Point>WU190</Point>
+      <Point>WU192</Point>
+      <Point>WU194</Point>
+      <Point>MIDIN</Point>
+      <Point>WR600</Point>
+      <Point>IWR13</Point>
+      <Point>WR700</Point>
+      <Point>IWR31</Point>
+      <Point>WV600</Point>
+      <Point>IWV13</Point>
+      <Point>WV700</Point>
+      <Point>IWV31</Point>
+      <Point>WF416</Point>
+      <Point>IWF07</Point>
+      <Point>WF414</Point>
+      <Point>WF502</Point>
+      <Point>IWF25</Point>
+      <Point>WW512</Point>
+      <Point>IWW08</Point>
+      <Point>WW510</Point>
+      <Point>WW412</Point>
+      <Point>IWW26</Point>
+      <Point>WW410</Point>
+      <Point>MERUM</Point>
+      <Point>MATGA</Point>
+      <Point>SARAT</Point>
+      <Point>MOLSI</Point>
+      <Point>IBELO</Point>
+      <Point>ATGIN</Point>
+      <Point>ESBAN</Point>
+      <Point>SS912</Point>
+      <Point>ARAGI</Point>
+      <Point>BIGIB</Point>
+      <Point>MALOK</Point>
+      <Point>SULVA</Point>
+      <Point>DUBAD</Point>
+      <Point>PIMAR</Point>
+      <Point>SAMUN</Point>
+      <Point>VESAB</Point>
+      <Point>KALSU</Point>
+      <Point>TASOR</Point>
+      <Point>KAUPA</Point>
+      <Point>TAFAO</Point>
+      <Point>SEMUT</Point>
+      <Point>BIKEN</Point>
+      <Point>APATI</Point>
+      <Point>VASAF</Point>
+      <Point>TATOK</Point>
+      <Point>ARURA</Point>
+      <Point>OPENI</Point>
+      <Point>DAKAL</Point>
+      <Point>NIKUM</Point>
+      <Point>BEKTA</Point>
+      <Point>TANIX</Point>
+      <Point>TEMER</Point>
+      <Point>TEBIX</Point>
+      <Point>NADAN</Point>
+      <Point>WESLI</Point>
+      <Point>SABBA</Point>
+      <Point>DECOR</Point>
+      <Point>EASLI</Point>
+      <Point>MATER</Point>
+      <Point>SUMIG</Point>
+      <Point>BEMAM</Point>
+      <Point>KIDIS</Point>
+      <Point>AKORA</Point>
+      <Point>ANLIX</Point>
+      <Point>BUTAD</Point>
+      <Point>KUHEK</Point>
+      <Point>NOFKE</Point>
+      <Point>OGEVE</Point>
+      <Point>ZIVZU</Point>
+      <Point>NUGWO</Point>
+      <Point>TOZTU</Point>
+      <Point>CASWO</Point>
+      <Point>EJOSO</Point>
+      <Point>BOQHU</Point>
+      <Point>AGOLY</Point>
+      <Point>WAVKI</Point>
+      <Point>BACAR</Point>
+      <Point>OCANO</Point>
+      <Point>JODEP</Point>
+      <Point>AYUGO</Point>
+      <Point>CANAY</Point>
+      <Point>WRENS</Point>
+      <Point>TEGUA</Point>
+      <Point>BIRUQ</Point>
+      <Point>HAVNU</Point>
+      <Point>AXTEN</Point>
+      <Point>AFOYU</Point>
+      <Point>OHAFU</Point>
+      <Point>CAVRI</Point>
+      <Point>COSLO</Point>
+      <Point>CEYJE</Point>
+      <Point>HOMQY</Point>
+      <Point>IGLUN</Point>
+      <Point>LURDU</Point>
+      <Point>NODAG</Point>
+      <Point>IGAPA</Point>
+      <Point>VIMIT</Point>
+      <Point>MUNOS</Point>
+      <Point>KILAM</Point>
+      <Point>LAKAS</Point>
+      <Point>LAVEM</Point>
+      <Point>GOMEN</Point>
+      <Point>KAKUS</Point>
+      <Point>GUSAK</Point>
+      <Point>DAKSI</Point>
+      <Point>ELMOR</Point>
+      <Point>SASEK</Point>
+      <Point>RIGMA</Point>
+      <Point>REPOK</Point>
+      <Point>GUMIX</Point>
+      <Point>TORAK</Point>
+      <Point>BIPOK</Point>
+      <Point>ABASI</Point>
+      <Point>KASTO</Point>
+      <Point>EKOSA</Point>
+      <Point>SUSEK</Point>
+      <Point>DADUM</Point>
+      <Point>ANUTO</Point>
       <Point>FNNSD</Point>
       <Point>FNNSE</Point>
       <Point>FNNSG</Point>
@@ -875,12 +962,16 @@
       <Point>YTKWB</Point>
       <Point>YTKSD</Point>
       <Point>YTKSG</Point>
-      <Point>HOBLO</Point>
+      <Point>YGASA</Point>
       <Point>CETMO</Point>
       <Point>FASRU</Point>
       <Point>OBSOE</Point>
       <Point>PAYPO</Point>
-      <Point>ONULU</Point>
+      <Point>APEXI</Point>
+      <Point>KOPAU</Point>
+      <Point>DABIM</Point>
+      <Point>EKOBU</Point>
+      <Point>GOSNA</Point>
       <Point>DGOWA</Point>
       <Point>DGOWB</Point>
       <Point>DGOWC</Point>
@@ -963,6 +1054,7 @@
       <Point>YKMSD</Point>
       <Point>YKMSE</Point>
       <Point>YKMSG</Point>
+      <Point>YKONA</Point>
       <Point>YKVED</Point>
       <Point>YKVEE</Point>
       <Point>YKVEG</Point>
@@ -987,6 +1079,8 @@
       <Point>YTASY</Point>
       <Point>YTBSB</Point>
       <Point>YTBSC</Point>
+      <Point>YTESB</Point>
+      <Point>YTESC</Point>
       <Point>YTUEA</Point>
       <Point>YTUEB</Point>
       <Point>YTUEC</Point>
@@ -997,139 +1091,6 @@
       <Point>YWKWE</Point>
       <Point>YWKWG</Point>
       <Point>YXMNA</Point>
-	  <Point>KADNA</Point>
-      <Point>IDBUX</Point>
-      <Point>AKOMO</Point>
-      <Point>RURAT</Point>
-      <Point>WE903</Point>
-      <Point>WE901</Point>
-	  <Point>WE904</Point>
-	  <Point>WD356</Point>
-	  <Point>WD358</Point>
-	  <Point>WD354</Point>
-	  <Point>WU190</Point>
-	  <Point>WU191</Point>
-      <Point>WC111</Point>
-	  <Point>WU192</Point>
-      <Point>WU193</Point>
-	  <Point>WU194</Point>
-	  <Point>MIDIN</Point>
-	  <Point>WR600</Point>
-	  <Point>WR700</Point>
-	  <Point>WV600</Point>
-	  <Point>WV700</Point>
-	  <Point>WF502</Point>
-	  <Point>WF504</Point>
-	  <Point>WF414</Point>
-	  <Point>WF416</Point>
-	  <Point>WW510</Point>
-	  <Point>WW512</Point>
-	  <Point>WW410</Point>
-	  <Point>WW412</Point>
-	  <Point>ESBAN</Point>
-	  <Point>SS912</Point>
-	  <Point>MALOK</Point>
-	  <Point>ARAGI</Point>
-	  <Point>TOKAS</Point>
-	  <Point>DUKON</Point>
-	  <Point>LENKU</Point>
-	  <Point>IKETI</Point>
-	  <Point>TASUL</Point>
-	  <Point>SEMUT</Point>
-	  <Point>KAUPA</Point>
-	  <Point>BIKEN</Point>
-	  <Point>VASAF</Point>
-	  <Point>OPENI</Point>
-	  <Point>TATOK</Point>
-	  <Point>DAKAL</Point>
-	  <Point>BEKTA</Point>
-	  <Point>TEBIX</Point>
-	  <Point>TANIX</Point>
-	  <Point>NADAN</Point>
-	  <Point>SABBA</Point>
-	  <Point>MATER</Point>
-	  <Point>DECOR</Point>
-	  <Point>SUMIG</Point>
-	  <Point>KIDIS</Point>
-	  <Point>AKORA</Point>
-	  <Point>BUTAD</Point>
-	  <Point>ARIES</Point>
-	  <Point>VIRGO</Point>
-	  <Point>SUNBA</Point>
-	  <Point>GUVOS</Point>
-	  <Point>NOFKE</Point>
-	  <Point>KUHEK</Point>
-	  <Point>ZIVZU</Point>
-	  <Point>NUGWO</Point>
-	  <Point>ZAPUM</Point>
-	  <Point>BOQHU</Point>
-	  <Point>CASWO</Point>
-	  <Point>WAVUR</Point>
-	  <Point>VAYUD</Point>
-	  <Point>JODEP</Point>
-	  <Point>AYUGO</Point>
-	  <Point>WAVKI</Point>
-	  <Point>BACAR</Point>
-	  <Point>HAVNU</Point>
-	  <Point>AXTEN</Point>
-	  <Point>AFOYU</Point>
-	  <Point>ADUFO</Point>
-	  <Point>BIRUQ</Point>
-	  <Point>CEYJE</Point>
-	  <Point>HOMQY</Point>
-	  <Point>CAVRI</Point>
-	  <Point>COSLO</Point>
-	  <Point>LURDU</Point>
-	  <Point>IGLUN</Point>
-	  <Point>NODAG</Point>
-	  <Point>VIMIT</Point>
-	  <Point>IGAPA</Point>
-	  <Point>YGASA</Point>
-	  <Point>YJBSA</Point>
-	  <Point>YJBSB</Point>
-	  <Point>YJBSC</Point>
-	  <Point>YKCSA</Point>
-	  <Point>YKCSB</Point>
-	  <Point>YKCSC</Point>
-	  <Point>YKCND</Point>
-	  <Point>YKCNE</Point>
-	  <Point>YKWND</Point>
-	  <Point>YKWNE</Point>
-	  <Point>YKWNG</Point>
-	  <Point>YKWSA</Point>
-	  <Point>YKWSB</Point>
-	  <Point>YKWSC</Point>
-	  <Point>YKONA</Point>
-	  <Point>YKONI</Point>
-	  <Point>UPDEL</Point>
-	  <Point>YTESB</Point>
-	  <Point>YTESC</Point>
-	  <Point>APEXI</Point>
-	  <Point>KOPAU</Point>
-	  <Point>DABIM</Point>
-	  <Point>GOSNA</Point>
-	  <Point>EKOBU</Point>
-	  <Point>LAKAS</Point>
-	  <Point>MUNOS</Point>
-	  <Point>LAVEM</Point>
-	  <Point>GOMEN</Point>
-	  <Point>KAKUS</Point>
-	  <Point>GUSAK</Point>
-	  <Point>DAKSI</Point>
-	  <Point>ELMOR</Point>
-	  <Point>REPOK</Point>
-	  <Point>RIGMA</Point>
-	  <Point>SASEK</Point>
-	  <Point>TORAK</Point>
-	  <Point>BIPOK</Point>
-	  <Point>GUMIX</Point>
-	  <Point>ABASI</Point>
-	  <Point>KASTO</Point>
-	  <Point>EKOSA</Point>
-	  <Point>AGAT</Point>
-	  <Point>SUSEK</Point>
-	  <Point>DADUM</Point>
-	  <Point>ANUTO</Point>
     </Symbol>
     <Line>DGOWA/DGOWI</Line>
     <Line>DGOWB/DGOWI</Line>
@@ -1146,7 +1107,8 @@
     <Line>FNHSC/FNHSI</Line>
     <Line>FNHSI/FNHSF</Line>
     <Line>FNHSM/FNHSF</Line>
-    <Line>AGAT/GATNA/GATNC/GATNI</Line>
+    <Line>GATNA/GATNI</Line>
+    <Line>GATNC/GATNI</Line>
     <Line>GATNI/GATNF</Line>
     <Line>GATNM/GATNF</Line>
     <Line>GBESB/GBESI</Line>
@@ -1180,7 +1142,7 @@
     <Line>GGFNI/GGFNF</Line>
     <Line>GGFNM/GGFNF</Line>
     <Line>GGKNA/GGKNI</Line>
-    <Line>GGKNH/GGKNC/GGKNI</Line>
+    <Line>GGKNC/GGKNI</Line>
     <Line>GGKNI/GGKNF</Line>
     <Line>GGKNM/GGKNF</Line>
     <Line>GGRWB/GGRWI</Line>
@@ -1250,6 +1212,11 @@
     <Line>YHKWG/YHKWI</Line>
     <Line>YHKWI/YHKWF</Line>
     <Line>YHKWM/YHKWF</Line>
+    <Line>YJBSA/YJBSI</Line>
+    <Line>YJBSB/YJBSI</Line>
+    <Line>YJBSC/YJBSI</Line>
+    <Line>YJBSI/YJBSF</Line>
+    <Line>YJB34/YJBSF</Line>
     <Line>YKAND/YKANI</Line>
     <Line>YKANE/YKANI</Line>
     <Line>YKANG/YKANI</Line>
@@ -1260,6 +1227,15 @@
     <Line>YKASC/YKASI</Line>
     <Line>YKASI/YKASF</Line>
     <Line>YKASM/YKASF</Line>
+    <Line>YKCND/YKCNI</Line>
+    <Line>YKCNE/YKCNI</Line>
+    <Line>YKCNI/YKCNF</Line>
+    <Line>YKC17/YKCNF</Line>
+    <Line>YKCSA/YKCSI</Line>
+    <Line>YKCSB/YKCSI</Line>
+    <Line>YKCSC/YKCSI</Line>
+    <Line>YKCSI/YKCSF</Line>
+    <Line>YKC35/YKCSF</Line>
     <Line>YKIEA/YKIEI</Line>
     <Line>YKIEB/YKIEI</Line>
     <Line>YKIEC/YKIEI</Line>
@@ -1279,6 +1255,9 @@
     <Line>YKMSG/YKMSI</Line>
     <Line>YKMSI/YKMSF</Line>
     <Line>YKMSM/YKMSF</Line>
+    <Line>YKONA/YKONI</Line>
+    <Line>YKONI/YKONF</Line>
+    <Line>YKONM/YKONF</Line>
     <Line>YKVED/YKVEI</Line>
     <Line>YKVEE/YKVEI</Line>
     <Line>YKVEG/YKVEI</Line>
@@ -1289,6 +1268,16 @@
     <Line>YKVND/YKVNI</Line>
     <Line>YKVNI/YKVNF</Line>
     <Line>YKVNM/YKVNF</Line>
+    <Line>YKWND/YKWNI</Line>
+    <Line>YKWNE/YKWNI</Line>
+    <Line>YKWNG/YKWNI</Line>
+    <Line>YKWNI/YKWNF</Line>
+    <Line>YKW15/YKWNF</Line>
+    <Line>YKWSA/YKWSI</Line>
+    <Line>YKWSB/YKWSI</Line>
+    <Line>YKWSC/YKWSI</Line>
+    <Line>YKWSI/YKWSF</Line>
+    <Line>YKW33/YKWSF</Line>
     <Line>YKYEA/YKYEI</Line>
     <Line>YKYEB/YKYEI</Line>
     <Line>YKYEC/YKYEI</Line>
@@ -1321,6 +1310,10 @@
     <Line>YTBSC/YTBSI</Line>
     <Line>YTBSI/YTBSF</Line>
     <Line>YTBSM/YTBSF</Line>
+    <Line>YTESB/YTESI</Line>
+    <Line>YTESC/YTESI</Line>
+    <Line>YTESI/YTESF</Line>
+    <Line>YTESM/YTESF</Line>
     <Line>YTUEA/YTUEI</Line>
     <Line>YTUEB/YTUEI</Line>
     <Line>YTUEC/YTUEI</Line>
@@ -1341,6 +1334,263 @@
     <Line>YXMNA/YXMNI</Line>
     <Line>YXMNI/YXMNF</Line>
     <Line>YXMNM/YXMNF</Line>
+    <Line>IGLUN/KALEL</Line>
+    <Line>KALEL/KALEL</Line>
+    <Line>LURDU/KALEL</Line>
+    <Line>KALEL/NL483</Line>
+    <Line>NL436/NL483</Line>
+    <Line>ONULU/WL600/IWL12</Line>
+    <Line>WL600/IWL12</Line>
+    <Line>IWL12/IWL12</Line>
+    <Line>IWL12/FWL12</Line>
+    <Line>-204613.591+1671405.618/FWL12</Line>
+    <Line>ONULU/WL700/IWL30</Line>
+    <Line>WL700/IWL30</Line>
+    <Line>IWL30/IWL30</Line>
+    <Line>IWL30/FWL30</Line>
+    <Line>-204642.290+1671436.211/FWL30</Line>
+    <Line>KADNA/OVNAK</Line>
+    <Line>OVNAK/OVNAK</Line>
+    <Line>IDBUX/OVNAK</Line>
+    <Line>OVNAK/YN903</Line>
+    <Line>-003311.048+1665532.459/YN903</Line>
+    <Line>AKOMO/ARIVI</Line>
+    <Line>ARIVI/ARIVI</Line>
+    <Line>RURAT/ARIVI</Line>
+    <Line>ARIVI/YN812</Line>
+    <Line>-003229.558+1665443.718/YN812</Line>
+    <Line>WC111/IWC10</Line>
+    <Line>IWC10/FWC10</Line>
+    <Line>-194311.370+1633931.252/FWC10</Line>
+    <Line>WE903/IWE10</Line>
+    <Line>WE901/IWE10</Line>
+    <Line>IWE10/IWE10</Line>
+    <Line>IWE10/FWE10</Line>
+    <Line>-223510.640+1672659.129/FWE10</Line>
+    <Line>WE904/IWE28</Line>
+    <Line>IWE28/FWE28</Line>
+    <Line>-223527.269+1672739.038/FWE28</Line>
+    <Line>WD356/WD358/IWD27</Line>
+    <Line>WD354/IWD27</Line>
+    <Line>IWD27/FWD27</Line>
+    <Line>MWD27/FWD27</Line>
+    <Line>WU191/WU193/IWU13</Line>
+    <Line>WU193/IWU13</Line>
+    <Line>IWU13/FWU13</Line>
+    <Line>-204708.858+1651523.209/FWU13</Line>
+    <Line>WU190/IWU31</Line>
+    <Line>WU192/IWU31</Line>
+    <Line>WU194/IWU31</Line>
+    <Line>IWU31/FWU31</Line>
+    <Line>-204738.389+1651544.680/FWU31</Line>
+    <Line>MIDIN/WR600/IWR13</Line>
+    <Line>WR600/IWR13</Line>
+    <Line>IWR13/IWR13</Line>
+    <Line>IWR13/FWR13</Line>
+    <Line>-212841.380+1680204.240/FWR13</Line>
+    <Line>MIDIN/WR700/IWR31</Line>
+    <Line>WR700/IWR31</Line>
+    <Line>IWR31/IWR31</Line>
+    <Line>IWR31/FWR31</Line>
+    <Line>-212912.059+1680232.849/FWR31</Line>
+    <Line>WV600/IWV13</Line>
+    <Line>IWV13/IWV13</Line>
+    <Line>IWV13/FWV13</Line>
+    <Line>-203814.460+1663412.788/FWV13</Line>
+    <Line>WV700/IWV31</Line>
+    <Line>IWV31/IWV31</Line>
+    <Line>IWV31/FWV31</Line>
+    <Line>-203840.531+1663433.330/FWV31</Line>
+    <Line>WF416/IWF07</Line>
+    <Line>IWF07/IWF07</Line>
+    <Line>WF414/IWF07</Line>
+    <Line>IWF07/FWF07</Line>
+    <Line>-141844.078-1780417.339/FWF07</Line>
+    <Line>WF502/IWF25</Line>
+    <Line>IWF25/IWF25</Line>
+    <Line>WF502/IWF25</Line>
+    <Line>IWF25/FWF25</Line>
+    <Line>MWF25/FWF25</Line>
+    <Line>WW512/IWW08</Line>
+    <Line>IWW08/IWW08</Line>
+    <Line>WW510/IWW08</Line>
+    <Line>IWW08/FWW08</Line>
+    <Line>-131417.992-1761232.152/FWW08</Line>
+    <Line>WW412/IWW26</Line>
+    <Line>IWW26/IWW26</Line>
+    <Line>WW410/IWW26</Line>
+    <Line>IWW26/FWW26</Line>
+    <Line>-131417.902-1761124.562/FWW26</Line>
+    <Line>MERUM/MERUM</Line>
+    <Line>MERUM/SF934</Line>
+    <Line>SF912/SF934</Line>
+    <Line>MATGA/MATGA</Line>
+    <Line>MATGA/VF501</Line>
+    <Line>VF411/VF501</Line>
+    <Line>SARAT/SARAT</Line>
+    <Line>SARAT/SG934</Line>
+    <Line>SG912/SG934</Line>
+    <Line>MOLSI/SO956</Line>
+    <Line>SO956/SO934</Line>
+    <Line>SO912/SO934</Line>
+    <Line>IBELO/IBELO</Line>
+    <Line>IBELO/SA732</Line>
+    <Line>SA946/SA732</Line>
+    <Line>ATGIN/ATGIN</Line>
+    <Line>ATGIN/SP934</Line>
+    <Line>SP912/SP934</Line>
+    <Line>ESBAN/SS912/SS934</Line>
+    <Line>SS934/SS956</Line>
+    <Line>-152955.889+1671245.421/SS956</Line>
+    <Line>ARAGI/BIGIB</Line>
+    <Line>BIGIB/BIGIB</Line>
+    <Line>MALOK/BIGIB</Line>
+    <Line>BIGIB/SS443</Line>
+    <Line>-153037.000+1671337.441/SS443</Line>
+    <Line>SULVA/SULVA</Line>
+    <Line>SULVA/SC875</Line>
+    <Line>SC624/SC875</Line>
+    <Line>DUBAD/ESMUL</Line>
+    <Line>PIMAR/ESMUL</Line>
+    <Line>SAMUN/ESMUL</Line>
+    <Line>ESMUL/NIPIL</Line>
+    <Line>-192659.521+1691317.429/NIPIL</Line>
+    <Line>VESAB/MADIM</Line>
+    <Line>KALSU/MADIM</Line>
+    <Line>TASOR/MADIM</Line>
+    <Line>MADIM/SAMBI</Line>
+    <Line>VW451/SAMBI</Line>
+    <Line>KAUPA/TAFAO</Line>
+    <Line>TAFAO/TAFAO</Line>
+    <Line>SEMUT/TAFAO</Line>
+    <Line>TAFAO/FU373</Line>
+    <Line>-083144.648+1791131.250/FU373</Line>
+    <Line>BIKEN/APATI</Line>
+    <Line>APATI/APATI</Line>
+    <Line>VASAF/APATI</Line>
+    <Line>APATI/FU377</Line>
+    <Line>-083108.108+1791205.569/FU377</Line>
+    <Line>TATOK/ARURA</Line>
+    <Line>ARURA/ARURA</Line>
+    <Line>OPENI/ARURA</Line>
+    <Line>ARURA/TR901</Line>
+    <Line>-023656.408+1764754.668/TR901</Line>
+    <Line>DAKAL/NIKUM</Line>
+    <Line>NIKUM/NIKUM</Line>
+    <Line>BEKTA/NIKUM</Line>
+    <Line>NIKUM/NU601</Line>
+    <Line>-011858.208+1762419.012/NU601</Line>
+    <Line>TANIX/TEMER</Line>
+    <Line>TEMER/TEMER</Line>
+    <Line>TEBIX/TEMER</Line>
+    <Line>TEMER/TE414</Line>
+    <Line>-011310.729+1744625.939/TE414</Line>
+    <Line>NADAN/WESLI</Line>
+    <Line>WESLI/WESLI</Line>
+    <Line>SABBA/WESLI</Line>
+    <Line>WESLI/FF09</Line>
+    <Line>+012257.940+1730817.099/FF09</Line>
+    <Line>DECOR/EASLI</Line>
+    <Line>EASLI/EASLI</Line>
+    <Line>MATER/EASLI</Line>
+    <Line>EASLI/FF27</Line>
+    <Line>+012250.041+1730919.109/FF27</Line>
+    <Line>SUMIG/BEMAM</Line>
+    <Line>BEMAM/BEMAM</Line>
+    <Line>KIDIS/BEMAM</Line>
+    <Line>BEMAM/TB901</Line>
+    <Line>+002929.648+1734928.560/TB901</Line>
+    <Line>AKORA/ANLIX</Line>
+    <Line>ANLIX/ANLIX</Line>
+    <Line>BUTAD/ANLIX</Line>
+    <Line>ANLIX/TU601</Line>
+    <Line>+030508.131+1724834.020/TU601</Line>
+    <Line>KUHEK/OGEVE</Line>
+    <Line>NOFKE/OGEVE</Line>
+    <Line>OGEVE/OGEVE</Line>
+    <Line>OGEVE/UFUZO</Line>
+    <Line>+070344.561+1711541.141/UFUZO</Line>
+    <Line>ZIVZU/TOZTU</Line>
+    <Line>NUGWO/TOZTU</Line>
+    <Line>TOZTU/TOZTU</Line>
+    <Line>TOZTU/IMUFO</Line>
+    <Line>+070403.281+1711657.461/IMUFO</Line>
+    <Line>CASWO/EJOSO</Line>
+    <Line>EJOSO/EJOSO</Line>
+    <Line>EJOSO/IMOTY</Line>
+    <Line>AWIJU/IMOTY</Line>
+    <Line>BOQHU/AGOLY</Line>
+    <Line>AGOLY/AGOLY</Line>
+    <Line>AGOLY/GOLPE</Line>
+    <Line>MOFHU/GOLPE</Line>
+    <Line>WAVKI/OCANO</Line>
+    <Line>BACAR/OCANO</Line>
+    <Line>OCANO/OCANO</Line>
+    <Line>OCANO/FOMAK</Line>
+    <Line>MENLE/FOMAK</Line>
+    <Line>JODEP/CANAY</Line>
+    <Line>AYUGO/CANAY</Line>
+    <Line>CANAY/CANAY</Line>
+    <Line>CANAY/KOZRY</Line>
+    <Line>FIBTO/KOZRY</Line>
+    <Line>WRENS/TEGUA/NAIRA</Line>
+    <Line>BIRUQ/NAIRA</Line>
+    <Line>NAIRA/VIZOR</Line>
+    <Line>+065906.490+1581202.549/VIZOR</Line>
+    <Line>HAVNU/OHAFU</Line>
+    <Line>AXTEN/OHAFU</Line>
+    <Line>AFOYU/OHAFU</Line>
+    <Line>OHAFU/OHAFU</Line>
+    <Line>OHAFU/UKOSY</Line>
+    <Line>EVUTY/UKOSY</Line>
+    <Line>CAVRI/FIGBI</Line>
+    <Line>COSLO/FIGBI</Line>
+    <Line>FIGBI/FASPO</Line>
+    <Line>HAMAX/FASPO</Line>
+    <Line>CEYJE/UCOLE</Line>
+    <Line>HOMQY/UCOLE</Line>
+    <Line>UCOLE/UDEXE</Line>
+    <Line>+072803.529+1515056.360/UDEXE</Line>
+    <Line>NODAG/ENTAN</Line>
+    <Line>IGAPA/ENTAN</Line>
+    <Line>VIMIT/ENTAN</Line>
+    <Line>ENTAN/FRF07</Line>
+    <Line>FRM07/FRF07</Line>
+    <Line>MUNOS/KILAM</Line>
+    <Line>KILAM/KILAM</Line>
+    <Line>LAKAS/KILAM</Line>
+    <Line>KILAM/GM868</Line>
+    <Line>MA07/GM868</Line>
+    <Line>LAVEM/GOMEN</Line>
+    <Line>GOMEN/GOMEN</Line>
+    <Line>KAKUS/GOMEN</Line>
+    <Line>GOMEN/GM823</Line>
+    <Line>MA25/GM823</Line>
+    <Line>GUSAK/DAKSI</Line>
+    <Line>DAKSI/DAKSI</Line>
+    <Line>ELMOR/DAKSI</Line>
+    <Line>DAKSI/GN556</Line>
+    <Line>-080542.421+1565143.351/GN556</Line>
+    <Line>SASEK/RIGMA</Line>
+    <Line>RIGMA/RIGMA</Line>
+    <Line>REPOK/RIGMA</Line>
+    <Line>RIGMA/GN813</Line>
+    <Line>-080606.721+1565158.360/GN813</Line>
+    <Line>GUMIX/TORAK</Line>
+    <Line>TORAK/TORAK</Line>
+    <Line>BIPOK/TORAK</Line>
+    <Line>TORAK/GS890</Line>
+    <Line>GS868/GS890</Line>
+    <Line>ABASI/KASTO</Line>
+    <Line>KASTO/KASTO</Line>
+    <Line>EKOSA/KASTO</Line>
+    <Line>KASTO/GA488</Line>
+    <Line>GA458/GA488</Line>
+    <Line>SUSEK/DADUM</Line>
+    <Line>DADUM/DADUM</Line>
+    <Line>ANUTO/DADUM</Line>
+    <Line>DADUM/GL850</Line>
+    <Line>GL742/GL850</Line>
     <Line>FNNSI/FNNSF/FNNSM</Line>
     <Line>FNNSD/FNNSI</Line>
     <Line>FNNSE/FNNSI</Line>
@@ -1384,7 +1634,7 @@
     <Line>LARID/YNZWA/YNZWI</Line>
     <Line>WESFI/YNZWI</Line>
     <Line>YNZWA/YNZWI</Line>
-    <Line>YNZEI/YNZEF/YNZEM</Line>
+    <Line>YNZEI/YNZEZ/YNZEF/YNZEM</Line>
     <Line>LARID/YNZEI</Line>
     <Line>YTKWI/YTKWF/YTKWM</Line>
     <Line>YTKWA/YTKWI</Line>
@@ -1392,201 +1642,21 @@
     <Line>YTKSI/YTKSF/YTKSM</Line>
     <Line>YTKSD/YTKSI</Line>
     <Line>YTKSG/YTKSI</Line>
+    <Line>YGASI/YGASF/YGASG/YGASY/-060532.791+1452331.762</Line>
+    <Line>YGASA/YGASI</Line>
+    <Line>YGASI/YGASF/YGASG/YGASZ/-060532.791+1452331.762</Line>
     <Line>HOBLO/MAVTE/+084302.662+1674322.192</Line>
     <Line>CETMO/HOBLO</Line>
     <Line>FASRU/HOBLO</Line>
     <Line>TONBE/WADRU/+084322.238+1674425.699</Line>
     <Line>OBSOE/TONBE</Line>
     <Line>PAYPO/TONBE</Line>
-    <Line>IWL12/FWL12/-204613.591+1671405.618</Line>
-    <Line>ONULU/WL600/IWL12</Line>
-    <Line>WL600/IWL12</Line>
-    <Line>IWL30/FWL30/-204642.290+1671436.211</Line>
-    <Line>ONULU/WL700/IWL30</Line>
-    <Line>WL700/IWL30</Line>
-	<Line>KADNA/OVNAK</Line>
-	<Line>IDBUX/OVNAK</Line>
-	<Line>OVNAK/YN903/-003311.048+1665532.459</Line>
-	<Line>AKOMO/ARIVI</Line>
-	<Line>RURAT/ARIVI</Line>
-	<Line>ARIVI/YN812/-003229.558+1665443.718</Line>
-	<Line>LURDU/KALEL</Line>
-	<Line>IGLUN/KALEL</Line>
-	<Line>KALEL/NL483/NL436</Line>
-	<Line>NODAG/ENTAN</Line>
-	<Line>VIMIT/ENTAN</Line>
-	<Line>IGAPA/ENTAN</Line>
-	<Line>ENTAN/FRF07/FRM07</Line>
-	<Line>VIRGO/ORION</Line>
-	<Line>ARIES/ORION</Line>
-	<Line>ORION/FF303/MA303</Line>
-	<Line>GUVOS/POSUS</Line>
-	<Line>SUNBA/POSUS</Line>
-	<Line>POSUS/TP689/-155824.200-1734746.300</Line>
-	<Line>KAUPA/TAFAO</Line>
-	<Line>SEMUT/TAFAO</Line>
-	<Line>TAFAO/FU373/-083144.648+1791131.250</Line>
-	<Line>BIKEN/APATI</Line>
-	<Line>VASAF/APATI</Line>
-	<Line>APATI/FU377/-083108.108+1791205.569</Line>
-	<Line>TATOK/ARURA</Line>
-	<Line>OPENI/ARURA</Line>
-	<Line>ARURA/TR901/-023656.408+1764754.668</Line>
-	<Line>BEKTA/NIKUM</Line>
-	<Line>DAKAL/NIKUM</Line>
-	<Line>NIKUM/NU601/-011858.208+1762419.012</Line>
-	<Line>TEBIX/TEMER</Line>
-	<Line>TANIX/TEMER</Line>
-	<Line>TEMER/TE414/-011310.729+1744625.939</Line>
-	<Line>NADAN/WESLI</Line>
-	<Line>SABBA/WESLI</Line>
-	<Line>WESLI/FF09/+012257.940+1730817.099</Line>
-	<Line>MATER/EASLI</Line>
-	<Line>DECOR/EASLI</Line>
-	<Line>EASLI/FF27/+012250.041+1730919.109</Line>
-	<Line>SUMIG/BEMAM</Line>
-	<Line>KIDIS/BEMAM</Line>
-	<Line>BEMAM/TB901/+002929.648+1734928.560</Line>
-	<Line>AKORA/ANLIX</Line>
-	<Line>BUTAD/ANLIX</Line>
-	<Line>ANLIX/TU601/+030508.131+1724834.020</Line>
-	<Line>WE901/IWE10</Line>
-	<Line>WE903/IWE10</Line>
-	<Line>IWE10/FWE10/-223510.640+1672659.129</Line>
-	<Line>WE904/IWE28</Line>
-	<Line>IWE28/FWE28/-223527.269+1672739.038</Line>
-	<Line>WD356/WD358/IWD27</Line>
-    <Line>WC111/IWC10/FWC10/-194311.370+1633931.252</Line>
-	<Line>WD354/IWD27</Line>
-	<Line>IWD27/FWD27/-210315.379+1645035.509</Line>
-	<Line>WU192/WU194</Line>
-	<Line>WU190/WU194</Line>
-	<Line>WU194/IWU31/FWU31/-204738.389+1651544.680</Line>
-	<Line>WU191/WU193</Line>
-	<Line>WU193/IWU13/FWU13/-204708.858+1651523.2090</Line>
-	<Line>MIDIN/WR700/IWR31</Line>
-	<Line>IWR31/FWR31/-212912.059+1680232.849</Line>
-	<Line>MIDIN/WR600/IWR13</Line>
-	<Line>IWR13/FWR13/-212841.380+1680204.240</Line>
-	<Line>WV600/IWV13</Line>
-	<Line>IWV13/FWV13/-203814.460+1663412.788</Line>
-	<Line>WV700/IWV31</Line>
-	<Line>IWV31/FWV31/-203840.531+1663433.330</Line>
-	<Line>WF416/IWF07</Line>
-	<Line>WF414/IWF07</Line>
-	<Line>IWF07/FWF07/-141844.078-1780417.339</Line>
-	<Line>WF502/IWF25</Line>
-	<Line>WF504/IWF25</Line>
-	<Line>IWF25/FWF25/-141839.442-1780340.950</Line>
-	<Line>WW510/IWW08</Line>
-	<Line>WW512/IWW08</Line>
-	<Line>IWW08/FWW08/-131417.992-1761232.152</Line>
-	<Line>WW410/IWW26</Line>
-	<Line>WW412/IWW26</Line>
-	<Line>IWW26/FWW26/-131417.902-1761124.562</Line>
-	<Line>MERUM/SF934/SF912</Line>
-	<Line>MATGA/VF501/VF411</Line>
-	<Line>SARAT/SG934/SG912</Line>
-	<Line>MOLSI/SO956/SO912</Line>
-	<Line>IBELO/SA732/SA946</Line>
-	<Line>ATGIN/SP934/SP912</Line>
-	<Line>ESBAN/SS912/SS934/SS956/-152955.889+1671245.421</Line>
-	<Line>MALOK/BIGIB</Line>
-	<Line>ARAGI/BIGIB</Line>
-	<Line>BIGIB/SS443/-153037.000+1671337.441</Line>
-	<Line>SULVA/SC875/SC624</Line>
-	<Line>DUKON/KAMTI</Line>
-	<Line>LENKU/KAMTI</Line>
-	<Line>KAMTI/VW837/VW729</Line>
-	<Line>IKETI/MEKUL</Line>
-	<Line>TOKAS/MEKUL</Line>
-	<Line>TASUL/MEKUL</Line>
-	<Line>MEKUL/VW473/VW525</Line>
-	<Line>ZIVZU/TOZTU</Line>
-	<Line>NUGWO/TOZTU</Line>
-	<Line>TOZTU/IMUFO/+070403.281+1711657.461</Line>
-	<Line>KUHEK/OGEVE</Line>
-	<Line>NOFKE/OGEVE</Line>
-	<Line>OGEVE/UFUZO/+070344.561+1711541.141</Line>
-	<Line>ZAPUM/CASWO/EJOSO</Line>
-	<Line>EJOSO/IMOTY/AWIJU</Line>
-	<Line>ZAPUM/BOQHU/AGOLY</Line>
-	<Line>AGOLY/GOLPE/MOFHU</Line>
-	<Line>VAYUD/ROYOD/JOBET/+084302.662+1674322.192</Line>
-	<Line>WAVUR/JORAM/SAYOC/+084322.238+1674425.699</Line>
-	<Line>JODEP/CANAY</Line>
-	<Line>AYUGO/CANAY</Line>
-	<Line>CANAY/KOZRY/FIBTO</Line>
-	<Line>WAVKI/OCANO</Line>
-	<Line>BACAR/OCANO</Line>
-	<Line>OCANO/FOMAK/MENLE</Line>
-	<Line>HAVNU/OHAFU</Line>
-	<Line>AXTEN/OHAFU</Line>
-	<Line>AFOYU/OHAFU</Line>
-	<Line>OHAFU/UKOSY/CUSOS/EVUTY</Line>
-	<Line>ADUFO/WULON</Line>
-	<Line>BIRUQ/WULON</Line>
-	<Line>WULON/VIZOR/+065906.490+1581202.549</Line>
-	<Line>CAVRI/FIGBI</Line>
-	<Line>COSLO/FIGBI</Line>
-	<Line>FIGBI/FASPO/HAMAX</Line>
-	<Line>HOMQY/UCOLE</Line>
-	<Line>CEYJE/UCOLE</Line>
-	<Line>UCOLE/UDEXE/+072803.529+1515056.360</Line>
-	<Line>YGASA/YGASI</Line>
-	<Line>YGASI/YGASF/YGASG</Line>
-	<Line>YGASG/YGASY</Line>
-	<Line>YGASG/YGASZ</Line>
-	<Line>YJBSA/YJBSI</Line>
-	<Line>YJBSB/YJBSI</Line>
-	<Line>YJBSC/YJBSI</Line>
-	<Line>YJBSI/YJBSF/YJB34</Line>
-	<Line>YKCND/YKCNI</Line>
-	<Line>YKCNE/YKCNI</Line>
-	<Line>YKCNI/YKCNF/YKC17</Line>
-	<Line>YKCSA/YKCSI</Line>
-	<Line>YKCSB/YKCSI</Line>
-	<Line>YKCSC/YKCSI</Line>
-	<Line>YKCSI/YKCSF/YKC35</Line>
-	<Line>YKWND/YKWNI</Line>
-	<Line>YKWNE/YKWNI</Line>
-	<Line>YKWNG/YKWNI</Line>
-	<Line>YKWNI/YKWNF/YKW15</Line>
-	<Line>YKWSA/YKWSI</Line>
-	<Line>YKWSB/YKWSI</Line>
-	<Line>YKWSC/YKWSI</Line>
-	<Line>YKWSI/YKWSF/YKW33</Line>
-	<Line>UPDEL/YKONA</Line>
-	<Line>YKONA/YKONI/YKONF/YKONM</Line>
-	<Line>YTESB/YTESI</Line>
-	<Line>YTESC/YTESI</Line>
-	<Line>YTESI/YTESF/YTESZ/YTESM</Line>
-	<Line>DABIM/GOSNA</Line>
-	<Line>EKOBU/GOSNA</Line>
-	<Line>GOSNA/GH549/-092528.268+1600349.529</Line>
-	<Line>APEXI/GH401</Line>
-	<Line>KOPAU/GH401</Line>
-	<Line>GH401/GH536/-092555.060+1600242.659</Line>
-	<Line>LAVEM/GOMEN</Line>
-	<Line>KAKUS/GOMEN</Line>
-	<Line>GOMEN/GM823/-081913.200+1571752.100</Line>
-	<Line>LAKAS/KILAM</Line>
-	<Line>MUNOS/KILAM</Line>
-	<Line>KILAM/GM868/-081959.000+1571352.200</Line>
-	<Line>GUSAK/DAKSI</Line>
-	<Line>ELMOR/DAKSI</Line>
-	<Line>DAKSI/GN556/-080542.421+1565143.351</Line>
-	<Line>SASEK/RIGMA</Line>
-	<Line>REPOK/RIGMA</Line>
-	<Line>RIGMA/GN813/-080606.721+1565158.360</Line>
-	<Line>BIPOK/TORAK</Line>
-	<Line>GUMIX/TORAK</Line>
-	<Line>TORAK/GS890/GS868</Line>
-	<Line>ABASI/KASTO</Line>
-	<Line>EKOSA/KASTO</Line>
-	<Line>KASTO/GA488/GA458</Line>
-	<Line>SUSEK/DADUM</Line>
-	<Line>ANUTO/DADUM</Line>
-	<Line>DADUM/GL850/GL742</Line>
+    <Line>GH401/GH536/-092555.060+1600242.659</Line>
+    <Line>APEXI/GH401</Line>
+    <Line>KOPAU/GH401</Line>
+    <Line>GH549/-092528.268+1600349.529</Line>
+    <Line>DABIM/GOSNA/GH549</Line>
+    <Line>EKOBU/GOSNA/GH549</Line>
+    <Line>GOSNA/GH549</Line>
   </Map>
 </Maps>
