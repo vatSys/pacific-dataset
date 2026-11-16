@@ -2200,13 +2200,13 @@ DIL VOR
     <Point Name="DOVOM" Type="Fix">-284022.771+1630000.000</Point>
     <Point Name="DRAVU" Type="Fix">-184529.000+1775941.000</Point>
     <Point Name="DRUMO" Type="Fix">-084203.240+1254504.320</Point>
+    <Point Name="DUBAD" Type="Fix">-193950.200+1691212.800</Point>
     <Point Name="DUBOP" Type="Fix">-131019.000+1785438.000</Point>
     <Point Name="DUBSO" Type="Fix">-094500.000+1432518.000</Point>
     <Point Name="DUBUD" Type="Fix">-290030.400+1564139.000</Point>
     <Point Name="DUGAN" Type="Fix">-335246.121+1732324.619</Point>
     <Point Name="DUGOM" Type="Fix">-063242.000+1560254.000</Point>
     <Point Name="DUKIS" Type="Fix">-080720.140+1470630.341</Point>
-    <Point Name="DUKON" Type="Fix">-191309.739+1691558.090</Point>
     <Point Name="DUKUB" Type="Fix">-120000.011+1491933.971</Point>
     <Point Name="DULUR" Type="Fix">-092722.920+1251405.490</Point>
     <Point Name="DULUX" Type="Fix">-180107.000+1782910.000</Point>
@@ -2264,6 +2264,7 @@ DIL VOR
     <Point Name="ESDOX" Type="Fix">-183149.030-1765849.631</Point>
     <Point Name="ESKEL" Type="Fix">-063612.128+1434615.110</Point>
     <Point Name="ESKIM" Type="Fix">-094554.000+1455420.000</Point>
+    <Point Name="ESMUL" Type="Fix">-193709.300+1691641.500</Point>
     <Point Name="ESNIV" Type="Fix">-042048.000+1522354.000</Point>
     <Point Name="ESNON" Type="Fix">-060253.171+1445743.880</Point>
     <Point Name="EUSEB" Type="Fix">-082928.320+1251342.960</Point>
@@ -2549,7 +2550,6 @@ DIL VOR
     <Point Name="IGOPO" Type="Fix">-115639.800+1340705.800</Point>
     <Point Name="IGPIS" Type="Fix">-074321.101+1431400.000</Point>
     <Point Name="IKERU" Type="Fix">-055018.000+1441830.000</Point>
-    <Point Name="IKETI" Type="Fix">-193821.120+1692203.472</Point>
     <Point Name="IKODA" Type="Fix">-163724.000+1572654.000</Point>
     <Point Name="IKOFO" Type="Fix">+070505.618+1582434.229</Point>
     <Point Name="IKUDA" Type="Fix">-091604.120+1473447.611</Point>
@@ -2641,10 +2641,10 @@ DIL VOR
     <Point Name="KALIN" Type="Fix">+000000.000+1420000.000</Point>
     <Point Name="KALKO" Type="Fix">-101854.000+1502142.000</Point>
     <Point Name="KALPO" Type="Fix">-170853.000+1774404.000</Point>
+    <Point Name="KALSU" Type="Fix">-191209.000+1691046.700</Point>
     <Point Name="KALTA" Type="Fix">-174523.602+1771849.111</Point>
     <Point Name="KALUA" Type="Fix">-103542.000+1640000.000</Point>
     <Point Name="KAMAP" Type="Fix">-151623.000+1785753.000</Point>
-    <Point Name="KAMTI" Type="Fix">-191527.911+1691116.390</Point>
     <Point Name="KAMUL" Type="Fix">-081110.529+1464404.679</Point>
     <Point Name="KANTU" Type="Fix">-061320.590+1454638.489</Point>
     <Point Name="KAORI" Type="Fix">-220939.000+1664606.000</Point>
@@ -2750,7 +2750,6 @@ DIL VOR
     <Point Name="LEMUP" Type="Fix">-041622.282+1513013.129</Point>
     <Point Name="LENAK" Type="Fix">-104536.000+1465736.000</Point>
     <Point Name="LENIA" Type="Fix">+053547.000+1640517.000</Point>
-    <Point Name="LENKU" Type="Fix">-191421.638+1690607.099</Point>
     <Point Name="LENRI" Type="Fix">-281515.200+1591018.500</Point>
     <Point Name="LENUM" Type="Fix">-170417.000+1781742.000</Point>
     <Point Name="LEPKA" Type="Fix">-013000.000+1700000.000</Point>
@@ -2788,6 +2787,7 @@ DIL VOR
     <Point Name="MABRO" Type="Fix">-104654.000+1470918.000</Point>
     <Point Name="MABTU" Type="Fix">-171054.000+1783830.000</Point>
     <Point Name="MADEP" Type="Fix">-362304.628+1704426.419</Point>
+    <Point Name="MADIM" Type="Fix">-191707.000+1691132.300</Point>
     <Point Name="MADOK" Type="Fix">-431558.658+1665605.399</Point>
     <Point Name="MAFRU" Type="Fix">+065935.081+1581017.789</Point>
     <Point Name="MAGPO" Type="Fix">-075345.730+1592222.598</Point>
@@ -2820,7 +2820,6 @@ DIL VOR
     <Point Name="MAYUI" Type="Fix">-044103.311+1442549.238</Point>
     <Point Name="MEBKO" Type="Fix">-175018.000+1773926.000</Point>
     <Point Name="MEKAD" Type="Fix">-132350.200+1524201.800</Point>
-    <Point Name="MEKUL" Type="Fix">-193738.600+1691648.821</Point>
     <Point Name="MELEB" Type="Fix">-174705.000+1772510.200</Point>
     <Point Name="MEMEK" Type="Fix">-092410.912+1594747.720</Point>
     <Point Name="MEMIG" Type="Fix">-142218.100+1452020.500</Point>
@@ -2906,6 +2905,7 @@ DIL VOR
     <Point Name="NINIK" Type="Fix">-163331.000+1790525.000</Point>
     <Point Name="NINOD" Type="Fix">-080056.138+1590836.470</Point>
     <Point Name="NIPER" Type="Fix">-132748.000+1635736.000</Point>
+    <Point Name="NIPIL" Type="Fix">-193215.100+1691533.900</Point>
     <Point Name="NIPOG" Type="Fix">-193000.000+1672336.000</Point>
     <Point Name="NIPOK" Type="Fix">-095540.000+1550000.000</Point>
     <Point Name="NIRES" Type="Fix">-083256.000+1252628.090</Point>
@@ -3047,6 +3047,7 @@ DIL VOR
     <Point Name="PEPIT" Type="Fix">-220706.100+1655818.800</Point>
     <Point Name="PIKIN" Type="Fix">-180545.000+1785937.000</Point>
     <Point Name="PIKOK" Type="Fix">+000000.000+1460830.000</Point>
+    <Point Name="PIMAR" Type="Fix">-194203.600+1691749.200</Point>
     <Point Name="PINIR" Type="Fix">-084635.680+1274806.740</Point>
     <Point Name="PINKY" Type="Fix">-285704.208+1674634.500</Point>
     <Point Name="PINUR" Type="Fix">-055344.689+1454637.841</Point>
@@ -3160,9 +3161,11 @@ DIL VOR
     <Point Name="SALAG" Type="Fix">-345042.180+1714100.110</Point>
     <Point Name="SALIT" Type="Fix">-090245.521+1590616.628</Point>
     <Point Name="SALUP" Type="Fix">-181035.000-1790945.000</Point>
+    <Point Name="SAMBI" Type="Fix">-192205.000+1691217.900</Point>
     <Point Name="SAMIB" Type="Fix">-181444.000+1785636.000</Point>
     <Point Name="SAMID" Type="Fix">-215525.702+1654620.701</Point>
     <Point Name="SAMOT" Type="Fix">-285924.299+1675046.291</Point>
+    <Point Name="SAMUN" Type="Fix">-193749.700+1692156.400</Point>
     <Point Name="SANAK" Type="Fix">-092511.140+1232357.710</Point>
     <Point Name="SAPIR" Type="Fix">-184805.670+1800000.000</Point>
     <Point Name="SAPOX" Type="Fix">-340750.000+1525745.000</Point>
@@ -3258,7 +3261,7 @@ DIL VOR
     <Point Name="TASAK" Type="Fix">-012632.000+1600000.000</Point>
     <Point Name="TASAX" Type="Fix">-100616.459+1604733.389</Point>
     <Point Name="TASIS" Type="Fix">-381256.100+1455337.300</Point>
-    <Point Name="TASUL" Type="Fix">-194017.530+1691218.839</Point>
+    <Point Name="TASOR" Type="Fix">-191444.300+1691611.500</Point>
     <Point Name="TASUM" Type="Fix">-425049.600+1473136.000</Point>
     <Point Name="TATOK" Type="Fix">-023148.781+1763912.499</Point>
     <Point Name="TAVER" Type="Fix">-150000.000+1721712.000</Point>
@@ -3300,7 +3303,6 @@ DIL VOR
     <Point Name="TOARE" Type="Fix">-024302.600+1404216.200</Point>
     <Point Name="TOARP" Type="Fix">-153418.440-1753745.970</Point>
     <Point Name="TODOT" Type="Fix">-091758.500+1265724.500</Point>
-    <Point Name="TOKAS" Type="Fix">-194233.300+1691754.211</Point>
     <Point Name="TOLUS" Type="Fix">-151517.000+1775544.000</Point>
     <Point Name="TOMAR" Type="Fix">-410814.482+1630000.000</Point>
     <Point Name="TOMER" Type="Fix">-061756.190+1454329.560</Point>
@@ -3387,6 +3389,7 @@ DIL VOR
     <Point Name="VENAN" Type="Fix">-194520.000+1755056.000</Point>
     <Point Name="VENUS" Type="Fix">-152910.792-1754040.462</Point>
     <Point Name="VEPAS" Type="Fix">-342447.000+1630000.000</Point>
+    <Point Name="VESAB" Type="Fix">-191605.800+1690621.800</Point>
     <Point Name="VESUN" Type="Fix">-245847.471+1630000.000</Point>
     <Point Name="VEVEK" Type="Fix">-084448.000+1500736.000</Point>
     <Point Name="VF411" Type="Fix">-192954.589+1701321.770</Point>
@@ -3404,10 +3407,7 @@ DIL VOR
     <Point Name="VIRGO" Type="Fix">-153711.122-1752704.298</Point>
     <Point Name="VIZOR" Type="Fix">+065908.070+1580613.691</Point>
     <Point Name="VORFU" Type="Fix">+052044.059+1624333.449</Point>
-    <Point Name="VW473" Type="Fix">-193243.901+1691543.492</Point>
-    <Point Name="VW525" Type="Fix">-192804.321+1691345.469</Point>
-    <Point Name="VW729" Type="Fix">-192525.331+1691236.788</Point>
-    <Point Name="VW837" Type="Fix">-192026.621+1691156.569</Point>
+    <Point Name="VW451" Type="Fix">-192703.000+1691303.600</Point>
     <Point Name="WADRU" Type="Fix">+084442.000+1674844.510</Point>
     <Point Name="WAVKI" Type="Fix">+051946.222+1624316.039</Point>
     <Point Name="WAVUR" Type="Fix">+084408.182+1673641.170</Point>
@@ -3832,42 +3832,6 @@ DIL VOR
     <Point Name="VNO" Type="Navaid" NavaidType="NDB" Frequency="257.000">-024042.780+1411811.639</Point>
     <Point Name="WG" Type="Navaid" NavaidType="NDB" Frequency="398.000">-192740.320+1691328.628</Point>
     <Point Name="ZX" Type="Navaid" NavaidType="NDB" Frequency="342.000">-045042.000+1403442.000</Point>
-    <Point Name="FN02T" Type="Fix">-174622.120+1772544.789</Point>
-    <Point Name="FN09T" Type="Fix">-174511.048+1772609.910</Point>
-    <Point Name="FN20T" Type="Fix">-174501.109+1772650.348</Point>
-    <Point Name="FN27T" Type="Fix">-174527.961+1772720.149</Point>
-    <Point Name="GA17L" Type="Fix">-060429.341+1452330.059</Point>
-    <Point Name="GA17R" Type="Fix">-060431.260+1452326.340</Point>
-    <Point Name="GA35L" Type="Fix">-060532.939+1452331.801</Point>
-    <Point Name="GA35R" Type="Fix">-060513.801+1452333.961</Point>
-    <Point Name="MD07T" Type="Fix">-051237.400+1454653.400</Point>
-    <Point Name="MD25T" Type="Fix">-051225.301+1454738.800</Point>
-    <Point Name="MH08T" Type="Fix">-054934.799+1441734.300</Point>
-    <Point Name="MH12T" Type="Fix">-054922.699+1441727.398</Point>
-    <Point Name="MH26T" Type="Fix">-054931.699+1441809.839</Point>
-    <Point Name="MH30T" Type="Fix">-055000.000+1441827.900</Point>
-    <Point Name="NA10T" Type="Fix">-180227.211+1783307.081</Point>
-    <Point Name="NA28T" Type="Fix">-180250.179+1783416.090</Point>
-    <Point Name="NL12T" Type="Fix">-204613.591+1671405.618</Point>
-    <Point Name="NL30T" Type="Fix">-204642.290+1671436.211</Point>
-    <Point Name="NZ09T" Type="Fix">-063407.900+1464254.900</Point>
-    <Point Name="NZ27T" Type="Fix">-063414.801+1464414.000</Point>
-    <Point Name="PY14L" Type="Fix">-092551.200+1471250.101</Point>
-    <Point Name="PY14R" Type="Fix">-092605.100+1471247.000</Point>
-    <Point Name="PY32L" Type="Fix">-092641.000+1471309.098</Point>
-    <Point Name="PY32R" Type="Fix">-092707.402+1471337.099</Point>
-    <Point Name="TK10T" Type="Fix">-042017.599+1522220.201</Point>
-    <Point Name="TK28T" Type="Fix">-042033.500+1522313.600</Point>
-    <Point Name="VV11T" Type="Fix">-174133.691+1681824.142</Point>
-    <Point Name="VV29T" Type="Fix">-174213.219+1681942.139</Point>
-    <Point Name="WA06T" Type="Fix">+084302.640+1674322.231</Point>
-    <Point Name="WA24T" Type="Fix">+084322.231+1674425.739</Point>
-    <Point Name="WK10T" Type="Fix">-033455.099+1433943.000</Point>
-    <Point Name="WK28T" Type="Fix">-033507.620+1434033.200</Point>
-    <Point Name="WM17T" Type="Fix">-221514.339+1662821.742</Point>
-    <Point Name="WM35T" Type="Fix">-221547.452+1662822.649</Point>
-    <Point Name="WW11T" Type="Fix">-220025.049+1661158.319</Point>
-    <Point Name="WW29T" Type="Fix">-220119.650+1661335.371</Point>
     <Point Name="CICIA" Type="Fix">-174437.000-1792031.000</Point>
     <Point Name="COWBY" Type="Fix">-165652.321+1675404.180</Point>
     <Point Name="ERMNO" Type="Fix">-184932.279+1685211.680</Point>
@@ -4634,7 +4598,7 @@ DIL VOR
     </Approach>
     <Approach Name="RNP-AR" Airport="NFFN" Runway="20">
       <Transition Name="MOTKI">MOTKI</Transition>
-      <Route>MOTKI/FN664/-174801.358+1773207.150/-174709.905+1773221.575/-174616.650+1773221.522/-174525.223+1773207.000/-174513.291+1773201.155/NIREV/-174407.973+1773111.858/-174338.590+1773025.227/-174321.701+1772932.205/-174320.592+1772924.760/FN581/-174319.888+1772838.729/-174327.652+1772815.449/-174340.890+1772755.071/-174344.306+1772751.365/FN812/-174501.109+1772650.039</Route>
+      <Route>FN664/-174801.358+1773207.150/-174709.905+1773221.575/-174616.650+1773221.522/-174525.223+1773207.000/-174513.291+1773201.155/NIREV/-174407.973+1773111.858/-174338.590+1773025.227/-174321.701+1772932.205/-174320.592+1772924.760/FN581/-174319.888+1772838.729/-174327.652+1772815.449/-174340.890+1772755.071/-174344.306+1772751.365/FN812/-174501.109+1772650.039</Route>
     </Approach>
     <Approach Name="VOR" Airport="NWWM" Runway="35">
       <Transition Name="MAMIT">MAMIT/MG194/-222524.538+1662506.035/-222528.063+1662511.311/-222530.725+1662517.149/-222532.451+1662523.385/-222533.192+1662529.845/-222532.927+1662536.349/-222531.664+1662542.713/-222529.437+1662548.761/-222526.310+1662554.322/-222522.370+1662559.242/-222302.661+1662826.668</Transition>
