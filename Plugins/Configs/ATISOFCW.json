@@ -1,0 +1,14 @@
+[
+  { "ICAO": "PKWA", "Text": "Kwajalein Ground, or Tower" },
+  { "ICAO": "NWWM", "Text": "Magenta Tower, or Noumea Approach" },
+  { "ICAO": "AYNZ", "Text": "Nadzab Tower, or Approach" },
+  { "ICAO": "AYGA", "Text": "Goroka Tower" },
+  { "ICAO": "AYMD", "Text": "Madang Tower" },
+  { "ICAO": "AYMH", "Text": "Hagen Tower" },
+  { "ICAO": "AYTK", "Text": "Tokua Tower" },
+  { "ICAO": "NVVV", "Text": "Port Vila Tower" },
+  { "ICAO": "NFFN", "Text": "Nadi Tower, or Approach" },
+  { "ICAO": "NFNA", "Text": "Nausori Tower, or Approach" },
+  { "ICAO": "NWWW", "Text": "Tontouta Tower, or Approach" },
+  { "ICAO": "AYPY", "Text": "Jacksons Tower, or Approach" }
+]
